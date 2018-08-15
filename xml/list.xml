@@ -5,44 +5,44 @@
 		<tag>共青团题库</tag>
 		<item>
 			<desc>2017共青团知识竞赛题库</desc>
-			<href>http://gxsoftware.coding.me/QuickQuiz-M/xml/gqt2017.xml</href>
+			<href>xml/gqt2017.xml</href>
 		</item>
 		<item>
 			<desc>十九大精神题库</desc>
-			<href>http://gxsoftware.coding.me/QuickQuiz-M/xml/shijiuda.xml</href>
+			<href>xml/shijiuda.xml</href>
 		</item>
 		<item>
 			<desc>2016“两学一做”知识竞赛题库</desc>
-			<href>http://gxsoftware.coding.me/QuickQuiz-M/xml/lxyz2016.xml</href>
+			<href>xml/lxyz2016.xml</href>
 		</item>
 	</group>
 	<group>
 		<tag>安全规程</tag>
 		<item>
 			<desc>安全规程热机部分</desc>
-			<href>http://gxsoftware.coding.me/QuickQuiz-M/xml/anguirj.xml</href>
+			<href>xml/anguirj.xml</href>
 		</item>
 		<item>
 			<desc>安全规程电气部分</desc>
-			<href>http://gxsoftware.coding.me/QuickQuiz-M/xml/anguidq.xml</href>
+			<href>xml/anguidq.xml</href>
 		</item>
 	</group>
 	<group>
 		<tag>生产技术</tag>
 		<item>
 			<desc>热工自动控制中级工</desc>
-			<href>http://gxsoftware.coding.me/QuickQuiz-M/xml/zhongji.xml</href>
+			<href>xml/zhongji.xml</href>
 		</item>
 		<item>
 			<desc>热控DCS技能竞赛</desc>
-			<href>http://gxsoftware.coding.me/QuickQuiz-M/xml/rkdcs.xml</href>
+			<href>xml/rkdcs.xml</href>
 		</item>
 	</group>
 	<group>
 		<tag>安全生产管理</tag>
 		<item>
 			<desc>安全管理复审换证题库</desc>
-			<href>http://gxsoftware.coding.me/QuickQuiz-M/xml/anquanfshz.xml</href>
+			<href>xml/anquanfshz.xml</href>
 			<password>35c54d979b243f1de71cee9cfeb7c6a7</password>
 		</item>
 	</group>

@@ -24,7 +24,7 @@ function initQstnCount()
 	xmlMain = loadXML(getURLPara(window.location.href, "href"));
 	if (!xmlMain)
 	{
-		document.write("<p>无法获取题库信息。请尝试从<a href = 'http://GXSoftware.coding.me/QuickQuiz-M'>主界面</a>重新进入本页面！</p><p>若仍不能正常浏览，请关注微信公众号“热控团青在线”并留言反馈</p>");
+		document.write("<p>无法获取题库信息。请尝试从<a href = 'https://gxsoftware.gitee.io/quickquiz-m'>主界面</a>重新进入本页面！</p><p>若仍不能正常浏览，请关注微信公众号“热控团青在线”并留言反馈</p>");
 		return;
 	}
 	

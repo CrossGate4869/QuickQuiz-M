@@ -20,7 +20,7 @@ function initIndex()
 	indexNightMode(false);
 	
 	// 拉取题目列表
-	xmlList = loadXML("http://GXSoftware.coding.me/QuickQuiz-M/xml/list.xml");
+	xmlList = loadXML("xml/list.xml");
 	if (!xmlList)
 	{
 		document.write("<p>题目列表链接可能已经失效，请等待修复或反馈...</p><p>如需反馈，请关注微信公众号“热控团青在线”后留言</p>");
