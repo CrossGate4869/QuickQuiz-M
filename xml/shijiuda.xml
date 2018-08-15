@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <key>QuickQuiz</key>
+    <title>十九大精神</title>
+    <qstn type="s-choise" cust="0">
+        <desc>(    )是历史的创造者，是决定党和国家前途命运的根本力量。</desc>
+        <opt ans="t">人民</opt>
+        <opt ans="f">中国共产党</opt>
+        <opt ans="f">公民</opt>
+        <opt ans="f">工人阶级和农民阶级</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（    ）是我们党最鲜明的品格。</desc>
+        <opt ans="f">为人民服务</opt>
+        <opt ans="f">发挥党员的先锋模范作用</opt>
+        <opt ans="f">实事求是</opt>
+        <opt ans="t">勇于自我革命，从严管党治党</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（    ）自信是一个国家.一个民族发展中更基本、更深沉、更持久的力量。</desc>
+        <opt ans="f">道路</opt>
+        <opt ans="f">制度</opt>
+        <opt ans="f">理论</opt>
+        <opt ans="t">文化</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )是发展的根本目的。</desc>
+        <opt ans="f">人民当家作主</opt>
+        <opt ans="t">增进民生福祉</opt>
+        <opt ans="f">全面依法治国</opt>
+        <opt ans="f">坚持中国共产党领导</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )是解决我国一切问题的基础和关键。</desc>
+        <opt ans="t">发展</opt>
+        <opt ans="f">中国共产党</opt>
+        <opt ans="f">创新</opt>
+        <opt ans="f">改革</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )是全面建成小康社会决胜期。</desc>
+        <opt ans="f">从现在到二〇三〇年</opt>
+        <opt ans="f">从二〇二〇年到二〇三五年</opt>
+        <opt ans="t">从现在到二〇二〇年</opt>
+        <opt ans="f">从现在到新中国成立一百年时</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )是实现“两个一百年”奋斗目标.实现中华民族伟大复兴的战略支撑。</desc>
+        <opt ans="t">建设一支听党指挥、能打胜仗、作风优良的人民军队</opt>
+        <opt ans="f">人民当家作主</opt>
+        <opt ans="f">中国共产党的领导</opt>
+        <opt ans="f">坚持依法治国和以德治国相结合，依法治国和依规治党有机统一</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )是我们党治国理政的一个重大原则。</desc>
+        <opt ans="t">统筹发展和安全，增强忧患意识，做到居安思危</opt>
+        <opt ans="f">以经济建设为中心</opt>
+        <opt ans="f">国家安全</opt>
+        <opt ans="f">人民幸福</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )是中国特色社会主义的本质要求和重要保障。</desc>
+        <opt ans="f">党的领导</opt>
+        <opt ans="f">人民当家作主</opt>
+        <opt ans="t">全面依法治国</opt>
+        <opt ans="f">坚持党的领导、人民当家作主、依法治国有机统一</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（    ）是两岸关系的政治基础。</desc>
+        <opt ans="f">“九二共识”</opt>
+        <opt ans="f">反对“台独”</opt>
+        <opt ans="t">一个中国原则</opt>
+        <opt ans="f">和平统一</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（    ）和（    ），是中国共产党人的精神支柱和政治灵魂，也是保持党的团结统一的思想基础。</desc>
+        <opt ans="f">共产主义远大理想、新时代中国特色社会主义共同理想</opt>
+        <opt ans="t">共产主义远大理想、中国特色社会主义共同理想</opt>
+        <opt ans="f">共产主义崇高理想、新时代中国特色社会主义共同理想</opt>
+        <opt ans="f">共产主义崇高理想、中国特色社会主义共同理想</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（    ）是当代中国发展进步的根本制度保障。</desc>
+        <opt ans="f">中国特色社会主义道路</opt>
+        <opt ans="f">中国特色社会主义理论体系</opt>
+        <opt ans="t">中国特色社会主义制度</opt>
+        <opt ans="f">中国特色社会主义文化</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（    ）是激励全党全国各族人民奋勇前进的强大精神力量。</desc>
+        <opt ans="f">中国特色社会主义道路</opt>
+        <opt ans="f">中国特色社会主义理论体系</opt>
+        <opt ans="f">中国特色社会主义制度</opt>
+        <opt ans="t">中国特色社会主义文化</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（    ）是实现社会主义现代化、创造人民美好生活的必由之路。</desc>
+        <opt ans="t">中国特色社会主义道路</opt>
+        <opt ans="f">中国特色社会主义理论体系</opt>
+        <opt ans="f">中国特色社会主义制度</opt>
+        <opt ans="f">中国特色社会主义文化</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“坚持党对一切工作的领导，坚持以人民为中心”党的十九大决议明确，党的十九大报告的（    ）条坚持，构成新时代坚持和发展中国特色社会主义的基本方略。</desc>
+        <opt ans="f">16</opt>
+        <opt ans="f">15</opt>
+        <opt ans="t">14</opt>
+        <opt ans="f">13</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》第二章第十条规定：党是根据自己的纲领和章程，按照（    ）组织起来的统一整体。</desc>
+        <opt ans="t">民主集中制</opt>
+        <opt ans="f">党章</opt>
+        <opt ans="f">党的纪律</opt>
+        <opt ans="f">政治规矩</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》第二章第四条规定了党员的八项权利，党的任何一级组织直至（    ）都无权剥夺党员的上述权利。</desc>
+        <opt ans="t">中央</opt>
+        <opt ans="f">政治局</opt>
+        <opt ans="f">中纪委</opt>
+        <opt ans="f">省委</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》第五章第三十二条规定：党的基层组织是党在社会基层组织中的（    ），是党的全部工作和战斗力的基础。</desc>
+        <opt ans="f">培训学校</opt>
+        <opt ans="t">战斗堡垒</opt>
+        <opt ans="f">服务机构</opt>
+        <opt ans="f">后备力量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》第一章第五条规定，发展党员，必须经过（    ），坚持个别吸收的原则。</desc>
+        <opt ans="f">党总支</opt>
+        <opt ans="f">所在单位领导班子</opt>
+        <opt ans="t">党的支部</opt>
+        <opt ans="f">县一级党的委员会</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，党的基层委员会、总支部委员会、支部委员会每届任期是（    ）。</desc>
+        <opt ans="f">一年到两年</opt>
+        <opt ans="f">两年到三年</opt>
+        <opt ans="t">三年至五年</opt>
+        <opt ans="f">五年到七年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，党的全国代表大会每（    ）举行一次，由中央委员会召集。中央委员会认为有必要，或者有三分之一以上的省一级组织提出要求，全国代表大会可以提前举行；如无非常情况，不得延期举行。</desc>
+        <opt ans="f">一年</opt>
+        <opt ans="f">两年</opt>
+        <opt ans="t">五年</opt>
+        <opt ans="f">七年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，党内严格禁止用违反（    ）的手段对待党员，严格禁止打击报复和诬告陷害。违反这些规定的组织或个人必须受到党的纪律和国家法律的追究。</desc>
+        <opt ans="f">规章</opt>
+        <opt ans="f">道德</opt>
+        <opt ans="t">党章和国家法律</opt>
+        <opt ans="f">政策</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1932年4月，习仲勋等人在甘肃省陇南市发动（    ），是中国共产党在甘肃发动最早的一次武装起义。</desc>
+        <opt ans="f">陇北兵变</opt>
+        <opt ans="f">陇南兵变</opt>
+        <opt ans="f">米脂兵变</opt>
+        <opt ans="t">两当兵变</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2017年10月（    ）日中国共产党第十九次全国代表大会通过关于《中国共产党章程（修正案）》的决议。</desc>
+        <opt ans="f">18</opt>
+        <opt ans="f">22</opt>
+        <opt ans="f">20</opt>
+        <opt ans="t">24</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2017年10月25日，在中国共产党第十九届中央委员会第一次全体会议上当选的中共中央总书记习近平等共（    ）位中央政治局常委同中外记者亲切见面。</desc>
+        <opt ans="f">5</opt>
+        <opt ans="t">7</opt>
+        <opt ans="f">11</opt>
+        <opt ans="f">13</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>必须把维护中央对香港.澳门特别行政区全面管治权和保障特别行政区(   )有机结合起来，确保“一国两制”方针不会变、不动摇，确保“一国两制”实践不变形、不走样。</desc>
+        <opt ans="t">高度自治权</opt>
+        <opt ans="f">一定自治权</opt>
+        <opt ans="f">完全自治权</opt>
+        <opt ans="f">外交权</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>必须坚持（  ）原则，坚持“九二共识”，推动两岸关系和平发展，深化两岸经济合作和文化往来，推动两岸同胞共同反对一切分裂国家的活动，共同为实现中华民族伟大复兴而奋斗。</desc>
+        <opt ans="f">民主集中制</opt>
+        <opt ans="t">一个中国</opt>
+        <opt ans="f">各民族平等</opt>
+        <opt ans="f">各民族共同繁荣</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>必须坚持以(   )为中心的发展思想，不断促进人的全面发展、全体人民共同富裕 。</desc>
+        <opt ans="f">改革开放</opt>
+        <opt ans="f">经济建设</opt>
+        <opt ans="f">中国共产党</opt>
+        <opt ans="t">人民</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>必须全面贯彻党领导人民军队的一系列根本原则和制度，确立（   ）在国防和军队建设中的指导地位。</desc>
+        <opt ans="f">科学发展观</opt>
+        <opt ans="t">新时代党的强军思想</opt>
+        <opt ans="f">邓小平理论</opt>
+        <opt ans="f">“三个代表”思想</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>必须树立和践行（  ）的理念，坚持节约资源和保护环境的基本国策，像对待生命一样对待生态环境。</desc>
+        <opt ans="t">绿水青山就是金山银山</opt>
+        <opt ans="f">以经济建设为中心</opt>
+        <opt ans="f">经济第一</opt>
+        <opt ans="f">坚持依法治国和以德治国相结合</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>必须以党章为根本遵循，把党的（   ）建设摆在首位，思想建党和制度治党同向发力，统筹推进党的各项建设。 治</desc>
+        <opt ans="f">组织</opt>
+        <opt ans="f">作风</opt>
+        <opt ans="t">政治</opt>
+        <opt ans="f">思想</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>从(    )年，在全面建成小康社会的基础上，再奋斗十五年，基本实现社会主义现代化。</desc>
+        <opt ans="f">现在到二〇三〇</opt>
+        <opt ans="t">二〇二〇年到二〇三五</opt>
+        <opt ans="f">现在到二〇二〇</opt>
+        <opt ans="f">现在到新中国成立一百年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十八大以来，以习近平同志为主要代表的中国共产党人，顺应时代发展，从理论和实践结合上系统回答了（    ）坚持和发展什么样的中国特色社会主义、怎样坚持和发展中国特色社会主义这个重大时代课题。</desc>
+        <opt ans="f">新世纪</opt>
+        <opt ans="f">新常态</opt>
+        <opt ans="t">新时代</opt>
+        <opt ans="f">新百年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告明确要求：“促进国有资产保值增值，推动国有资本（    ），有效防止国有资产流失。”</desc>
+        <opt ans="f">做强做大做优</opt>
+        <opt ans="f">做优做大做强</opt>
+        <opt ans="t">做强做优做大</opt>
+        <opt ans="f">做大做强做优</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，党的（    ）是党的根本性建设，决定党的建设方向和效果。</desc>
+        <opt ans="f">思想建设</opt>
+        <opt ans="t">政治建设</opt>
+        <opt ans="f">组织建设</opt>
+        <opt ans="f">制度建设</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，国家安全是安邦定国的重要基石，（    ）是全国各族人民根本利益所在。</desc>
+        <opt ans="f">加快经济发展</opt>
+        <opt ans="f">维护国家统一</opt>
+        <opt ans="f">促进国际合作</opt>
+        <opt ans="t">维护国家安全</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，呼吁各国人民同心协力，构建人类命运共同体，建设（    ）的世界。</desc>
+        <opt ans="f">持久和平、普遍安全、共同繁荣、开放包容、公平正义</opt>
+        <opt ans="f">持久和平、普遍安全、共同繁荣、公平正义、清洁美丽</opt>
+        <opt ans="t">持久和平、普遍安全、共同繁荣、开放包容、清洁美丽</opt>
+        <opt ans="f">持久和平、普遍安全、公平正义、开放包容、清洁美丽</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，军队是要准备打仗的，一切工作都必须坚持（    ）标准，向能打仗、打胜仗聚焦。</desc>
+        <opt ans="t">战斗力</opt>
+        <opt ans="f">斗争力</opt>
+        <opt ans="f">战争力</opt>
+        <opt ans="f">硬实力</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，我们要建设的现代化是人与自然（    ）的现代化。</desc>
+        <opt ans="f">和谐相处</opt>
+        <opt ans="f">和睦相处</opt>
+        <opt ans="t">和谐共生</opt>
+        <opt ans="f">和睦共生</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，我们要牢固树立社会主义生态文明观，推动形成（    ）现代化建设新格局，为保护生态环境作出我们这代人的努力！</desc>
+        <opt ans="f">人与自然和谐共生</opt>
+        <opt ans="f">人与环境和谐发展</opt>
+        <opt ans="t">人与自然和谐发展</opt>
+        <opt ans="f">人与环境和谐共生</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，要赋予有干部管理权限的党组相应（    ），强化监督执纪问责。</desc>
+        <opt ans="t">纪律处分权限</opt>
+        <opt ans="f">开除党员权限</opt>
+        <opt ans="f">监督执纪权限</opt>
+        <opt ans="f">问责监察权限</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，要加快建立绿色生产和消费的法律制度和政策导向，建立健全（    ）的经济体系。</desc>
+        <opt ans="t">绿色低碳循环发展</opt>
+        <opt ans="f">绿色节约循环发展</opt>
+        <opt ans="f">绿色低碳节约发展</opt>
+        <opt ans="f">节约低碳循环发展</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，要坚持党管干部原则，（    ），把好干部标准落到实处。</desc>
+        <opt ans="f">坚持立场坚定、素质过硬，坚持五湖四海、任人唯贤，坚持事业为上、公道正派</opt>
+        <opt ans="f">坚持德才兼备、以德为先，坚持立场坚定、素质过硬，坚持事业为上、公道正派</opt>
+        <opt ans="f">坚持德才兼备、以德为先，坚持五湖四海、任人唯贤，坚持立场坚定、素质过硬</opt>
+        <opt ans="t">坚持德才兼备、以德为先，坚持五湖四海、任人唯贤，坚持事业为上、公道正派</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，要坚决防止和反对（    ），坚决防止和反对宗派主义、圈子文化、码头文化，坚决反对搞两面派、做两面人。</desc>
+        <opt ans="f">个人主义、享乐主义、自由主义、本位主义、好人主义</opt>
+        <opt ans="f">个人主义、分散主义、山头主义、本位主义、好人主义</opt>
+        <opt ans="t">个人主义、分散主义、自由主义、本位主义、好人主义</opt>
+        <opt ans="f">个人主义、分散主义、自由主义、本位主义、享乐主义</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，要全面实施（    ）制度，清理废除妨碍统一市场和公平竞争的各种规定和做法。</desc>
+        <opt ans="t">市场准入负面清单</opt>
+        <opt ans="f">市场自动条件</opt>
+        <opt ans="f">市场价格监管</opt>
+        <opt ans="f">市场秩序监管</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，要深刻认识党面临的（    ）的尖锐性和严峻性，坚持问题导向，保持战略定力，推动全面从严治党向纵深发展。</desc>
+        <opt ans="t">精神懈怠危险、能力不足危险、脱离群众危险、消极腐败危险</opt>
+        <opt ans="f">精神懈怠危险、封闭僵化危险、脱离群众危险、消极腐败危险</opt>
+        <opt ans="f">精神懈怠危险、能力不足危险、官僚主义危险、消极腐败危险</opt>
+        <opt ans="f">精神懈怠危险、能力不足危险、脱离群众危险、腐化堕落危险</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，要推进（    ），建设覆盖纪检监察系统的检举举报平台。强化不敢腐的震慑，扎牢不能腐的笼子，增强不想腐的自觉，通过不懈努力换来海晏河清、朗朗乾坤。</desc>
+        <opt ans="f">监察领域国家立法</opt>
+        <opt ans="f">预防腐败国家立法</opt>
+        <opt ans="t">反腐败国家立法</opt>
+        <opt ans="f">廉政国家立法</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，要以提升（    ）为重点，突出政治功能，把企业、农村、机关、学校、科研院所、街道社区、社会组织等基层党组织建设成为宣传党的主张、贯彻党的决定、领导基层治理、团结动员群众、推动改革发展的坚强战斗堡垒。</desc>
+        <opt ans="f">凝聚力</opt>
+        <opt ans="f">领导力</opt>
+        <opt ans="t">组织力</opt>
+        <opt ans="f">战斗力</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，要自觉抵制（    ）对党内生活的侵蚀，营造风清气正的良好政治生态。</desc>
+        <opt ans="t">商品交换原则</opt>
+        <opt ans="f">市场经济思想</opt>
+        <opt ans="f">国外反动势力</opt>
+        <opt ans="f">国内复杂环境</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，要尊崇党章，严格执行新形势下党内政治生活若干准则，增强党内政治生活的（    ）。</desc>
+        <opt ans="t">政治性、时代性、原则性、战斗性</opt>
+        <opt ans="f">思想性、政治性、时代性、原则性</opt>
+        <opt ans="f">政治性、思想性、时代性、原则性</opt>
+        <opt ans="f">政治性、思想性、时代性、战斗性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，增强党自我净化能力，根本靠强化（    ）和（    ）。</desc>
+        <opt ans="f">党的自我监督、舆论监督</opt>
+        <opt ans="t">党的自我监督、群众监督</opt>
+        <opt ans="f">党的自我监督、司法监督</opt>
+        <opt ans="f">党的自我监督、民主监督</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大选举产生了中国共产党第十九届中央委员会委员，中央委员共（    ）名。</desc>
+        <opt ans="f">194</opt>
+        <opt ans="t">204</opt>
+        <opt ans="f">254</opt>
+        <opt ans="f">284</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大作出反腐败斗争形势依然严峻复杂的政治判断，提出要求：坚持无禁区、全覆盖、零容忍，坚持（    ），坚持受贿行贿一起查，坚决防止党内形成利益集团。</desc>
+        <opt ans="f">重预防、强高压、长震慑</opt>
+        <opt ans="t">重遏制、强高压、长震慑</opt>
+        <opt ans="f">重遏制、不减压、长震慑</opt>
+        <opt ans="f">重遏制、强高压、长威慑</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的中央和地方纪律检查委员会向同级党和国家机关全面派驻党的（    ）。</desc>
+        <opt ans="f">巡视组</opt>
+        <opt ans="t">纪律检查组</opt>
+        <opt ans="f">巡查组</opt>
+        <opt ans="f">工作组</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党是最高政治领导力量，提出新时代党的建设总要求，突出（  ）建设在党的建设中的重要地位。</desc>
+        <opt ans="f">组织</opt>
+        <opt ans="f">作风</opt>
+        <opt ans="t">政治</opt>
+        <opt ans="f">思想</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员必须切实开展批评和自我批评，勇于揭露和纠正违反党的原则的言行和工作中的缺点、错误，坚决同（    ）现象作斗争。</desc>
+        <opt ans="f">贪污腐败</opt>
+        <opt ans="t">消极腐败</opt>
+        <opt ans="f">两面派</opt>
+        <opt ans="f">团团伙伙</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员如果没有正当理由，连续（    ）不参加党的组织生活，或不交纳党费，或不做党所分配的工作，就被认为是自行脱党。</desc>
+        <opt ans="f">3个月</opt>
+        <opt ans="t">6个月</opt>
+        <opt ans="f">12个月</opt>
+        <opt ans="f">8个月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员要密切联系群众，向群众宣传党的主张，遇事同（    ）商量，及时向党反映群众的意见和要求，维护群众的正当利益。</desc>
+        <opt ans="t">群众</opt>
+        <opt ans="f">党组织</opt>
+        <opt ans="f">政府</opt>
+        <opt ans="f">专家学者</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员要学习党的基本知识，学习科学、文化、法律和业务知识，努力提高（    ）的本领。</desc>
+        <opt ans="f">实现社会主义</opt>
+        <opt ans="f">建设社会主义现代化强国</opt>
+        <opt ans="f">全面建成小康社会</opt>
+        <opt ans="t">为人民服务</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员应该发扬社会主义新风尚，带头实践社会主义核心价值观和社会主义荣辱观，提倡（    ）道德，弘扬中华民族传统美德</desc>
+        <opt ans="f">社会主义</opt>
+        <opt ans="t">共产主义</opt>
+        <opt ans="f">中华民族</opt>
+        <opt ans="f">新时代</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党组的成员，由（    ）的党组织决定。</desc>
+        <opt ans="t">批准成立党组</opt>
+        <opt ans="f">本单位推荐</opt>
+        <opt ans="f">当地党委</opt>
+        <opt ans="f">上级党委</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>到(   )时，基本实现现代化，把我国建成社会主义现代化国家。</desc>
+        <opt ans="f">二〇三〇年</opt>
+        <opt ans="f">二〇三五年</opt>
+        <opt ans="f">二〇二〇年</opt>
+        <opt ans="t">新中国成立一百年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>第二个阶段，从二〇三五年到本世纪中叶，在基本实现现代化的基础上，再奋斗十五年，把我国建成(   )的社会主义现代化强国。</desc>
+        <opt ans="f">富强民主文明</opt>
+        <opt ans="f">民主文明和谐美丽</opt>
+        <opt ans="f">富强民主文明和谐</opt>
+        <opt ans="t">富强民主文明和谐美丽</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>第二个阶段，从二〇三五年到本世纪中叶，在基本实现现代化的基础上，再奋斗十五年，把我国建成富强民主文明和谐美丽的社会主义现代化强国。以下哪个选项是社会主义现代化强国的特征（   ）。&#x0D;&#x0A;①我国物质文明、政治文明、精神文明、社会文明、生态文明将全面提升②实现国家治理体系和治理能力现代化③全体人民共同富裕完全实现④我国人民将享有更加幸福安康的生活⑤生态环境根本好转，美丽中国目标基本实现⑥社会文明程度达到新的高度，国家文化软实力显著增强，中华文化影响更加广泛深入</desc>
+        <opt ans="t">①②④</opt>
+        <opt ans="f">①②③④</opt>
+        <opt ans="f">①②④⑤</opt>
+        <opt ans="f">①②④⑤⑥</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>发展必须是科学发展，必须坚定不移贯彻（  ）的发展理念。</desc>
+        <opt ans="f">创新、协调</opt>
+        <opt ans="f">创新、协调、绿色</opt>
+        <opt ans="t">创新、协调、绿色、开放、共享</opt>
+        <opt ans="f">创新、协调、绿色、开放</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于落实中央八项规定精神，十八届中央纪律检查委员会向中国共产党第十九次全国代表大会的工作报告指出：经常抓、抓经常，释放执纪必严强烈信号。把握政策重点，抓住（    ），坚决查处十八大后、中央八项规定出台后、群众路线教育实践活动开展后仍然顶风违纪的党员干部。</desc>
+        <opt ans="f">一把手</opt>
+        <opt ans="f">纪检干部</opt>
+        <opt ans="f">基层建设</opt>
+        <opt ans="t">“关键少数”</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>毫不动摇巩固和发展（   ）经济。</desc>
+        <opt ans="f">国有</opt>
+        <opt ans="f">非公有制</opt>
+        <opt ans="f">国有和集体</opt>
+        <opt ans="t">公有制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>坚持（  ）是社会主义政治发展的必然要求。</desc>
+        <opt ans="f">党的领导</opt>
+        <opt ans="f">人民当家作主</opt>
+        <opt ans="f">依法治国</opt>
+        <opt ans="t">党的领导、人民当家作主、依法治国有机统一</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>坚持马克思列宁主义的基本原理，走中国人民自愿选择的适合中国国情的道路，中国的（    ）事业必将取得最终的胜利。</desc>
+        <opt ans="f">共产主义</opt>
+        <opt ans="t">社会主义</opt>
+        <opt ans="f">伟大复兴</opt>
+        <opt ans="f">实现中国梦</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>坚定不移走中国特色社会主义法治道路，完善以(  )为核心的中国特色社会主义法律体系。</desc>
+        <opt ans="t">宪法</opt>
+        <opt ans="f">中国共产党</opt>
+        <opt ans="f">人民</opt>
+        <opt ans="f">公民</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>建设（  ）文明是中华民族永续发展的千年大计。</desc>
+        <opt ans="f">物质</opt>
+        <opt ans="f">精神</opt>
+        <opt ans="t">生态</opt>
+        <opt ans="f">政治</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>建设（    ）是中华民族伟大复兴的基础工程。</desc>
+        <opt ans="f">经济强国</opt>
+        <opt ans="f">政治强国</opt>
+        <opt ans="t">教育强国</opt>
+        <opt ans="f">文化强国</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>焦裕禄在担任兰考县委书记期间，为了防风固沙，带领群众栽种（    ）。2009年4月，习近平同志来到兰考，亲手也种下了一棵同品种的树。</desc>
+        <opt ans="f">杨树</opt>
+        <opt ans="f">松树</opt>
+        <opt ans="t">泡桐树</opt>
+        <opt ans="f">大枣树</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>全党必须牢记，（    ）的问题，是检验一个政党、一个政权性质的试金石。</desc>
+        <opt ans="t">为什么人</opt>
+        <opt ans="f">执政宗旨</opt>
+        <opt ans="f">建党宗旨</opt>
+        <opt ans="f">权力来源</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>全国国有企业党的建设工作会议于2016年10月10日至11日在北京召开。习近平总书记要求：要坚持党组织对国有企业（    ）作用不能变，着力培养一支宏大的高素质企业领导人员队伍。</desc>
+        <opt ans="t">选人用人的领导和把关</opt>
+        <opt ans="f">发挥监督执纪问责作用</opt>
+        <opt ans="f">指导业务工作</opt>
+        <opt ans="f">领导群团工作</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>全面净化党内政治生态，坚决纠正各种不正之风，以(    )态度惩治腐败，不断增强党自我净化、自我完善、自我革新、自我提高的能力，始终保持党同人民群众的血肉联系。</desc>
+        <opt ans="t">零容忍</opt>
+        <opt ans="f">求真务实</opt>
+        <opt ans="f">不怕流血牺牲</opt>
+        <opt ans="f">硬碰硬</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>上级党组织在批准申请人入党以前，要派人同他（    ），作进一步的了解，并帮助他提高对党的认识。</desc>
+        <opt ans="t">谈话</opt>
+        <opt ans="f">座谈</opt>
+        <opt ans="f">调研</opt>
+        <opt ans="f">考察</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十八届中央纪律检查委员会向中国共产党第十九次全国代表大会的工作报告指出：转变监督执纪方式，运用好“（    ）”，让“红红脸、出出汗”成为常态；党纪轻处分、组织调整成为违纪处理的大多数；党纪重处分、重大职务调整的成为少数；严重违纪涉嫌违法立案审查的成为极少数。</desc>
+        <opt ans="f">八项规定</opt>
+        <opt ans="f">条例</opt>
+        <opt ans="t">四种形态</opt>
+        <opt ans="f">准则</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十八届中央纪律检查委员会向中国共产党第十九次全国代表大会的工作报告指出：最根本的风险和挑战来自（    ），不正之风和腐败问题严重侵蚀党的肌体。</desc>
+        <opt ans="f">国外</opt>
+        <opt ans="t">党内</opt>
+        <opt ans="f">环境</opt>
+        <opt ans="f">反动势力</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十八届中央纪律检查委员会向中国共产党第十九次全国代表大会的工作报告总结：将《中国共产党党员领导干部廉洁从政若干准则》修改为（    ），紧扣廉洁自律主题，坚持正面倡导，突出重点、化繁为简，将适用对象扩大到全体党员。</desc>
+        <opt ans="f">《中国共产党廉洁自律条例》</opt>
+        <opt ans="t">《中国共产党廉洁自律准则》</opt>
+        <opt ans="f">《中国共产党党员廉洁制度》</opt>
+        <opt ans="f">《中国共产党反腐倡廉准则》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十九大报告指出，（    ）是最大的民生。</desc>
+        <opt ans="t">就业</opt>
+        <opt ans="f">反腐</opt>
+        <opt ans="f">致富</opt>
+        <opt ans="f">医疗</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十九大报告指出，（    ）是发展的根本目的。</desc>
+        <opt ans="f">提高人民收入</opt>
+        <opt ans="f">大力发展经济</opt>
+        <opt ans="t">增进民生福祉</opt>
+        <opt ans="f">减少贫困人口</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十九大报告指出，当前，反腐败斗争形势依然严峻复杂，巩固（    ）态势、夺取（    ）胜利的决心必须坚如磐石。</desc>
+        <opt ans="f">阶段性、阶段性</opt>
+        <opt ans="f">关键性、关键性</opt>
+        <opt ans="f">决定性、决定性</opt>
+        <opt ans="t">压倒性、压倒性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>使市场在资源配置中起（  ）作用。</desc>
+        <opt ans="f">基础</opt>
+        <opt ans="t">决定性</opt>
+        <opt ans="f">辅助</opt>
+        <opt ans="f">主要</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>世界每时每刻都在发生变化，中国也每时每刻都在发生变化，我们必须在（ ）上跟上时代，不断认识规律。</desc>
+        <opt ans="f">组织</opt>
+        <opt ans="t">理论</opt>
+        <opt ans="f">行动</opt>
+        <opt ans="f">思想</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>围绕十八大以来国内外形势变化和我国各项事业发展给我们提出的重大时代课题，我们党坚持以马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观为指导，坚持解放思想、实事求是、与时俱进、求真务实，坚持辩证唯物主义和历史唯物主义，紧密结合新的时代条件和实践要求，以全新的视野深化对共产党执政规律、社会主义建设规律、人类社会发展规律的认识，进行艰辛理论探索，取得重大理论创新成果，形成了（   ）。</desc>
+        <opt ans="f">毛泽东思想</opt>
+        <opt ans="t">新时代中国特色社会主义思想</opt>
+        <opt ans="f">中国特色社会主义理论体系</opt>
+        <opt ans="f">社会主义核心价值观</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平在十九届中共中央政治局常委同中外记者见面时指出：中国共产党是世界上最大的政党，大就要有大的（    ）。</desc>
+        <opt ans="f">气概</opt>
+        <opt ans="t">样子</opt>
+        <opt ans="f">目标</opt>
+        <opt ans="f">规模</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记把_（    ）概括为开天辟地、敢为人先的首创精神，坚定理想、百折不挠的奋斗精神，立党为公、忠诚为民的奉献精神。</desc>
+        <opt ans="f">延安精神</opt>
+        <opt ans="t">红船精神</opt>
+        <opt ans="f">长征精神</opt>
+        <opt ans="f">航天精神</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新时代我国社会主要矛盾是（ ）。</desc>
+        <opt ans="f">阶级斗争</opt>
+        <opt ans="f">人民群众日益增长的物质文化的需要同落后的社会生产力之间的矛盾</opt>
+        <opt ans="t">人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾</opt>
+        <opt ans="f">环保和发展之间的矛盾</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>要保证党的领导人的活动处于党和人民的监督之下，同时维护一切代表党和人民利益的（    ）的威信。</desc>
+        <opt ans="f">党中央</opt>
+        <opt ans="f">党组织</opt>
+        <opt ans="f">领导核心</opt>
+        <opt ans="t">领导人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在党的会议上和（    ）上，党员有权参加关于党的政策问题的讨论。</desc>
+        <opt ans="f">互联网</opt>
+        <opt ans="t">党报党刊</opt>
+        <opt ans="f">内部资料</opt>
+        <opt ans="f">学术刊物</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在全面建成小康社会的基础上，分（   ）走在本世纪中叶建成富强民主文明和谐美丽的社会主义现代化强国。</desc>
+        <opt ans="f">一步</opt>
+        <opt ans="t">两步</opt>
+        <opt ans="f">三步</opt>
+        <opt ans="f">四步</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>只有社会主义才能救中国，只有(    )才能发展中国、发展社会主义、发展马克思主义。</desc>
+        <opt ans="f">中国共产党</opt>
+        <opt ans="t">改革开放</opt>
+        <opt ans="f">人民</opt>
+        <opt ans="f">中国特色社会主义理论</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中共（    ）第一次选举产生了中央监察委员会，即中央纪委的前身。这是党的第一个专门的纪律监督机构。</desc>
+        <opt ans="f">一大</opt>
+        <opt ans="f">二大</opt>
+        <opt ans="t">五大</opt>
+        <opt ans="f">七大</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国共产党党员永远是（    ）的普通一员。除了法律和政策规定范围内的个人利益和工作职权以外，所有共产党员都不得谋求任何私利和特权。</desc>
+        <opt ans="f">工人阶级</opt>
+        <opt ans="t">劳动人民</opt>
+        <opt ans="f">无产阶级</opt>
+        <opt ans="f">中国人民</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国共产党人的初心和使命，就是为中国人民（    ），为中华民族（    ）。这个初心和使命是激励中国共产党人不断前进的根本动力。</desc>
+        <opt ans="f">谋幸福，谋未来</opt>
+        <opt ans="f">谋生活，谋复兴</opt>
+        <opt ans="t">谋幸福，谋复兴</opt>
+        <opt ans="f">谋生活，谋未来</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国特色大国外交要推动构建新型国际关系，推动构建(   )。</desc>
+        <opt ans="t">人类命运共同体</opt>
+        <opt ans="f">国际政治经济新秩序</opt>
+        <opt ans="f">国家结盟</opt>
+        <opt ans="f">战略伙伴关系</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国特色社会主义制度的最大优势是(    )。</desc>
+        <opt ans="f">人民当家做主</opt>
+        <opt ans="f">民主集中制</opt>
+        <opt ans="f">人民代表大会制度</opt>
+        <opt ans="t">中国共产党领导</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国特色社会主义最本质的特征是（    ）。</desc>
+        <opt ans="f">人民当家做主</opt>
+        <opt ans="t">中国共产党领导</opt>
+        <opt ans="f">人民代表大会制度</opt>
+        <opt ans="f">民主集中制</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>“一带一路”是指（    ）。</desc>
+        <opt ans="t">丝绸之路经济带</opt>
+        <opt ans="t">21世纪海上丝绸之路</opt>
+        <opt ans="f">陆上丝绸之路</opt>
+        <opt ans="f">欧亚铁路经济带</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《党章》第五章第三十四条规定：党支部是党的基础组织，担负直接教育党员、管理党员、监督党员和组织群众（    ）的职责。</desc>
+        <opt ans="f">管理群众</opt>
+        <opt ans="t">宣传群众</opt>
+        <opt ans="t">凝聚群众</opt>
+        <opt ans="t">服务群众</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《党章》规定，中国共产党的党徽党旗是中国共产党的（    ）。</desc>
+        <opt ans="t">象征</opt>
+        <opt ans="t">标志</opt>
+        <opt ans="f">符号</opt>
+        <opt ans="f">标识</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《党章》要求，党的中央、地方和基层组织，都必须重视党的建设，经常讨论和检查党的宣传工作、（    ）、统一战线工作等，注意研究党内外的思想政治状况。</desc>
+        <opt ans="t">教育工作</opt>
+        <opt ans="t">组织工作</opt>
+        <opt ans="t">纪律检查工作</opt>
+        <opt ans="t">群众工作</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《党章》要求党的干部要努力用马克思主义的立场、观点、方法分析和解决实际问题，坚持（    ），经得起各种风浪的考验。</desc>
+        <opt ans="t">讲学习</opt>
+        <opt ans="t">讲政治</opt>
+        <opt ans="t">讲正气</opt>
+        <opt ans="f">讲道德</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《党章》要求党的各级领导干部必须有强烈的（    ），有实践经验，有胜任领导工作的组织能力、文化水平和专业知识。</desc>
+        <opt ans="t">革命事业心</opt>
+        <opt ans="t">政治责任感</opt>
+        <opt ans="f">改革进取心</opt>
+        <opt ans="f">历史使命感</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《党章》要求党的各级领导干部要树立正确政绩观，做出经得起（    ）检验的实绩。</desc>
+        <opt ans="t">实践</opt>
+        <opt ans="t">人民</opt>
+        <opt ans="t">历史</opt>
+        <opt ans="f">组织</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《党章》要求党的基层组织要充分发挥党员和群众的积极性创造性，（    ）他们中间的优秀人才，鼓励和支持他们在改革开放和社会主义现代化建设中贡献自己的聪明才智。</desc>
+        <opt ans="t">发现</opt>
+        <opt ans="t">培养</opt>
+        <opt ans="t">推荐</opt>
+        <opt ans="f">挖掘</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中共中央关于认真学习宣传贯彻党的十九大精神的决定》要求：学习宣传贯彻党的十九大精神，要运用好《将改革进行到底》、《法治中国》、《大国外交》、（    ）等电视专题片。</desc>
+        <opt ans="t">《巡视利剑》</opt>
+        <opt ans="t">《辉煌中国》</opt>
+        <opt ans="t">《强军》</opt>
+        <opt ans="t">《不忘初心、继续前进》</opt>
+        <opt ans="f">《大国崛起》</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中共中央关于认真学习宣传贯彻党的十九大精神的决定》要求：学习宣传贯彻十九大精神，要充分用好网络手段，通过（    ）等形式，做到全网跟进。</desc>
+        <opt ans="t">网络直播</opt>
+        <opt ans="t">网络视频</opt>
+        <opt ans="t">网上交流</opt>
+        <opt ans="f">网上聊天</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>1927年9月，毛泽东、朱德等同志先后率领（    ）等余部来到井冈山，在这里开展了历时28个月的斗争，创建了农村包围城市、武装夺取政权的中国第一个农村革命根据地。</desc>
+        <opt ans="t">秋收起义</opt>
+        <opt ans="t">南昌起义</opt>
+        <opt ans="f">百色起义</opt>
+        <opt ans="f">广州起义</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>1936年10月，红军三大主力在甘肃会宁会师，保存了力量约3万人。这三大主力是：（    ）。</desc>
+        <opt ans="t">红一方面军</opt>
+        <opt ans="t">红二方面军</opt>
+        <opt ans="t">红四方面军</opt>
+        <opt ans="f">红八方面军</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>1948年5月至1949年3月，中共中央曾在地处太行山东麓的平山县西柏坡办公，指挥了（    ）三大战役</desc>
+        <opt ans="t">辽沈战役</opt>
+        <opt ans="t">淮海战役</opt>
+        <opt ans="t">平津战役</opt>
+        <opt ans="f">渡江战役</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>2012年11月29日，习近平等中央政治局常委来到国家博物馆，参观《复兴之路》展览。习近平用三句诗概括中华民族的昨天、今天、明天，分别是：（    ）。</desc>
+        <opt ans="t">“雄关漫道真如铁”</opt>
+        <opt ans="t">“人间正道是沧桑”</opt>
+        <opt ans="t">“长风破浪会有时”</opt>
+        <opt ans="f">“直挂云帆济沧海”</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的地方各级代表大会的职权是：（    ）。</desc>
+        <opt ans="t">听取和审查同级委员会的报告</opt>
+        <opt ans="t">审查同级纪律检查委员会的报告</opt>
+        <opt ans="t">讨论本地区范围内的重大问题并作出决议</opt>
+        <opt ans="t">选举同级党的委员会，选举同级党的纪律检查委员会</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的各级领导机关，除它们派出的（    ）和在（    ）外，都由选举产生。</desc>
+        <opt ans="t">代表机关</opt>
+        <opt ans="t">非党组织中的党组</opt>
+        <opt ans="f">非公有经济组织中的党组织</opt>
+        <opt ans="f">群众团体的党组织</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的各级委员会实行（    ）和（    ）负责相结合的制度。委员会成员要根据集体的决定和分工，切实履行自己的职责。</desc>
+        <opt ans="t">集体领导</opt>
+        <opt ans="t">个人分工</opt>
+        <opt ans="f">个别酝酿</opt>
+        <opt ans="f">集中决策</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出，过去五年，开放型经济新体制逐步健全，（    ）稳居世界前列。</desc>
+        <opt ans="t">对外贸易</opt>
+        <opt ans="t">对外投资</opt>
+        <opt ans="t">外汇储备</opt>
+        <opt ans="f">外汇支出</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出，绝不允许（    ）,在任何时候、以任何形式、把任何一块中国领土从中国分裂出去。</desc>
+        <opt ans="t">任何人</opt>
+        <opt ans="t">任何组织</opt>
+        <opt ans="t">任何政党</opt>
+        <opt ans="f">任何团体</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出，领导十三亿多人的社会主义大国，我们党既要政治过硬，也要本领高强。增强政治领导本领，坚持（    ）、底线思维，科学制定和坚决执行党的路线方针政策，把党总揽全局、协调各方落到实处。</desc>
+        <opt ans="t">战略思维</opt>
+        <opt ans="t">创新思维</opt>
+        <opt ans="t">辩证思维</opt>
+        <opt ans="t">法治思维</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出，要发挥社会主义核心价值观对（    ）的引领作用，把社会主义核心价值观融入社会发展各方面，转化为人们的情感认同和行为习惯。</desc>
+        <opt ans="t">国民教育</opt>
+        <opt ans="t">精神文明创建</opt>
+        <opt ans="t">精神文化产品创作生产传播</opt>
+        <opt ans="f">精神食量创作</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出，要更好满足人民在经济、政治、文化、社会、生态等方面日益增长的需要，更好推动（    ）。</desc>
+        <opt ans="t">人的全面发展</opt>
+        <opt ans="t">社会全面进步</opt>
+        <opt ans="f">经济全面增长</opt>
+        <opt ans="f">科技全面提高</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出，要加快生态文明体制改革，形成节约资源和保护环境的空间格局、（    ），建设美丽中国。</desc>
+        <opt ans="t">产业结构</opt>
+        <opt ans="t">生产方式</opt>
+        <opt ans="t">生活方式</opt>
+        <opt ans="f">消费习惯</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出，要加强社会保障体系建设，完善（    ），尽快实现养老保险全国统筹。</desc>
+        <opt ans="t">城镇职工基本养老保险制度</opt>
+        <opt ans="t">城乡居民基本养老保险制度</opt>
+        <opt ans="f">农村村民基本养老保险制度</opt>
+        <opt ans="f">企业职工基本养老保险制度</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出，要坚持（    ），持续实施大气污染防治行动。</desc>
+        <opt ans="f">齐抓共管</opt>
+        <opt ans="t">全民共治</opt>
+        <opt ans="t">源头防治</opt>
+        <opt ans="f">政府牵头</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出，要开展国土绿化行动，推进（    ）综合治理。</desc>
+        <opt ans="t">荒漠化</opt>
+        <opt ans="t">石漠化</opt>
+        <opt ans="t">水土流失</opt>
+        <opt ans="f">土地板结</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出，要深入挖掘中华优秀传统文化蕴含的（    ），结合时代要求继承创新，让中华文化展现出永久魅力和时代风采。</desc>
+        <opt ans="f">指导思想</opt>
+        <opt ans="t">思想观念</opt>
+        <opt ans="t">人文精神</opt>
+        <opt ans="t">道德规范</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出，要提高人民（    ），提高全社会文明程度。</desc>
+        <opt ans="t">思想觉悟</opt>
+        <opt ans="t">道德水准</opt>
+        <opt ans="t">文明素养</opt>
+        <opt ans="f">消费水平</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出，中国共产党从成立之日起，既是中国先进文化的积极（    ），又是中华优秀传统文化的忠实传承者和弘扬者。当代中国共产党人和中国人民应该而且一定能够担负起新的文化使命，在实践创造中进行文化创造，在历史进步中实现文化进步！</desc>
+        <opt ans="t">引领者</opt>
+        <opt ans="t">践行者</opt>
+        <opt ans="f">传播者</opt>
+        <opt ans="f">加工者</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大报告指出：全党要坚定执行党的政治路线，严格遵守政治纪律和政治规矩，在（    ）上同党中央保持高度一致。</desc>
+        <opt ans="t">政治立场</opt>
+        <opt ans="t">政治方向</opt>
+        <opt ans="t">政治原则</opt>
+        <opt ans="t">政治道路</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十九大决议中指出：我们党以全新的视野深化对（    ）的认识，进行艰辛理论探索，取得重大理论创新成果，创立了习近平新时代中国特色社会主义思想。</desc>
+        <opt ans="t">共产党执政规律</opt>
+        <opt ans="t">社会主义建设规律</opt>
+        <opt ans="t">人类社会发展规律</opt>
+        <opt ans="f">中国社会发展规律</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的下级组织既要向上级组织请示和报告工作，又要独立负责地解决自己职责范围内的问题。上下级组织之间要（    ）。</desc>
+        <opt ans="t">互通情报</opt>
+        <opt ans="t">互相支持</opt>
+        <opt ans="t">互相监督</opt>
+        <opt ans="f">互相团结</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党员要自觉遵守党的纪律，首先是党的（    ）和（    ）。</desc>
+        <opt ans="t">政治、纪律</opt>
+        <opt ans="t">政治、规矩</opt>
+        <opt ans="f">章程</opt>
+        <opt ans="f">条例、准则</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党中央要求，推动党的十九大精神进企业、进农村、进机关、（    ）。</desc>
+        <opt ans="t">进校园</opt>
+        <opt ans="t">进社区</opt>
+        <opt ans="f">进家庭</opt>
+        <opt ans="t">进军营</opt>
+        <opt ans="t">进网络</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>对党的十九大精神的宣传阐释要深入解读内涵、精准把握外延，防止（    ）。</desc>
+        <opt ans="t">片面性</opt>
+        <opt ans="f">独立性</opt>
+        <opt ans="t">简单化</opt>
+        <opt ans="f">通用化</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>凡属重大问题都要按照集体领导、（    ）的原则，由党的委员会集体讨论，作出决定。</desc>
+        <opt ans="t">民主集中</opt>
+        <opt ans="t">个别酝酿</opt>
+        <opt ans="t">会议决定</opt>
+        <opt ans="f">领导决策</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>革命圣地延安，既是红军长征胜利的落脚点，也是赢得抗日战争胜利，进而夺取全国胜利的解放战争的出发点。下列在延安召开的会议是（    ）。</desc>
+        <opt ans="t">中国共产党第七次全国代表大会</opt>
+        <opt ans="f">中国共产党第七届中央委员会第二次全体会议</opt>
+        <opt ans="t">延安文艺座谈会</opt>
+        <opt ans="f">八七会议</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>关于90多年来的党史，习近平总书记总结到：中国共产党紧紧依靠人民完成了（    ）这三件大事，就是党的历史发展的主流和本质。</desc>
+        <opt ans="t">新民主主义革命，实现了民族独立和人民解放</opt>
+        <opt ans="f">人民军队改革，实现了党指挥枪</opt>
+        <opt ans="t">社会主义革命，确立了社会主义根本制度并取得了社会主义建设的巨大成就</opt>
+        <opt ans="t">进行了改革开放新的伟大革命，完善和发展了中国特色社会主义</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>关于安全，十九大报告要求：树立安全发展理念，弘扬（    ）的思想，健全公共安全体系，完善安全生产责任制，坚决遏制重特大安全事故，提升防灾减灾救灾能力。</desc>
+        <opt ans="t">生命至上</opt>
+        <opt ans="t">安全第一</opt>
+        <opt ans="f">预防为主</opt>
+        <opt ans="f">加强管理</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>关于技术创新，十九大报告要求：加强应用基础研究，拓展实施国家重大科技项目，突出（    ）创新。</desc>
+        <opt ans="t">关键共性技术</opt>
+        <opt ans="t">前沿引领技术</opt>
+        <opt ans="t">现代工程技术</opt>
+        <opt ans="t">颠覆性技术</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>关于加强思想道德建设，十九大报告要求：加强爱国主义、集体主义、社会主义教育，引导人们树立正确的（    ）。</desc>
+        <opt ans="t">历史观</opt>
+        <opt ans="t">民族观</opt>
+        <opt ans="t">国家观</opt>
+        <opt ans="t">文化观</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>关于教育，十九大报告要求：完善职业教育和培训体系，深化（    ）。</desc>
+        <opt ans="t">产教融合</opt>
+        <opt ans="t">校企合作</opt>
+        <opt ans="f">学以致用</opt>
+        <opt ans="f">寓教于乐</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>关于经济体制，十九大报告要求：构建（    ）的经济体制</desc>
+        <opt ans="t">市场机制有效</opt>
+        <opt ans="t">微观主体有活力</opt>
+        <opt ans="t">宏观调控有度</opt>
+        <opt ans="f">资本市场有效</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>关于落实意识形态工作责任制，加强阵地建设和管理，十九大报告要求，注意区分（    ），旗帜鲜明反对和抵制各种错误观点。</desc>
+        <opt ans="t">政治原则问题</opt>
+        <opt ans="t">思想认识问题</opt>
+        <opt ans="f">生活作风问题</opt>
+        <opt ans="t">学术观点问题</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>关于全面开放新格局，十九大报告要求，加强创新能力开放合作，形成（    ）的开放格局。</desc>
+        <opt ans="f">国内外合作</opt>
+        <opt ans="f">南北方互补</opt>
+        <opt ans="t">陆海内外联动</opt>
+        <opt ans="t">东西双向互济</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>关于十八大以来的五年，十九大报告总结到：五年来的成就是（    ），五年来的变革是深层次的、根本性的。</desc>
+        <opt ans="t">全方位的</opt>
+        <opt ans="t">开创性的</opt>
+        <opt ans="f">全局性的</opt>
+        <opt ans="f">创新性的</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>关于始终保持惩治腐败高压态势，十八届中央纪律检查委员会向中国共产党第十九次全国代表大会的工作报告指出：严肃查处十八大后（    ），现在重要岗位且可能还要提拔使用的领导干部，把三类情况同时具备的作为重中之重。</desc>
+        <opt ans="t">不收敛</opt>
+        <opt ans="t">不收手</opt>
+        <opt ans="t">问题线索反映集中</opt>
+        <opt ans="t">群众反映强烈</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>关于提高保障和改善民生水平，十九大报告要求：坚持（    ），坚守底线、突出重点、完善制度、引导预期</desc>
+        <opt ans="t">人人尽责</opt>
+        <opt ans="t">人人享有</opt>
+        <opt ans="f">人人平均</opt>
+        <opt ans="f">人人获得</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>关于推动文化事业和文化产业发展，十九大报告要求：讲好中国故事，展现（    ）的中国，提高国家文化软实力。</desc>
+        <opt ans="f">先进</opt>
+        <opt ans="t">真实</opt>
+        <opt ans="t">立体</opt>
+        <opt ans="t">全面</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>全党同志一定要永远与人民（    ），永远把人民对美好生活的向往作为奋斗目标，以永不懈怠的精神状态和一往无前的奋斗姿态，继续朝着实现中华民族伟大复兴的宏伟目标奋勇前进。</desc>
+        <opt ans="t">同呼吸</opt>
+        <opt ans="t">共命运</opt>
+        <opt ans="f">手牵手</opt>
+        <opt ans="t">心连心</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>全国国有企业党的建设工作会议上，习总书记指出：党对国有企业的领导是（    ）、（    ）、（    ）三者有机统一。</desc>
+        <opt ans="f">业务领导</opt>
+        <opt ans="t">政治领导</opt>
+        <opt ans="t">思想领导</opt>
+        <opt ans="t">组织领导</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十八大到十九大期间，我国创新型国家建设成果丰硕，以下选项属于十八大以后科技成果的是：（    ）</desc>
+        <opt ans="t">世界上口径最大的单天线射电望远镜-天眼</opt>
+        <opt ans="t">暗物质粒子探测卫星-悟空</opt>
+        <opt ans="t">量子科学实验卫星-墨子</opt>
+        <opt ans="f">千万亿次超级计算机-“天河一号”</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十八届中央纪律检查委员会向中国共产党第十九次全国代表大会的工作报告明确指出：要严明政治纪律和政治规矩，决不允许（    ），有令不行、有禁不止，确保党中央政令畅通。</desc>
+        <opt ans="t">自行其是</opt>
+        <opt ans="t">各自为政</opt>
+        <opt ans="f">自欺欺人</opt>
+        <opt ans="f">自以为是</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十八届中央纪律检查委员会向中国共产党第十九次全国代表大会的工作报告指出：纪检监察机关贯彻落实全会精神，要把尊崇党章同执行新形势下党内政治生活若干准则、（    ）、问责条例等党内法规贯通起来。</desc>
+        <opt ans="t">廉洁自律准则</opt>
+        <opt ans="t">党内监督条例</opt>
+        <opt ans="t">党纪处分条例</opt>
+        <opt ans="t">巡视工作条例</opt>
+        <opt ans="f">干部作风条例</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十九大报告对新时代党的建设强调，要坚持和加强党的全面领导，坚持党要管党、全面从严治党，以加强党的长期执政能力建设、（    ）建设为主线，全面推进党的建设。</desc>
+        <opt ans="t">先进性</opt>
+        <opt ans="t">纯洁性</opt>
+        <opt ans="f">创新性</opt>
+        <opt ans="f">学习性</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十九大报告号召，我们要激发全社会创造力和发展活力，努力实现（    ）、更可持续的发展！</desc>
+        <opt ans="t">更高质量</opt>
+        <opt ans="t">更有效率</opt>
+        <opt ans="t">更加公平</opt>
+        <opt ans="f">更加快速</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十九大报告提出：要同世界各国人民一道建设（    ）、清洁美丽的世界。</desc>
+        <opt ans="t">持久和平</opt>
+        <opt ans="t">普遍安全</opt>
+        <opt ans="t">共同繁荣</opt>
+        <opt ans="t">开放包容</opt>
+        <opt ans="f">互惠互利</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十九大报告要求推进资源全面节约和循环利用，实施国家节水行动，降低（    ）。</desc>
+        <opt ans="t">能耗</opt>
+        <opt ans="t">物耗</opt>
+        <opt ans="f">消耗</opt>
+        <opt ans="f">浪费</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十九大报告中提到，我国全方位外交布局深入展开。全面推进中国特色大国外交，形成（    ）外交布局，为我国发展营造了良好外部条件。</desc>
+        <opt ans="f">全维度</opt>
+        <opt ans="t">全方位</opt>
+        <opt ans="t">多层次</opt>
+        <opt ans="t">立体化</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>实施区域协调发展战略，十九大报告要求：加大力度支持革命老区、（    ）加快发展。</desc>
+        <opt ans="t">民族地区</opt>
+        <opt ans="t">边疆地区</opt>
+        <opt ans="t">贫困地区</opt>
+        <opt ans="f">西部地区</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列根据地中，（    ）是抗战初期党创建的敌后抗日根据地。</desc>
+        <opt ans="t">晋察冀抗日根据地</opt>
+        <opt ans="t">晋西南抗日根据地</opt>
+        <opt ans="t">晋冀豫抗日根据地</opt>
+        <opt ans="t">大青山抗日根据地</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>中国特色社会主义文化，源自于中华民族五千多年文明历史所孕育的中华优秀传统文化，熔铸于党领导人民在革命、建设、改革中创造的（    ），植根于中国特色社会主义伟大实践。</desc>
+        <opt ans="t">革命文化</opt>
+        <opt ans="t">社会主义先进文化</opt>
+        <opt ans="f">共产主义文化</opt>
+        <opt ans="f">现代主义文化</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十八大以来，国内外形势变化和我国各项事业发展都给我们提出了一个重大时代课题，这就是（      ）。</desc>
+        <opt ans="t">必须从理论和实践结合上系统回答新时代坚持和发展什么样的中国特色社会主义</opt>
+        <opt ans="t">怎样坚持和发展中国特色社会主义，包括新时代坚持和发展中国特色社会主义的总目标、总任务、总体布局、战略布局和发展方向、发展方式、发展动力、战略步骤、外部条件、政治保证等基本问题</opt>
+        <opt ans="t">并且要根据新的实践对经济、政治、法治、科技、文化、教育、民生、民族、宗教、社会、生态文明、国家安全、国防和军队、“一国两制”和祖国统一、统一战线、外交、党的建设等各方面作出理论分析和政策指导</opt>
+        <opt ans="t">以利于更好坚持和发展中国特色社会主义</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>全面深化改革总目标是(    )。</desc>
+        <opt ans="t">完善和发展中国特色社会主义制度</opt>
+        <opt ans="t">推进国家治理体系和治理能力现代化</opt>
+        <opt ans="f">建成富强民主文明和谐美丽的社会主义现代化强国</opt>
+        <opt ans="f">实现社会主义现代化和中华民族伟大复兴</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>全面推进依法治国总目标是(    )。</desc>
+        <opt ans="f">完善和发展中国特色社会主义制度</opt>
+        <opt ans="f">推进国家治理体系和治理能力现代化</opt>
+        <opt ans="t">建设中国特色社会主义法治体系</opt>
+        <opt ans="t">建设社会主义法治国家</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党在新时代的强军目标是建设一支(     )的人民军队，把人民军队建设成为世界一流军队。</desc>
+        <opt ans="t">听党指挥</opt>
+        <opt ans="t">能打胜仗</opt>
+        <opt ans="t">作风优良</opt>
+        <opt ans="f">艰苦奋斗</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>新时代中国特色社会主义思想是(      )。</desc>
+        <opt ans="t">对马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观的继承和发展</opt>
+        <opt ans="t">马克思主义中国化最新成果，是党和人民实践经验和集体智慧的结晶</opt>
+        <opt ans="t">中国特色社会主义理论体系的重要组成部分</opt>
+        <opt ans="t">全党全国人民为实现中华民族伟大复兴而奋斗的行动指南，必须长期坚持并不断发展</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>全党要深刻领会新时代中国特色社会主义思想的精神实质和丰富内涵，在各项工作中(    )贯彻落实。</desc>
+        <opt ans="t">全面</opt>
+        <opt ans="t">准确</opt>
+        <opt ans="f">不折不扣</opt>
+        <opt ans="f">持之以恒</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党政军民学，东西南北中，党是领导一切的。必须增强(      )。</desc>
+        <opt ans="t">政治意识</opt>
+        <opt ans="t">大局意识</opt>
+        <opt ans="t">核心意识</opt>
+        <opt ans="t">看齐意识</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>提高党(      )的能力和定力，确保党始终总揽全局、协调各方。</desc>
+        <opt ans="t">把方向</opt>
+        <opt ans="t">谋大局</opt>
+        <opt ans="t">定政策</opt>
+        <opt ans="t">促改革</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>毫不动摇（     ）非公有制经济发展。</desc>
+        <opt ans="t">鼓励</opt>
+        <opt ans="t">支持</opt>
+        <opt ans="t">引导</opt>
+        <opt ans="f">巩固</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>始终不渝走和平发展道路、奉行互利共赢的开放战略，坚持正确义利观，树立（      ）的新安全观。</desc>
+        <opt ans="t">共同</opt>
+        <opt ans="t">综合</opt>
+        <opt ans="t">合作</opt>
+        <opt ans="t">可持续</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我们必须在理论上跟上时代，不断认识规律，不断推进(      )以及其他各方面创新。</desc>
+        <opt ans="t">理论创新</opt>
+        <opt ans="t">实践创新</opt>
+        <opt ans="t">制度创新</opt>
+        <opt ans="t">文化创新</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>全党同志必须全面贯彻党的（     ），更好引领党和人民事业发展。</desc>
+        <opt ans="t">基本理论</opt>
+        <opt ans="t">基本路线</opt>
+        <opt ans="t">基本方略</opt>
+        <opt ans="f">基本原则</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>坚定走(     )的文明发展道路，建设美丽中国，为人民创造良好生产生活环境，为全球生态安全作出贡献。</desc>
+        <opt ans="f">又快又好</opt>
+        <opt ans="t">生产发展</opt>
+        <opt ans="t">生活富裕</opt>
+        <opt ans="t">生态良好</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>发展社会主义先进文化，不忘本来、吸收外来、面向未来，更好构筑（     ），为人民提供精神指引。</desc>
+        <opt ans="t">中国精神</opt>
+        <opt ans="t">中国价值</opt>
+        <opt ans="t">中国力量</opt>
+        <opt ans="f">中国理念</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>坚持(      )，更加注重聚焦实战，更加注重创新驱动，更加注重体系建设，更加注重集约高效，更加注重军民融合，实现党在新时代的强军目标。</desc>
+        <opt ans="t">政治建军</opt>
+        <opt ans="t">改革强军</opt>
+        <opt ans="t">科技兴军</opt>
+        <opt ans="t">依法治军</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>必须坚持国家利益至上，以人民安全为宗旨，以政治安全为根本，统筹（      ），完善国家安全制度体系，加强国家安全能力建设，坚决维护国家主权.安全.发展利益。</desc>
+        <opt ans="t">外部安全和内部安全</opt>
+        <opt ans="t">国土安全和国民安全</opt>
+        <opt ans="t">传统安全和非传统安全</opt>
+        <opt ans="t">自身安全和共同安全</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>建设中国特色社会主义法治体系，建设社会主义法治国家，发展中国特色社会主义法治理论，坚持(     )共同推进。</desc>
+        <opt ans="t">依法治国</opt>
+        <opt ans="t">依法执政</opt>
+        <opt ans="t">依法行政</opt>
+        <opt ans="f">党的领导</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>建设中国特色社会主义法治体系，建设社会主义法治国家，发展中国特色社会主义法治理论，坚持(     )一体建设。</desc>
+        <opt ans="t">法治国家</opt>
+        <opt ans="t">法治政府</opt>
+        <opt ans="f">依法行政</opt>
+        <opt ans="t">法治社会</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>必须坚持中国特色社会主义政治发展道路，坚持和完善(      )，巩固和发展最广泛的爱国统一战线，发展社会主义协商民主，健全民主制度，丰富民主形式，拓宽民主渠道，保证人民当家作主落实到国家政治生活和社会生活之中。</desc>
+        <opt ans="t">人民代表大会制度</opt>
+        <opt ans="t">中国共产党领导的多党合作和政治协商制度</opt>
+        <opt ans="t">民族区域自治制度</opt>
+        <opt ans="t">基层群众自治制度</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>谋求开放创新、包容互惠的发展前景，促进和而不同、兼收并蓄的文明交流，构筑尊崇自然、绿色发展的生态体系，始终做（     ）。</desc>
+        <opt ans="t">世界和平的建设者</opt>
+        <opt ans="f">国际秩序的主导者</opt>
+        <opt ans="t">全球发展的贡献者</opt>
+        <opt ans="t">国际秩序的维护者</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>不断增强党(      )的能力，始终保持党同人民群众的血肉联系。</desc>
+        <opt ans="t">自我净化</opt>
+        <opt ans="t">自我完善</opt>
+        <opt ans="t">自我革新</opt>
+        <opt ans="t">自我提高</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列符合基本实现社会主义现代化特征的是（     ）。</desc>
+        <opt ans="t">我国经济实力、科技实力将大幅跃升，跻身创新型国家前列</opt>
+        <opt ans="t">人民平等参与、平等发展权利得到充分保障，法治国家、法治政府、法治社会基本建成，各方面制度更加完善，国家治理体系和治理能力现代化基本实现</opt>
+        <opt ans="t">人民生活更为宽裕，中等收入群体比例明显提高，城乡区域发展差距和居民生活水平差距显著缩小，基本公共服务均等化基本实现，全体人民共同富裕迈出坚实步伐</opt>
+        <opt ans="f">中华民族将以更加昂扬的姿态屹立于世界民族之林</opt>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《党章》第十四条规定，党的中央和省、自治区、直辖市委员会实行巡视制度，在一届任期内，对所管理的地方、部门、企事业单位党组织实现巡视绝大部分覆盖。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《党章》明确要求：促进新型工业化、信息化、城镇化、农业现代化同步发展，建设社会主义新农村，走中国特色新型信息化道路，建设创新型国家和世界工业强国。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>1944年9月8日，毛泽东在中共中央警备团追悼张思德的会上发表了《为人民服务》的讲话。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>1978年5月11日，《光明日报》发表题为《解放思想，实事求是，团结一致向前看》特约评论员文章。由此，一场关于真理标准问题的大讨论在全国展开。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>1992年11月，大陆的两岸关系协会与台湾的海峡交流基金会就解决两会事务性商谈中所达成的以口头方式表达的“海峡两岸均坚持一个中国原则”的共识，后被称为“九二共识”。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>2016年10月，党的十八届六中全会正式明确习近平总书记为党中央的核心、全党的核心，提出“以习近平同志为核心的党中央”。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的十九大报告号召：我们要牢固树立中国特色生态文明观，推动形成人与自然和谐发展现代化建设新格局，为保护生态环境作出我们这代人的努力！</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的十九大报告强调，我们坚决维护国家主权和领土完整，绝不容忍国家分裂的历史悲剧重演。一切分裂祖国的活动都必将遭到全体中国人坚决反对。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的十九大报告指出，发展是解决我国一切问题的基础和关键，发展必须是科学发展，必须坚定不移贯彻创新、协调、绿色、开放、共享的发展理念。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的十九大报告指出，全党同志特别是高级干部要加强党性锻炼，不断提高政治觉悟和政治能力，把对党忠诚、为党分忧、为党尽职作为根本政治担当，永葆共产党人政治本色。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的十九大报告指出，全党要充分认识这场伟大斗争的长期性、复杂性、艰巨性，发扬斗争精神，提高斗争本领，不断夺取伟大斗争新胜利。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的十九大报告指出，十九大报告指出，要建设知识型、技能型、学习型劳动者大军。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的十九大报告指出，我们党深刻认识到，实现中华民族伟大复兴，必须建立先进社会制度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的十九大报告指出，要坚持照镜子、正衣冠、勤洗澡、治治病的要求，开展党的群众路线教育实践活动和“三严三实”专题教育，推进“两学一做”学习教育常态化制度化，全党理想信念更加坚定、党性更加坚强。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的十九大报告指出，一个政党，一个政权，其前途命运取决于人心向背。人民群众反对什么、痛恨什么，我们就要坚决防范和纠正什么。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的十九大报告指出，指出，要倡导创新文化，强化知识产权创造、保护、运用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的十九大同意把中国特色社会主义文艺同中国特色社会主义道路、中国特色社会主义理论体系、中国特色社会主义制度一道写入党章。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>关于环境问题，十九大报告要求：构建企业为主导、政府为主体、社会组织和公众共同参与的环境治理体系。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>关于人民收入，十九大报告要求：鼓励自主创业致富，扩大中高等收入群体，增加全民收入，调节过高收入，取缔非法收入。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>纪念中国人民抗日战争暨世界反法西斯战争胜利70周年阅兵式在2015年9月3日举行。9月3日是“中国人民抗日战争胜利纪念日”，是由第十二届全国人大常委会第七次会议以国家立法的形式通过决议确定的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>近代以来，救亡图存成为中华民族和中国人民迫在眉睫的历史使命。争取民族独立、人民解放，实现国家富强、人民富裕，成为中国人民必须完成的两大历史任务。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>十八大以来，中国实施共建“一带一路”倡议，发起创办亚洲发展投资银行，设立丝路基金。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>十九大报告指出，世界正处于大发展大变革大调整时期，和平与发展仍然是时代主题。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>我国是工人阶级领导的、以工农联盟为基础的人民民主专政的社会主义国家，国家一切权力属于人民。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>我们党深刻认识到，实现中华民族伟大复兴，必须推翻压在中国人民头上的帝国主义、封建主义、资本主义三座大山，实现民族独立、人民解放、国家统一、社会稳定。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中国共产党的领导是中国特色社会主义最本质的特征，是中国特色社会主义制度的最大优势。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中国共产党始终把为人类作出新的更大的贡献作为自己的使命。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中国坚定奉行独立自主的和平外交政策，尊重各国人民自主选择发展道路的权利，维护国际公平正义，反对把自己的意志强加于人，反对干涉别国内政，反对以强凌弱。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中国特色社会主义，是中国共产党和中国人民团结的旗帜、奋进的旗帜、胜利的旗帜，是当代中国发展进步的根本方向。</desc>
+        <ans>t</ans>
+    </qstn>
+</library>

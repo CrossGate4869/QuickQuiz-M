@@ -1,0 +1,2269 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <key>QuickQuiz</key>
+    <title>2016两学一做竞赛</title>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，中国共产党的宗旨是（   ）。</desc>
+        <opt ans="f">实现社会主义现代化</opt>
+        <opt ans="t">全心全意为人民服务</opt>
+        <opt ans="f">坚持党的基本路线和基本纲领不动摇  </opt>
+        <opt ans="f">坚持群众路线</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，申请人入党，要有（   ）名正式党员作介绍人。</desc>
+        <opt ans="f">一名</opt>
+        <opt ans="t">两名</opt>
+        <opt ans="f">三名 </opt>
+        <opt ans="f">四名</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，党的中央委员会每届任期（   ）年。</desc>
+        <opt ans="f">三 </opt>
+        <opt ans="f">四  </opt>
+        <opt ans="t">五 </opt>
+        <opt ans="f">六</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，党员的党龄，从（   ）之日算起。</desc>
+        <opt ans="f">递交入党申请书</opt>
+        <opt ans="f">递交入党志愿书</opt>
+        <opt ans="f">支部大会通过其为预备党员</opt>
+        <opt ans="t">预备期满转为正式党员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定,党员如果没有正当理由，连续（   ）不参加党的组织生活，或不交纳党费，或不做党所分配的工作，就被认为是自行脱党。</desc>
+        <opt ans="f">3个月</opt>
+        <opt ans="t">6个月</opt>
+        <opt ans="f">12个月</opt>
+        <opt ans="f">24个月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，中国共产党党员是（   ）的有共产主义觉悟的先锋战士。</desc>
+        <opt ans="t">中国工人阶级 </opt>
+        <opt ans="f">中国无产阶级</opt>
+        <opt ans="f">中国先进阶级 </opt>
+        <opt ans="f">中国劳动人民</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，党坚持标本兼治、综合治理、惩防并举、注重预防的方针，建立健全惩治和预防腐败体系，坚持不懈地反对腐败，加强（   ）建设和（   ）建设。</desc>
+        <opt ans="f">思想 民主</opt>
+        <opt ans="f">党风  思想</opt>
+        <opt ans="f">廉政  思想 </opt>
+        <opt ans="t">党风 廉政</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，当党员对党的决议和政策有不同意见时，下列说法中，正确的应该是（   ）。</desc>
+        <opt ans="f">可以不执行党的决议和政策 </opt>
+        <opt ans="t">在坚决执行的前提下，可以声明保留，并且可以把自己的意见向党的上级组织直至中央提出 </opt>
+        <opt ans="f">必须坚决执行，不可以声明保留，也不允许向上级组织提出 </opt>
+        <opt ans="f">在不执行的同时阳奉阴违</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，对于严重触犯刑律的党员，必须（   ）。</desc>
+        <opt ans="t">开除党籍 </opt>
+        <opt ans="f">留党察看 </opt>
+        <opt ans="f">撤销党内职务</opt>
+        <opt ans="f">开除公职</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》第二十九条规定，企业、农村、机关、学校、科研院所、街道社区、社会组织、人民解放军连队和其他基层单位,凡是有（   ）以上的，都应当成立党的基层组织。</desc>
+        <opt ans="f">预备和正式党员三人   </opt>
+        <opt ans="t">正式党员三人</opt>
+        <opt ans="f">预备或正式党员三人   </opt>
+        <opt ans="f">预备党员三人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的各级代表大会的代表和委员会的产生，要体现（ ）的意志。</desc>
+        <opt ans="f">党员代表  </opt>
+        <opt ans="t">选举人  </opt>
+        <opt ans="f">党组织  </opt>
+        <opt ans="f">全体人民</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>预备党员需要继续考察和教育的，可以延长预备期，但不能超过（ ）。</desc>
+        <opt ans="f">半年  </opt>
+        <opt ans="t">一年  </opt>
+        <opt ans="f">一年半  </opt>
+        <opt ans="f">两年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的基层组织是党在社会基层组织中的（ ），是党的全部工作和战斗力的基础。</desc>
+        <opt ans="f">领导核心  </opt>
+        <opt ans="t">战斗堡垒  </opt>
+        <opt ans="f">坚强核心  </opt>
+        <opt ans="f">中坚力量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党章规定的各项纪律都必须严格遵守和执行，而最首要、最核心的就是要严格遵守和执行党的（ ）</desc>
+        <opt ans="t">政治纪律</opt>
+        <opt ans="f">组织纪律</opt>
+        <opt ans="f">经济工作纪律</opt>
+        <opt ans="f">群众工作纪律</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的（ ）纪律是密切党与群众血肉联系的重要保证。</desc>
+        <opt ans="f">政治  </opt>
+        <opt ans="f">组织  </opt>
+        <opt ans="f">经济工作 </opt>
+        <opt ans="t">群众工作</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党内（ ）是党的生命。</desc>
+        <opt ans="f">监督  </opt>
+        <opt ans="f">纪律  </opt>
+        <opt ans="t">民主  </opt>
+        <opt ans="f">制度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>凡是成立党的新组织，或是撤销党的原有组织，必须由（ ）决定。</desc>
+        <opt ans="t">上级党组织   </opt>
+        <opt ans="f">上级党委和政府  </opt>
+        <opt ans="f">党中央  </opt>
+        <opt ans="f">上级党组织和纪委</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（ ）是党的根本组织制度和领导制度，是最重要的组织纪律。</desc>
+        <opt ans="f">多党合作制  </opt>
+        <opt ans="t">民主集中制  </opt>
+        <opt ans="f">常委会议事制  </opt>
+        <opt ans="f">民主生活会</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的基层委员会每届任期三年至五年，总支部委员会、支部委员会每届任期（ ）。</desc>
+        <opt ans="f">三年或五年  </opt>
+        <opt ans="f">一年或两年  </opt>
+        <opt ans="t">两年或三年  </opt>
+        <opt ans="f">三年或四年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>民族精神的核心是爱国主义，时代精神的核心是（ ）。</desc>
+        <opt ans="f">求真务实  </opt>
+        <opt ans="f">与时俱进  </opt>
+        <opt ans="t">改革创新  </opt>
+        <opt ans="f">改革开放</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的全国代表大会每五年举行一次，由（ ）召集。</desc>
+        <opt ans="t">中央委员会</opt>
+        <opt ans="f">中央组织部</opt>
+        <opt ans="f">中央书记处</opt>
+        <opt ans="f">中央宣传部</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国共产党领导人民发展社会主义民主政治，坚持（ ）、人民当家作主、依法治国有机统一，走中国特色社会主义政治发展道路。</desc>
+        <opt ans="t">党的领导  </opt>
+        <opt ans="f">物质生产 </opt>
+        <opt ans="f">精神文明建设</opt>
+        <opt ans="f">改革开放</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员必须自觉遵守党的纪律，模范遵守（ ），严格保守党和国家的秘密，执行党的决定，服从组织分配，积极完成党的任务。</desc>
+        <opt ans="f">国家的法律  </opt>
+        <opt ans="t">国家的法律法规</opt>
+        <opt ans="f">法律法规</opt>
+        <opt ans="f">宪法</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党章规定，党的各级委员会在决策时，凡属重大问题都要按照集体领导、民主集中、（ ）、会议决定的原则，由党的委员会集体讨论，作出决定。</desc>
+        <opt ans="t">个别酝酿</opt>
+        <opt ans="f">个别商谈</opt>
+        <opt ans="f">私下酝酿</opt>
+        <opt ans="f">特别酝酿</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的纪律是党的各级组织和全体党员必须遵守的（ ），是维护党的团结统一、完成党的任务的保证。</desc>
+        <opt ans="f">行为规范  </opt>
+        <opt ans="t">行为规则  </opt>
+        <opt ans="f">党纪党规  </opt>
+        <opt ans="f">基本准则</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党章规定，党员必须履行的义务有（   ）条。</desc>
+        <opt ans="f">6</opt>
+        <opt ans="f">7</opt>
+        <opt ans="t">8</opt>
+        <opt ans="f">9</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党章规定，党员享有的权利有（   ）条。</desc>
+        <opt ans="f">6</opt>
+        <opt ans="f">7</opt>
+        <opt ans="t">8</opt>
+        <opt ans="f">9</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>科学发展观是发展中国特色社会主义必须坚持和贯彻的   （   ）</desc>
+        <opt ans="f">基本国策</opt>
+        <opt ans="t">指导思想</opt>
+        <opt ans="f">根本方针</opt>
+        <opt ans="f">基本标准</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（   ）是我们党执政兴国的第一要务</desc>
+        <opt ans="t">发展</opt>
+        <opt ans="f">改革</opt>
+        <opt ans="f">开发</opt>
+        <opt ans="f">稳定</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中央委员会认为有必要，或者（   ）以上的省一级组织提出要求，全国代表大会可以提前举行。</desc>
+        <opt ans="t">三分之一</opt>
+        <opt ans="f">三分之二</opt>
+        <opt ans="f">二分之一</opt>
+        <opt ans="f">四分之三</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，中国共产党党员永远是劳动人民的普通一员。除了法律和政策规定范围内的个人利益和工作职权以外，所有共产党员都不得谋求任何（   ）。</desc>
+        <opt ans="t">私利和特权</opt>
+        <opt ans="f">政治权力</opt>
+        <opt ans="f">经济利益</opt>
+        <opt ans="f">物质享受</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，在党组织讨论决定对党员的党纪处分或作出鉴定时，下列说法中，正确的应该是（   ）。</desc>
+        <opt ans="f">本人无权参加和进行申辩</opt>
+        <opt ans="f">其他党员不可以为他作证和辩护</opt>
+        <opt ans="t">本人有权参加和进行申辩，其他党员可以为他作证和辩护</opt>
+        <opt ans="f">本人有权参加和进行申辩，其他党员不可以为他作证和辩护</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》中关于留党察看党员的权利，表述正确的是（   ）。</desc>
+        <opt ans="t">党员在留党察看期间没有表决权、选举权和被选举权</opt>
+        <opt ans="f">党员在留党察看期间没有表决权，但有选举权和被选举权</opt>
+        <opt ans="f">党员在留党察看期间有表决权，但没有选举权和被选举权</opt>
+        <opt ans="f">党员在留党察看期间有表决权、选举权和被选举权</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，党员经过留党察看，确已改正错误的，应当恢复其党员的权利;坚持错误不改的，应当（   ）。</desc>
+        <opt ans="f">严重警告</opt>
+        <opt ans="f">撤销党内职务</opt>
+        <opt ans="t">开除党籍</opt>
+        <opt ans="f">撤销党内外职务</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>改革开放以来我们取得一切成绩和进步的根本原因是（   ）。</desc>
+        <opt ans="f">坚持了一个中心两个基本点    </opt>
+        <opt ans="t">开辟了中国特色社会主义道路</opt>
+        <opt ans="f">形成了中国特色社会主义理论体系   </opt>
+        <opt ans="f">确立了有中国特色社会主义制度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（ ）是第一生产力。</desc>
+        <opt ans="t">科学技术</opt>
+        <opt ans="f">工业技术</opt>
+        <opt ans="f">文化</opt>
+        <opt ans="f">制度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员受到警告处分后的（ ）内，不得在党内提升职务和向党外组织推荐担任高于原任职务的党外职务。</desc>
+        <opt ans="f">半年  </opt>
+        <opt ans="t">一年  </opt>
+        <opt ans="f">两年  </opt>
+        <opt ans="f">三年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员受到严重警告处分后的（ ）内，不得在党内提升职务和向党外组织推荐担任高于原任职务的党外职务。</desc>
+        <opt ans="f">一年  </opt>
+        <opt ans="t">一年半  </opt>
+        <opt ans="f">两年  </opt>
+        <opt ans="f">三年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员受到开除党籍处分，（ ）内不得重新入党。</desc>
+        <opt ans="f">两年   </opt>
+        <opt ans="f">三年   </opt>
+        <opt ans="f">四年   </opt>
+        <opt ans="t">五年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>故意违纪受处分后又因故意违纪应当受到党纪处分的，应当(   )处分。</desc>
+        <opt ans="t">从重   </opt>
+        <opt ans="f">加重   </opt>
+        <opt ans="f">累加  </opt>
+        <opt ans="f">叠加</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中国共产党纪律处分条例》自（   ）起施行。</desc>
+        <opt ans="f">2015年12月1日    </opt>
+        <opt ans="t">2016年1月1日   </opt>
+        <opt ans="f">2016年5月1日     </opt>
+        <opt ans="f">2016年7月1日  </opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党内审查是纪律审查，依据是（  ）。</desc>
+        <opt ans="f">国家法律 </opt>
+        <opt ans="t">党的纪律</opt>
+        <opt ans="f">社会道德  </opt>
+        <opt ans="f">社会舆论</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>妄议中央大政方针，破坏党的集中，属于违反（  ）的行为。</desc>
+        <opt ans="t">政治纪律 </opt>
+        <opt ans="f">组织纪律  </opt>
+        <opt ans="f">工作纪律  </opt>
+        <opt ans="f">群众纪律</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中国共产党纪律处分条例》由（   ）负责解释。</desc>
+        <opt ans="f">中共中央组织部      </opt>
+        <opt ans="f">中共中央书记处     </opt>
+        <opt ans="t">中共中央纪律检查委员会  </opt>
+        <opt ans="f">全国人民代表大会</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在纪律集中整饬过程中，不收敛、不收手的，应当从重或者(   ）</desc>
+        <opt ans="f">警告处分</opt>
+        <opt ans="f">记过处分</opt>
+        <opt ans="t">加重处分</opt>
+        <opt ans="f">从严处分</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>强迫、唆使他人违纪的，应当从重或者(   )。</desc>
+        <opt ans="f">警告处分</opt>
+        <opt ans="f">记过处分</opt>
+        <opt ans="f">从严处分</opt>
+        <opt ans="t">加重处分</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>二人以上(含二人)共同故意违纪的，对为首者(   )。</desc>
+        <opt ans="f">警告处分</opt>
+        <opt ans="f">记过处分</opt>
+        <opt ans="t">从重处分</opt>
+        <opt ans="f">加重处分</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党组织在纪律审查中发现党员有刑法规定的行为，虽不涉及犯罪但须追究党纪责任的，应当视具体情节给予警告直至(   )处分。</desc>
+        <opt ans="f">严重警告</opt>
+        <opt ans="f">撤销党内职务</opt>
+        <opt ans="f">留党察看</opt>
+        <opt ans="t">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党组织在纪律审查中发现党员有其他违法行为，影响党的形象，损害党、国家和人民利益的，应当视情节轻重给予(  )。</desc>
+        <opt ans="f">警告处分</opt>
+        <opt ans="f">记过处分</opt>
+        <opt ans="t">党纪处分</opt>
+        <opt ans="f">加重处分</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员因故意犯罪被依法判处刑法规定的主刑(含宣告缓刑)的，应当给予(  )处分。</desc>
+        <opt ans="f">留党察看</opt>
+        <opt ans="f">严重警告</opt>
+        <opt ans="f">撤销党内职务</opt>
+        <opt ans="t">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在初核、立案调查过程中，涉嫌违纪的党员能够配合调查工作，如实坦白组织已掌握的其本人主要违纪事实的，可以(   )处分。</desc>
+        <opt ans="f">免于</opt>
+        <opt ans="t">从轻</opt>
+        <opt ans="f">警告</opt>
+        <opt ans="f">行政</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党纪处分决定作出后，应当在(    )内向受处分党员所在党的基层组织中的全体党员及其本人宣布，并按照干部管理权限和组织关系将处分决定材料归入受处分者档案。</desc>
+        <opt ans="t">一个月</opt>
+        <opt ans="f">两个月</opt>
+        <opt ans="f">三个月</opt>
+        <opt ans="f">四个月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对严重违反党纪的党组织的纪律处理措施是（ ）。</desc>
+        <opt ans="f">警告</opt>
+        <opt ans="f">撤销领导班子成员职务职务</opt>
+        <opt ans="f">开除主要领导党籍</opt>
+        <opt ans="t">改组或解散</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对抗组织审查, 阻止他人揭发检举、提供证据材料的，情节严重的,给予(   )处分。</desc>
+        <opt ans="f">撤销党内职务</opt>
+        <opt ans="f">留党察看</opt>
+        <opt ans="t">开除党籍</opt>
+        <opt ans="f">严重警告</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>违反民主集中制原则,拒不执行或者擅自改变党组织作出的重大决定,或者违反议事规则,个人或者少数人决定重大问题的,情节严重的,给予(  )处分。</desc>
+        <opt ans="f">警告或者严重警告处分</opt>
+        <opt ans="t">撤销党内职务或者留党察看处分</opt>
+        <opt ans="f">留党察看或者开除党籍处分</opt>
+        <opt ans="f">不追究其责任</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下级党组织拒不执行或者擅自改变上级党组织决定的,对直接责任者和领导责任者,给予(   )。</desc>
+        <opt ans="t">警告或者严重警告处分</opt>
+        <opt ans="f">撤销党内职务或者留党察看处分</opt>
+        <opt ans="f">留党察看或者开除党籍处分</opt>
+        <opt ans="f">不追究其责任</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>诬告陷害他人意在使他人受纪律追究的,情节较重的,给予(   )处分。</desc>
+        <opt ans="f">警告或者严重警告</opt>
+        <opt ans="t">撤销党内职务或者留党察看</opt>
+        <opt ans="f">留党察看或者开除党籍</opt>
+        <opt ans="f">不追究其责任</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在干部选拔任用工作中,违反干部选拔任用规定,对直接责任者和领导责任者,情节严重的,给予(   )处分。</desc>
+        <opt ans="f">严重警告</opt>
+        <opt ans="f">撤销党内职务</opt>
+        <opt ans="f">留党察看</opt>
+        <opt ans="t">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>脱离组织出走时间超过(  )的,按照自行脱党处理,党内予以除名。</desc>
+        <opt ans="f">二个月</opt>
+        <opt ans="f">三个月</opt>
+        <opt ans="t">六个月</opt>
+        <opt ans="f">九个月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>利用职权或者职务上的影响操办婚丧喜庆事宜,在社会上造成不良影响的,给予警告或者严重警告处分;情节严重的,给予(  )处分。</desc>
+        <opt ans="f">警告</opt>
+        <opt ans="f">严重警告</opt>
+        <opt ans="t">撤销党内职务</opt>
+        <opt ans="f">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>25.党和国家机关违反有关规定经商办企业的,对直接责任者和领导责任者,给予警告或者严重警告处分;情节严重的,给予 (    )处分。</desc>
+        <opt ans="f">警告</opt>
+        <opt ans="t">撤销党内职务</opt>
+        <opt ans="f">留党察看</opt>
+        <opt ans="f">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>利用职权或者职务上的影响,违反有关规定占用公物归个人使用,时间超过(   ),情节较重的,给予警告或者严重警告处分。</desc>
+        <opt ans="f">一个月</opt>
+        <opt ans="f">三个月</opt>
+        <opt ans="t">六个月</opt>
+        <opt ans="f">一年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>弄虚作假,欺上瞒下,损害群众利益的，情节严重的,给予 (  ) 。</desc>
+        <opt ans="f">警告或者严重警告处分</opt>
+        <opt ans="t">撤销党内职务或者留党察看处分</opt>
+        <opt ans="f">留党察看或者开除党籍处分</opt>
+        <opt ans="f">不追究其责任</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>遇到国家财产和群众生命财产受到严重威胁时,能救而不救,情节较重的,给予警告、严重警告或者撤销党内职务处分;情节严重的,给予(   )</desc>
+        <opt ans="f">警告或者严重警告处分</opt>
+        <opt ans="f">撤销党内职务或者留党察看处分</opt>
+        <opt ans="t">留党察看或者开除党籍处分</opt>
+        <opt ans="f">不追究其责任</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>私自留存涉及党组织关于干部选拔任用、纪律审查等方面资料,情节较重的,给予 (   )。</desc>
+        <opt ans="t">警告或者严重警告处分</opt>
+        <opt ans="f">撤销党内职务或者留党察看处分</opt>
+        <opt ans="f">留党察看或者开除党籍处分</opt>
+        <opt ans="f">不追究其责任</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>利用职权、教养关系、从属关系或者其他相类似关系与他人发生性关系的，情节严重的给予（  ）处分。</desc>
+        <opt ans="f">A警告</opt>
+        <opt ans="f">严重警告</opt>
+        <opt ans="f">撤销党内职务</opt>
+        <opt ans="t">开除党籍处分</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>预备党员违犯党纪，情节较轻者，处理措施是（  ）</desc>
+        <opt ans="f">应当取消其预备党员资格</opt>
+        <opt ans="f">给予警告处分</opt>
+        <opt ans="t">可以保留预备党员资格，党组织应当对其批评教育或者延长预备</opt>
+        <opt ans="f">给予严重警告处分</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对违反政治纪律行为的处分情形，不包括（ ）。</desc>
+        <opt ans="f">通过信息网络等渠道，妄议中央大政方针，破坏党的集中统一，情节严重的，给予开除党籍处分</opt>
+        <opt ans="f">对抗组织审查，包庇同案人员，情节严重的，给予开除党籍处分</opt>
+        <opt ans="t">违反有关规定取得国（境）外永久居留资格，给予撤销党内职务处分</opt>
+        <opt ans="f">利用宗教活动反对党的路线、方针、政策和决议，破坏民族团结，对策划者、组织者和骨干分子给予留党察看或开除党籍处分</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列（ ）行为，一般应当予以除名。</desc>
+        <opt ans="f">违反个人有关事项报告规定，不报告、不如实报告的</opt>
+        <opt ans="f">在组织进行谈话、函询时，不如实向组织说明问题的</opt>
+        <opt ans="f">不如实填报个人档案资料的</opt>
+        <opt ans="t">隐瞒入党前严重错误的</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>违反会议活动管理规定，到禁止召开会议的风景名胜区开会，属于违反（ ）行为。</desc>
+        <opt ans="t">廉洁纪律</opt>
+        <opt ans="f">组织纪律  </opt>
+        <opt ans="f">政治纪律  </opt>
+        <opt ans="f">工作纪律</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>留党察看处分，分为留党察看一年、留党察看（ ）年。</desc>
+        <opt ans="t">二年  </opt>
+        <opt ans="f">三年  </opt>
+        <opt ans="f">四年</opt>
+        <opt ans="f">五年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员在国(境)外、外国驻华使(领)馆申请政治避难，或者违纪后逃往国(境)外、外国驻华使(领)馆的，应给予其（ ）处分。</desc>
+        <opt ans="f">严重警告 </opt>
+        <opt ans="f">撤销党内职务 </opt>
+        <opt ans="t">开除党籍 </opt>
+        <opt ans="f">留党察看</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在特殊时期或者紧急状况下，拒不执行党组织决定的，给予（ ）处分。</desc>
+        <opt ans="f">严重警告</opt>
+        <opt ans="f">撤销党内职务</opt>
+        <opt ans="f">警告</opt>
+        <opt ans="t">留党察看或者开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>违反民主集中制原则，拒不执行或者擅自改变党组织作出的重大决定，或者违反（ ），个人或者少数人决定重大问题的，给予警告或者严重警告处分。</desc>
+        <opt ans="t">议事规则 </opt>
+        <opt ans="f">行政监察法 </opt>
+        <opt ans="f">行政诉讼法</opt>
+        <opt ans="f">服从原则</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>违纪行为有关领导责任人员区分为：直接责任者、主要领导责任者和（ ） </desc>
+        <opt ans="t">重要领导责任者 </opt>
+        <opt ans="f">领导责任者</opt>
+        <opt ans="f">间接领导责任者 </opt>
+        <opt ans="f">主要负责人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的各级代表大会的代表受到留党察看以上(含留党察看)处分的，党组织应当（ ）其代表资格。</desc>
+        <opt ans="f">保留  </opt>
+        <opt ans="f">中止   </opt>
+        <opt ans="t">终止  </opt>
+        <opt ans="f">暂留</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>某县直单位党委书记故意违纪受处分后又因故意违纪应当受到党纪处分的，应当（ ）。</desc>
+        <opt ans="f">加重处分</opt>
+        <opt ans="t">从重处分 </opt>
+        <opt ans="f">正常给予党纪处分</opt>
+        <opt ans="f">累积处分</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对违纪后下落不明的党员，除有严重违纪行为，应当给予开除党籍处分的情况外，下落不明时间超过（   ）的，党组织应当按照党章规定对其予以除名。</desc>
+        <opt ans="f">三个月    </opt>
+        <opt ans="t">六个月</opt>
+        <opt ans="f">一年</opt>
+        <opt ans="f">两年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党组织不履行全面从严治党主体责任或者履行全面从严治党主体责任不力，造成严重损害或者不良影响的，属于违反（   ）的行为。</desc>
+        <opt ans="f">政治纪律</opt>
+        <opt ans="f">组织纪律</opt>
+        <opt ans="t">工作纪律  </opt>
+        <opt ans="f">群众纪律</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>执行党纪处分决定的机关或者受处分党员所在单位，应当在（  ）内将处分决定的执行情况向作出或者批准处分决定的机关报告。</desc>
+        <opt ans="f">一个月    </opt>
+        <opt ans="f">三个月    </opt>
+        <opt ans="t">六个月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>某县党员干部在互联网上公开发表反对党的改革开放决策的文章，给予（   ）处分。</desc>
+        <opt ans="f">严重警告</opt>
+        <opt ans="f">撤销党内职务 </opt>
+        <opt ans="f">留党察看 </opt>
+        <opt ans="t">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在党内搞团团伙伙、结党营私、拉帮结派、培植私人势力或者通过搞利益交换、为自己营造声势等活动捞取政治资本的，给予（   ）以上处分。</desc>
+        <opt ans="t">严重警告  </opt>
+        <opt ans="f">撤销党内职务</opt>
+        <opt ans="f">留党察看</opt>
+        <opt ans="f">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>一个违纪行为同时触犯纪律处分条例两个以上（含两个）条款的，依照（  ）定性处理。</desc>
+        <opt ans="f">处分较轻的条款 </opt>
+        <opt ans="f">任意一款 </opt>
+        <opt ans="f">两款分别 </opt>
+        <opt ans="t">处分较重的条款</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在操办婚丧喜庆事宜中，借机敛财或者有其他侵犯国家、集体和人民利益行为的，最高可给予（   ）处分。</desc>
+        <opt ans="f">严重警告</opt>
+        <opt ans="f">撤销党内职务</opt>
+        <opt ans="f">留党察看</opt>
+        <opt ans="t">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员以组织讲座论坛、报告会、座谈会等方式，反对党的重大方针政策，造成严重不良影响的，对策划者、组织者和骨干分子，给予（   ）处分。</desc>
+        <opt ans="f">严重警告</opt>
+        <opt ans="f">撤销党内职务 </opt>
+        <opt ans="f">留党察看 </opt>
+        <opt ans="t">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列不是违反组织纪律的行为的是（ ）。</desc>
+        <opt ans="t">违反党的优良传统和工作惯例等党的规矩</opt>
+        <opt ans="f">违反民主集中制原则</opt>
+        <opt ans="f">拒不执行或者擅自改变党组织作出的重大决定</opt>
+        <opt ans="f">违反议事规则</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列不是违反廉洁纪律的行为的是（ ）。</desc>
+        <opt ans="t">党员领导干部违反有关规定组织、参加自发成立的老乡会、校友会、战友会</opt>
+        <opt ans="f">利用职权或者职务上的影响为他人谋取利益</opt>
+        <opt ans="f">纵容、默许配偶、子女利用本人职务上的影响谋取私利</opt>
+        <opt ans="f">收受可能影响公正执行公务的礼品、礼金、消费卡</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>违反有关规定办理因私出国(境)证件、前往港澳通行证或者未经批准出入国(边)境，情节严重的，给予（   ）处分。</desc>
+        <opt ans="f">严重警告 </opt>
+        <opt ans="f">撤销党内职务 </opt>
+        <opt ans="f">留党察看 </opt>
+        <opt ans="t">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>某市审计局副局长刘某因严重违纪受到留党察看二年处分。一年内，有关部门又查清刘某违反廉洁纪律，依据《中国共产党纪律处分条例》，对刘某应当给予其（ ）。</desc>
+        <opt ans="t">开除党籍处分  </opt>
+        <opt ans="f">延长一年察看期  </opt>
+        <opt ans="f">延长两年察看期 </opt>
+        <opt ans="f">撤销党内职务</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员在考试、录取工作中，有泄露试题、考场舞弊、涂改考卷、违规录取等违反有关规定行为且情节严重的，给予（   ）处分。</desc>
+        <opt ans="f">警告或者严重警告 </opt>
+        <opt ans="f">撤销党内职务 </opt>
+        <opt ans="f">留党察看  </opt>
+        <opt ans="t">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党和国家机关违反有关规定经商办企业的，对直接责任者和领导责任者，情节较重的，给予 (    ) 处分。</desc>
+        <opt ans="f">警告</opt>
+        <opt ans="f">严重警告  </opt>
+        <opt ans="t">撤销党内职务</opt>
+        <opt ans="f">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>违反有关规定配备、购买、更换、装饰、使用公务用车或者有其他违反公务用车管理规定的行为，对（   ）给予党纪处分。</desc>
+        <opt ans="f">直接责任者   </opt>
+        <opt ans="f">领导责任者  </opt>
+        <opt ans="f">间接责任者   </opt>
+        <opt ans="t">直接责任者和领导责任者</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在民主推荐、民主测评、组织考察和党内选举中搞拉票、助选等非组织活动的，给予 (     )。</desc>
+        <opt ans="f">通报批评   </opt>
+        <opt ans="t">警告或者严重警告  </opt>
+        <opt ans="f">撤销党内职务或者留党察看    </opt>
+        <opt ans="f">开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记在十八届中央纪委五次全会上强调，(     )是成文的规矩，一些未明文列入纪律的规矩是不成文的纪律;(     )是刚性的规矩，一些未明文列入纪律的规矩是自我约束的纪律。</desc>
+        <opt ans="f">道德 纪律</opt>
+        <opt ans="f">道德 规则</opt>
+        <opt ans="t">纪律 纪律</opt>
+        <opt ans="f">政策 道德</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十八届中央纪委五次全会强调，坚持“一案双查”，对违反党的政治纪律和政治规矩、组织纪律，“四风”问题突出、发生顶风违纪问题，出现区域性、系统性腐败案件的地方、部门和单位，既追究（   ）、（   ），又严肃追究领导责任。( )</desc>
+        <opt ans="f">直接责任 间接责任</opt>
+        <opt ans="f">直接责任 监督责任</opt>
+        <opt ans="t">主体责任 监督责任</opt>
+        <opt ans="f">主要责任 主体责任</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平同志在十八届中央政治局常委同中外记者见面时讲话中说，（ ）就是我们的奋斗目标。</desc>
+        <opt ans="f">实现中华民族伟大复兴的中国梦    </opt>
+        <opt ans="t">人民对美好生活的向往</opt>
+        <opt ans="f">建设中国特色社会主义            </opt>
+        <opt ans="f">预防和整治党内腐败</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>建设中国特色社会主义的总依据是（ ）。</desc>
+        <opt ans="t">社会主义初级阶段基本国情   </opt>
+        <opt ans="f">不断变化的国内外形势</opt>
+        <opt ans="f">我们党面临的四大危险     </opt>
+        <opt ans="f">党的基本路线</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“一带一路”是指丝绸之路经济带和（ ）</desc>
+        <opt ans="t">21世纪海上丝绸之路</opt>
+        <opt ans="f">21世纪丝绸之路 </opt>
+        <opt ans="f">海上丝绸之路</opt>
+        <opt ans="f">海洋丝绸之路</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十八大号召全党要坚定中国特色社会主义的“三个自信”是指（ ）</desc>
+        <opt ans="f">思想自信、道路自信、政策自信   </opt>
+        <opt ans="f">思想自信、方向自信、制度自信</opt>
+        <opt ans="f">理论自信、方向自信、政策自信   </opt>
+        <opt ans="t">道路自信、理论自信、制度自信</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2013年1月5日，习近平在新进中央委员会的委员、候补委员学习贯彻党的十八大精神研讨班开班式上指出，（ ）是关系党的事业兴衰成败第一位的问题。</desc>
+        <opt ans="t">道路问题   </opt>
+        <opt ans="f">认识问题  </opt>
+        <opt ans="f">发展问题   </opt>
+        <opt ans="f">改革问题</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>协调推进“四个全面”的根本保证是（ ）。</desc>
+        <opt ans="f">全面落实建成小康社会   </opt>
+        <opt ans="f">全面深化改革   </opt>
+        <opt ans="f">全面依法治国       </opt>
+        <opt ans="t">全面从严治党</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>全面建成小康社会最艰巨最繁重的任务是（ ）</desc>
+        <opt ans="f">精准扶贫  </opt>
+        <opt ans="t">农村  </opt>
+        <opt ans="f">去库存  </opt>
+        <opt ans="f">去产能</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在党长期执政的条件下，必须解决的两大历史性课题之一是( )</desc>
+        <opt ans="f">不断改革党的建设  </opt>
+        <opt ans="f">不断提高党的拒腐防变和抵御风险的能力</opt>
+        <opt ans="f">不断改善党的领导  </opt>
+        <opt ans="t">不断深化改革</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国特色社会主义是由道路、理论体系、制度三位一体构成的，其中（ ）是根本保障。</desc>
+        <opt ans="f">中国特色社会主义道路   </opt>
+        <opt ans="f">中国特色社会主义理论体系</opt>
+        <opt ans="t">中国特色社会主义制度   </opt>
+        <opt ans="f">中国特色社会主义实践</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国梦的深厚源泉和根本归宿都在于( )</desc>
+        <opt ans="f">小康社会   </opt>
+        <opt ans="t">人民利益   </opt>
+        <opt ans="f">国家富强   </opt>
+        <opt ans="f">民族复兴</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（ ）是社会主义的生命，是我们党始终高扬的光辉旗帜。</desc>
+        <opt ans="f">民主集中制   </opt>
+        <opt ans="f">为人民服务   </opt>
+        <opt ans="t">人民民主   </opt>
+        <opt ans="f">无产阶级专政</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于把握和处理好全面深化改革的一些重大关系，习近平总书记强调：我们一定要坚持胆子要大，步子要稳，战略上要（ ），战术上则要稳扎稳打。</desc>
+        <opt ans="f">艰苦实干</opt>
+        <opt ans="t">勇于进取 </opt>
+        <opt ans="f">解放思想 </opt>
+        <opt ans="f">统筹全局</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国走和平发展道路、倡导合作共赢是有底线的，这就是坚决(     )</desc>
+        <opt ans="t">维护国家核心利益   </opt>
+        <opt ans="f">反对霸权主义  </opt>
+        <opt ans="f">反对强权政治</opt>
+        <opt ans="f">维护国家统一、领土完整</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(    )是共产党人精神上的“钙”。</desc>
+        <opt ans="t">理想信念  </opt>
+        <opt ans="f">群众路线   </opt>
+        <opt ans="f">公仆意识   </opt>
+        <opt ans="f">党性修养</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记反复强调，“要发扬(     )的精神”，不折腾、不反复，切实把工作落到实处，做出经得起实践、人民、历史检验的实绩。</desc>
+        <opt ans="t">钉钉子  </opt>
+        <opt ans="f">好学习</opt>
+        <opt ans="f">树榜样</opt>
+        <opt ans="f">思进取</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国梦的本质是国家富强、民族振兴、（ ）。</desc>
+        <opt ans="f">全面建成小康社会</opt>
+        <opt ans="t">人民幸福 </opt>
+        <opt ans="f">国家统一  </opt>
+        <opt ans="f">综合国力世界第一</opt>
+        <opt ans="f">   </opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十八届五中全会鲜明提出了五大发展理念，其中引领发展的第一动力是（ ）。</desc>
+        <opt ans="t">创新    </opt>
+        <opt ans="f">绿色  </opt>
+        <opt ans="f">共享  </opt>
+        <opt ans="f">协调</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>加强和改进党的作风建设的核心问题是（ ）。</desc>
+        <opt ans="f">反腐倡廉     </opt>
+        <opt ans="t">保持党同人民群众的血肉联系</opt>
+        <opt ans="f">严格党的纪律   </opt>
+        <opt ans="f">理论联系实际</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>能不能坚守（ ）精神，是关系党和人民事业兴衰成败的大事，是反腐倡廉建设的精神支点。</desc>
+        <opt ans="t">艰苦奋斗   </opt>
+        <opt ans="f">勤俭节约   </opt>
+        <opt ans="f">清正廉洁   </opt>
+        <opt ans="f">批评与自我批评</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>坚持四项基本原则是我们的立国之本，坚持（ ）是我们的强国之路。</desc>
+        <opt ans="f">以经济建设为中心   </opt>
+        <opt ans="t">改革开放   </opt>
+        <opt ans="f">科教兴国战略   </opt>
+        <opt ans="f">科学发展观</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十八大强调，要全面加强党的思想建设、组织建设、作风建设、反腐倡廉建设、制度建设，增强（ ）、自我完善、自我革新、自我提高能力。</desc>
+        <opt ans="f">自我监督 </opt>
+        <opt ans="t">自我净化 </opt>
+        <opt ans="f">自我管理 </opt>
+        <opt ans="f">自我要求</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>深化行政体制改革的核心是（ ）</desc>
+        <opt ans="f">简政放权   </opt>
+        <opt ans="f">建设廉洁政府  </opt>
+        <opt ans="f">建设服务型政府  </opt>
+        <opt ans="t">转变政府职能</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>实现尊重经济规律、有质量、有效益、可持续的发展，根本途径是（ ）</desc>
+        <opt ans="t">加快转变经济发展方式  </opt>
+        <opt ans="f">发挥市场决定作用</opt>
+        <opt ans="f">调整产业结构</opt>
+        <opt ans="f">实现资源合理配置</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记强调：良好的（ ）是最公平的公共产品，是最普惠的民生福祉。</desc>
+        <opt ans="t">生态环境   </opt>
+        <opt ans="f">社会环境   </opt>
+        <opt ans="f">政治环境   </opt>
+        <opt ans="f">文化环境</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平强调，我国周边外交的基本方针，就是坚持与邻为善、以邻为伴，坚持睦邻、安邻、富邻，突出（ ）的理念。</desc>
+        <opt ans="f">善、和、真、实     </opt>
+        <opt ans="f">开放包容、求同存异</opt>
+        <opt ans="f">有原则、讲情义、讲道义 </opt>
+        <opt ans="t">亲、诚、惠、容</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平同志指出：农村要发展，农民要致富，关键靠（ ）。</desc>
+        <opt ans="f">党员   </opt>
+        <opt ans="f">科技  </opt>
+        <opt ans="f">产业化   </opt>
+        <opt ans="t">支部</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平同志指出：坚持团结稳定鼓劲，（ ），是宣传思想工作必须遵循的重要方针。</desc>
+        <opt ans="f">传播正能量   </opt>
+        <opt ans="t">正面宣传为主   </opt>
+        <opt ans="f">弘扬正气    </opt>
+        <opt ans="f">坚持灌输原则</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2015年6月习近平总书记在十八届中央政治局第二十四次集体学习时的讲话提出，“善除害者察其本，善理疾者绝其源。”铲除不良作风和腐败现象滋生蔓延的土壤，根本上要靠(     )。</desc>
+        <opt ans="f">道德修养</opt>
+        <opt ans="f">自我约束</opt>
+        <opt ans="t">法规制度</opt>
+        <opt ans="f">人格魅力</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2014年10月习近平总书记在党的群众路线教育实践活动总结大会上的讲话指出，一个班子强不强、有没有战斗力，同有没有严肃认真的(     )密切相关。</desc>
+        <opt ans="t">党内政治生活</opt>
+        <opt ans="f">批评与自我批评</opt>
+        <opt ans="f">学习教育</opt>
+        <opt ans="f">监督管理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十八届五中全会指出，“十三五”时期是(     )决胜阶段，“十三五”规划必须紧紧围绕实现这个奋斗目标来制定。</desc>
+        <opt ans="f">深化改革开发</opt>
+        <opt ans="t">全面建成小康社会</opt>
+        <opt ans="f">全面深化改革</opt>
+        <opt ans="f">建成法治国家</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十八届五中全会提出，坚持创新发展，必须把创新摆在国家发展全局的核心位置，不断推进(     )等各方面创新，让创新贯穿党和国家一切工作，让创新在全社会蔚然成风。</desc>
+        <opt ans="t">理论创新、制度创新、科技创新、文化创新</opt>
+        <opt ans="f">理念创新、法制创新、科技创新、文化创新</opt>
+        <opt ans="f">理论创新、载体创新、科技创新、文化创新</opt>
+        <opt ans="f">改革创新、载体创新、科技创新、文化创新</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十八届五中全会提出，坚持共享发展，必须坚持发展为了人民、发展依靠人民、发展成果由人民共享，作出更有效的制度安排，使全体人民在共建共享发展中有更多(     )。</desc>
+        <opt ans="t">获得感</opt>
+        <opt ans="f">归属感</opt>
+        <opt ans="f">幸福感</opt>
+        <opt ans="f">存在感</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十八大报告指出，反对腐败、建设(      )，是党一贯坚持的鲜明政治立场，是人民关注的重大政治问题。</desc>
+        <opt ans="t">廉洁政治</opt>
+        <opt ans="f">廉政政府</opt>
+        <opt ans="f">清明政治</opt>
+        <opt ans="f">法治政府</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十八大报告提出，富强、民主、文明、和谐是(      )的价值目标。</desc>
+        <opt ans="f">社会层面</opt>
+        <opt ans="t">国家层面</opt>
+        <opt ans="f">公民个人层面</opt>
+        <opt ans="f">金融层面</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）是兴国之魂，是社会主义先进文化的精髓，决定着中国特色社会主义发展方向</desc>
+        <opt ans="f">社会主义思想道德体系      </opt>
+        <opt ans="t">社会主义核心价值体系</opt>
+        <opt ans="f">中国特色社会主义理论体系  </opt>
+        <opt ans="f">中华民族优秀传统文化</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记指出，党的十八大精神，说一千道一万，归结为一点，就是(   )。</desc>
+        <opt ans="f">高举中国特色社会主义旗帜</opt>
+        <opt ans="t">坚持和发展中国特色社会主义</opt>
+        <opt ans="f">形成了“五位一体”总体布局</opt>
+        <opt ans="f">继续推进党的建设科学化水平</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记在十八届五中全会上提出“五大发展理念”，指（ ）</desc>
+        <opt ans="t">创新、协调、绿色、开放、共享</opt>
+        <opt ans="f">创新、协调、绿色、开放、共赢</opt>
+        <opt ans="f">创新、均衡、绿色、开放、共享</opt>
+        <opt ans="f">创新、均衡、绿色、开放、共赢</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十八届三中全会通过的《中共中央关于全面深化改革若干重大问题的决定》指出，全面深化改革的总目标是(    )。</desc>
+        <opt ans="f">实现中华民族伟大复兴的中国梦</opt>
+        <opt ans="f">全面建立社会主义市场经济体制</opt>
+        <opt ans="f">实现和完成社会主义四个现代化建设</opt>
+        <opt ans="t">完善和发展中国特色社会主义制度，推进国家治理体系和治理能力现代化</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国梦的最大特点，就是把国家、民族和个人作为一个命运共同体，把国家利益、民族利益和每个人的具体利益紧紧联系在一起，体现了中华民族的(  )情怀。</desc>
+        <opt ans="t">“家国天下”</opt>
+        <opt ans="f">“天下一家”</opt>
+        <opt ans="f">“利益共享”</opt>
+        <opt ans="f">“和合一体”</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2013年7月11日，习近平总书记在西柏坡考察时指出，对我们共产党人来说，(   )是最好的营养剂。</desc>
+        <opt ans="f">“两个务必”</opt>
+        <opt ans="f">中国共产党历史</opt>
+        <opt ans="t">中国革命历史</opt>
+        <opt ans="f">人民群众</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十八届五中全会提出，坚持创新发展，必须把创新摆在国家发展全局的核心位置，拓展发展新空间，实施网络强国战略，实施“（ ）”行动计划，发展分享经济，实施国家大数据战略。</desc>
+        <opt ans="t">互联网+</opt>
+        <opt ans="f">信息共享</opt>
+        <opt ans="f">数据共享</opt>
+        <opt ans="f">智能化</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2013年9月，习近平总书记在参加河北省委常委班子专题民主生活会时指出，在作风问题上，起决定作用的是(  )。</desc>
+        <opt ans="t">党性</opt>
+        <opt ans="f">觉悟</opt>
+        <opt ans="f">人品</opt>
+        <opt ans="f">思想</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2014年10月23日，党的十八届四中全会通过的《中共中央关于全面推进依法治国若干重大问题的决定》提出，(  )是中国特色社会主义最本质的特征，是社会主义法治最根本的保证。</desc>
+        <opt ans="f">依宪执政</opt>
+        <opt ans="f">民主执政</opt>
+        <opt ans="f">依宪治国</opt>
+        <opt ans="t">党的领导</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国经济呈现出新常态，有几个主要特点：一是从高速增长转为中高速增长；二是（  ）不断优化升级；三是从要素驱动、投资驱动转向创新驱动。</desc>
+        <opt ans="f">产业结构</opt>
+        <opt ans="t">经济结构</opt>
+        <opt ans="f">区域结构</opt>
+        <opt ans="f">要素结构</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记在十八届中央纪委六次全会上指出，领导干部要把(     )摆在重要位置，廉洁修身、廉洁齐家。</desc>
+        <opt ans="f">作风建设</opt>
+        <opt ans="f">廉政建设</opt>
+        <opt ans="f">思想建设</opt>
+        <opt ans="t">家风建设</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记在十八届中央纪委三次全会上指出，要使(    )真正成为带电的高压线。</desc>
+        <opt ans="f">制度</opt>
+        <opt ans="f">法律</opt>
+        <opt ans="t">纪律</opt>
+        <opt ans="f">规定</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记在十八届中央纪委二次全会上强调，中央八项规定既不是最高标准，更不是最终目的，只是我们改进作风的第一步，是我们作为共产党人应该做到的(    )。</desc>
+        <opt ans="t">基本要求</opt>
+        <opt ans="f">一般要求</opt>
+        <opt ans="f">客观要求</opt>
+        <opt ans="f">最高要求</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记在十八届中央纪委二次全会上指出，改进工作作风，就是要净化(    )，营造廉洁从政的良好环境。</desc>
+        <opt ans="t">政治生态</opt>
+        <opt ans="f">经济生态</opt>
+        <opt ans="f">法治生态</opt>
+        <opt ans="f">社会生态</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《复兴之路》展览，回顾了中华民族的昨天，展示了中华民族的今天，宣示了中华民族的明天。中华民族的昨天，可以说是“（ ）”。</desc>
+        <opt ans="f">无限风光在险峰</opt>
+        <opt ans="f">长风破浪会有时</opt>
+        <opt ans="t">雄关漫道真如铁</opt>
+        <opt ans="f">人间正道是沧桑</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《复兴之路》展览，回顾了中华民族的昨天，展示了中华民族的今天，宣示了中华民族的明天。中华民族的今天，可以说是“（ ）”。</desc>
+        <opt ans="f">无限风光在险峰</opt>
+        <opt ans="f">长风破浪会有时</opt>
+        <opt ans="f">雄关漫道真如铁</opt>
+        <opt ans="t">人间正道是沧桑</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《复兴之路》展览，回顾了中华民族的昨天，展示了中华民族的今天，宣示了中华民族的明天。中华民族的明天，可以说是“（ ）”。</desc>
+        <opt ans="f">无限风光在险峰</opt>
+        <opt ans="t">长风破浪会有时</opt>
+        <opt ans="f">雄关漫道真如铁</opt>
+        <opt ans="f">人间正道是沧桑</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>坚持社会主义市场经济改革方向，核心问题是处理好（ ）的关系。</desc>
+        <opt ans="t">政府与市场</opt>
+        <opt ans="f">市场与社会</opt>
+        <opt ans="f">政府与社会</opt>
+        <opt ans="f">改革与开放</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>推进国家治理体系和治理能力现代化，必须解决好（  ）模式选择问题。</desc>
+        <opt ans="f">体制</opt>
+        <opt ans="f">机制</opt>
+        <opt ans="f">行为</opt>
+        <opt ans="t">制度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>要全面认识持续健康发展和生产总值增长的关系，不要简单以（  ）增长率论英雄。</desc>
+        <opt ans="f">国民生产总值</opt>
+        <opt ans="f">工业生产总值</opt>
+        <opt ans="t">国内生产总值</opt>
+        <opt ans="f">工农业生产总值</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国经济发展正处于增长速度换挡期、（  ）阵痛期、前期刺激政策消化期“三期”叠加阶段。</desc>
+        <opt ans="f">转变方式</opt>
+        <opt ans="f">经济转型</opt>
+        <opt ans="f">社会转型</opt>
+        <opt ans="t">结构调整</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国是个人口众多的大国，解决好（  ）问题始终是治国理政的头等大事。</desc>
+        <opt ans="f">农村基本经营制度</opt>
+        <opt ans="f">扶贫攻坚</opt>
+        <opt ans="t">吃饭</opt>
+        <opt ans="f">农村社会管理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>小康不小康，关键看（  ）。</desc>
+        <opt ans="f">农村</opt>
+        <opt ans="t">老乡</opt>
+        <opt ans="f">农民</opt>
+        <opt ans="f">农业</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>深化行政体制改革，转变政府职能，要处理好大和小、（  ）、政府和社会、管理和服务的关系。</desc>
+        <opt ans="f">管和放</opt>
+        <opt ans="f">松和紧</opt>
+        <opt ans="t">收和放</opt>
+        <opt ans="f">严和松</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中华传统文化是我们民族的“根”和“魂”，如果抛弃传统、丢掉根本，就等于割断了自己的（  ）。</desc>
+        <opt ans="f">思想命脉</opt>
+        <opt ans="f">文化命脉</opt>
+        <opt ans="f">历史命脉</opt>
+        <opt ans="t">精神命脉</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>发展乡村教育，让每个乡村孩子都能接受公平、有质量的教育，阻止（ ）代际传递，是功在当代、利在千秋的大事。</desc>
+        <opt ans="t">贫困现象</opt>
+        <opt ans="f">落后现象</opt>
+        <opt ans="f">愚昧现象</opt>
+        <opt ans="f">自卑现象</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>走向生态文明新时代，建设（ ），是实现中华民族伟大复兴中国梦的重要内容。</desc>
+        <opt ans="t">美丽中国</opt>
+        <opt ans="f">生态中国</opt>
+        <opt ans="f">和谐中国</opt>
+        <opt ans="f">绿色中国</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>做好民族工作，最关键的是搞好民族团结，最管用的是(  )。</desc>
+        <opt ans="f">发展经济</opt>
+        <opt ans="f">消除差别</opt>
+        <opt ans="t">争取人心</opt>
+        <opt ans="f">改善民生</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国共产党是（ ）年诞生的。</desc>
+        <opt ans="f">1919</opt>
+        <opt ans="f">1920</opt>
+        <opt ans="t">1921</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国早期共产主义小组有（ ）个</desc>
+        <opt ans="t">8</opt>
+        <opt ans="f">9</opt>
+        <opt ans="f">10</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中华人民共和国建国后头三年的主要任务是（ ）</desc>
+        <opt ans="f">没收官僚资本，进行土地改革</opt>
+        <opt ans="t">恢复国民经济</opt>
+        <opt ans="f">进行社会主义改造</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国新民主主义革命伟大开端的标志是（ ）</desc>
+        <opt ans="f">辛亥革命</opt>
+        <opt ans="t">五四运动</opt>
+        <opt ans="f">中国共产党的成立</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>区分新旧民主革命的主要标志是（ ）</desc>
+        <opt ans="f">革命纲领不同</opt>
+        <opt ans="f">革命路线不同</opt>
+        <opt ans="t">革命领导权不同</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1931年11月27日，中华苏维埃共和国临时中央政府在（ ）成立</desc>
+        <opt ans="t">瑞金</opt>
+        <opt ans="f">兴国</opt>
+        <opt ans="f">于都</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>抗日战争时期，中国共产党解决农民问题的基本政策是（ ）</desc>
+        <opt ans="f">没收地主阶级的土地和富农多余的土地</opt>
+        <opt ans="f">没收一切土地</opt>
+        <opt ans="t">减租减息</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国是（ ）进入社会主义初级阶段的</desc>
+        <opt ans="f">1949年</opt>
+        <opt ans="t">1956年</opt>
+        <opt ans="f">1978年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国是于（ ）恢复在联合国的合法席位的。</desc>
+        <opt ans="t">1971年10月</opt>
+        <opt ans="f">1972年2月</opt>
+        <opt ans="f">1972年9月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>标志着我国进入改革开放新时期的重要会议是（ ）</desc>
+        <opt ans="f">党的八大</opt>
+        <opt ans="t">党的的十一届三中全会</opt>
+        <opt ans="f">党的十二大</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“建设有中国特色的社会主义”是邓小平在（ ）上最早提出来的。</desc>
+        <opt ans="f">党的十一届三中全会</opt>
+        <opt ans="t">党的十二大</opt>
+        <opt ans="f">党的十三</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>目前，中国共产党党员有( )名。</desc>
+        <opt ans="f">450万</opt>
+        <opt ans="f">870万</opt>
+        <opt ans="t">8700万</opt>
+        <opt ans="f">8600万</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中华人民共和国成立后制定的第一部正式法律是（ ）</desc>
+        <opt ans="t">《婚姻法》</opt>
+        <opt ans="f">《土地改革法》</opt>
+        <opt ans="f">《宪法》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中华人民共和国首次以五大国之一的身份参与讨论国际问题的会议是（ ）</desc>
+        <opt ans="f">万隆会议</opt>
+        <opt ans="t">日内瓦会议</opt>
+        <opt ans="f">四国外长会议</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>社会主义制度在中国基本确立的时间是（ ）</desc>
+        <opt ans="f">1949年</opt>
+        <opt ans="f">1953年</opt>
+        <opt ans="t">1956年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1958年6月1日，中共中央的理论刊物正式创刊，它是（ ）</desc>
+        <opt ans="t">《红旗》</opt>
+        <opt ans="f">《求是》</opt>
+        <opt ans="f">《党建》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>邓小平提出的世界主题是（ ）</desc>
+        <opt ans="f">战争与和平</opt>
+        <opt ans="f">战争与革命</opt>
+        <opt ans="t">和平与发展</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“三个代表”重要思想形成的标志是（ ）</desc>
+        <opt ans="f">2000年江泽民在广东茂名、高州的讲话</opt>
+        <opt ans="t">2001年江泽民“七一讲话”</opt>
+        <opt ans="f">2002年江泽民在党的十六大上的报告</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>邓小平（ ）年在接见美国和加拿大客人时，首次明确提出，社会主可义也以搞市场经济</desc>
+        <opt ans="t">1979</opt>
+        <opt ans="f">1987</opt>
+        <opt ans="f">1992</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（ ）的崛起，是农村改革中的重大进步</desc>
+        <opt ans="f">乡政府</opt>
+        <opt ans="t">乡镇企业</opt>
+        <opt ans="f">人口流动</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（ ）是90年代我国改革开放进一步深化和取得显著成就的重要标志</desc>
+        <opt ans="f">海南洋浦的开发</opt>
+        <opt ans="t">上海浦东的开发</opt>
+        <opt ans="f">北京中关村高新技术开发区的建立</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>全面建设小康社会的奋斗目标是在党的（ ）上提出来的</desc>
+        <opt ans="f">十四大</opt>
+        <opt ans="f">十五大</opt>
+        <opt ans="t">十六大</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十六届四中全会在党的历史上第一次做出了（ ）</desc>
+        <opt ans="f">密切联系群众的决定</opt>
+        <opt ans="f">加强党的作风建设的决定</opt>
+        <opt ans="t">加强党的执政能力建设的决定</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我国现代化建设必须促进（   ）同步发展。</desc>
+        <opt ans="t">工业化</opt>
+        <opt ans="t">信息化</opt>
+        <opt ans="t">城镇化</opt>
+        <opt ans="t">农业现代化</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>中国共产主义青年团是广大青年在实践中学习中国特色社会主义和共产主义的学校，是党的（   ）。</desc>
+        <opt ans="t">助手</opt>
+        <opt ans="f">接班人</opt>
+        <opt ans="t">后备军</opt>
+        <opt ans="f">基础</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《中国共产党纪律处分条例》，下列哪些属于违反有关规定从事营利活动的行为?(    )</desc>
+        <opt ans="t">经商办企业的</opt>
+        <opt ans="t">个人违反规定买卖股票或者进行其他证券投资的</opt>
+        <opt ans="t">从事有偿中介活动的</opt>
+        <opt ans="t">在国(境)外注册公司或者投资入股的</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列属于违反党的政治纪律行为有（   ）</desc>
+        <opt ans="t">组织、领导、参加会道门或者邪教组织的行为</opt>
+        <opt ans="t">参加国（境）外情报组织或者向国（境）外机构、组织、人员提供情报的行为</opt>
+        <opt ans="t">投敌叛变或者向敌人自首的行为</opt>
+        <opt ans="f">驻外机构或者临时出国（境）团（组）中的党员，脱离组织出走，以及故意为他人脱离组织出走提供方便条件的行为</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列属于违反党的组织纪律行为有（   ）</desc>
+        <opt ans="f">组织、领导、参加会道门或者邪教组织的行为</opt>
+        <opt ans="t">拒不执行组织的分配、调动、交流决定的行为</opt>
+        <opt ans="t">以不正当方式谋求本人或者其他人用公款出国（境）的行为</opt>
+        <opt ans="t">驻外机构或者临时出国（境）团（组）中的党员，脱离组织出走，以及故意为他人脱离组织出走提供方便条件的行为</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党员犯罪情节轻微，人民检察院依法作出不起诉决定的，或者人民法院依法作出有罪判决并免予刑事处罚的，应当给予(   )或者开除党籍处分。</desc>
+        <opt ans="t">留党察看 </opt>
+        <opt ans="f">严重警告 </opt>
+        <opt ans="t">撤销党内职务 </opt>
+        <opt ans="t">调整职务</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>组织、参加反对党的基本理论、基本路线、基本纲领、基本经验、基本要求或者重大方针政策的集会、游行、示威等活动的,对(    ),给予开除党籍处分。</desc>
+        <opt ans="t">策划者</opt>
+        <opt ans="t">组织者</opt>
+        <opt ans="f">参与者</opt>
+        <opt ans="t">骨干分子</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>以(   )、拉拢等手段,妨害党员自主行使表决权、选举权和被选举权的,给予撤销党内职务、留党察看或者开除党籍处分。</desc>
+        <opt ans="t">强迫  </opt>
+        <opt ans="t">威胁   </opt>
+        <opt ans="f">教唆   </opt>
+        <opt ans="t">欺骗</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>弄虚作假,骗取职务、(   )、学历、学位、荣誉或者其他利益的, 给予警告或者严重警告处分;情节较重的,给予撤销党内职务或者留党察看处分;情节严重的,给予开除党籍处分。</desc>
+        <opt ans="t">职级   </opt>
+        <opt ans="t">职称   </opt>
+        <opt ans="t">待遇   </opt>
+        <opt ans="t">资格</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中国共产党纪律处分条例》中规定的六大纪律分别是：政治纪律、(      )、生活纪律。</desc>
+        <opt ans="t">组织纪律</opt>
+        <opt ans="t">廉洁纪律</opt>
+        <opt ans="t">工作纪律</opt>
+        <opt ans="f">财经纪律  </opt>
+        <opt ans="t">群众纪律</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列属于违反纪律的有（    ）</desc>
+        <opt ans="t">公开发表违背四项基本原则，违背、歪曲党的改革开放决策，或者其他有严重政治问题的文章、演说、宣言、声明等的</opt>
+        <opt ans="t">妄议中央大政方针，破坏党的集中统一的</opt>
+        <opt ans="t">丑化党和国家形象，或者诋毁、诬蔑党和国家领导人</opt>
+        <opt ans="t">歪曲党史、军史的</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列行为属于党员领导干部违反规定干预和插手市场经济活动的是（  ）。</desc>
+        <opt ans="t">干预和插手建设工程项目承发包、土地使用权出让、政府采购、房地产开发与经营、矿产资源开发利用、中介机构服务等市场经济活动</opt>
+        <opt ans="f">挪用或者拆借社会保障基金、住房公积金等公共资金或者其他财政资金</opt>
+        <opt ans="t">干预和插手经济纠纷</opt>
+        <opt ans="f">向组织提供虚假情况，掩盖事实的</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列（   ）行为，对直接责任者和领导责任者，情节严重的，给予开除党籍处分。</desc>
+        <opt ans="t">违反有关规定自定薪酬或者滥发津贴、补贴、奖金</opt>
+        <opt ans="t">用公款旅游、借公务差旅之机旅游或者以公务差旅为名变相旅游</opt>
+        <opt ans="f">违反公务接待管理规定，超标准、超范围接待或者借机大吃大喝</opt>
+        <opt ans="f">违反有关规定配备、购买、更换、装饰、使用公务用车</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列（    ）行为，对直接责任者和领导责任者，情节严重的，给予撤销党内职务或者留党察看处分。</desc>
+        <opt ans="t">盲目铺摊子、上项目，致使国家、集体或者群众财产和利益遭受较大损失</opt>
+        <opt ans="t">对待群众态度恶劣、简单粗暴，造成不良影响</opt>
+        <opt ans="t">干涉群众生产经营自主权，致使群众财产遭受较大损失</opt>
+        <opt ans="t">弄虚作假，欺上瞒下，损害群众利益的</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>以下哪些行为，是违反政治纪律的行为。（    ）</desc>
+        <opt ans="t">公开发表坚持资产阶级自由化立场、反对四项基本原则的文章</opt>
+        <opt ans="t">在座谈会上妄议中央大政方针，破坏党的集中统一</opt>
+        <opt ans="t">发布歪曲党史、军史的演说</opt>
+        <opt ans="t">在党内组织秘密集团或者组织其他分裂党的活动</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>以下哪些行为，是违反组织纪律的行为。（   ）</desc>
+        <opt ans="t">拒不执行党组织的分配、调动、交流等决定</opt>
+        <opt ans="f">组织、利用宗族势力对抗党和政府</opt>
+        <opt ans="t">在组织进行谈话、函询时，不如实向组织说明问题</opt>
+        <opt ans="t">不按要求报告或者不如实报告个人去向</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>以下哪些行为，是违反群众纪律的行为。（    ）</desc>
+        <opt ans="t">超标准、超范围向群众筹资筹劳、摊派费用，加重群众负担</opt>
+        <opt ans="t">违反有关规定扣留、收缴群众款物或者处罚群众</opt>
+        <opt ans="t">克扣群众财物，或者违反有关规定拖欠群众钱款</opt>
+        <opt ans="t">在管理、服务活动中违反有关规定收取费用</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>与2013年12月印发的《中国共产党纪律处分条例》相比，2015年修订的《中国共产党纪律处分条例》在指导思想上新增了哪些内容?(   )</desc>
+        <opt ans="f">三个代表重要思想</opt>
+        <opt ans="t">科学发展观</opt>
+        <opt ans="t">深入贯彻习近平系列重要讲话精神</opt>
+        <opt ans="t">落实全面从严治党战略部署</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中国共产党纪律处分条例》规定，有下列行为之一的，给予警告或者严重警告处分;情节较重的，给予撤销党内职务或者留党察看处分;情节严重的，给予开除党籍处分。(   )</desc>
+        <opt ans="t">在民主推荐、民主测评、组织考察和党内选举中搞拉票、助选等非组织活动的</opt>
+        <opt ans="t">在法律规定的投票、选举活动中违背组织原则搞非组织活动，组织、怂恿、诱使他人投票、表决的</opt>
+        <opt ans="t">在选举中进行其他违反党章、其他党内法规和有关章程活动的</opt>
+        <opt ans="f">扰乱投票秩序，在投票场所大声喧哗的</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《中国共产党纪律处分条例》，主动交代，是指涉嫌违纪的党员：(    )</desc>
+        <opt ans="t">在组织初核前向有关组织交代自己的问题</opt>
+        <opt ans="t">在初核和立案调查其问题期间交代组织未掌握的问题</opt>
+        <opt ans="f">能够配合调查工作</opt>
+        <opt ans="f">如实坦白组织已掌握的其本人主要违纪事实</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>坚持和发展中国特色社会主义，关键在于建设一支(    )的执政骨干队伍。</desc>
+        <opt ans="t">政治坚定</opt>
+        <opt ans="t">能力过硬</opt>
+        <opt ans="t">作风优良</opt>
+        <opt ans="t">奋发有为</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的三大优良传统和作风是（   ）</desc>
+        <opt ans="t">理论联系实际   </opt>
+        <opt ans="t">密切联系群众  </opt>
+        <opt ans="t">批评与自我批评  </opt>
+        <opt ans="f">统一战线</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>2013年3月17日，习近平总书记在第十二届全国人大第一次会议的讲话中明确指出：实现中国梦必须（   ）。</desc>
+        <opt ans="f">借鉴西方经验  </opt>
+        <opt ans="t">走中国道路  </opt>
+        <opt ans="t">弘扬中国精神  </opt>
+        <opt ans="t">凝聚中国力量</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十八大报告强调，要教育引导党员、干部模范践行社会主义荣辱观，讲党性、重品行、作表率，做（   ），以实际行动彰显共产党人的人格力量。</desc>
+        <opt ans="t">社会主义道德的示范者</opt>
+        <opt ans="t">诚信风尚的引领者</opt>
+        <opt ans="t">公平正义的维护者</opt>
+        <opt ans="f">社会和谐的推动者</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>落实依法治国基本方略，加快建设社会主义法治国家，必须全面推进（    ）进程。 </desc>
+        <opt ans="t">科学立法</opt>
+        <opt ans="t">严格执法</opt>
+        <opt ans="t">公正司法</opt>
+        <opt ans="t">全民守法</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十八届五中全会通过的“十三五”规划建议中提出，(     )是新时期扶贫工作的基本方略。</desc>
+        <opt ans="t">精准扶贫</opt>
+        <opt ans="t">精准脱贫</opt>
+        <opt ans="f">财政扶贫</opt>
+        <opt ans="f">产业化扶贫</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>2015年1月12日，习近平总书记同中央党校第一期县委书记研修班学员进行座谈并发表重要讲话。他强调，做县委书记就要做焦裕禄式的县委书记，始终做到（    ）。</desc>
+        <opt ans="t">心中有党</opt>
+        <opt ans="t">心中有民</opt>
+        <opt ans="t">心中有责</opt>
+        <opt ans="t">心中有戒</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十八届三中全会强调要加快转变政府职能，具体来说有（   ）。</desc>
+        <opt ans="t">健全宏观调控体系</opt>
+        <opt ans="t">全面正确履行政府职能</opt>
+        <opt ans="t">优化政府组织结构</opt>
+        <opt ans="f">精简机构编制</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十八届三中全会通过的《决定》提出，城乡二元结构是制约城乡发展一体化的主要障碍。必须健全体制机制，形成新型工业城乡关系是（    ）。</desc>
+        <opt ans="t">以工促农   </opt>
+        <opt ans="t">以城带乡   </opt>
+        <opt ans="t">工农互惠   </opt>
+        <opt ans="t">城乡一体</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党必须适应形势的发展和情况的变化，（  ）增强执政能力。</desc>
+        <opt ans="t">改进领导方式  </opt>
+        <opt ans="f">提高领导水平  </opt>
+        <opt ans="t">完善领导体制</opt>
+        <opt ans="f">健全领导机制</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>十八届三中全会通过的《中共中央关于全面深化改革若干重大问题的决定》指出全面深化改革的总目标是(  )。</desc>
+        <opt ans="f">到建党100周年，建成全面小康社会</opt>
+        <opt ans="f">到建国100周年，实现现代化，实现中华民族伟大复兴</opt>
+        <opt ans="t">完善和发展中国特色社会主义制度</opt>
+        <opt ans="t">推进国家治理体系和治理能力现代化</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>2013年6月，习近平总书记在全国组织工作会议上提出了好干部的标准是（    ）、清正廉洁。</desc>
+        <opt ans="t">信念坚定</opt>
+        <opt ans="t">为民服务</opt>
+        <opt ans="t">勤政务实 </opt>
+        <opt ans="t">敢于担当</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>习近平总书记在十八届中央纪委五次全会上强调，党的规矩包括(    )。</desc>
+        <opt ans="t">党章是全党必须遵循的总章程，也是总规矩</opt>
+        <opt ans="t">党的纪律是刚性约束，政治纪律更是全党在政治方向、政治立场、政治言论、政治行动方面必须遵守的刚性约束</opt>
+        <opt ans="t">国家法律是党员、干部必须遵守的规矩，法律是党领导人民制定的，全党必须模范执行</opt>
+        <opt ans="t">党在长期实践中形成的优良传统和工作惯例</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>党的十八大报告提出，从2010年到2020年要实现“两个倍增”的计划是(  )。</desc>
+        <opt ans="t">国内生产总值倍增</opt>
+        <opt ans="f">进出口贸易额倍增</opt>
+        <opt ans="f">外汇储备量倍增</opt>
+        <opt ans="t">城乡居民收入倍增</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>1915年发端的中国新文化运动高举的两面大旗是（  ）</desc>
+        <opt ans="t">民主</opt>
+        <opt ans="t">科学</opt>
+        <opt ans="f">爱国</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>中共一大召开的地点是（  ）</desc>
+        <opt ans="t">上海</opt>
+        <opt ans="t">浙江</opt>
+        <opt ans="f">北京</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>社会主义新农村建设的“20”字要求是（   ）</desc>
+        <opt ans="f">山川秀美</opt>
+        <opt ans="t">生产发展</opt>
+        <opt ans="f">生活幸福</opt>
+        <opt ans="t">生活宽裕</opt>
+        <opt ans="t">乡风文明</opt>
+        <opt ans="t">村容整洁</opt>
+        <opt ans="t">管理民主</opt>
+        <opt ans="f">经济繁荣</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列地方属于和平解放的是（   ）</desc>
+        <opt ans="t">西藏</opt>
+        <opt ans="t">新疆</opt>
+        <opt ans="t">昆明</opt>
+        <opt ans="f">石家庄</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>社会主义改造完成后，我国公有制的基本形式有（  ）</desc>
+        <opt ans="t">全民所有制</opt>
+        <opt ans="t">集体所有制</opt>
+        <opt ans="f">股份合作制</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>被称为中国共产党历史上的两个伟大转折点是（  ）</desc>
+        <opt ans="f">八七会议</opt>
+        <opt ans="t">遵义会议</opt>
+        <opt ans="t">十一届三中全会</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>从“一国两制”的构想延伸出去，邓小平进一步提出了解决某些国际领土争端的新思想，这就是（  ）</desc>
+        <opt ans="t">搁置主权</opt>
+        <opt ans="f">共同治理</opt>
+        <opt ans="t">共同开发</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>1984年1月下旬，邓小平离开北京，专门考察了经济特区的发展。他考察的是（   ）</desc>
+        <opt ans="t">深圳</opt>
+        <opt ans="t">珠海</opt>
+        <opt ans="t">厦门</opt>
+        <opt ans="f">上海</opt>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党章是党的根本大法，全面从严治党首先要尊崇党章。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《党章》规定，在特殊情况下县级、县级以上各级党的委员会和纪律检查委员会有权直接决定给党员以纪律处分。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《党章》规定，对党的中央委员会和地方各级委员会的委员、候补委员，给以撤销党内职务、留党察看或开除党籍的处分，必须由本人所在的委员会全体会议三分之二以上的多数决定。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《党章》规定，党的地方各级纪律检查委员会和基层纪律检查委员会在同级党的委员会和上级纪律检查委员会分别领导下进行工作。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《党章》规定，上级纪律检查委员会有权检查下级纪律检查委员会的工作，并且有权批准和改变下级纪律检查委员会对于案件所作的决定。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《党章》规定，党员除了享有表决权、选举权和被选举权以外，还有权要求罢免或撤换不称职的干部。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《党章》规定，党选拔干部坚持五湖四海、任人唯贤，反对任人唯亲。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《党章》规定，对于严重触犯刑律的党员，必须开除党籍。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《党章》规定，对党员的纪律处分，必须经过支部大会讨论决定，报总支部委员会批准。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《党章》规定，党组织对党员作出处分决定所依据的事实材料和处分决定可以同本人见面。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中国共产党人追求的共产主义最高理想，只有在社会主义充分发展的基础上才能实现。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党章提出的“四个尊重”是指：尊重劳动、尊重知识、尊重人民、尊重创造。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>建设社会主义生态文明，着力建设资源节约型、环境保护型社会。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中国共产党坚持独立自由的和平外交政策。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党必须在宪法和法律范围内活动( )。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中国共产主义青年团是中国共产党领导的青年的群众组织。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中国共产党以马克思列宁主义、毛泽东思想、邓小平理论、“三个代表”重要思想和科学发展观作为自己的行动指南。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>马克思列宁主义揭示了人类社会历史发展的规律，它的基本原理是正确的，具有强大的生命力。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>社会主义制度的发展和完善是一个长期的历史过程。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>坚持马克思列宁主义的基本原理，走中国人民自愿选择的适合中国国情的道路，中国的社会主义事业必将取得最终的胜利。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>十一届三中全会以来，以邓小平同志为主要代表的中国共产党人，总结建国以来正反两方面的经验，解放思想，实事求是，实现全党工作中心向经济建设的转移。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在毛泽东思想指引下，中国共产党领导全国各族人民，经过长期的反对帝国主义、封建主义、官僚资本主义的革命斗争，取得了旧民主主义革命的胜利。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>始终做到“三个代表”，是我们党的立党之本、执政之基、力量之源。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>科学发展观，是马克思主义关于发展的世界观和方法论的集中体现。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>我国的社会主义建设，必须从我国的国情出发，走中国特色社会主义道路。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在我国社会主义初级阶段，必须坚持和完善公有制为主体、多种所有制经济共同发展的基本经济制度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在我国社会主义初级阶段，坚持和完善各尽所能、按劳分配的分配制度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在社会主义现代化建设的整个过程中，必须坚持四项基本原则，反对资产阶级自由化。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>只有改革开放，才能发展中国、发展社会主义、发展马克思主义。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党员有退党的自由。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>建设学习型、服务型、开放型的马克思主义执政党，使我们党始终走在时代前列，成为领导全国人民沿着中国特色社会主义道路不断前进的坚强核心。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党除了工人阶级和最广大人民群众的利益，没有自己特殊的利益。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党在任何时候都把群众利益放在第一位，不允许任何党员脱离群众，凌驾于群众之上。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>充分发扬党内民主，就要尊重党员主体地位，保障党员民主权利，发挥各级党组织和广大党员的积极性创造性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>共产党员必须同党外群众亲密合作，共同为建设中国特色社会主义而奋斗。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>发展党员，必须经过党的支部，坚持个别吸收的原则。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的支部委员会对申请入党的人，要注意征求党内外有关群众的意见，进行严格的审查，认为合格后再提交支部大会讨论。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>每个党员，不论职务高低，都必须编入党的一个支部、小组或其他特定组织，参加党的组织生活，接受党内外群众的监督。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党员领导干部除参加支部、小组的组织生活外，还必须参加党委、党组的民主生活会。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党员缺乏革命意志，不履行党员义务，不符合党员条件的，党的支部应当直接劝其退党。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党是根据自己的纲领和章程，按照民主集中制组织起来的统一整体。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在党内选举中，任何组织和个人不得以任何方式强迫选举人选举或不选举某个人。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的各级代表大会代表实行任期制。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>凡属应由下级组织处理的问题，如无特殊情况，上级领导机关不要干预。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何党员不论职务高低，都不能个人决定重大问题；如遇紧急情况，必须由个人作出决定时，事后要迅速向党组织报告。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在中央委员会全体会议闭会期间，中央政治局和它的常务委员会行使中央委员会的职权。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的基层组织，根据工作需要和党员人数，经上级党组织批准，分别设立党的基层委员会、总支部委员会、支部委员会。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在党的地方各级代表大会和基层代表大会闭会期间，上级党的组织认为有必要时，可以调动或者指派下级党组织的负责人。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的中央和各级地方委员会均实行巡视制度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的基层组织要教育党员和群众自觉抵制不良倾向，坚决同各种违法犯罪行为作斗争。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>非公有制经济组织中党的基层组织，主要维护党员的合法权益。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的各级领导干部，无论是由民主选举产生的，或是由领导机关任命的，他们的职务都不是终身的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党组织必须严格执行和维护党的纪律，共产党员必须自觉接受党的纪律的约束。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>留党察看最长不超过一年。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的各级纪律检查委员会每届任期和同级党的委员会相同。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>纪委不是党内的公检法。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党纪严于国法，党的纪律对党员干部的要求严于法律对于公民的要求。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于严重触犯刑律的党员，必须给予撤销党内职务的纪律处分。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党员在留党察看期间没有表决权、选举权和被选举权</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对党员的纪律处分，必须经过支部委员会会议讨论决定，报党的基层委员会批准。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>受到改组处理的党组织领导机构成员，除应当受到撤销党内职务以上（含撤销党内职务）处分的外，均自然免职。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于受到解散处理的党组织中的党员，应当逐个审查。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>拒不执行党组织的分配、调动、交流等决定的，给予警告或者严重警告处分。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>篡改、伪造个人档案资料的，给予严重警告处分；情节严重的，给予撤销党内职务或者留党察看处分。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>收受可能影响公正执行公务的礼品、礼金、消费卡，情节严重，最高可给予开除党籍处分。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在操办婚丧喜庆事宜中，借机敛财或者有其他侵犯国家、集体和人民利益的行为，属于违反工作纪律的行为。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>接受可能影响公正执行公务的旅游、健身、娱乐等活动安排，属于违反工作纪律的行为。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>违反有关规定自定薪酬或者滥发津贴、补贴、奖金，属于违反工作纪律的行为。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>撤销党内职务处分，是指撤销受处分党员由党内选举或者组织任命的党内职务。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党员受到留党察看处分，其党内职务仍然保留。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>计算经济损失主要计算直接经济损失。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在党内担任两个以上职务的，如果决定撤销其某个职务，必须撤销其担任的最高职务。如果决定撤销其两个以上职务，则必须从其担任的最低职务开始依次撤销。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>普通党员用自己家的合法收入购买豪车、名表，党组织不能予以过问。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>组织迷信活动的属于违反组织纪律行为，给予撤销党内职务或者留党察看处分。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在境外脱离组织出走时间超过六个月的属于违反政治纪律行为。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>不按照规定公开党务、政务、厂务、村(居)务等,侵犯群众知情权,对直接责任者和领导责任者,情节较重的,给予警告或者严重警告处分；情节严重的,给予撤销党内职务或者留党察看处分。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>根据《中国共产党纪律处分条例》，违反党的优良传统和工作惯例等党的规矩，在政治上造成不良影响的行为，违反了党的工作纪律。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党组织对党员作出处分决定所依据的事实材料和处分决定必须同本人见面。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中国共产党纪律处分条例》规定，直接责任者，是指在其职责范围内，不履行或者不正确履行自己的职责，对造成的损失或者后果起决定性作用的党员或者党员领导干部。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>派驻纪检组就是“常驻不走的巡视组”，要聚焦全面从严治党，真正把监督执纪问责的职责担起来。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中国共产党纪律处分条例》规定，违反个人有关事项报告规定，不报告、不如实报告的行为，违反了党的生活纪律。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党员依法受到行政处罚、行政处分，应当追究党纪责任的，党组织可以根据生效的行政处罚、行政处分决定认定的事实、性质和情节，经核实后依照《中国共产党纪律处分条例》规定给予党纪处分或者组织处理。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>我们坚持反对的“四风”分别是形式主义、官僚主义、享乐主义和拜金主义。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中央反复强调，改革是决定当代中国命运的关键一招。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>十八届三中全会决定对加强反腐败体制机制创新和制度保障进行了重点部署，明确党委负主体责任，纪委负次要责任。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>建设中国特色社会主义，总任务是实现社会主义现代化和中华民族伟大复兴。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>马克思主义是在十月革命以后开始传入中国的。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>五四运动的发展及其胜利，主要是爱国青年学生在运动中起了决定作用。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>第一次国共合作的政治基础是孙中山的三民主义。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>建国初期的中国社会性质是社会主义。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在过渡时期中，我们党创造性地开辟一条适合中国特色的社会主义改造道路。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>我国的经济特区的性质，政治上是社会主义，经济上是资本主义。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中共十一大实现了全党工作重心的转移。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>邓小平理论虽然是一个比较完备的科学体系，仍然需要不断丰富、发展和完善。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>我们国家的对外关系可以超越意识形态，但党的对外关系一定要注重意识形态。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中国共产党第十八次全国代表大会对党章进行部分修改，并于何年何月何日通过?</desc>
+        <ans>2012年11月14日</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党章除总纲外，共有多少章多少条?</desc>
+        <ans>11章、53条</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中国共产党的性质是什么？</desc>
+        <ans>中国共产党是中国工人阶级的先锋队，同时是中国人民和中华民族的先锋队，是中国特色社会主义事业的领导核心，代表中国先进生产力的发展要求，代表中国先进文化的前进方向，代表中国最广大人民的根本利益。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中国共产党人追求的最高理想是什么?</desc>
+        <ans>实现共产主义</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《党章》规定，预备党员必须面向党旗进行入党宣誓。入党誓词的内容是什么?</desc>
+        <ans>我志愿加入中国共产党，拥护党的纲领，遵守党的章程，履行党员义务，执行党的决定，严守党的纪律，保守党的秘密，对党忠诚，积极工作，为共产主义奋斗终身，随时准备为党和人民牺牲一切，永不叛党。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《党章》对党的民主集中制的基本原则作了规定，其中“四个服从”的具体内容是什么?</desc>
+        <ans>党员个人服从党的组织，少数服从多数，下级组织服从上级组织，全党各个组织和全体党员服从党的全国代表大会和中央委员会。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《党章》规定，在社会主义现代化建设的整个过程中，必须坚持“四项基本原则”，其具体内容是什么?</desc>
+        <ans>坚持社会主义道路、坚持人民民主专政、坚持中国共产党的领导、坚持马克思列宁主义毛泽东思想。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《党章》对在现阶段我国社会的主要矛盾是如何概括的?</desc>
+        <ans>人民日益增长的物质文化需要同落后的社会生产之间的矛盾</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《党章》规定，党的各级纪律检查委员会的主要任务是什么?</desc>
+        <ans>维护党的章程和其他党内法规，检查党的路线、方针、政策和决议的执行情况，协助党的委员会加强党风建设和组织协调反腐败工作。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>我国社会主义建设的根本任务是什么?</desc>
+        <ans>进一步解放生产力，发展生产力，逐步实现社会主义现代化，并且为此而改革生产关系和上层建筑中不适应生产力发展的方面和环节。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>在新世纪新阶段，我国经济和社会发展的战略目标是什么?</desc>
+        <ans>巩固和发展已经初步达到的小康水平，到建党一百年时，建成惠及十几亿人口的更高水平的小康社会;到建国一百年时，人均国内生产总值达到中等发达国家水平，基本实现现代化。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中国共产党在社会主义初级阶段的基本路线是什么?</desc>
+        <ans>领导和团结全国各族人民，以经济建设为中心，坚持四项基本原则，坚持改革开放，自力更生，艰苦创业，为把我国建设成为富强民主文明和谐的社会主义现代化国家而奋斗。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党的“三大历史任务”是什么?</desc>
+        <ans>推进现代化建设、完成祖国统一、维护世界和平与促进共同发展。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>构建社会主义和谐社会总要求是什么?</desc>
+        <ans>民主法治、公平正义、诚信友爱、充满活力、安定有序、人与自然和谐相处。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>构建社会主义和谐社会的原则是什么?</desc>
+        <ans>共同建设、共同享有。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>促进香港、澳门长期繁荣稳定，完成祖国统一大业的方针是什么?</desc>
+        <ans>“一个国家、两种制度”。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>发展我国同世界各国关系的五项原则是什么?</desc>
+        <ans>互相尊重主权和领土完整、互不侵犯、互不干涉内政、平等互利、和平共处。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>发展我党同各国共产党和其他政党的关系的原则是什么?</desc>
+        <ans>独立自主、完全平等、互相尊重、互不干涉内部事务。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么问题是关系党生死存亡的问题?</desc>
+        <ans>党风问题和党同人民群众联系问题。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《党章》对党的建设提出的必须坚决实现的四项基本要求是什么？</desc>
+        <ans>一是坚持党的基本路线；二是坚持解放思想，实事求是，与时俱进，求真务实；三是坚持全心全意为人民服务；四是坚持民主集中制。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党章是如何表述群众路线的？</desc>
+        <ans>一切为了群众，一切依靠群众，从群众中来，到群众中去，把党的正确主张变为群众的自觉行动。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党的思想路线的含义是什么？</desc>
+        <ans>一切从实际出发，理论联系实际，实事求是，在实践中检验真理和发展真理。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中国特色社会主义政治制度包括哪些制度？</desc>
+        <ans>人民代表大会制度、中国共产党领导的多党合作与政治协商制度、民族区域自治制度以及基层群众自治制度。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>申请加入中国共产党需要具备的条件是什么？</desc>
+        <ans>年满十八岁的中国工人、农民、军人、知识分子和其他社会阶层的先进分子，承认党的纲领和章程，愿意参加党的一个组织并在其中积极工作、执行党的决议和按期交纳党费的，可以申请加入中国共产党。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党章规定，从申请入党到成为一名正式党员，需要经过哪些主要程序？</desc>
+        <ans>申请入党的人，要填写入党志愿书，要有两名正式党员作介绍人，要经过支部大会讨论通过和上级党组织批准，并且经过预备期的考察，才能成为正式党员。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党章对国有企业中党的基层组织的职能要求是什么？</desc>
+        <ans>国有企业中党的基层组织，发挥政治核心作用，围绕企业生产经营开展工作。保证监督党和国家的方针、政策在本企业的贯彻执行；支持股东会、董事会、监事会和经理（厂长）依法行使职权；全心全意依靠职工群众，支持职工代表大会开展工作；参与企业重大问题的决策；加强党组织的自身建设，领导思想政治工作、精神文明建设和工会、共青团等群众组织。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党组织讨论决定问题，必须执行的原则是什么？</desc>
+        <ans>少数服从多数。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党选拔干部的原则是什么？</desc>
+        <ans>德才兼备、以德为先。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党章规定的党的纪律处分有哪五种？</desc>
+        <ans>警告、严重警告、撤销党内职务、留党察看、开除党籍。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中国共产党的象征和标志是什么？</desc>
+        <ans>中国共产党党徽党旗。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党章第三十八条对违犯党的纪律的党员的态度和要求是如何规定的？</desc>
+        <ans>党组织对违犯党的纪律的党员，应当本着惩前毖后、治病救人的精神，按照错误性质和情节轻重，给以批评教育直至纪律处分。严重触犯刑律的党员必须开除党籍。党内严格禁止用违反党章和国家法律的手段对待党员，严格禁止打击报复和诬告陷害。违反这些规定的组织或个人必须受到党的纪律和国家法律的追究。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党的组织生活中的“三会一课”是指什么？</desc>
+        <ans>党员大会、支部委员会、党小组会、党课。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>我们党的最大政治优势是什么? </desc>
+        <ans>密切联系群众</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党执政后的最大危险是什么?</desc>
+        <ans>脱离群众</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>我国正处于并将长期处于什么阶段?</desc>
+        <ans>社会主义初级阶段</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中国共产党领导人民发展社会主义先进文化，建设社会主义精神文明，实行什么相结合?</desc>
+        <ans>依法治国和以德治国</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中国特色社会主义事业总体布局中包括哪五大建设？</desc>
+        <ans>经济建设、政治建设、文化建设、社会建设、生态文明建设。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是我们的立国之本?</desc>
+        <ans>四项基本原则</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是我们的强国之路?</desc>
+        <ans>改革开放</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中国共产党领导人民建设社会主义生态文明所坚持的方针是什么？</desc>
+        <ans>坚持节约优先、保护优先、自然恢复为主的方针。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党章中对各项工作总的出发点和检验标准要求是什么？</desc>
+        <ans>各项工作都要把有利于发展社会主义社会的生产力，有利于增强社会主义国家的综合国力，有利于提高人民的生活水平，作为总的出发点和检验标准。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中国共产党在领导社会主义事业中，必须坚持以什么为中心？</desc>
+        <ans>经济建设。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党章中提出的促进国民经济又好又快发展的“三大战略”是什么?</desc>
+        <ans>科教兴国战略、人才强国战略、可持续发展战略。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党的最高领导机关是什么?</desc>
+        <ans>党的全国代表大会和它所产生的中央委员会。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党的各级委员会实行集体领导和什么相结合的制度?</desc>
+        <ans>个人分工负责。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>预备党员在义务和权利上与正式党员有何差别？</desc>
+        <ans>预备党员的义务同正式党员一样。预备党员的权利，除了没有表决权、选举权和被选举权以外，也同正式党员一样。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党的领导主要是哪三个方面的领导？</desc>
+        <ans>政治、思想和组织的领导。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>习近平总书记提出培养造就“四铁干部”的内容是什么？</desc>
+        <ans>铁一般的信仰、铁一般的信念、铁一般的纪律、铁一般的担当。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>“三严三实”的主要内容是什么？</desc>
+        <ans>严以修身、严以用权、严以律己，谋事要实、创业要实、做人要实。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>纪委执纪监督的四种形态是指什么？</desc>
+        <ans>咬耳扯袖、红脸出汗成为常态； 党纪轻处分和组织处理要成为大多数； 对严重违纪的重处分、作出重大职务调整应当是少数； 而严重违纪涉嫌违法立案审查的只能是极少数。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党员廉洁自律规范的内容是什么？</desc>
+        <ans>第一条坚持公私分明，先公后私，克己奉公。第二条坚持崇廉拒腐，清白做人，干净做事。第三条坚持尚俭戒奢，艰苦朴素，勤俭节约。第四条坚持吃苦在前，享受在后，甘于奉献。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党员领导干部廉洁自律规范的内容是什么？</desc>
+        <ans>廉洁从政，自觉保持人民公仆本色。廉洁用权，自觉维护人民根本利益。廉洁修身，自觉提升思想道德境界。廉洁齐家，自觉带头树立良好家风。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>违犯党纪的主体有哪些？</desc>
+        <ans>违犯党纪的主体是党员、党的组织。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是故意违纪？</desc>
+        <ans>故意违纪，是明知自己的行为会发生危害党和社会的结果，并希望或放任这种结果发生的一种心理态度。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>根据纪律处分运用规则，具有哪些情形，可以从轻或者减轻处分</desc>
+        <ans>（一）主动交代本人应当受到党纪处分的问题的；（二）检举同案人或者其他人应当受到党纪处分或者法律追究的问题，经查证属实的；&#x0D;&#x0A;（三）主动挽回损失、消除不良影响或者有效阻止危害结果发生的；&#x0D;&#x0A;（四）主动上交违纪所得的；&#x0D;&#x0A;（五）有其他立功表现的。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>根据纪律处分运用规则，具有哪些情形，应当从重或者加重处分？</desc>
+        <ans>（一）在纪律集中整饬过程中，不收敛、不收手的；&#x0D;&#x0A;（二）强迫、唆使他人违纪的；&#x0D;&#x0A;（三）本条例另有规定的。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《条例》对违反生活纪律行为进行了规定，主要有哪些？</desc>
+        <ans>（一）生活奢靡、贪图享乐、追求低级趣味，造成不良影响的；&#x0D;&#x0A;（二）与他人发生不正当性关系，造成不良影响的；&#x0D;&#x0A;（三）违背社会公序良俗，在公共场所有不当行为，造成不良影响的；&#x0D;&#x0A;（四）其他严重违反社会公德、家庭美德行为的。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《条例》中规定的对抗组织审查，具体指哪些行为？</desc>
+        <ans>（一）串供或者伪造、销毁、转移、隐匿证据的；&#x0D;&#x0A;（二）阻止他人揭发检举、提供证据材料的；&#x0D;&#x0A;（三）包庇同案人员的；&#x0D;&#x0A;（四）向组织提供虚假情况，掩盖事实的；&#x0D;&#x0A;（五）有其他对抗组织审查行为的。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《中国共产党纪律处分条例》对党员领导干部违纪行为分为哪些？ </desc>
+        <ans>分为六类，违反政治纪律、违反组织纪律、违反廉洁纪律、违反工作纪律、违反群众纪律、违反生活纪律。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>从轻、从重处分的含义是什么？</desc>
+        <ans>从轻、从重处分是指在《中国共产党纪律处分条例》分则中规定的违纪行为应当受到的处分幅度以内，给予较轻或者较重的处分。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>减轻、加重处分的含义是什么？</desc>
+        <ans>减轻、加重处分是指在《中国共产党纪律处分条例》分则中规定的违纪行为应当受到的处分幅度以外，减轻或者加重一档给予处分。开除党籍处分不适用减轻处分的规则。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党的纪律的特点是什么？</desc>
+        <ans>（1）党的纪律是统一的、平等的纪律；&#x0D;&#x0A;（2）党的纪律是自觉的纪律；&#x0D;&#x0A;（3）党的纪律是科学的纪律；&#x0D;&#x0A;（4）党的纪律是铁的纪律。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党的纪律检查是指什么？</desc>
+        <ans>党的纪律检查机关维护党的纪律的活动</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《中国共产党纪律处分条例》适用对象是什么?</desc>
+        <ans>违犯党纪应当受到党纪追究的党组织和党员。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>行政监察是指什么?</desc>
+        <ans>国家行政机构内专门行使监督职权的机关，依法对国家行政机关及其公务员以及国家行政机关任命的其他人员行使行政权力的行为进行监督和督查。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党的各级纪律检查委员会是依据什么设立的?</desc>
+        <ans>党章</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>国家监察机关是依据什么设立的?</desc>
+        <ans>宪法</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《中国共产党廉洁自律准则》贯彻党的十八大和十八届三中、四中全会精神，坚持什么与什么相结合?</desc>
+        <ans>依规治党与以德治党</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《中国共产党廉洁自律准则》紧扣廉洁自律主题，重申党的理想信念宗旨、优良传统作风，重在什么?</desc>
+        <ans>立德</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《中国共产党廉洁自律准则》规定，中国共产党全体党员和各级党员领导干部的“四个必须”要求是什么?</desc>
+        <ans>必须坚定共产主义理想和中国特色社会主义信念，必须坚持全心全意为人民服务根本宗旨，必须继承发扬党的优良传统和作风，必须自觉培养高尚道德情操，努力弘扬中华民族传统美德，廉洁自律接受监督，永葆党的先进性和纯洁性。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《中国共产党纪律处分条例》的指导思想是什么?</desc>
+        <ans>以马列主义、毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观为指导，深入贯彻习近平总书记系列讲话重要精神，落实全面从严治党战略部署。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>根据《中国共产党纪律处分条例》，党的纪律处分工作应当坚持哪几项原则?</desc>
+        <ans>党要管党、从严治党;党纪面前一律平等;实事求是;民主集中制;惩前毖后、治病救人。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《中国共产党纪律处分条例》规定。对行为发生在本条例实施前的处理，坚持什么原则?</desc>
+        <ans>从旧兼从轻原则。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《中国共产党纪律检查机关案件检查工作条例》规定，纪检机关纪律审查的24字要求是什么?</desc>
+        <ans>事实清楚、证据确凿、定性准确、处理恰当、手续完备、程序合法。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党的十八届三中全会决定关于党的纪律检查体制改革工作的“两为主”是指什么?</desc>
+        <ans>查办腐败案件以上级纪委为主，线索处置在向同级党委报告的同时必须向上级纪委报告;各级纪委书记、副书记的提名考察以上级纪委会同组织部门为主。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>在十八届中央纪委六次全会强调，在坚持中深化、在深化中坚持，让什么落地生根?</desc>
+        <ans>中央八项规定精神。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>在十八届中央纪委六次全会指出，纪律检查机关要严字当头，强化自我监督，加强党内监督，接受什么监督?</desc>
+        <ans>社会</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>《党政领导干部选拔任用工作条例》规定，实行党政领导干部辞职制度。辞职有哪几种?</desc>
+        <ans>因公辞职、自愿辞职、引咎辞职、责令辞职。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党的十八大的主题是什么？</desc>
+        <ans>高举中国特色社会主义伟大旗帜，以邓小平理论、“三个代表”重要思想、科学发展观为指导，解放思想，改革开放，凝聚力量，攻坚克难，坚定不移沿着中国特色社会主义道路前进，为全面建成小康社会而奋斗</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>党的十八大报告提出的“两个一百年”是指什么?</desc>
+        <ans>中国共产党成立100年时全面建成小康社会，新中国成立100年时建成富强民主文明和谐的社会主义现代化国家。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>社会主义核心价值观的基本内容有哪些？</desc>
+        <ans>富强、民主、文明、和谐，自由、平等、公正、法治，爱国、敬业、诚信、友善。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>新形势下党所面临的 “四大考验” 和“四大危险”是指什么？</desc>
+        <ans>四大考验：执政考验、改革开放考验、市场经济考验、外部环境考验。四大危险：精神懈怠的危险，能力不足的危险，脱离群众的危险，消极腐败的危险。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>习近平总书记提出党员干部要增强哪“四种意识”？</desc>
+        <ans>政治意识、大局意识、核心意识、看齐意识。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>“四个全面”战略布局的内容是什么？</desc>
+        <ans>全面建成小康社会、全面深化改革、全面依法治国、全面从严治党。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中国共产党打响武装反抗国民党反动派第一枪的起义是什么？</desc>
+        <ans>1927年8月1日的南昌起义。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>八七会议确立了什么总方针？</desc>
+        <ans>确立了土地革命和武装反抗国民党反动派的总方针。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>1935年中国共产党在《八一宣言》中提出了什么著名口号？</desc>
+        <ans>停止内战，一致抗日。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中国共产党在什么会议上确定了抗日民族统一战线的策略思想？</desc>
+        <ans>瓦窑堡会议。</ans>
+    </qstn>
+</library>
