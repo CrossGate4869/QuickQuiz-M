@@ -129,6 +129,16 @@ function makeQuiz()
 	qstnList.splice(0, qstnList.length);
 	ansList.splice(0, ansList.length);
 	
+	var randString = document.getElementById("name").value;
+	if (!randString.length)
+	{
+		Math.seed = parseInt(Math.random() * 99999999);
+	}
+	else
+	{
+		Math.seed = bkdrHash(randString) % 100000000;
+	}
+	
 	addQuestion("s-choise", schCount);
 	addQuestion("m-choise", mchCount);
 	addQuestion("judge", jdgCount);
@@ -183,7 +193,7 @@ function addQuestion(typeStr, count)
 			tmpList.push(qstn[i]);
 		}
 	}
-	tmpList.sort(function(){ return 0.5 - Math.random() });
+	randomList(tmpList);
 	
 	count = Math.min(lastCount, count);
 	for (i = 0; i < count ; i++)

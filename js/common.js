@@ -166,6 +166,18 @@ function bkdrHash(string)
     return (hash % 0x7FFFFFFF);
 }
 
+function randomList(list)
+{
+	var item, index;
+	for (var i = 0; i < list.length; i++)
+	{
+		index = Math.seededRandom(0, list.length - 1);
+		item = list[index];
+		list[index] = list[i];
+		list[i] = item;
+	}
+}
+
 function setCookie(c_name, value, expirehours)
 {
 	if (!navigator.cookieEnabled)

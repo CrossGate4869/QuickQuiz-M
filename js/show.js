@@ -685,7 +685,7 @@ function refreshList()
 		// 当起始和终止值无效时，将全部内容进行排序
 		if ((startIndex !== startIndex && endIndex !== endIndex) || (!startString.length && !endString.length) || endIndex <= startIndex)
 		{
-			showList.sort(function(){ return 50 - Math.seededRandom(0, 100); });
+			randomList(showList);
 		}
 		// 否则，将按照开始和结束位置进行排序
 		else
@@ -704,7 +704,7 @@ function refreshList()
 			}
 			
 			var tempList = showList.slice(startIndex, endIndex);
-			tempList.sort(function(){ return 50 - Math.seededRandom(0, 100); });
+			randomList(tempList);
 			
 			for (var i = 0; i < tempList.length; i++)
 			{
