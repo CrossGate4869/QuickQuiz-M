@@ -743,10 +743,6 @@ function scrollToShowBtn()
 
 		window.scrollTo(0, btn.offsetTop + btn.offsetHeight - screen.availHeight * 0.8);
 	}
-	else
-	{
-		window.scrollTo(0, 0);
-	}
 }
 
 function goToQstn()
