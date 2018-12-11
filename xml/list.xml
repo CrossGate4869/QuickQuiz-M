@@ -45,5 +45,10 @@
 			<href>xml/anquanfshz.xml</href>
 			<password>35c54d979b243f1de71cee9cfeb7c6a7</password>
 		</item>
+		<item>
+			<desc>危险源题库</desc>
+			<href>xml/weixianyuan.xml</href>
+			<password>e10adc3949ba59abbe56e057f20f883e</password>
+		</item>
 	</group>
 </root>
