@@ -41,6 +41,11 @@
 	<group>
 		<tag>安全生产管理</tag>
 		<item>
+			<desc>2019青岛培训题库</desc>
+			<href>xml/qd2019.xml</href>
+			<password>670b14728ad9902aecba32e22fa4f6bd</password>
+		</item>
+		<item>
 			<desc>安全管理复审换证题库</desc>
 			<href>xml/anquanfshz.xml</href>
 			<password>35c54d979b243f1de71cee9cfeb7c6a7</password>
