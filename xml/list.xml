@@ -2,21 +2,6 @@
 <root>
 	<key>QuickQuiz-List</key>
 	<group>
-		<tag>共青团题库</tag>
-		<item>
-			<desc>2017共青团知识竞赛题库</desc>
-			<href>xml/gqt2017.xml</href>
-		</item>
-		<item>
-			<desc>十九大精神题库</desc>
-			<href>xml/shijiuda.xml</href>
-		</item>
-		<item>
-			<desc>2016“两学一做”知识竞赛题库</desc>
-			<href>xml/lxyz2016.xml</href>
-		</item>
-	</group>
-	<group>
 		<tag>安全规程</tag>
 		<item>
 			<desc>安全规程热机部分</desc>
@@ -36,6 +21,21 @@
 		<item>
 			<desc>热控DCS技能竞赛</desc>
 			<href>xml/rkdcs.xml</href>
+		</item>
+	</group>
+	<group>
+		<tag>共青团题库</tag>
+		<item>
+			<desc>2017共青团知识竞赛题库</desc>
+			<href>xml/gqt2017.xml</href>
+		</item>
+		<item>
+			<desc>十九大精神题库</desc>
+			<href>xml/shijiuda.xml</href>
+		</item>
+		<item>
+			<desc>2016“两学一做”知识竞赛题库</desc>
+			<href>xml/lxyz2016.xml</href>
 		</item>
 	</group>
 	<group>

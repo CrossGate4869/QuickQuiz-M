@@ -11,7 +11,7 @@ button {
 	width : 130px;
 }
 
-input[type = "text"], input[type = "password"]
+input[type = "text"], input[type = "number"], input[type = "password"]
 {
 	font-size : 150%;
 	font-family : Microsoft YaHei, SimHei, sans-serif;

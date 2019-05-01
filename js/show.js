@@ -319,6 +319,26 @@ function showAnswer(clear)
 		break;
 	}
 	
+	if (clear) {
+		document.getElementById("resolve-hr").style.display = "none";
+		document.getElementById("resolve-div").style.display = "none";
+		document.getElementById("resolve-p").style.display = "none";
+	}
+	else {
+		var resolve = qstn.getElementsByTagName("res");
+		if (resolve.length) {
+			document.getElementById("resolve-hr").style.display = "";
+			document.getElementById("resolve-div").style.display = "";
+			
+			document.getElementById("resolve-p").style.display = "none";
+			document.getElementById("resolveShow").innerHTML = resolve[0].childNodes[0].nodeValue;
+		}
+		else {
+			document.getElementById("resolve-hr").style.display = "none";
+			document.getElementById("resolve-div").style.display = "none";
+			document.getElementById("resolve-p").style.display = "none";
+		}
+	}
 	scrollToShowBtn();
 }
 

@@ -168,6 +168,10 @@ function makeQuiz()
 	showQuestion();
 	enableAllChoise(true);
 	showTimeLeft(true);
+	
+	document.getElementById("resolve-hr").style.display = "none";
+	document.getElementById("resolve-div").style.display = "none";
+	document.getElementById("resolve-p").style.display = "none";
 }
 
 function getQstnCount()
@@ -350,6 +354,27 @@ function showQuestion()
 	}
 	
 	document.getElementById("mark").checked = markList[qstnIndex];
+	
+	if (!startTest) {
+		var resolve = qstn.getElementsByTagName("res");
+		if (resolve.length) {
+			document.getElementById("resolve-hr").style.display = "";
+			document.getElementById("resolve-div").style.display = "";
+			
+			document.getElementById("resolve-p").style.display = "none";
+			document.getElementById("resolveShow").innerHTML = resolve[0].childNodes[0].nodeValue;
+		}
+		else {
+			document.getElementById("resolve-hr").style.display = "none";
+			document.getElementById("resolve-div").style.display = "none";
+			document.getElementById("resolve-p").style.display = "none";
+		}
+	}
+	else {
+		document.getElementById("resolve-hr").style.display = "none";
+		document.getElementById("resolve-div").style.display = "none";
+		document.getElementById("resolve-p").style.display = "none";
+	}
 }
 
 function showPreQstn()

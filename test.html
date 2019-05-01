@@ -32,19 +32,19 @@
 
 <div id = "count">
 	<div style = "line-height : 200%">
-		单选题数：<input type = "text" id = "schCount" maxlength = "3" value = "20" style = "width : 30%" onchange = "checkInput()"></input>
+		单选题数：<input type = "number" id = "schCount" maxlength = "3" value = "20" style = "width : 30%" onchange = "checkInput()"></input>
 		<span id = "schMax"></span>
 	</div>
 	<div style = "line-height : 200%">
-		多选题数：<input type = "text" id = "mchCount" maxlength = "3" value = "0" style = "width : 30%" onchange = "checkInput()"></input>
+		多选题数：<input type = "number" id = "mchCount" maxlength = "3" value = "0" style = "width : 30%" onchange = "checkInput()"></input>
 		<span id = "mchMax"></span>
 	</div>
 	<div style = "line-height : 200%">
-		判断题数：<input type = "text" id = "jdgCount" maxlength = "3" value = "10" style = "width : 30%" onchange = "checkInput()"></input>
+		判断题数：<input type = "number" id = "jdgCount" maxlength = "3" value = "10" style = "width : 30%" onchange = "checkInput()"></input>
 		<span id = "jdgMax"></span>
 	</div>
 	<div style = "line-height : 200%">
-		测试时间：<input type = "text" id = "timeLimit" maxlength = "3" value = "15" style = "width : 30%" onchange = "checkInput()"></input>
+		测试时间：<input type = "number" id = "timeLimit" maxlength = "3" value = "15" style = "width : 30%" onchange = "checkInput()"></input>
 		分钟<br />（最大180分钟，输入0不限时）
 	</div>
 	
@@ -110,6 +110,15 @@
 		<button type = "button" id = "switch" onclick = "switchFunc(true)">结束答题</button>
 	</p>
 	
+	<hr id = "resolve-hr" style = "margin-bottom : 0" />
+	<div id = "resolve-div" style = "background : #1E90FF; color : white" onclick = "showHideShowFunc('resolve-p', 'showresolve', '查看题目解析')">
+		<small id = "showresolve">&#9658查看题目解析</small>
+	</div>
+	
+	<p id = "resolve-p" style = "display : none;">
+		<small id = "resolveShow"></small>
+	</p>
+	
 	<hr style = "margin-bottom : 0" />
 	<div style = "background : #1E90FF; color : white" onclick = "showHideShowFunc('qstnGo', 'findtext', '题目跳转')">
 		<small id = "findtext">&#9658题目跳转</small>
@@ -129,7 +138,7 @@
 </div>
 
 <hr />
-GX Software 2018-2019 by 南郊居士
+<small>GX Software 2018-2019 by 南郊居士</small>
 
 </body>
 </html>
