@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <key>QuickQuiz</key>
+    <title>机修钳工</title>
+    <cust type="text">论述题</cust>
+    <qstn type="s-choise" cust="0">
+        <desc>双频激光干涉仪能发出一束含有两个不同频率的左、右旋圆偏振光，这两部分谱线（f1和f2 ）与氖原子谱线（f0）的分布关系为（ ）。</desc>
+        <opt ans="t">f1和f2对称分布在f0 的两边</opt>
+        <opt ans="f">f1和f2非对称分布在f0 的两边</opt>
+        <opt ans="f">f1和f2都分布在f0 左边</opt>
+        <opt ans="f">f1和f2都分布在f0 右边</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（ ）不属于数控机床的本体。</desc>
+        <opt ans="f">工作台</opt>
+        <opt ans="f">刀架</opt>
+        <opt ans="f">主轴箱</opt>
+        <opt ans="t">伺服系统</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（ ）是数显装置中典型的位置检测组件。</desc>
+        <opt ans="f">光栅</opt>
+        <opt ans="f">圆光栅</opt>
+        <opt ans="f">磁栅</opt>
+        <opt ans="t">感应同步器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在导轨面上粘结（ ）塑料板（导轨贴塑）是改进机床导轨的常用方法之一。</desc>
+        <opt ans="f">聚乙烯</opt>
+        <opt ans="t">聚四氟乙烯</opt>
+        <opt ans="f">ABS</opt>
+        <opt ans="f">聚砜</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>经济型数控机床大多采用（ ）系统。</desc>
+        <opt ans="f">半开环</opt>
+        <opt ans="f">半闭环</opt>
+        <opt ans="t">开环</opt>
+        <opt ans="f">闭环</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当坐标镗床的工作台工作面为刮研面时，用涂色法检查在25mm*25mm内接触点数不得少于（ ）点。</desc>
+        <opt ans="f">25点</opt>
+        <opt ans="t">20点</opt>
+        <opt ans="f">18点</opt>
+        <opt ans="f">16点</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>检查齿轮磨床工件精度齿距累积误差时，应使用的检查仪器是（ ）。</desc>
+        <opt ans="f">齿距仪</opt>
+        <opt ans="t">齿轮位置量仪</opt>
+        <opt ans="f">渐开线齿形测量仪</opt>
+        <opt ans="f">齿向检查仪</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工序能力指数（ ）时，说明工序能力满足公差要求程度正常。</desc>
+        <opt ans="f">CP≤0.67</opt>
+        <opt ans="f">0.67＜CP≤1.00</opt>
+        <opt ans="t">1.00＜CP≤1.33</opt>
+        <opt ans="f">1.33＜C≤1.67</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用偏心夹紧工件比螺旋夹紧工件好的主要优点是（ ）。</desc>
+        <opt ans="f">夹紧力大</opt>
+        <opt ans="f">夹紧可靠</opt>
+        <opt ans="t">动作迅速</opt>
+        <opt ans="f">不易损坏工件</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>选择定位基准时，应尽量与工件的（ ）一致。</desc>
+        <opt ans="f">工艺基准</opt>
+        <opt ans="f">度量基准</opt>
+        <opt ans="f">起始基准</opt>
+        <opt ans="t">设计基准</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>激光干涉仪的最大测量长度为（ ）。</desc>
+        <opt ans="f">40m</opt>
+        <opt ans="t">60m</opt>
+        <opt ans="f">100m</opt>
+        <opt ans="f">很长、几乎不受限制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>数控机床位置精度的检查应使用（ ）来检测。</desc>
+        <opt ans="t">双频激光干涉仪</opt>
+        <opt ans="f">自准直仪</opt>
+        <opt ans="f">光学平直仪</opt>
+        <opt ans="f">三坐标测量机</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>数控机床闭环进给伺服系统的检测元件是（ ）</desc>
+        <opt ans="f">角位移检测器</opt>
+        <opt ans="t">直线位移检测器</opt>
+        <opt ans="f">角速度检测器</opt>
+        <opt ans="f">压力检测器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>大流量的液压系统所使用的换向阀一般为（ ）换向阀。</desc>
+        <opt ans="f">手动</opt>
+        <opt ans="f">机动</opt>
+        <opt ans="t">电磁</opt>
+        <opt ans="f">电液动</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为提高滚齿机的传动链精度，在修理时一般不能采用（ ）。</desc>
+        <opt ans="t">减少传动元件的数量</opt>
+        <opt ans="f">提高传动元件的安装精度</opt>
+        <opt ans="f">装配时用误差补偿</opt>
+        <opt ans="f">加装误差校正装置</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为检验螺纹磨床外螺纹砂轮修整器的稳定性，应试磨（ ）试切件。</desc>
+        <opt ans="f">长丝杠</opt>
+        <opt ans="f">钢片槽</opt>
+        <opt ans="t">环形槽</opt>
+        <opt ans="f">内螺纹</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>典型的可编程控制器一般由（ ）三个基本单元组成。</desc>
+        <opt ans="t">输入/输出单元、中央处理单元、编程设备</opt>
+        <opt ans="f">输入/输出单元、中央处理单元、检测元件</opt>
+        <opt ans="f">数显装置、中央处理单元、编程设备</opt>
+        <opt ans="f">输入/输出单元、检测元件、编程</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工序能力指数（ ）时，说明工序能力满足公差要求程度不足，应采取措施加以改进。</desc>
+        <opt ans="f">CP≤0.67</opt>
+        <opt ans="t">0.67＜CP≤1.00</opt>
+        <opt ans="f">1.00＜CP≤1.33</opt>
+        <opt ans="f">1.33＜C≤1.67</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>单件、小批量生产的工序质量控制点的设置应以（ ）为对象。</desc>
+        <opt ans="f">质量特性值</opt>
+        <opt ans="f">工序</opt>
+        <opt ans="t">设备</opt>
+        <opt ans="f">工艺装备</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用一个大平面对工件的平面进行定位时，它可限制工件的（ ）自由度。</desc>
+        <opt ans="f">两个</opt>
+        <opt ans="t">三个</opt>
+        <opt ans="f">四个</opt>
+        <opt ans="f">五个</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>激光干涉仪的最大测量长度为（ ）。</desc>
+        <opt ans="f">40m</opt>
+        <opt ans="t">60m</opt>
+        <opt ans="f">100m</opt>
+        <opt ans="f">很长、几乎不受限制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用铆钉枪冷铆时，铆钉直径一般不超过（ ）。</desc>
+        <opt ans="f">8mm</opt>
+        <opt ans="f">10mm</opt>
+        <opt ans="t">13mm</opt>
+        <opt ans="f">25mm</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>简易的经济型数控机床大多采用（ ）伺服系统。</desc>
+        <opt ans="t">开环</opt>
+        <opt ans="f">闭环</opt>
+        <opt ans="f">半开环</opt>
+        <opt ans="f">半闭环</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>数控机床开机后首先使各轴自动检测参考点，其顺序为（ ）。</desc>
+        <opt ans="f">X、Y、Z</opt>
+        <opt ans="f">X、Z、Y</opt>
+        <opt ans="t">Z、X、Y</opt>
+        <opt ans="f">Z、Y、X</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>数控机床改造中不能当驱动部件的有（ ）。</desc>
+        <opt ans="f">步进电动机</opt>
+        <opt ans="f">电液脉冲马达</opt>
+        <opt ans="f">伺服电动机</opt>
+        <opt ans="t">交流电动机</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>Y7520W型螺纹磨床修理、安装后，应准备（ ）试切件来进行工作精度检验。</desc>
+        <opt ans="f">3种</opt>
+        <opt ans="f">4种</opt>
+        <opt ans="t">5种</opt>
+        <opt ans="f">6种</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>项目性修理对设备的尺寸链（ ）影响。</desc>
+        <opt ans="f">一定有</opt>
+        <opt ans="f">一定没有</opt>
+        <opt ans="t">可能会有</opt>
+        <opt ans="f">无法确定是否有</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>大批量生产的工序质量控制点的设置应以（ ）为对象。</desc>
+        <opt ans="t">质量特性值</opt>
+        <opt ans="f">工序</opt>
+        <opt ans="f">设备</opt>
+        <opt ans="f">工艺装备</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>装配精度完全依赖于零件加工精度的装配方法叫（ ）处。</desc>
+        <opt ans="t">完全互换法</opt>
+        <opt ans="f">修配法</opt>
+        <opt ans="f">选配法</opt>
+        <opt ans="f">调整装配法</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在夹具中用较长的V形槽来作工件圆柱表面的定位元件时，它可以限制工作的（ ）自由度。</desc>
+        <opt ans="f">两个</opt>
+        <opt ans="f">三个</opt>
+        <opt ans="t">四个</opt>
+        <opt ans="f">五个</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>双频激光干涉仪能发出一束含在两个不同频率的左、右旋圆偏振光，这两部分谱线对称分布在氖原子谱线两边，这种现象称为（ ）。</desc>
+        <opt ans="f">多普勒效应</opt>
+        <opt ans="t">塞曼效应</opt>
+        <opt ans="f">光的干涉现象</opt>
+        <opt ans="f">光的反射现象</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>利用滚杠在斜坡上移动林箱，其坡度一般不能大于（ ）。</desc>
+        <opt ans="f">5</opt>
+        <opt ans="f">10</opt>
+        <opt ans="t">15</opt>
+        <opt ans="f">20</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>数控机床半闭环进给伺服系统的检测元件是（ ）</desc>
+        <opt ans="t">角位移检测器</opt>
+        <opt ans="f">直线位移检测器</opt>
+        <opt ans="f">角速度检测器</opt>
+        <opt ans="f">压力检测器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>数控机床执行机构的驱动部件被称为（ ），它包括主轴电动机、进给伺服电动机等。</desc>
+        <opt ans="f">数控装置</opt>
+        <opt ans="t">驱动装置</opt>
+        <opt ans="f">辅助装置</opt>
+        <opt ans="f">机床本体</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>轴线的（ ）不属于数控机床位置精度的评定项目。</desc>
+        <opt ans="f">重复定位精度</opt>
+        <opt ans="f">定位精度</opt>
+        <opt ans="f">反向差值</opt>
+        <opt ans="t">正向平均位置偏差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为检验螺纹磨床外螺纹砂轮修整器的稳定性，应试磨（ ）试切件。</desc>
+        <opt ans="t">环形槽</opt>
+        <opt ans="f">钢片槽</opt>
+        <opt ans="f">长丝杠</opt>
+        <opt ans="f">内螺纹</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>项目性修理是指对设备的（ ）进行修理。</desc>
+        <opt ans="f">某个部件</opt>
+        <opt ans="f">某项精度</opt>
+        <opt ans="t">某个部件或某项精度</opt>
+        <opt ans="f">多个部件</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>修理、装配等工序的工序质量控制点的设置应以（ ）为对象。</desc>
+        <opt ans="f">质量特性值</opt>
+        <opt ans="t">工序</opt>
+        <opt ans="f">设备</opt>
+        <opt ans="f">工艺装备</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为保证工件在夹具中加工时不会引起振动，夹紧国的作用点应选择在（ ）处。</desc>
+        <opt ans="f">远离加工</opt>
+        <opt ans="t">靠近加工</opt>
+        <opt ans="f">工件上已加工</opt>
+        <opt ans="f">刚度足够</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>封闭环的公差等于（ ）</desc>
+        <opt ans="f">增环公差之和和</opt>
+        <opt ans="f">减环公差之和</opt>
+        <opt ans="t">组成环公差之和</opt>
+        <opt ans="f">增环公差与减环公差之差</opt>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>检验桥板是用于测量机床导轨间，其它部位与导轨间的平行度的主要工具。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工艺尺寸链中的组成环是指那些在加工过程中直接获得的基本尺寸。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>概率法多用于精度不太高的短环的装配尺寸链中。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>压力控制回路用来实现稳压、减压、增压和多级调压等控制，满足执行组件在力和转矩上的要求。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>主轴的纯径向跳动对工件的圆度影响很大，使车出的工件呈椭圆截面。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>正确安装滚珠丝杠副及其支承方式，能提高数控机床的刚度和位置精度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>开环进给伺服系统比死循环进给伺服系统多一个回馈装置。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>可编程控制器是一种微处理应用系统。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>坐标镗床精度检查应在环境温度为20±1℃的条件下进行。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>死循环进给伺服系统的检测组件是角位移检测器。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>光波干涉计数原理进行精密测量。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在装配中要进行修配的组成环叫做封闭环。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>采用调速阀调速的同步回路，由于不受负载、油温、泄露等因素影响，所以同步精度较高。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在机械加工中，只要误差不超规定的精度要求，加原理误差是允许存在的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>切削加工中，由于传给刀具的热量比例很小，所以刀具的热变形可以忽略不计。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>滚珠丝杠副不能自锁，特别是在用于升降，由于惯性的作用，下降时当传动切削后，不能停止运动。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>数控装置是数控机床的控制系统，它采集和控制着机床所有的运动状态和运动量。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>各坐标轴能实现联动功能的数控机床是点位直线控制数控机床。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>项目性修理对设备的尺寸链不一定有影响。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>油样分析技术中主要是分析液压油，以获得设备磨损信息。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>量过程中影响所得数据准确性的因素主要有：计量器具的误差、测量方法的误差、环境条件的误差。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>尺寸链封闭环的基本尺寸是其它组成环基本尺寸的代数和。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分组装配法的装配精度，完全取决于零件的加工精度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>容积调速回路中的溢流阀起安全全保护作用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>车削加工时主轴在水平面内的角度摆动会使工件产生圆柱度误差。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>滚珠丝杠副是回转运转运动、直线运动相互转换的新型传动装置。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>数控装置中典型的位置检测元件是感应同步器。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>PLC内部元素的触点和线圈的联接是由程序来实现的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>数显装置在设备改造中的应用，既能提高加工精度，又能提高劳动生产率。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>贴塑导轨是在导轨面上粘接聚乙烯塑料板。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>双频激光干涉仪虽定位精度高，但因测量长度受限制，故仅适用于小型坐标镗床。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工艺尺寸链中的封闭环的确定是随着零件的加工方案的变化而改变。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>要提高装配精度，必须提高零件的加工精度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>采用减压回路，必须提高零件的加工精度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>切削加工中，由于传给刀具的热量比例很小，所以刀具的热变形忽略不计。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>滚珠丝杠副可以将旋转运动转换成直线运动，但不可以从直线运动转换成旋转运动。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>驱动装置是数控机床的控制核心。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>PLC是现化能替代传统的J-C控制的最佳工业控制器。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>数显装置在设备改造中的应用，只能提高加工精度，不能提高劳动生产率。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>贴塑导轨是在导轨面上粘接聚四氟乙烯塑料板。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>双频激光干涉仪不仅用于精密测量，还可用于大型机应的精密定位。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>把一批配合件按实际尺寸分组，将大孔配大轴、小孔配小轴的配合法，叫做直接选配法。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>液压伺服系统中的执行机构的运动随着输入信号的改变而变化。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在车削细长轴时如不采取任何工艺措施，加工完的轴会出现马鞍形。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对滚珠丝杠的预拉伸，是用以补偿因滚珠丝杠在高速回转时的摩擦、温升引起的变形。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>数控装置是数控机床执行机构的驱动部件。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>数显装置在设备改造中的应用，既能提高加工精度，又能提高劳动生产率。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>PLC是现化能替代传统的J-C控制的最佳工业控制器。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>坐标镗床精度检查项目的顺序并不表示实际测量顺序。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>Y7520W型螺纹磨床修理、安装后，应准备三种试切件来进行工作精度检验。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>国家标准规定有(    )项位置公差。</desc>
+        <blk beg="8" end="12">8</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>表面热处理又分为(    )和化字热处理。</desc>
+        <blk beg="9" end="13">表面淬火</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>常用的油基切削液有切削油和(    )。</desc>
+        <blk beg="14" end="18">极压切削油</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>电动机是根据(    )原理，把电能转为机械能。</desc>
+        <blk beg="7" end="11">电磁感应</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>按数控装置控制轴的功能，将数控机床分为(    )控制和连续控制两类。</desc>
+        <blk beg="20" end="24">点位直线</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>半闭环进给伺服系统的检测元件是(    )。</desc>
+        <blk beg="16" end="20">角位移检测器</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>“双特征分析法”故障诊断技术是把(    )信号分为平稳故障信号和冲击故障信号。</desc>
+        <blk beg="17" end="21">振动故障</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>将同一激光器发出的光分成频率不同的两束光波，并使之产生干涉而进行测量的精密仪器叫(    )。</desc>
+        <blk beg="41" end="45">双频激光干涉仪</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>用铆钉冷铆时，铆钉直径通常不超过(    )。</desc>
+        <blk beg="17" end="21">13 mm</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>工序能力的数量通常用质量特性分布总体标准差的(    )表示。</desc>
+        <blk beg="23" end="27">6倍</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>(    )控制的对象是质量特性值。</desc>
+        <blk beg="1" end="5">工序质量</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>设备改造的主要原因是工件的结构特点、(    )和加工批量的需要。</desc>
+        <blk beg="19" end="23">技术要求</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>用于长度测量的激光干涉仪由激光头、干涉仪和(    )三部分组成。</desc>
+        <blk beg="22" end="26">直线反射仪</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>提高设备主轴系统精度的改进途径有提高主轴的(    )、刚度和热稳定性。</desc>
+        <blk beg="22" end="26">回转精度</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>车间管理的主要内容有计划管理、生产管理、(    )、经济管理和其它项目管理。</desc>
+        <blk beg="21" end="25">组织管理</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>成组技术是建立以(    )管理为基础的合理组织生产技术准备和生产过程的。</desc>
+        <blk beg="9" end="13">相似形</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>高频设备会产生(    )，会使人发生物学变化。</desc>
+        <blk beg="8" end="12">电磁辐射</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>国内劳动部门规定的工伤频率，可惯称为(    )。</desc>
+        <blk beg="19" end="23">千人事故率</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>安全用电的原则是不接触(    )，不靠近(    )。</desc>
+        <blk beg="12" end="16">低压带电体</blk>
+        <blk beg="22" end="26">高压带电体</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>职业道德的实质内容是树立全新的社会主义(    )。</desc>
+        <blk beg="20" end="24">劳动态度</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>形位公差带通常包括公差带的大小、公差带的方向和(    )。</desc>
+        <blk beg="24" end="28">公差带的位置</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>化学热处理的主要方法有(    )、渗氮、碳氮共渗和渗金属。</desc>
+        <blk beg="12" end="16">渗碳</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>常用的油基切削液有(    )和极压切削油。</desc>
+        <blk beg="10" end="14">切削油</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>变压器的一次侧匝数与二侧匝数之比，称为(    )。</desc>
+        <blk beg="20" end="24">变比</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>数控机床一般由(    )、主轴伺服系统、进给伺服系统、机床本体及其辅助装置组成</desc>
+        <blk beg="8" end="12">数控装置</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>半闭环进给伺服系统的检测元件是(    )。</desc>
+        <blk beg="16" end="20">角位移检测器</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>“双特征分析法”故障诊断技术是把振动故障信号分为(    )故障信号和冲击故障信号。</desc>
+        <blk beg="25" end="29">平稳</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>将同一激光器发出的光分成频率不同的两束光波，并使之产生干涉而进行测量的精密仪器叫(    )。</desc>
+        <blk beg="41" end="45">双频激光干涉仪</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>手工电弧焊的焊接工艺参数包括焊条直径，焊接电流、电弧电压和(    )。</desc>
+        <blk beg="30" end="34">焊接速度</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>表示工序能力满足(    )要求程度的量值是工序能力指数。</desc>
+        <blk beg="9" end="13">公差范围</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>工序质量控制的核心是管因素，而不是管(    )。</desc>
+        <blk beg="19" end="23">结果</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>感应同步器是(    )中典型的位置检测元件。</desc>
+        <blk beg="7" end="11">数显装置</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>对设备的某个部件或某项精度的修理，称为(    )。</desc>
+        <blk beg="20" end="24">项目性修理</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>数控机床位置精度的三项评定项目有轴线的重复定位精度、定位精度和(    )。</desc>
+        <blk beg="32" end="36">反向差值</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>车间生产控制的主要工作有(    )、作业核算和作业分析。</desc>
+        <blk beg="13" end="17">生产调度</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>建立在以相似形原理为基础的合理组织生产技术准备和产品生产过程的方法叫(    )。</desc>
+        <blk beg="35" end="39">成组技术</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>对振动的控制需对(    )、振动传播途径和振动影响的地点三个环节进行冶理。</desc>
+        <blk beg="9" end="13">振源</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>国内劳动部门规定的工伤频率，可惯称为(    )。</desc>
+        <blk beg="19" end="23">千人事故率</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>安全用电的原则是不接触低压带电体，不靠近(    )。</desc>
+        <blk beg="21" end="25">高压带电体</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>职业道德首先要从爱岗敬业、(    )的职业行为规范开始。</desc>
+        <blk beg="14" end="18">忠于职守</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>形位公差带的形状由被测要素的特性和设计要求所决定，它共有(    )种形式。</desc>
+        <blk beg="29" end="33">9</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>表面热处理有表面淬火和(    )。</desc>
+        <blk beg="12" end="16">化学热处理</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>常用的水基切削液有水溶液、乳化液和(    )。</desc>
+        <blk beg="18" end="22">化学合成液</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>热继电器具有热惯性和机械惰性，因此不能作(    )保护。</desc>
+        <blk beg="21" end="25">短路</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>数控机床一般由数控装置、主轴伺服系统、(    )、机床主体及辅且装置组成。</desc>
+        <blk beg="20" end="24">进给伺服系统</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>半死循环进给伺服系统的检测组件是(    )。</desc>
+        <blk beg="17" end="21">角位移检测器</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>“双特征分析法”故障诊断技术是把振动故障信号分为平衡故障和(    )故障信号。</desc>
+        <blk beg="30" end="34">冲击</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>桥式起重机的大车咬道是一种普遍故障，最常用、有效修理方法是(    )。</desc>
+        <blk beg="30" end="34">调整和移动车轮</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>手工电弧焊的焊接工艺参数包括焊条直径、焊接电流、(    )和焊接速度。</desc>
+        <blk beg="25" end="29">电弧电压</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>(    )是工序处于控制状态下的实际加工能力。</desc>
+        <blk beg="1" end="5">工序能力</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>工序质量控制的核心是管(    )而不是管结果。</desc>
+        <blk beg="12" end="16">因素</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>提高设备主轴系统精度的改进途径有提高主轴的回转精度、(    )和热稳定性。</desc>
+        <blk beg="27" end="31">刚度</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>坐标镗床的精度检查时，垂直主轴轴线对工作台面的垂直度最容易发生超差，其主要原因是主轴(    )不高造成的。</desc>
+        <blk beg="43" end="47">旋转精度</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>设备的电控系统的改造主要是(    )的应用。</desc>
+        <blk beg="14" end="18">可编程控制器PLC</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>车间生产控制的主要工作有生产调度、作业核算和(    )。</desc>
+        <blk beg="23" end="27">作业分析</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>成组技术的生产组织形式有(    )、成组生产单元和成组流水线。</desc>
+        <blk beg="13" end="17">组成工艺中心</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>生产过程中的有害因素有化学因素、物理因素和(    )。</desc>
+        <blk beg="22" end="26">生理因素</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>国内劳动部门通用的工伤事故严重度表示的是每个负伤人次平均损失的(    )。</desc>
+        <blk beg="32" end="36">工作天数</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>触电是因人体(    )带电体所引起的伤亡现象。</desc>
+        <blk beg="7" end="11">接触或接近</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>职业道德要从(    )、忠于职守的职业行为规范开始。</desc>
+        <blk beg="7" end="11">爱岗敬业</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>国家标准规定有(    )项形位公差。</desc>
+        <blk beg="8" end="12">14</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>调质热处理其实就是淬火后再进行(    )。</desc>
+        <blk beg="16" end="20">高温回火</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>常用的润滑剂有(    )、(    )、(    )。</desc>
+        <blk beg="8" end="12">润滑油</blk>
+        <blk beg="15" end="19">润滑脂</blk>
+        <blk beg="22" end="26">固体润滑剂</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>三相笼型异步电动机的定子是用来产生(    )的</desc>
+        <blk beg="18" end="22">旋转磁场</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>数控机床一般由(    )、(    )、(    )、(    )及其辅助装置组成。</desc>
+        <blk beg="8" end="12">数控装置</blk>
+        <blk beg="15" end="19">主轴伺服系统</blk>
+        <blk beg="22" end="26">进给伺服系统</blk>
+        <blk beg="29" end="33">机床本体</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>闭环进给伺服系统比开环进给伺服系统多一个(    )。</desc>
+        <blk beg="21" end="25">反馈装置</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>“双特征分析法”故障诊断技术是把振动故障信号分为(    )故障信号和(    )故障信号。</desc>
+        <blk beg="25" end="29">平稳</blk>
+        <blk beg="36" end="40">冲击</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>检验桥板是用于测量机床导轨间、其他部件与导轨间的(    )的主要工具。</desc>
+        <blk beg="25" end="29">平行度</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>利用滚杠在斜坡上移动木箱，其坡度不能大于(    )。</desc>
+        <blk beg="21" end="25">15°</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>工序能力是指工序处于控制状态下的(    )。</desc>
+        <blk beg="17" end="21">实际加工能力</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>工序质量控制的对象是(    )。</desc>
+        <blk beg="11" end="15">质量特性值</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>数控机床位置精度的检查必须使用(    )。</desc>
+        <blk beg="16" end="20">激光干涉仪</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>数控机床位置精度的三项评定项目有(    )、(    )和(    )。</desc>
+        <blk beg="17" end="21">轴线的重复定位精度</blk>
+        <blk beg="24" end="28">定位精度</blk>
+        <blk beg="31" end="35">反向差值</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>导轨贴塑是机床导轨常用的改进方法，是在导轨面上粘接(    )塑料板。</desc>
+        <blk beg="26" end="30">聚四氟乙烯</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>车间生产控制的主要工作有(    )、(    )和(    )。</desc>
+        <blk beg="13" end="17">生产调度</blk>
+        <blk beg="20" end="24">作业核算</blk>
+        <blk beg="27" end="31">作业分析</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>成组技术的生产组织方式有(    )、(    )、(    )。</desc>
+        <blk beg="13" end="17">成组工艺中心</blk>
+        <blk beg="20" end="24">成组生产单元</blk>
+        <blk beg="27" end="31">成组流水线</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>对振动的控制需对(    )、(    )和(    )三个环节进行治理。</desc>
+        <blk beg="9" end="13">振源</blk>
+        <blk beg="16" end="20">振动传播途径</blk>
+        <blk beg="23" end="27">振动影响的地点</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>国内劳动部门规定的工伤频率，习惯称为(    )。</desc>
+        <blk beg="19" end="23">千人事故率</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>电气设备的金属外壳，通常采取(    )或(    )的安全措施。</desc>
+        <blk beg="15" end="19">保护接地</blk>
+        <blk beg="22" end="26">保护接零</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>(    )是规范约束做从业人员职业活动的行为准则。</desc>
+        <blk beg="1" end="5">职业道德</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>形位公差带通常包括公差带的大小、公差带的形状、(    )和公差带的位置。</desc>
+        <blk beg="24" end="28">公差带方向</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>化学热处理的主要方法有渗碳、(    )、碳氮共渗和渗金属。</desc>
+        <blk beg="15" end="19">渗氮</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>机械润滑油（机油）的新标准名称是(    )。</desc>
+        <blk beg="17" end="21">全损耗系统用油</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>变压器是一种把某一数值的新交变电压变换为(    )相同而大小不同的交变电压的静止电气设备。</desc>
+        <blk beg="21" end="25">频率</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>按数控装置控制轴的功能，将数控机床分为点位直线控制和(    )两类。</desc>
+        <blk beg="27" end="31">连续控制</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>闭环进给伺服系统比开环进给伺服系统多一个(    )。</desc>
+        <blk beg="21" end="25">反馈装置</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>故障诊断技术中将振动故障信号分为平稳故障信号和冲击故障信号的方法叫(    )。</desc>
+        <blk beg="34" end="38">双特征分析法</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>检验桥板常用形式有双山形导轨桥板、平—山形导轨桥板和(    )形导轨桥板。</desc>
+        <blk beg="27" end="31">平—V</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>用铆钉枪冷铆时，铆钉直径通常不超过(    )。</desc>
+        <blk beg="18" end="22">13mm</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>表示工序能力满足(    )要求程度的量值是工序能力指数。</desc>
+        <blk beg="9" end="13">公差范围</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>工序能力指数CP&gt;1.67，说明工序能力(    )。</desc>
+        <blk beg="21" end="25">过剩</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>感应同步器是数显装置中典型的(    )元件。</desc>
+        <blk beg="15" end="19">位置检测</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>滚齿机不但要求有一定的几何精度，而且还应具有一定的(    )精度。</desc>
+        <blk beg="26" end="30">传动链</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>车间生产控制的主要工作有生产高度、作业核算和(    )。</desc>
+        <blk beg="23" end="27">作业分析</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>成组技术的生产组织形式有成组工艺中心、成组生产单元和(    )。</desc>
+        <blk beg="27" end="31">成组流水线</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>微波辐射对人体的生物效应可分为热效应和(    )。</desc>
+        <blk beg="20" end="24">非致热效应</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>国内劳动部门通用的工伤事故严重度表示的是每个负伤人次平均损失的(    )。</desc>
+        <blk beg="32" end="36">工作天数</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>电气设备的金属外壳，通常采用(    )或保护接零的安全措施。</desc>
+        <blk beg="15" end="19">保护接地</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>职业道德是社会主义(    )的重要组成部分。</desc>
+        <blk beg="10" end="14">道德体系</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>在导轨面上粘接(    )塑料板（导轨贴塑）是改进机床导轨的常用方法之一。</desc>
+        <blk beg="8" end="12">聚四氟乙烯</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>对震动的控制需对(    )、(    )、(    )三个环节进行治理。</desc>
+        <blk beg="9" end="13">振源</blk>
+        <blk beg="16" end="20">振动传播途径</blk>
+        <blk beg="23" end="27">振动影响的地点</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>设备诊断技术中的油样分析不是为获得(    )信息。</desc>
+        <blk beg="18" end="22">润滑油是否更换</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>将同一激光器发出的光分成（    ）的两束光波，并使之产生干涉而进行测量的箱密仪器叫双激光干涉仪。</desc>
+        <blk beg="13" end="17">频率不同</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>(    )不属于数控机床的机床本体。</desc>
+        <blk beg="1" end="5">伺服系统</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>轴线的（    ）不属于数控机床位置精度的评定项目。</desc>
+        <blk beg="4" end="8">正向平均位置偏差</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>为检验螺纹磨床的几何精度和传动链精度，应试磨（    ）。</desc>
+        <blk beg="23" end="27">长丝杆</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>工序能力的数量通常用质量特性分布总体标准差的（    ）来表示。</desc>
+        <blk beg="23" end="27">5</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>国内劳动部门规定的工伤频率表示的是（    ）。</desc>
+        <blk beg="18" end="22">千人负伤率</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>钻套在钻夹具中来引导刀具对工件进行加工，以保证被加工孔位置的准确性，因此它是一种（    ）。</desc>
+        <blk beg="41" end="45">引导组件</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>使用可换垫片、衬套和镶条等消除零件的累积误差和配合间隙装配方法是（    ）。</desc>
+        <blk beg="33" end="37">调整法</blk>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>中碳钢的性能特点与用途有哪些？</desc>
+        <ans>具有较高的强度和硬度，其塑性和韧性随含碳量的增加而逐步降低，切削性能良好。经调质后，能获得较好的综合性能。主要用来制作受力较大的机械零件，如连杆、曲轴、齿轮和联轴器等。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>数控机床的加工特点是什么？</desc>
+        <ans>加工精度高，尺寸一致性好；可以加工较复杂型面的工件；生产效率高；减轻工人劳动强度。经济效益明显。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>珠光体灰铸铁的性能特点与用途有哪些？</desc>
+        <ans>强度低，塑性、韧性差，但具有良好的铸造性、切削性和加工性，较高的耐磨性、减振性及较低的缺口敏感性。主要用于制造随较大载荷和要求一定的气密性或耐蚀性等较重要的零件，如齿轮、机座、飞轮、活塞、汽缸体、液压缸、阀门等。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>可编程控制器（PLC）的工作原理是什么？</desc>
+        <ans>可编程控制器（PLC）的工作原理是由按钮、传感器和行程开关输入信号，当信号改变时，控制系统做出反应，通过编制的机内逻辑程序，产生输出信号以控制被控系统的外部负载（如继电器、电动机、电磁阀、指示灯、报警器等）。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>高速钢的性能特点与用途？</desc>
+        <ans>具有高热硬性（可达600℃），高硬度、高耐磨性。常用于制造切削速度较高的刀具（如车刀、铣刀、钻头等）和形状复杂、载荷较大的成型刀具（如齿轮铣刀、拉刀）；冷挤压模及某些耐磨零件。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>设备改造（精化）的原因有哪些？</desc>
+        <ans>（1）工件结构特点的需要。如工件刚性差、易变形或形状独特等。&#x0D;&#x0A;（2）工件技术要求的需要。如有些工件在应用的设备上加工达不到工件的技术要求、尺寸精度、表面粗糙度、位置精度等。&#x0D;&#x0A;（3）工件加工批量的需要。改进设备的工序能可以提高工件加工的生产率。 </ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>高碳钢的性能特点与用途有哪些？</desc>
+        <ans>高碳钢具有较高的强度、硬度和弹性，但焊接性不好，切削性稍差，冷变形塑性差。主要用来制造具有较高强度、耐磨性和弹性的零件，如气门弹簧、弹簧垫圈、板簧和螺旋弹簧等弹性元件及耐磨零件。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>在设备诊断中，通过油样分析可获得哪些信息？</desc>
+        <ans>通过油样分析可知磨屑的浓度和颗粒大小反映了设备磨损的严重程度；磨屑的大小和形貌反映了磨屑产生的原因，即磨损发生的机理；磨屑的成分反映了磨屑产生的部位，即零件磨损的部位。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>合金调质钢的性能特点与用途有哪些？</desc>
+        <ans>合金调质钢具有高强度、高韧性的良好的综合力学性能。主要用于制造在重载荷下同时又受冲击载荷作用的一些重要零件，如汽车、拖拉机、机床等上的齿轮、主轴、连杆、高强度螺栓等。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>设备改造（精化）的目的是什么？</desc>
+        <ans>设备改造（精化）的目的是：&#x0D;&#x0A;提高设备可靠性和工序能力。&#x0D;&#x0A;提高劳动生产率&#x0D;&#x0A;减轻操作劳动强度、提高设备自动化程序。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>写出工序质量控制点的设置原则，列出工序质量控制点的常用控制文件的名称。</desc>
+        <ans>工序质量控制点设置原则是：&#x0D;&#x0A;（1）按全部质量特性的重要性分级为A级质量特性和少数为B级质量特性，以及关键部位。&#x0D;&#x0A;（2）工艺上有特殊要求，对下道工序的加工、装配有重大影响的项目。&#x0D;&#x0A;（3）内、外部质量质量信息反馈中出现质量问题较多的薄弱环节。&#x0D;&#x0A;常用的控制文件有：作业指导书；设备定期检定记录卡；设备日点检记录卡；工艺装备定期检查记录卡；量、检具检定记录卡；检验指导书；控制图；自检记录表。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>什么是可编程控制器（PLC）？写出它的工作原理及典型的可编程控制器的基本组成。</desc>
+        <ans>可编程控制器（PLC）是一种微处理器应用系统，主要用于完成开关量的逻辑运算与控制。&#x0D;&#x0A;可编程控制器（PLC）的工作原理是由按钮、传感器和行程开关输入信号，当信号改变时，控制系统做出反应，通过编制的机内逻辑程序，产生输出信号以控制被控系统的外部负载（如继电器、电动机、电磁阀、指示灯、报警器等）。&#x0D;&#x0A;典型的可编程控制器（PLC）由三个基本单元组成：&#x0D;&#x0A;（1）输入/输出单元；&#x0D;&#x0A;（2）中央处理器（CPU）；&#x0D;&#x0A;（3）编程设备。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>数控机床出了切削振动大的现象，从主轴部件的方面分析原因并提出处理方法。</desc>
+        <ans>（1）主轴箱和床身连接螺钉松动，应恢复精度后紧固连接螺钉。&#x0D;&#x0A;（2）轴承预紧力不够，游隙过大，应重新调整轴承游隙，但预紧力不宜过大，以免损坏轴承。&#x0D;&#x0A;（3）轴承预紧螺母松动，使主轴窜动，应紧固螺母，以确保主轴精度合格。&#x0D;&#x0A;（4）轴承拉毛或损坏，应更换轴承。&#x0D;&#x0A;（5）主轴与箱体精度超差，应修理主轴或箱体，使其配合精度、形位精度达到图样上的要求。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>写出工序质量分析表的作用和主要内容。</desc>
+        <ans>1）工序质量分析表的作用有；&#x0D;&#x0A;1、工序质量分析表对工序质量控制点所要控制的因素、控制项目的界限、控制方法、检查方法、频次及责任者等都具体地和表格的形式表达出来。&#x0D;&#x0A;2、工序质量分析表是对控制质量特性进行因素分析，从而找出影响质量特性值波动的主导因素，针对主导因素，来制定其控制范围及控制方法。&#x0D;&#x0A;3、工序质量分析表是编制工序质量控制点，制定其它控制文件的指导性文件和依据。&#x0D;&#x0A;2）工序质量分析表的主要内容有：&#x0D;&#x0A;1、控制目标、即质量特性值及其公差范围。&#x0D;&#x0A;2、质量特性值和主导质量因素的关系，即确定哪些是主导质量因素。&#x0D;&#x0A;3、主导质量因素控制规范，包括控制项目及其它允许界限，检查项目与方法、检查的频次、责任人、标准名称等。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>分别写出设备改造（精化）的目的和原因。</desc>
+        <ans>设备改造（精化）的目的是：&#x0D;&#x0A;（1）提高设备可靠性和工序能力。&#x0D;&#x0A;（2）提高劳动生产率。&#x0D;&#x0A;（3）减轻操作劳动强度、提高设备自动化程度。&#x0D;&#x0A;设备改造（精化）的原因是：&#x0D;&#x0A;（1）工件结构特点的需要。如工件刚性差、易变形或形状独特等。&#x0D;&#x0A;（2）工件技术要求的需要。如有些工件在应用的设备上加工达不到工件的技术要求、尺寸精度、表面粗糙度、位置精度等。&#x0D;&#x0A;（3）工件加工批量的需要。改进设备的工序能可以提高工件加工的生产率。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>数控机床出现了加工工件表面粗糙度值大的现象,从滚珠丝杠的方面分析原因并提出处理办法。</desc>
+        <ans>（1）导轨的润滑油供油不足，使移动部件爬行，应加润滑油，排除润滑故障。&#x0D;&#x0A;（2）滚珠丝杠有局部拉毛或破损，应更换或修理丝杠。&#x0D;&#x0A;（3）丝杠轴承损坏，运动不平稳，应更换损坏的轴承。&#x0D;&#x0A;（4）伺服电动机未调整好，增益过大，应调整伺服电动机的控制系统。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>写出工序质量控制点的作用和设置原则</desc>
+        <ans>工序质量控制点的作用是:&#x0D;&#x0A;（1）工序处于于受控状态，在产品制造过程中，运用重点控制和预防为主的思相，控制关键质量特性值、关键部位、薄弱环节等。&#x0D;&#x0A;（2）控制某个具体的定量质量特性。&#x0D;&#x0A;工序质量控制点设置原则是：&#x0D;&#x0A;（1）按质量特性的重要性分级为A级质量特性和少数为B级质量特性，以及关键部位。&#x0D;&#x0A;（2）上有特殊要求，对下道工序的加工、装配有重大影响的项目。&#x0D;&#x0A;（3）内、外部质量质量信息反馈中出现质量问题较多的薄弱环节。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>什么是可编程控制器（PLC）？写出它的工作原理及典型的可编程控制器的基本组成。</desc>
+        <ans>可编程控制器（PLC）是一种微处理器应用系统，主要用于完成开关量的逻辑运算与控制。&#x0D;&#x0A;可编程控制器（PLC）的工作原理是由按钮、传感器和行程开关输入信号，当信号改变时，控制系统做出反应，通过编制的机内逻辑程序，产生输出信号以控制被控系统的外部负载（如继电器、电动机、电磁阀、指示灯、报警器等）。&#x0D;&#x0A;典型的可编程控制器（PLC）由三个基本单元组成：&#x0D;&#x0A;（1）输入/输出单元；&#x0D;&#x0A;（2）中央处理器（CPU）；&#x0D;&#x0A;（3）编程设备。&#x0D;&#x0A;</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>分析桥式起重机制动器出现故障的原因并提出处理方法。</desc>
+        <ans>1、由于螺栓和孔的磨损，使制动瓦的中心不能和制动轮的中心重合，造成制动失灵。应加大螺栓圆柱部分直径，减小与孔的间隙。&#x0D;&#x0A;2、制动器在制动时发生“吱嘎”声。应调整制动瓦与制动轮的同轴度，紧固制动带。&#x0D;&#x0A;3、制动带磨损造成制动失灵。应更换制动带。&#x0D;&#x0A;4、起重重物时，停车后工件会自动落下。应调整制动器，使之可靠地支持住额定起重量的1.25倍。&#x0D;&#x0A;5、制动器在工作时冒烟或发生焦臭味，是由制动轮与制动瓦间隙过小、温度过高而引起的。一般制动轮温度不超过20℃，此时必须调整制动轮和制动瓦的间隙。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>分别写出工序质量控制计划的作用和主要内容。</desc>
+        <ans>工序质量控制计划的作用是按照计划的作用是按照产品图样、技术文件和质量特征重要性分级的要求，进一步明确关键工序中应做的工作，确定在什么时间、由哪些部门和哪些负责人做好这些工作。其中包括关键质量控制的准备和质量活动。&#x0D;&#x0A;工序质量控制计划的主要内容有：&#x0D;&#x0A;1、序质量控制点明细表。&#x0D;&#x0A;2、工序质量分析表。&#x0D;&#x0A;3、工序质量控制点应用的文件以及控制文件的目录。&#x0D;&#x0A;4、为使工序质量控制点应用的文件以及控制文件的目录。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>列出大型设备大修理时的注意事项。</desc>
+        <ans>大型设备大修理时的注意事项有：&#x0D;&#x0A;（1）零、部件的修理必须严格按照修理工艺进行，达至几何精度的要求。&#x0D;&#x0A;（2）零、部件在组装前必须做好细致的检查工作，保证组装的完整性、可靠性。&#x0D;&#x0A;（3）零、部件在组装前必须做好起吊等安装的准备工作，准备好起吊的钩具、绳索、辅具等，做好安全防范工作。&#x0D;&#x0A;（4）设备的大修理前要合理安排工作进度、人员的组织、备配件及材料的供应，一般都要排出网络计划（作业计划）。&#x0D;&#x0A;（5）零、部件的组装和总装，要做到一次装配成功、一次精度验收成功、一次试车成功，减少或消除因各种失误而造成的返工、拆卸、重新装配。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>分别写出设备改造（精化）的目的和原因。</desc>
+        <ans>设备改造（精化）的目的是：&#x0D;&#x0A;（1）提高设备可靠性和工序能力。&#x0D;&#x0A;（2）提高劳动生产率。&#x0D;&#x0A;（3）减轻操作劳动强度、提高设备自动化程度。&#x0D;&#x0A;设备改造（精化）的原因是：&#x0D;&#x0A;（1）工件结构特点的需要。如工件刚性差、易变形或形状独特等。&#x0D;&#x0A;（2）工件技术要求的需要。如有些工件在应用的设备上加工达不到工件的技术要求、尺寸精度、表面粗糙度、位置精度等。&#x0D;&#x0A;（3）工件加工批量的需要。改进设备的工序能可以提高工件加工的生产率。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>写出设备修理质量管理的工作内容。</desc>
+        <ans>设备修理质量管理的工作内容有：&#x0D;&#x0A;（1）制定设备修理的质量标准。&#x0D;&#x0A;（2）编制设备修理的工艺。&#x0D;&#x0A;（3）设备修理质量的检验和评定工作。&#x0D;&#x0A;（4）加强修理过程中的质量管理。&#x0D;&#x0A;（5）开展修后用户服务和质量信息反馈工作。&#x0D;&#x0A;（6）加强技术、业务培训工作。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>指出设备技术改造的主要途径。</desc>
+        <ans>设备技术改造的主要途径有：&#x0D;&#x0A;（1）用设备制造厂的新一代产品的技术去改造老一代产品，此方法既可靠又省时。&#x0D;&#x0A;（2）利用技术上成熟且形成标准化、系列化、商品化的功能部件对现有设备进行技术改造。如将各种数显和数控装置、静压、动静压轴承、可编程控制器（PLC），交流变频调速器，直线运动导轨（ML导轨）等应用到设备的技术改造中。&#x0D;&#x0A;（3）企业自行设计设备的改造方案，对设备中原有的缺陷，如维修频繁、维修性差、故障频率高的部位进行针对性的改造，以提高设备的可靠性和利用率。&#x0D;&#x0A;（4）节约能源和消除环境污染的设备技术改造。如把龙门刨的直流电动机变速改造为交流变频调速，可以大大节约能源。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>列举出T68卧式镗床主轴箱的项修会影响到的相关几何精度。</desc>
+        <ans>T68卧式镗床主轴箱的项修会影响到的相关几何精度有：&#x0D;&#x0A;（1）主轴箱对工作台的垂直度。&#x0D;&#x0A;（2）主轴回转中心线对立柱导轨的垂直度。&#x0D;&#x0A;（3）工作台面对主轴中心线的平行度。&#x0D;&#x0A;（4）工作台横向移动对主轴中心线的垂直度。&#x0D;&#x0A;（5）工作台对主轴中心线的垂直度或平行度。&#x0D;&#x0A;（6）后立柱导轨对立柱导轨的平行度。</ans>
+    </qstn>
+</library>

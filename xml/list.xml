@@ -15,6 +15,10 @@
 	<group>
 		<tag>生产技术</tag>
 		<item>
+			<desc>钳工题库</desc>
+			<href>xml/jxqg.xml</href>
+		</item>
+		<item>
 			<desc>热工自动控制中级工</desc>
 			<href>xml/zhongji.xml</href>
 		</item>
