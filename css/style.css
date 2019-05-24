@@ -11,6 +11,25 @@ button {
 	width : 130px;
 }
 
+.smallbutton {
+	font-size : 80%;
+	font-family : Microsoft YaHei, SimHei, sans-serif;
+	height : 1.5em;
+	width : auto;
+}
+
+.answer {
+	font-size : 0.8em;
+	margin-top : 10px;
+	font-weight : bold;
+}
+
+.notetitle {
+	font-size : 0.8em;
+	background : #eee;
+	margin-top : 0;
+}
+
 input[type = "text"], input[type = "number"], input[type = "password"]
 {
 	font-size : 150%;
