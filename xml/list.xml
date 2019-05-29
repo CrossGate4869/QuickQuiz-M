@@ -28,7 +28,11 @@
 		</item>
 	</group>
 	<group>
-		<tag>共青团题库</tag>
+		<tag>党政学习</tag>
+		<item>
+			<desc>学习强国题库</desc>
+			<href>xml/xxqg.xml</href>
+		</item>
 		<item>
 			<desc>2017共青团知识竞赛题库</desc>
 			<href>xml/gqt2017.xml</href>

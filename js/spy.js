@@ -8,6 +8,8 @@ var openList = [false, false, false, false, false, false, false, false, false, f
 
 function initSpyList()
 {
+	nightMode(false);
+	
 	var urlString = getURLPara(window.location.href, "href");
 	xmlMain = loadXML(urlString);
 	if (!xmlMain)
