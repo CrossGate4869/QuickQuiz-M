@@ -1,0 +1,2323 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <key>QuickQuiz</key>
+    <title>热控自动专业试题</title>
+    <qstn type="s-choise" cust="0">
+        <desc>在单元机组锅炉跟随的主控系统中，功率指令送到(   )调节器，以改变调节阀门开度，使机组尽快适应电网的负荷要求。</desc>
+        <opt ans="t">汽轮机功率</opt>
+        <opt ans="f">燃料量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热电阻元件在使用中发生的常见的故障有 (   )。</desc>
+        <opt ans="f">阻丝之间短路或接地，</opt>
+        <opt ans="f">阻丝断开，</opt>
+        <opt ans="f">保护套管内积水，</opt>
+        <opt ans="t">以上均是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>由于单元机组是一个(   )的被控对象，在分析负荷控制系统时，必须把机、炉、电作为一个整体来考虑。</desc>
+        <opt ans="f">单输入、多输出</opt>
+        <opt ans="t">多输入、多输出</opt>
+        <opt ans="f">多输入、单输出</opt>
+        <opt ans="f">单输入、单输出</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>造成热电偶温度指示偏低的原因有(   )。</desc>
+        <opt ans="f">补偿导线损坏，部分短路</opt>
+        <opt ans="f">补偿温度指示不准确</opt>
+        <opt ans="f">接线端子氧化，接触不良</opt>
+        <opt ans="t">以上均是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当电动执行机构的不灵敏区调得太小时，执行机构将出现(   )。</desc>
+        <opt ans="f">实际位置与指令不符</opt>
+        <opt ans="f">反转</opt>
+        <opt ans="t">振荡</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉烟气中，含氧量反映(   )的大小。</desc>
+        <opt ans="f">送风量</opt>
+        <opt ans="f">引风量</opt>
+        <opt ans="t">过量空气系数</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>调节系统的整定就是根据调节对象调节通道的特性确定(   )参数。</desc>
+        <opt ans="f">变送器</opt>
+        <opt ans="t">调节器</opt>
+        <opt ans="f">执行器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>积分时间短，积分作用(   )。</desc>
+        <opt ans="t">强</opt>
+        <opt ans="f">弱</opt>
+        <opt ans="f">不变</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>除氧器是回热加热系统中一级混合式加热器，并具有汇集各种疏水，锅炉补充水的作用。所以，除氧器必须保证锅炉所需给水的(   )。</desc>
+        <opt ans="t">水质和储备量</opt>
+        <opt ans="f">压力</opt>
+        <opt ans="f">温度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>计算机分散控制系统是一种以(   )和微型计算机为核心，对生产过程进行分散控制和集中监视、操作及管理的新型控制系统。</desc>
+        <opt ans="t">微处理器</opt>
+        <opt ans="f">控制器</opt>
+        <opt ans="f">变送器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>从安全考虑，DEH系统中AST电磁阀是组成(   )布置，两个通道中每个通道至少有一只电磁阀误动，才可导致停机。</desc>
+        <opt ans="f">串联</opt>
+        <opt ans="f">并联</opt>
+        <opt ans="t">串并联</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热电偶参考端温度处理具体方法有(   )。</desc>
+        <opt ans="f">热电势修正法</opt>
+        <opt ans="f">参考端恒温法</opt>
+        <opt ans="f">参考端温度补偿法</opt>
+        <opt ans="t">以上均是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>燃烧调节系统中采用前馈信号是为了(   )。</desc>
+        <opt ans="f">克服机组负荷变化过程的缓慢</opt>
+        <opt ans="f">克服主蒸汽温度变化的缓慢</opt>
+        <opt ans="t">克服锅炉燃烧过程的惯性和迟延</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列(   )不是锅炉燃烧自动调节任务之一。</desc>
+        <opt ans="f">维持汽压稳定</opt>
+        <opt ans="t">维持主汽温不变</opt>
+        <opt ans="f">保证燃烧过程的经济性</opt>
+        <opt ans="f">调节风量，使之与送风量相适应，以维持炉膛负压在允许范围内变化</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>执行单元是完成系统调节功能或远方操作的执行部件。依据动力能源的不同，分为(   )执行器。</desc>
+        <opt ans="f">电动、气动</opt>
+        <opt ans="t">电动、气动和液动</opt>
+        <opt ans="f">电动、液动</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>流量与(   )成正比。</desc>
+        <opt ans="f">差压</opt>
+        <opt ans="f">压力</opt>
+        <opt ans="t">差压开方</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>所谓给水全程调节系统是指在机组(   )的全过程都能实现自动调节的调节系统。</desc>
+        <opt ans="t">启停过程和正常运行</opt>
+        <opt ans="f">启动过程和正常运行</opt>
+        <opt ans="f">正常运行和停机</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )的变化会影响再热汽温。</desc>
+        <opt ans="f">给水温度变化</opt>
+        <opt ans="f">燃料改变</opt>
+        <opt ans="f">过量空气系数的变化</opt>
+        <opt ans="t">以上都是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>除氧器是利用汽轮机的某级抽汽把给水加热到该压力下的(   )，并除去溶于水中的气体(主要是氧气)的设备。</desc>
+        <opt ans="f">过热温度</opt>
+        <opt ans="f">一定温度</opt>
+        <opt ans="t">饱和温度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )可使调节过程趋于稳定，但在单独使用时，会使被调量产生静态偏差。</desc>
+        <opt ans="t">比例作用</opt>
+        <opt ans="f">积分作用</opt>
+        <opt ans="f">微分作用</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>300MW机组挂闸允许条件哪个不是(   )。</desc>
+        <opt ans="f">汽轮机已跳闸</opt>
+        <opt ans="f">所有进汽阀全关</opt>
+        <opt ans="t">油压建立</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>汽包水位调节对象属于(   )对象。</desc>
+        <opt ans="f">无自平衡能力多容</opt>
+        <opt ans="f">有自平衡能力多容</opt>
+        <opt ans="t">无自平衡能力单容</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>大功率汽轮机组、中间再热汽轮机组多采用(   )调节方法。</desc>
+        <opt ans="t">节流调节</opt>
+        <opt ans="f">喷嘴调节</opt>
+        <opt ans="f">旁通调节</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )能有效地减少动态偏差，但不能单独使用。</desc>
+        <opt ans="f">比例作用</opt>
+        <opt ans="f">积分作用</opt>
+        <opt ans="t">微分作用</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>单元机组协调控制的主控系统中，锅炉调节器采用以调节阀开度为主信号的(   )，稳态时保证调节阀开度为给定值，动态时可附带地改变燃烧率，以快速适应负荷要求。</desc>
+        <opt ans="t">串级系统</opt>
+        <opt ans="f">闭环系统</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )用来加热由凝汽器至除氧器的凝结水，以保证除氧器的除氧效果。</desc>
+        <opt ans="f">高压加热器</opt>
+        <opt ans="t">低压加热器</opt>
+        <opt ans="f">除氧器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>单元机组负荷自动控制系统现多采用(   )。</desc>
+        <opt ans="f">锅炉跟随汽轮机控制方式</opt>
+        <opt ans="f">汽轮机跟随锅炉控制方式</opt>
+        <opt ans="t">机、炉协调控制方式</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>影响蒸汽温度变化的主要因素有(   )等。</desc>
+        <opt ans="f">给水流量，蒸汽流量</opt>
+        <opt ans="f">蒸汽流量，凝结水流量</opt>
+        <opt ans="t">蒸汽流量，减温水量</opt>
+        <opt ans="f">凝结水流量，减温水量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在单元机组汽轮机跟随的主控系统中，汽轮机调节器采用(   )信号，可使汽轮机调节阀的动作比较平稳。</desc>
+        <opt ans="t">实发功率</opt>
+        <opt ans="f">负荷指令</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>如果挂闸不成功，原因有(   )。</desc>
+        <opt ans="f">ZS2行程开关是否正常，</opt>
+        <opt ans="f">DEH继电器柜的电源是否正常</opt>
+        <opt ans="f">润滑油压是否正常 </opt>
+        <opt ans="t">以上均是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉引风调节系统主要用于维持(   )稳定，保证机组安全运行。</desc>
+        <opt ans="t">炉膛负压</opt>
+        <opt ans="f">燃烧</opt>
+        <opt ans="f">炉膛温度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在下列哪些情况下，汽包水位控制由三冲量切换至单冲量?(   )</desc>
+        <opt ans="t">给水流量小于30％</opt>
+        <opt ans="f">汽包水位变送器之间信号偏差大</opt>
+        <opt ans="f">汽包压力变送器之间信号偏差大</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>哪个是300MW机组DEH投上遥调条件 (   )。</desc>
+        <opt ans="f">AGC指令不是坏值</opt>
+        <opt ans="f">DEH继电器柜的电源是否正常</opt>
+        <opt ans="f">润滑油压是否正常</opt>
+        <opt ans="t">以上均是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在主蒸汽温度控制回路中引入前馈信号是为了控制(   )。</desc>
+        <opt ans="f">燃料量的扰动变化</opt>
+        <opt ans="f">主蒸汽流量的扰动变化</opt>
+        <opt ans="f">主蒸汽压力的扰动变化</opt>
+        <opt ans="t">以上都是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为了稳定锅炉燃烧，送风调节系统一般都带有(   )校正回路。</desc>
+        <opt ans="t">氧量</opt>
+        <opt ans="f">风量</opt>
+        <opt ans="f">温度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>P1调节器的整定参数是(   )。</desc>
+        <opt ans="f">比例带</opt>
+        <opt ans="t">比例带、积分时间</opt>
+        <opt ans="f">比例带、微分时间</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>动态偏差是指调节过程中(   )之间的最大偏差。</desc>
+        <opt ans="f">被调量与调节量</opt>
+        <opt ans="f">调节量与给定值</opt>
+        <opt ans="t">被调量与给定值</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉燃烧调节系统中，一般调节燃料和风量的动作顺序是(   )。</desc>
+        <opt ans="t">增负荷时先增风量，后增燃料 降负荷时先减燃料，后减风量</opt>
+        <opt ans="f">增负荷时先增燃料，后增风量 降负荷时先减燃料，后减风量</opt>
+        <opt ans="f">增负荷时先增风量，后增燃料 降负荷时先减风量，后减燃料</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>汽包锅炉燃烧调节系统的任务之一是通过调节燃料量，使锅炉蒸汽量与(   )相适应，以维持气压的恒定。</desc>
+        <opt ans="t">汽轮机耗汽量</opt>
+        <opt ans="f">给水量</opt>
+        <opt ans="f">锅炉送风量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>汽轮机滑压运行时，在低负荷条件下主蒸汽压力降过大，将使机组的循环效率(   )。</desc>
+        <opt ans="f">提高</opt>
+        <opt ans="t">下降</opt>
+        <opt ans="f">不一定</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )能使被调量无静态偏差，但单独使用时，会使调节过程振荡，甚至不稳定。</desc>
+        <opt ans="f">比例作用</opt>
+        <opt ans="t">积分作用</opt>
+        <opt ans="f">微分作用</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )运行时压力较低，改善了承压部件的应力状况，从而延长了锅炉和主蒸汽管道的使用寿命。</desc>
+        <opt ans="f">定压</opt>
+        <opt ans="t">滑压</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>火电厂高压加热器利用汽轮机抽汽来加热(   )。</desc>
+        <opt ans="f">疏水</opt>
+        <opt ans="f">凝结水</opt>
+        <opt ans="t">给水</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>积分调节作用消除被调量的(   )偏差。</desc>
+        <opt ans="t">静态</opt>
+        <opt ans="f">动态</opt>
+        <opt ans="f">静态和动态</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )运行是用调节阀开度改变机组功率，维持汽轮机前压力不变。</desc>
+        <opt ans="t">定压</opt>
+        <opt ans="f">滑压</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当机组采取炉跟随方式进行负荷调整时，汽轮机主要进行(   )调节。</desc>
+        <opt ans="t">负荷</opt>
+        <opt ans="f">主汽压</opt>
+        <opt ans="f">主汽温</opt>
+        <opt ans="f">频率</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>调节对象在同一扰动量作用下，对象的容量越大，飞升速度(   )。</desc>
+        <opt ans="f">不变</opt>
+        <opt ans="t">越小</opt>
+        <opt ans="f">越大</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>静态偏差的大小与(   )的数值有关。</desc>
+        <opt ans="f">积分时间</opt>
+        <opt ans="f">微分时间</opt>
+        <opt ans="t">比例带</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>汽轮机定压运行时采用(   )，以达到减少节流损失的目的。</desc>
+        <opt ans="f">节流调节</opt>
+        <opt ans="t">喷嘴调节</opt>
+        <opt ans="f">孔板调节</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列热工信号属于非电量的是(   )。 </desc>
+        <opt ans="f">远方阀门开度指令</opt>
+        <opt ans="f">阀门位置的反馈信号</opt>
+        <opt ans="t">气动定位器的输出信号</opt>
+        <opt ans="f">1151变送器的输出信号</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>几个串联环节的等效环节的放大系数，等于各串联环节各自的放大系数之(   )。</desc>
+        <opt ans="f">代数和</opt>
+        <opt ans="t">乘积</opt>
+        <opt ans="f">算术和，</opt>
+        <opt ans="f">乘积倒数</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>磨煤机进口风道上的调节挡板一般是调节磨煤机的(   ) 。</desc>
+        <opt ans="f">进口风温与进口风量</opt>
+        <opt ans="f">出口风温与进口风量</opt>
+        <opt ans="f">出口风温与磨碗差压</opt>
+        <opt ans="t">进口风量与磨碗差压</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当执行器的制动器调整不好或磁放大器的不灵敏区太小时，将会产生(   )。</desc>
+        <opt ans="f">真假零点</opt>
+        <opt ans="f">输出轴不动</opt>
+        <opt ans="t">自激振荡</opt>
+        <opt ans="f">以上情况都会发生</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工作票签发人(   )兼任工作负责人。</desc>
+        <opt ans="f">可以</opt>
+        <opt ans="t">不得</opt>
+        <opt ans="f">经领导批准可以</opt>
+        <opt ans="f">事故抢修时可以</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>火电厂中，抽汽逆止阀的主要作用是(   )。</desc>
+        <opt ans="f">阻止蒸汽倒流</opt>
+        <opt ans="t">保护汽轮机</opt>
+        <opt ans="f">保护加热器</opt>
+        <opt ans="f">快速切断汽源</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>引起被调量偏离给定值的各种因素，称为(   )。</desc>
+        <opt ans="f">调节</opt>
+        <opt ans="t">扰动</opt>
+        <opt ans="f">反馈</opt>
+        <opt ans="f">误差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>有利于调节系统稳定工作的调节阀门静特性是(   )。</desc>
+        <opt ans="f">直线特性</opt>
+        <opt ans="t">抛物线特性</opt>
+        <opt ans="f">快开特性</opt>
+        <opt ans="f">以上都不是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列测量元件中不是用于测量流量的是(   )。</desc>
+        <opt ans="f">笛形管</opt>
+        <opt ans="f">毕托管</opt>
+        <opt ans="t">应变片</opt>
+        <opt ans="f">浮子</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列(   )自动控制系统在其切手动的情况下协调控制系统仍然可以投自动。</desc>
+        <opt ans="f">送风量控制系统</opt>
+        <opt ans="f">磨煤机风量控制系统</opt>
+        <opt ans="f">燃料量控制系统</opt>
+        <opt ans="t">过热汽温度控制系统</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>200MW机组DEH与协调控制系统硬接线接口信号(   )。</desc>
+        <opt ans="t">CCS允许</opt>
+        <opt ans="f">CCS模拟量负荷指令</opt>
+        <opt ans="f">DEH实际负荷反馈</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>连锁控制属于(   )。</desc>
+        <opt ans="t">过程控制级</opt>
+        <opt ans="f">过程管理级</opt>
+        <opt ans="f">生产管理级</opt>
+        <opt ans="f">经营管理级</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列哪条不包括在全面质量管理内涵之内(   )。</desc>
+        <opt ans="f">具有先进的系统管理思想</opt>
+        <opt ans="f">强调建立有效的质量体系</opt>
+        <opt ans="f">其目的在于用户和社会受益</opt>
+        <opt ans="t">其目的在于企业受益</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>不能用来扑救带电设备火灾的灭火器是(   )。</desc>
+        <opt ans="t">泡沫灭火器</opt>
+        <opt ans="f">二氧化碳灭火器</opt>
+        <opt ans="f">干式灭火器</opt>
+        <opt ans="f">1121灭火器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>协调控制方式是为蓄热量小的大型单元机组的(   )而设计的。</desc>
+        <opt ans="f">程序控制</opt>
+        <opt ans="t">自动控制</opt>
+        <opt ans="f">集中控制</opt>
+        <opt ans="f">程序控制和自动控制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在给水自动调节系统中，在给水流量扰动下，汽包水位(   )。</desc>
+        <opt ans="f">出现“虚假水位”</opt>
+        <opt ans="f">立即变化</opt>
+        <opt ans="t">不是立即变化，而要延迟一段时间</opt>
+        <opt ans="f">不会变化</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对于PID调节器(   )。</desc>
+        <opt ans="f">I的作用是减小动态偏差、D的作用是消除静态偏差</opt>
+        <opt ans="f">I的作用是消除静态偏差、D的作用是消除动态偏差</opt>
+        <opt ans="f">I的作用是消除动态偏差、D的作用是减小静态偏差</opt>
+        <opt ans="t">I的作用是消除静态偏差、D的作用是减小动态偏差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据欧姆定律可以看出，电阻元件是一个(   )元件。</desc>
+        <opt ans="f">记忆</opt>
+        <opt ans="f">储能</opt>
+        <opt ans="t">耗能</opt>
+        <opt ans="f">线性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在交流放大电子电路中，级间电容器的一般作用是(   ) 。</desc>
+        <opt ans="f">储能</opt>
+        <opt ans="f">反馈</opt>
+        <opt ans="t">隔直</opt>
+        <opt ans="f">整流</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>自动保护装置的作用是：当设备运行工况发生异常或某些参数超过允许值时，发出报警信号，同时(   )避免设备损坏和保证人身安全。</desc>
+        <opt ans="f">发出热工信号</opt>
+        <opt ans="t">自动保护动作</opt>
+        <opt ans="f">发出事故信号</opt>
+        <opt ans="f">发出停机信号</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新参加工作人员必须经过(   )三级安全教育，经考试合格后，方可进入现场。</desc>
+        <opt ans="t">厂级教育、分场教育(车间教育)、班组教育</opt>
+        <opt ans="f">厂级教育、班组教育、岗前教育</opt>
+        <opt ans="f">厂级教育、分场教育、岗前教育</opt>
+        <opt ans="f">分场教育、岗前教育、班组教育</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据我国检修管理水平和设备的实际情况，现阶段仍要贯彻(   )的方针。</desc>
+        <opt ans="f">百年大计、质量第一</opt>
+        <opt ans="f">应修必修、修必修好</opt>
+        <opt ans="t">预防为主、计划检修</opt>
+        <opt ans="f">安全第一、该修必修</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>DEH调节系统与自动同期装置连接可实现(   )。</desc>
+        <opt ans="f">调周波</opt>
+        <opt ans="f">调功率</opt>
+        <opt ans="f">调电压</opt>
+        <opt ans="t">自动并网</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工作人员接到违反安全规程的命令，应(   )。</desc>
+        <opt ans="f">服从命令</opt>
+        <opt ans="f">执行后向上级汇报</opt>
+        <opt ans="t">拒绝执行并立即向上级报告</opt>
+        <opt ans="f">向上级汇报后再执行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>电管路沿水平敷设时应有一定的坡度，差压管路应大于(   )。</desc>
+        <opt ans="f">1∶10</opt>
+        <opt ans="t">1∶12</opt>
+        <opt ans="f">1∶50</opt>
+        <opt ans="f">1∶100</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对于现代大型火电机组的锅炉控制系统的两大支柱是协调控制(CCS)和(   )。</desc>
+        <opt ans="f">数据采集系统(DAS)</opt>
+        <opt ans="f">顺序控制系统(SCS)</opt>
+        <opt ans="t">炉膛安全监控系统(FSSS)</opt>
+        <opt ans="f">旁路控制系统(BPS)</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>凡在离地面(   )m以上的地点进行的工作都应视作高处作业。</desc>
+        <opt ans="f">1.5</opt>
+        <opt ans="t">2</opt>
+        <opt ans="f">2.5</opt>
+        <opt ans="f">3</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>标准节流件装置适用于(   )。</desc>
+        <opt ans="f">截面形状任意的管道、单相流体且充满管道</opt>
+        <opt ans="t">截面形状为圆形的管道、单相流体且充满管道</opt>
+        <opt ans="f">截面形状任意的管道、任何流体且充满管道</opt>
+        <opt ans="f">截面形状为圆形的管道、单相流体不一定充满管道</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>通常对集散控制系统中一套控制回路软件的调试步骤是(   )。</desc>
+        <opt ans="t">修改-编译-下载-投运</opt>
+        <opt ans="f">修改-下载-编译-投运</opt>
+        <opt ans="f">编译-修改-下载-投运</opt>
+        <opt ans="f">编译-下载-修改-投运</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在东芝控制系统中，(   )是CPU柜包含的卡件类型。</desc>
+        <opt ans="f">IOB卡</opt>
+        <opt ans="f">AI卡</opt>
+        <opt ans="t">CPU卡</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>东芝控制系统中有关CPU单元布置正确的是(   )。</desc>
+        <opt ans="f">CPU卡占用1个槽位</opt>
+        <opt ans="f">CPU单元由一个CPU组成</opt>
+        <opt ans="t">CPU卡分别安装在最左边的槽内</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>体积流量的单位名称是(   )。</desc>
+        <opt ans="f">每秒立方米</opt>
+        <opt ans="t">立方米每秒</opt>
+        <opt ans="f">每立方米秒</opt>
+        <opt ans="f">立方米秒</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>数字0.0520中的有效数字有(   )位。</desc>
+        <opt ans="f">5</opt>
+        <opt ans="f">4</opt>
+        <opt ans="t">3</opt>
+        <opt ans="f">2</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>精确度为1／20的游标卡尺，其主尺与副尺每格刻度相差(   )。</desc>
+        <opt ans="f">0.5mm</opt>
+        <opt ans="f">0.1mm</opt>
+        <opt ans="t">0.05mm</opt>
+        <opt ans="f">0.01mm</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>调节对象在动态特性测试中，应用最多的一种典型输入信号是(   )。</desc>
+        <opt ans="t">阶跃函数</opt>
+        <opt ans="f">加速度函数</opt>
+        <opt ans="f">正弦函数</opt>
+        <opt ans="f">指数函数</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在交流电路中，电阻两端的电压与流过电阻的电流(   ) 。</desc>
+        <opt ans="f">大小相等</opt>
+        <opt ans="t">相位差为零</opt>
+        <opt ans="f">方向相反</opt>
+        <opt ans="f">成反比</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>平垫圈主要是为了增大(   )，保护被连接件。</desc>
+        <opt ans="f">摩擦力</opt>
+        <opt ans="t">接触面积</opt>
+        <opt ans="f">紧力</opt>
+        <opt ans="f">螺栓强度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>水平安装的测温元件，若插入深度大于(   )时，应有防止保护套管弯曲的措施。</desc>
+        <opt ans="f">0.5m</opt>
+        <opt ans="f">0.8m</opt>
+        <opt ans="t">1m</opt>
+        <opt ans="f">1.2m</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>油区内一切电气设备的维修，都必须(   )进行。</desc>
+        <opt ans="f">经领导同意</opt>
+        <opt ans="f">由熟悉人员</opt>
+        <opt ans="f">办理工作票</opt>
+        <opt ans="t">停电</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>给水调节阀门的死行程应小于全行程的(   )。</desc>
+        <opt ans="t">5%</opt>
+        <opt ans="f">8%</opt>
+        <opt ans="f">10%</opt>
+        <opt ans="f">12%</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>万用表在短期不使用的情况下应将(   )。</desc>
+        <opt ans="f">电源关掉并将切换开关拨至电阻档</opt>
+        <opt ans="f">电源关掉并将切换开关拨至电流档</opt>
+        <opt ans="t">电源关掉并将切换开关拨至电压档</opt>
+        <opt ans="f">将表棒取下就行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列关于电压的描述中，(   )是正确的。</desc>
+        <opt ans="t">衡量电场力转移电荷做功的能力的物理量</opt>
+        <opt ans="f">电压的单位为焦耳</opt>
+        <opt ans="f">电压的方向是从低位能指向高位能</opt>
+        <opt ans="f">电压的大小与电荷绕行的途径有关</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在选用二极管时，其特性参数中的最大整流电流是指(   )。</desc>
+        <opt ans="t">长期运行时，允许通过的最大正向平均电流</opt>
+        <opt ans="f">长期运行时，允许通过的最大电流</opt>
+        <opt ans="f">长期运行时，允许通过的最大电流的有效值</opt>
+        <opt ans="f">长期运行时，允许通过的最大交流电流</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>实际应用中，调节器的参数整定方法有(   )等4种。</desc>
+        <opt ans="f">临界比例带法、响应曲线法、发散振荡法、衰减法</opt>
+        <opt ans="t">临界比例带法、响应曲线法、经验法、衰减法</opt>
+        <opt ans="f">响应曲线法、发散振荡法、经验法、衰减法</opt>
+        <opt ans="f">临界比例带法、经验法、发散振荡法、衰减法</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在控制过程中手／自动切换时的最基本要求是(   )。</desc>
+        <opt ans="f">手／自动可相互跟踪</opt>
+        <opt ans="t">无扰动</opt>
+        <opt ans="f">切换时的扰动量必须在规定范围内</opt>
+        <opt ans="f">根据当时运行工况而定</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉燃烧自动调节的任务是(   )。</desc>
+        <opt ans="f">维持汽压恒定，保证燃烧过程的经济性</opt>
+        <opt ans="f">维持汽压恒定，调节引风量，保证炉膛负压</opt>
+        <opt ans="f">保证燃烧过程的经济性，调节引风量，保证炉膛负压</opt>
+        <opt ans="t">以上都是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>因为(   )对于干扰的反应是很灵敏的。因此，它常用于温度的调节，一般不能用于压力、流量、液位的调节。</desc>
+        <opt ans="f">比例动作</opt>
+        <opt ans="f">积分动作</opt>
+        <opt ans="t">微分动作</opt>
+        <opt ans="f">比例积分</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在燃煤锅炉中由于进入炉膛的燃烧量很难准确测量，所以一般选用(   )信号间接表示进入炉膛的燃料量。</desc>
+        <opt ans="f">风量</opt>
+        <opt ans="f">蒸汽流量</opt>
+        <opt ans="f">给水流量</opt>
+        <opt ans="t">热量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>现阶段的质量管理体系称为(   )。</desc>
+        <opt ans="f">统计质量管理</opt>
+        <opt ans="f">检验员质量管理</opt>
+        <opt ans="f">一体化质量管理</opt>
+        <opt ans="t">全面质量管理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>电动执行机构绝缘电阻应合格，通电试运转时动作平稳，开度指示(   )。</desc>
+        <opt ans="f">无误</opt>
+        <opt ans="f">正确</opt>
+        <opt ans="f">清楚</opt>
+        <opt ans="t">无跳动</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据欧姆定律，相同的电压作用下，(   )。</desc>
+        <opt ans="f">电阻越大，电流越大</opt>
+        <opt ans="t">电阻越大，电流越小</opt>
+        <opt ans="f">电阻越小，电流越小</opt>
+        <opt ans="f">电流大小与电阻无关</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>正弦交流电的三要素为(   )。</desc>
+        <opt ans="f">电压、电流、功率  ，</opt>
+        <opt ans="f">有效值、频率、相位</opt>
+        <opt ans="t">幅值、频率、初相位</opt>
+        <opt ans="f">幅值、有效值、相位差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>差压变送器启、停应严格遵照程序，其目的是避免弹性元件(   )。</desc>
+        <opt ans="f">产生弹性变形</opt>
+        <opt ans="t">单向过载</opt>
+        <opt ans="f">测量不准</opt>
+        <opt ans="f">以上都可能发生</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在安装就地控制接线箱时，要尽量避免电缆从箱子的(   )穿入。</desc>
+        <opt ans="f">左侧</opt>
+        <opt ans="f">右侧</opt>
+        <opt ans="f">箱底</opt>
+        <opt ans="t">箱顶</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>单元机组在启动过程中或机组承担变动负荷时，可采用(   )的负荷调节方式。</desc>
+        <opt ans="t">锅炉跟随</opt>
+        <opt ans="f">汽机跟随</opt>
+        <opt ans="f">协调控制</opt>
+        <opt ans="f">以上都可以</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在热工生产过程中，对调节的最基本要求是(   )。</desc>
+        <opt ans="t">稳定性</opt>
+        <opt ans="f">准确性</opt>
+        <opt ans="f">快速性</opt>
+        <opt ans="f">稳定性和快速性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )是表征仪表的主要质量指标之一。</desc>
+        <opt ans="f">绝对误差</opt>
+        <opt ans="f">相对误差</opt>
+        <opt ans="f">引用误差</opt>
+        <opt ans="t">基本误差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热工自动调节装置主要由(   )组成。</desc>
+        <opt ans="f">变送器、调节器</opt>
+        <opt ans="f">变送器、执行器</opt>
+        <opt ans="f">调节器、执行器</opt>
+        <opt ans="t">以上都是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在汽轮机保护项目中，不包括(   )保护。</desc>
+        <opt ans="f">轴承振动大</opt>
+        <opt ans="f">低真空</opt>
+        <opt ans="t">进汽温度高</opt>
+        <opt ans="f">低油压</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为避免在“虚假水位”作用下调节器产生误动作，在给水控制系统中引入(   )信号作为补偿信号。</desc>
+        <opt ans="f">给水流量</opt>
+        <opt ans="t">蒸汽流量</opt>
+        <opt ans="f">水位</opt>
+        <opt ans="f">汽包压力</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>显示器的作用是反映被测参数在(   )的变化。</desc>
+        <opt ans="t">数量上</opt>
+        <opt ans="f">形式上</opt>
+        <opt ans="f">本质上</opt>
+        <opt ans="f">客观上</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当某一台高压加热器水位(   )时，立即自动解列该高压加热器，并关闭该高压加热器进汽门。</desc>
+        <opt ans="f">低于正常水位</opt>
+        <opt ans="f">高于正常水位</opt>
+        <opt ans="t">高于给定值</opt>
+        <opt ans="f">低于给定值</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>汽轮机是一种将(   )的高速旋转的原动机。</desc>
+        <opt ans="f">热能转换成电能</opt>
+        <opt ans="f">动能转换成电能</opt>
+        <opt ans="t">热能转换成动能</opt>
+        <opt ans="f">电能转换成动能</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>气动定位器在气动执行机构控制中所起的作用是(   )。</desc>
+        <opt ans="f">将电信号转换为气信号</opt>
+        <opt ans="f">将气信号转换为电信号</opt>
+        <opt ans="t">将较小的信号气转换为较大的控制气</opt>
+        <opt ans="f">将较大的控制气转换为较小的信号气</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>给水回热系统各加热器的抽汽要装逆止门的目的是(   ) 。</desc>
+        <opt ans="t">防止蒸汽倒流</opt>
+        <opt ans="f">防止给水倒流</opt>
+        <opt ans="f">防止凝结水倒流</opt>
+        <opt ans="f">以上都不是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>调节就是抵消扰动的影响，使调节变量恢复到(   )。</desc>
+        <opt ans="f">初始值</opt>
+        <opt ans="t">给定值</opt>
+        <opt ans="f">恒定值</opt>
+        <opt ans="f">标准值</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉燃烧对象是一个(   )调节对象。</desc>
+        <opt ans="t">多变量</opt>
+        <opt ans="f">双变量</opt>
+        <opt ans="f">单变量</opt>
+        <opt ans="f">三冲量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列情况不属于热工保护的是(   )。</desc>
+        <opt ans="f">MFT</opt>
+        <opt ans="f">汽机振动高跳机</opt>
+        <opt ans="f">凝汽器保护动作</opt>
+        <opt ans="t">发电机出口断路器跳闸</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>若ψ＝0，则调节过程是(   )过程。</desc>
+        <opt ans="t">等幅振荡</opt>
+        <opt ans="f">发散振荡</opt>
+        <opt ans="f">衰减振荡</opt>
+        <opt ans="f">非周期</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在串级气温调节系统中，主调节器应选用(   )规律，以保证稳态时汽温等于其给定值。</desc>
+        <opt ans="f">P</opt>
+        <opt ans="f">PD</opt>
+        <opt ans="f">PI</opt>
+        <opt ans="t">PI或PID</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当ψ＜0时，系统(   )。</desc>
+        <opt ans="f">稳定</opt>
+        <opt ans="f">边界稳定</opt>
+        <opt ans="t">不稳定</opt>
+        <opt ans="f">无法判断</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热工测量用传感器，都是把(   )的物理量转换成电量的。</desc>
+        <opt ans="t">非电量</opt>
+        <opt ans="f">物质</opt>
+        <opt ans="f">电量</opt>
+        <opt ans="f">能量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>设备对地电压在(   )以上者，称为高压设备。</desc>
+        <opt ans="t">250V</opt>
+        <opt ans="f">380V</opt>
+        <opt ans="f">6kV</opt>
+        <opt ans="f">500V</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>仪表试验室温度应保持在(   ) 相对湿度不大于85％。</desc>
+        <opt ans="f">10℃±5℃</opt>
+        <opt ans="t">20℃±5℃</opt>
+        <opt ans="f">25℃±5℃</opt>
+        <opt ans="f">22℃±5℃</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>选取压力表的测量范围时，被测压力不得小于所选量程的(   )。</desc>
+        <opt ans="t">1／3</opt>
+        <opt ans="f">1／2</opt>
+        <opt ans="f">2／3</opt>
+        <opt ans="f">3／4</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>测量仪表测热电偶热电动势的理论依据是(   )。</desc>
+        <opt ans="f">均质导体定律</opt>
+        <opt ans="t">中间导体定律</opt>
+        <opt ans="f">参考电极定律</opt>
+        <opt ans="f">中间温度定律</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对于某些迟延和惯性较大的对象，为了提高调节质量，需要在调节器中加入(   )作用。</desc>
+        <opt ans="t">微分</opt>
+        <opt ans="f">积分</opt>
+        <opt ans="f">比例，</opt>
+        <opt ans="f">比例积分</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热电偶测温原理是基于(   )。</desc>
+        <opt ans="f">热阻效应</opt>
+        <opt ans="f">热磁效应</opt>
+        <opt ans="t">热电效应</opt>
+        <opt ans="f">热压效应</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对使用中的压力变送器进行检定时，其中无需检定的项目为(   )。</desc>
+        <opt ans="t">绝缘强度</opt>
+        <opt ans="f">绝缘电阻</opt>
+        <opt ans="f">密封性</opt>
+        <opt ans="f">基本误差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>东芝控制系统中CPU面板上(   ) 灯表示冗余配置时处于主控状态。</desc>
+        <opt ans="t">PRM</opt>
+        <opt ans="f">STBY</opt>
+        <opt ans="f">Run</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热电偶输出电压与(   )有关。</desc>
+        <opt ans="f">热电偶两端温度</opt>
+        <opt ans="f">热电偶热端温度</opt>
+        <opt ans="t">热电偶两端温度和电极材料</opt>
+        <opt ans="f">热电偶两端温度、电极材料及长度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>汽轮机跟随方式的特点是(   )。</desc>
+        <opt ans="f">机组功率响应快，主汽压变化大</opt>
+        <opt ans="t">机组功率响应慢，主汽压稳定</opt>
+        <opt ans="f">机组功率响应快，主汽流量变化大</opt>
+        <opt ans="f">机组功率响应慢，主汽流量稳定</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>三冲量给水调节系统中用(   )信号作为前馈信号。</desc>
+        <opt ans="f">给水流量</opt>
+        <opt ans="f">负荷</opt>
+        <opt ans="t">蒸汽流量</opt>
+        <opt ans="f">燃料量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉跟随方式的特点是(   )。</desc>
+        <opt ans="t">机组功率响应快，主汽压变化大</opt>
+        <opt ans="f">机组功率响应慢，主汽压稳定</opt>
+        <opt ans="f">机组功率响应快，主汽流量变化大</opt>
+        <opt ans="f">机组功率响应慢，主汽流量稳定</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热电偶补偿导线的作用是(   )。</desc>
+        <opt ans="f">补偿冷端温度变化</opt>
+        <opt ans="f">便于信号传输</opt>
+        <opt ans="t">延伸热电偶冷端</opt>
+        <opt ans="f">提高测量的准确性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>FSSS设计要求显示(   )，并在下次吹扫完成复位后再解除。</desc>
+        <opt ans="t">跳闸第一原因</opt>
+        <opt ans="f">跳闸原因</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>大型锅炉的吹灰器数量很多，运行中要求(   )操作。</desc>
+        <opt ans="t">按规定顺序</opt>
+        <opt ans="f">随机</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>电气原理图中所表示的元件工作状态是各个电器(   )的状态。</desc>
+        <opt ans="f">带电</opt>
+        <opt ans="t">未带电</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在FSSS系统中给粉机控制电源中断时，应该(   )切断给粉机的电动机电源。</desc>
+        <opt ans="t">同时</opt>
+        <opt ans="f">不同时</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>时间继电器的特点是在输入信号(   )接入一定时间后，触点才动作。</desc>
+        <opt ans="t">持续</opt>
+        <opt ans="f">断续</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热继电器在三相电动机损坏或(   )时动作。</desc>
+        <opt ans="f">过电压</opt>
+        <opt ans="t">过电流</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>定期排污一般选择汽包水位(   )时进行。</desc>
+        <opt ans="t">高于正常值</opt>
+        <opt ans="f">低于正常值</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>DCS中的(   )与外界没有联系仅运算的中间结果使用。</desc>
+        <opt ans="t">内部继电器</opt>
+        <opt ans="f">输入继电器</opt>
+        <opt ans="f">输出继电器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉点火前进行吹扫，其通风容积流量应大于25％额定风量，时间不少于(   )。</desc>
+        <opt ans="f">3min</opt>
+        <opt ans="t">5min</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为保证汽轮机轴承不被磨损，汽轮机配置了润滑油系统，该系统有低压交流油泵和直流事故油泵等。它们的正常动作是由(   )实现的。</desc>
+        <opt ans="t">润滑油系统保护装置</opt>
+        <opt ans="f">金属温度监控系统</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>汽轮机凝汽器真空降低的允许值为(   )。</desc>
+        <opt ans="f">-40kPa</opt>
+        <opt ans="t">-70～-67kPa</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>测量流动介质的压力时，传压管应与介质流动方向(   )。</desc>
+        <opt ans="t">垂直</opt>
+        <opt ans="f">平行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>动态红外火焰探测器利用初开始燃烧区的火焰(   )和闪烁频率来判断火焰的真实存在。</desc>
+        <opt ans="t">亮度</opt>
+        <opt ans="f">温度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热继电器在磁力启动器中主要起(   )，当负荷超过时，热继电器动作，磁力继电器切断电源。</desc>
+        <opt ans="t">保护作用</opt>
+        <opt ans="f">测量作用</opt>
+        <opt ans="f">连锁作用</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在程序控制系统中，核心是(   )。</desc>
+        <opt ans="t">程序控制原理</opt>
+        <opt ans="f">外部设备</opt>
+        <opt ans="f">现场设备</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热继电器的双金属片在(   )大到一定值时，断开相应的触点。</desc>
+        <opt ans="t">负载电流</opt>
+        <opt ans="f">负载电压</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>PLC采用软件编程，可满足不同程序控制的要求。若要改变程序只要修改软件即可，因而具有(   )。</desc>
+        <opt ans="t">通用性</opt>
+        <opt ans="f">专业性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>主蒸汽压力为(   )MPa的锅炉，称为亚临界压力锅炉。</desc>
+        <opt ans="f">9.8</opt>
+        <opt ans="f">13.7</opt>
+        <opt ans="t">16.7</opt>
+        <opt ans="f">25.5</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(   )不是PLC的编程语言。</desc>
+        <opt ans="f">梯形图</opt>
+        <opt ans="f">功能图</opt>
+        <opt ans="f">布尔逻辑图</opt>
+        <opt ans="t">SAMA图</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在全面质量管理中，(   )经常用于持续质量改进的循环过程。</desc>
+        <opt ans="f">PCDA</opt>
+        <opt ans="f">PDAC</opt>
+        <opt ans="f">CAPD</opt>
+        <opt ans="t">PDCA</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当汽轮机转速超过(   )额定转速时，应进行超速保护(OPC)。</desc>
+        <opt ans="f">101%</opt>
+        <opt ans="t">103%</opt>
+        <opt ans="f">105%</opt>
+        <opt ans="f">110%</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下述(   )不属于顺序控制系统调试的范围。</desc>
+        <opt ans="f">辅机的启停控制</opt>
+        <opt ans="f">顺序控制系统中相应阀门挡板的控制</opt>
+        <opt ans="f">顺序控制系统中相应设备的联锁</opt>
+        <opt ans="t">热工调节</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当机组故障、事故或重要保护开关动作等事件发生时，应进行(   )。</desc>
+        <opt ans="f">程序控制</opt>
+        <opt ans="t">事故顺序记录(SOE)</opt>
+        <opt ans="f">数据采集</opt>
+        <opt ans="f">以上都不对</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用来保存DCS系统控制方案组态信息的是(   )。</desc>
+        <opt ans="f">ROM</opt>
+        <opt ans="f">RAM</opt>
+        <opt ans="t">E2PROM</opt>
+        <opt ans="f">硬盘</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国目前大容量汽轮机组的主汽温为(   )。</desc>
+        <opt ans="t">535～550℃</opt>
+        <opt ans="f">520～515℃</opt>
+        <opt ans="f">260～280℃</opt>
+        <opt ans="f">400℃左右</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在可编程控制器中，梯形图程序的基本组成是(   )。</desc>
+        <opt ans="f">子程序</opt>
+        <opt ans="f">用户程序</opt>
+        <opt ans="f">网络</opt>
+        <opt ans="t">梯级</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉各项热损失中最大一项是(   )。</desc>
+        <opt ans="f">散热损失</opt>
+        <opt ans="t">排烟热损失</opt>
+        <opt ans="f">不完全燃烧损失</opt>
+        <opt ans="f">灰渣热损失</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列关于电位的描述中，(   )是不正确的。</desc>
+        <opt ans="f">电位是个代数量</opt>
+        <opt ans="f">当参考点不同时，各点的电位也随之改变，但各点间的电压不变</opt>
+        <opt ans="f">参考点的标示符号一般为电气“地”的符号</opt>
+        <opt ans="t">两点间的电压为它们的代数和</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>处在梯形图中同一水平线的所有编程元件构成一个(   ) 。</desc>
+        <opt ans="f">节点</opt>
+        <opt ans="f">元件</opt>
+        <opt ans="t">梯级</opt>
+        <opt ans="f">网络</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>回热系统中高加疏水采用逐级自流的目的是(   )。</desc>
+        <opt ans="f">提高系统热经济性</opt>
+        <opt ans="f">提高给水温度</opt>
+        <opt ans="t">提高系统运行可靠性</opt>
+        <opt ans="f">提高除氧器除氧效果</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在机组运行过程中，(   )是保证机组及人身安全的最后手段。</desc>
+        <opt ans="f">MCS</opt>
+        <opt ans="f">DEH</opt>
+        <opt ans="t">热工保护</opt>
+        <opt ans="f">顺序控制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>要了解一台机组的自动化程度，首先要熟悉(   )。</desc>
+        <opt ans="f">安装接线图</opt>
+        <opt ans="f">电气原理图</opt>
+        <opt ans="t">控制流程图</opt>
+        <opt ans="f">梯形图</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>有效数字不是5位的是(   )。</desc>
+        <opt ans="f">3.1416</opt>
+        <opt ans="f">43.720</opt>
+        <opt ans="f">3.1278</opt>
+        <opt ans="t">0.4278</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>顺序控制系统又可简称为(   )。</desc>
+        <opt ans="t">SCS</opt>
+        <opt ans="f">DAS</opt>
+        <opt ans="f">MCS</opt>
+        <opt ans="f">DEH</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>联锁控制属于(   )。</desc>
+        <opt ans="t">过程控制级</opt>
+        <opt ans="f">过程管理级</opt>
+        <opt ans="f">生产管理级</opt>
+        <opt ans="f">经营管理级</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>汽轮机紧急跳闸保护系统的简称为(   )。</desc>
+        <opt ans="f">TSI</opt>
+        <opt ans="f">DEH</opt>
+        <opt ans="f">DCS</opt>
+        <opt ans="t">ETS</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>DCS控制系统中不常用的网络结构为(   )。</desc>
+        <opt ans="f">星形</opt>
+        <opt ans="f">环形</opt>
+        <opt ans="f">总线形</opt>
+        <opt ans="t">树形</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>存放在磁盘上的文件，称为(   )。</desc>
+        <opt ans="f">批处理文件</opt>
+        <opt ans="f">执行文件</opt>
+        <opt ans="t">磁盘文件</opt>
+        <opt ans="f">数据库文件</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>AGC系统是通过(   )作用于单元机组的。</desc>
+        <opt ans="f">DAS</opt>
+        <opt ans="t">CCS</opt>
+        <opt ans="f">FSSS</opt>
+        <opt ans="f">DEH</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在交流电压中，频率代表(   )。</desc>
+        <opt ans="t">电压变化的快慢</opt>
+        <opt ans="f">电压的大小</opt>
+        <opt ans="f">初相位的大小</opt>
+        <opt ans="f">完成一个循环所需的时间</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>可编程控制器的简称为(   )。</desc>
+        <opt ans="f">DCS</opt>
+        <opt ans="f">BMS</opt>
+        <opt ans="f">CRT</opt>
+        <opt ans="t">PLC</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>可编程控器的基本控制规律是(   )。</desc>
+        <opt ans="t">逻辑控制</opt>
+        <opt ans="f">PID调节</opt>
+        <opt ans="f">模糊控制</opt>
+        <opt ans="f">预测控制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当机组发生(   )时，应进行负荷返回(RUNBACK)。</desc>
+        <opt ans="f">一台送风机跳闸</opt>
+        <opt ans="f">一台引风机跳闸</opt>
+        <opt ans="f">一台空预器跳闸</opt>
+        <opt ans="t">以上都对</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列因素中，(   )不影响电涡流传感器的测量灵敏度。</desc>
+        <opt ans="f">被测体面积</opt>
+        <opt ans="f">传感器线圈面积</opt>
+        <opt ans="f">被测体表面有镀层，</opt>
+        <opt ans="t">被测体与传感器之间的距离</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>凝汽式发电机组进行热能和机械能转换时采用的热力循环是(   )。</desc>
+        <opt ans="f">正向卡诺循环</opt>
+        <opt ans="f">逆向卡诺循环</opt>
+        <opt ans="t">郎肯循环</opt>
+        <opt ans="f">蒸汽燃汽联合循环</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>联锁是一种(   )措施。</desc>
+        <opt ans="t">保护</opt>
+        <opt ans="f">调节</opt>
+        <opt ans="f">顺序控制</opt>
+        <opt ans="f">功频电液调节</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产厂房内、外工作场所的井、坑、孔、洞或沟道， 必须覆以与地面平齐的坚固的盖板。检修各种需取下盖板的设备时，必须(   )。</desc>
+        <opt ans="f">派人看守</opt>
+        <opt ans="f">挂警告标志</opt>
+        <opt ans="t">设临时围栏</opt>
+        <opt ans="f">周围摆放障碍物</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>数据采集系统(DAS)不包括(   )功能。</desc>
+        <opt ans="f">数据采集功能</opt>
+        <opt ans="f">报警功能</opt>
+        <opt ans="f">事故顺序记录功能</opt>
+        <opt ans="t">负荷调节功能</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>模拟图显示属于(   )完成的功能。</desc>
+        <opt ans="f">CCS</opt>
+        <opt ans="t">DAS</opt>
+        <opt ans="f">FSSS</opt>
+        <opt ans="f">SCS</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>汽包锅炉中下降管的作用是(   )。</desc>
+        <opt ans="f">吸收热量</opt>
+        <opt ans="t">组成水循环</opt>
+        <opt ans="f">汽水分离</opt>
+        <opt ans="f">输送给水</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据欧姆定律可以看出，电阻元件是一个(   )元件。</desc>
+        <opt ans="f">记忆</opt>
+        <opt ans="f">储能</opt>
+        <opt ans="t">耗能</opt>
+        <opt ans="f">以上都对</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在可编程控制器中，编程器不能完成(   )。</desc>
+        <opt ans="f">修改程序</opt>
+        <opt ans="f">输入程序</opt>
+        <opt ans="f">调试程序</opt>
+        <opt ans="t">安装程序</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用于指导安装接线用的图纸是(   )。</desc>
+        <opt ans="f">控制流程图</opt>
+        <opt ans="f">电气原理图</opt>
+        <opt ans="f">梯形图</opt>
+        <opt ans="t">安装接线图</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列不属于按误差性质分类的是(   )。</desc>
+        <opt ans="f">随机误差</opt>
+        <opt ans="t">相对误差</opt>
+        <opt ans="f">系统误差</opt>
+        <opt ans="f">偶然误差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热力机械工作票中“工作票延期，有效期延长到某年某月某日某时某分”栏目，应有(   )确认并签名。</desc>
+        <opt ans="t">工作负责人和工作许可人</opt>
+        <opt ans="f">工作票签发人和工作负责人</opt>
+        <opt ans="f">工作票签发人和工作许可人</opt>
+        <opt ans="f">主管领导</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>大型机组给水泵采用变速给水泵的目的是(   )。</desc>
+        <opt ans="f">提高泵的容量</opt>
+        <opt ans="t">提高热力系统效率</opt>
+        <opt ans="f">提高给水压力</opt>
+        <opt ans="f">与机组大小无关</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>DCS控制系统是通过(   )实现控制功能分散的。</desc>
+        <opt ans="f">DCS网络</opt>
+        <opt ans="t">控制器和特殊I／O卡件</opt>
+        <opt ans="f">I／O卡件</opt>
+        <opt ans="f">其他</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>电涡流传感器测量的被测体必须是(   )。</desc>
+        <opt ans="f">绝缘体</opt>
+        <opt ans="t">金属导体</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>有一测温仪表，精度等级为0．5级，测量范围为400～600℃，该表的允许基本误差为(   )。</desc>
+        <opt ans="f">±3℃</opt>
+        <opt ans="f">±2℃</opt>
+        <opt ans="t">±1℃</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>压力的法定计量单位是(   )。</desc>
+        <opt ans="f">mmH2O</opt>
+        <opt ans="f">bar</opt>
+        <opt ans="t">Pa</opt>
+        <opt ans="f">Ton</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在测量误差的分类中，误差的大小和符号固定或按一定规律变化的是(   )。</desc>
+        <opt ans="t">系统误差</opt>
+        <opt ans="f">随机误差</opt>
+        <opt ans="f">粗大误差</opt>
+        <opt ans="f">绝对误差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列数值哪一个是三位有效数字(   )。</desc>
+        <opt ans="t">0.0170</opt>
+        <opt ans="f">0.1070</opt>
+        <opt ans="f">3.090</opt>
+        <opt ans="f">5010</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>检定仪表时，通常应将被检仪表指针调到带数字刻度点，读取标准表示值，这是因为(   )。</desc>
+        <opt ans="f">习惯性</opt>
+        <opt ans="f">方便</opt>
+        <opt ans="t">标准表准确度比被检表高，读数分度比被检表细，读取标准表示值可读得更准确，减少读数误差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>角行程电动执行机构的输出信号是(   )。</desc>
+        <opt ans="f">0～10mA</opt>
+        <opt ans="f">4～20mA</opt>
+        <opt ans="t">0～90°转角</opt>
+        <opt ans="f">交流无触点开关</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>各种补偿导线的正极绝缘层一般为(   )。</desc>
+        <opt ans="t">红色</opt>
+        <opt ans="f">白色</opt>
+        <opt ans="f">黑色</opt>
+        <opt ans="f">棕色</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>万用表在短期不使用的情况下应将(   )。</desc>
+        <opt ans="f">电源关掉并将切换开关拨至电阻档，</opt>
+        <opt ans="f">电源关掉并将切换开关拨至电流档</opt>
+        <opt ans="t">电源关掉并将切换开关拨至电压档，</opt>
+        <opt ans="f">将表棒取下就行</opt>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>示值相对误差是示值绝对误差与真实值的比值，以百分数表示。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在相同的条件下，多次测量同一量值时，不可能存在误差。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>仪表的变差不能超过仪表等级所规定的允许误差。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>仪表的精确度等级越高，测量的误差越小 反之，测量的误差越大。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>使用精密仪表，可以杜绝测量误差。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>仪表的精度等级是衡量仪表质量优劣的重要指标之一。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>偶然误差的数值和符号是按一定的规律变化的。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一般仪表的精确度等级系列有0．1、0．2、0.5、1．0、1．5、2．5、4.0等。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制系统的机柜应与固定支架良好连接，以保持接地电阻符合要求。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制系统的操作员站只具有有限的监控画面，任意一台故障都将导致部分设备的监控无法正常进行，故需要尽快恢复。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>300MW机组三路润滑油压开关三取二后输出两路至继电器柜直接动作3YV、6-9YV，同时送两路至电气发电机保护A、B柜跳发电机。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制系统的工程师站死机后，系统的控制器将无法继续正常运行。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>200MW机组停机电磁阀共有DC220和AC220两种控制电压。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>200MW DCS中主汽门关闭送入ETS（四取二），ETS判断后输出三路至DCS三取二来判断汽轮机跳闸。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制系统不能采用电厂的电气系统地作为接地网。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制系统一般通信网络一般为冗余配置，每个通信网络与冗余配置的控制器中的一个连接。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>ETS设计两个PLC，是为了提高保护动作可靠性，保证不拒动。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>机组运行中，检查轴振应测量探头交流分量（几百mV与实际振动成正比）。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制系统应支持运行过程中小范围的组态修改，且不影响系统正常运行。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制系统的I／O模件的电源应采用冗余配置。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制系统的安装环境必须符合防尘、防水、防电磁干扰等要求。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制系统应满足直接与因特网连接不会产生明显的安全隐患。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>测量零转速，一般用有源转速探头进行测量是因为无源探头在低转速时，产生感应电压很低，干扰大，有源探头幅值固定，不宜受干扰。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>主机胀差和位移均采用电涡流探头，型号区别（粗细不同）在于探头精度和距离不同。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>300MW的机尾转速测量主要是励磁干扰。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于某些迟延和惯性较大的对象，为了提高调节质量，一般需要在调节器中加入积分作用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>我公司200MW负压报警证实火焰丧失。300MW负压报警仅用来报警。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在燃煤锅炉中，由于进入炉膛的燃料量很难准确地测量，所以一般选用炉膛热负荷信号，间接地表示进入炉膛的燃料量，此信号称为热量信号。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉运行时，低负荷工况下可采用三冲量给水全程调节系统，高负荷工况下可采用单冲量给水全程调节系统。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>调节设备按所用能源不同可分为自力式(直接作用式)、电动式、气动式、液动式等形式。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉热效率试验说明，为保持经济燃烧，负荷越大，最佳过量空气系数α越小。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>随着机组容量的增大，蒸汽参数的提高，蒸汽过热度相应减小。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>采用变速泵的给水调节系统由汽包水位调节子系统、泵出口压力调节子系统和泵最小流量调节子系统组成。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在燃煤机组中，进入炉膛的煤粉量尚无直接测量的方法，一般采用给粉机转速信号或热量信号代表燃料量信号。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>东芝 TOSMAP-DS 系统软件包含OPS、SVS、IES-Server、IES-Client4种安装模式。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>给水全程调节系统扩大了调节范围，是程序控制、保护和自动调节相结合的综合性调节系统。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>送风调节系统的首要任务是保证燃烧过程具有一定的过量空气系数，即保证燃烧的经济性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>东芝 TOSMAP-DS的OPS用于操作监视。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>除氧的方法是把水加热到沸点，并把逸出的气体排出，除氧效果与加热时的饱和温度无关。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>PID中的微分作用，主要起加强和超前的作用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>采用变速给水泵可降低给水泵的功耗。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于串级调节系统，试投运时，步骤是先内后外。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一般情况下单回路控制系统中调节器的自动跟踪信号可取阀位反馈信号。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在伺服电机上装有电磁机械式制动器，用以减小电动机的惯性惰走，克服执行器断电后调节机构的反作用，以提高调节系统的稳定性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>瓦振、轴振有不同方向，探头选用轴振没有区别，瓦振分X和Y向。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>评定调节系统的性能指标有稳定性、准确性和快速性，其中，稳定性是首先要保证的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>执行机构依据动力能源的不同，分为角行程执行器和直行程执行器。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>燃烧控制系统包括三个具体的子系统，即燃料、送风、引风。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>协调控制系统采用前馈回路，有利于提高机组的负荷适应性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>新华DCS系统的DPU控制柜供电电源一路由厂用电供给，一路为UPS电源。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>积分调节作用能紧跟被调量的变化，因此积分调节作用是及时的。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>单元机组协调控制系统中，为加快锅炉侧的负荷响应速度，可采用前馈信号。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>随着锅炉容量和参数的提高，汽包的容积相对增大，锅炉的蒸发受热面的热负荷显著提高，加快了负荷变化时水位变化的速度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>严格地讲，现场实际应用PI调节器的调节系统，其实际调节结果是有差的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>定压运行与滑压运行相比更有利于汽轮机变工况运行。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>汽包锅炉给水调节系统的任务是使锅炉的给水流量适应锅炉的蒸发量，维持汽包水位在规定范围内。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉过热器由辐射过热器、对流过热器和减温器等组成，其任务是将饱和蒸汽加热到一定温度，并将其送往汽轮机做功。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于高压机组，为提高机组效率，把在低压缸做过功的蒸汽送回锅炉去再加热，提高蒸汽的过热度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>新华DCS系统的接地电阻小于&lt;=2Ω，我公司是独立的接地点。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>协调控制是利用汽轮机和锅炉协调动作来完成机组功率控制任务的，是一种前馈一反馈控制为基础的控制方式。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>单元机组有定压运行和滑压运行两种运行方式。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>单元机组是由发电机、汽轮机和锅炉共同适应电网负荷要求的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>造成XDPS中两个互为冗余DPU间争抢主控的常见原因BC卡无通讯时、双网中断、双机切换卡有问题或跳线不对、切换卡的连线不对或连线有问题等。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DI端子板的供电电压为24VDC或48VDC。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>更换卡件时首先确保要更换的卡件与原卡件型号一致。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>单、多阀切换的目的是为了提高机组的经济性和快速性，解决变负荷过程中均匀加热与部分负荷经济性的矛盾。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>高压抗燃油纯电调DEH系统主要有由计算机控制部分(习惯上称DEH)与液压控制部分(EH)组成。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DEH系统中现场信号线屏蔽层均在就地一次元件处接地，从而保证信号一点接地。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉安全门保护只包括汽包和过热器的压力保护。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于一个自动调节系统，调整时间越长，意味着系统越稳定。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>扰动是指引起调节量变化的各种因素。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>闭环调节系统一定是反馈调节系统。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在三冲量给水自动调节系统中，三冲量是指汽包水位、蒸汽流量和凝结水流量三个信号。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一般情况下，单回路控制系统中，调节器的自动跟踪信号可取阀位反馈信号。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>严格地讲，现场实际应用的PI调节器系统，其实调节结果是有误差的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在比例作用基础上增加积分作用时，比例带要比纯比例调节时大。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>交流放大电路中输入输出环节的电容主要起储能作用。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>两个电阻并联后的等效电阻一定小于其中任何一个电阻。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>六期机组挂闸后，如果未及时按下运行按钮，两个中压主汽门及#2高压主汽门的实验电磁阀（21YV、20YV、22YV）长时间带电，会导致烧毁。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一个阻抗与另一个阻抗串联后的等效阻抗必然大于其中任一阻抗。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>把输出量的全部或部分送到输入端称为前馈。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>给水自动调节系统的任务是维持锅炉的给水压力。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>打闸停机后，手动对3YV进行复位。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在全部或部分带电的盘上工作时，应将检修设备与运行设备以明显标志隔开。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>线性电阻的大小与电压、电流的大小无关。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在单元机组运行时，汽轮机侧主蒸汽温度一般高于锅炉侧主蒸汽温度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>喷油试验的目的是活动飞环，防止出现卡涩，确保危急遮断器飞环在机组一旦出现超速，达108%左右额定转速时能迅速飞出遮断汽轮机，保证机组安全。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>喷油试验时如果ZS5没有动作表明没有隔离成功。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>执行机构的调校点应在全行程范围内均匀选取。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>喷油试验时如果ZS2没有动作，表明飞锤没有击出。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当汽轮机转速与电网频率同步时即可并网。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>允许误差就是基本误差。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>根据朗肯循环原理，电厂的热力循环系统在凝汽器这一环节损失的热能最大。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DEH所有阀全关信号不满足会导致挂闸不成功。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>单纯按微分规律动作的调节器是不能独立工作的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>汽包水位调节器的给水流量和给水温度测点通常都安装在给水泵的出口、高压加热器的进口。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>评定调节系统的性能指标有稳定性、准确性和快速性，其中，稳定性是首先要保证的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>非线性调节系统不能用线性微分方程来描述。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>汽轮机凝汽器真空低保护是汽轮机的重要保护项目之一。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>用平衡容器测量汽包水位时，水位最高时，输出差压为最大。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>电缆的弯曲半径不应小于其外径的10倍。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>LVDT(差动变压器)式位置变送器可送出4～20mADC信号，直接被DCS系统使用。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>遇有电气设备着火时，应立即将有关设备的电源切断，然后进行救火。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>大中型火力发电厂中，高压厂用电的电压等级一般为10kV。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉主要设备、重要阀门、热控电源等都应设有备用保安电源。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>直流电动机电枢绕组中正常工作时的电流为交流电。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>200MW机组DEH投上遥调的协调控制方式应为非BASE方式。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>六期机组运行时，6YV、7YV、8YV、9YV四个电磁阀处于常带电状态。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于串级调节系统，试投运时，步骤是先内后外。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一次调频是指利用调速器对汽轮机转速进行调节，进而调节频率的过程。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>旁路系统一般分为高压旁路、中压旁路及低压旁路等形式。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉主蒸汽压力调节系统的作用是通过调节燃料量，使锅炉蒸汽量与汽轮机耗汽量相适应，以维持汽压的恒定。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>机组更换LVDT时要退出AGC运行方式。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热电偶是利用温室效应测量温度的。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一个胀差探头须调整到零位进行固定。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>目前单元机组一般倾向采用低负荷时定压运行，中等负荷时采用滑压运行。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>五期投入超速需在DEH手操盘上将超速试验开关打到试验位。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>运行中的调节系统应做定期试验。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>汽动给水泵在机组启动时即可投入运行。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>线性电阻的大小与电压、电流的大小无关。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于定值调节系统，其稳态过程的质量指标一般是以静态偏差来衡量。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DEH投入遥调后，DEH将接受CCS来指令。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉稳定运行时，执行器不应频繁动作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>检定变送器时，要求的环境条件温度为20±5℃，相对湿度为45%～75%。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>五期DEH投入时先投调节级压力回路，再投功率回路 切除时先切功率回路，再切调节级压力回路。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>发生在控制系统内部的扰动叫内扰。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在方框图中，信号的传递具有双向特性，即可以沿任意方向通过。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>过热减温的喷水是由给水泵的中间抽头引出的。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>发电厂的烟囱是仅仅为了起到环保作用。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>自动调节系统环节之间有三种基本的连接方式：串联、并联和反馈。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热工控制图纸中安装接线图是用来指导安装接线的施工图。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>信号电缆，控制电缆屏蔽层可就近接地。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当仪表管道的敷设环境温度超过一定范围时，应有防冻或隔热措施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热工仪表及控制装置是用于对热力设备及系统进行测量、控制、监视及保护的设备。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一块仪表的电源线和信号线应合用一根电缆。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热工调节对象通常都是有迟延、有惯性的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>组成自动控制系统最基本的单元是环节。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>电动门在空载调试时，开、关位置不应留有余量。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热工保护联锁信号投入前，应先进行信号状态检查，确定对机组无影响时方可投入。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DEH调节系统与自动同期装置连接，可实现手动并网。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在汽机突然甩负荷，锅炉仍维持低负荷运行时，要求保持水位与给定值相等。此时串级系统的动态特性就不如单级系统，它的控制过程时间将比单级长。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>负荷指令管理回路的主要任务是根据机炉运行状态选择适当的外部负荷，并转换为机炉的负荷给定值。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热电偶的补偿导线有分度号和极性之分。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在弹性式压力计中，弹性测压元件把压力(或差压)转化为弹性元件变形位移进行测量。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>五期DEH阀门S值阀门在中间位置时为0.1V～0.4V之间，全关时低于0.1V，全开时超过0.4V。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在控制逻辑中，挂闸油压开关信号三取二动作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>300MW机组的炉膛压力，送风机全停，引风机全停，DEH超速，发电机断水没有投退开关。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>功频电液调节系统中功率信号的选择由两种方式：一是取发电机功率，二是取发电机频率。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>300MW汽轮机TSI三路独立的转速探头发110%送至ETS跳机。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DPU故障或该点上下限设置不当会导致温度测点在DCS显示粉色。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>按被控量与给定值偏差进行控制的控制方式，称为反馈控制。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工业上常用的热电阻有两种，即铜热电阻和铂热电阻。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有调节设备和调节对象相互作用所形成的闭合负反馈回路称为自动调节系统。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>主燃料跳闸后立即可进行炉膛吹扫。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>蒸汽流量不能作为过热汽温调节的调节变量。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一般管道中安装感温元件时，保护套管端部，应能达到管道中心处。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在颗粒物介质测量中安装温度元件时，应选用耐磨保护套管，在必要时应在单独安装保护罩。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于新敷设的补偿导线电缆一般不需要校验。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉稳定运行时，给水调节机构允许平缓动作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>自动控制系统由控制设备和控制对象构成。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉安全门是锅炉主蒸汽压力高保护的重要装置。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在锅炉检修后，要进行承压部件的水压试验。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>控制过程质量指标可概括为稳定性、快速性、准确性几个方面。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热工保护装置应按系统进行分项和整套联动试验，且动作应正确、可靠。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>300MW机组送风机RB动作，负荷以100MW/分钟速率降至150MW。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制系统中“4C”技术是指控制、计算机、通信、图像显示技术。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>调节对象是调节系统中的一个环节，影响调节对象输出信号的因素不是单一的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>单元机组是一个多输入、多输出的被控对象，在分析负荷控制系统时必须把锅炉作为一个整体考虑。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当调节器发生故障或需要检修时，调节系统由手动操作切为自动调节。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在锅炉跟随的负荷调节方式中，由汽轮机调节汽压，锅炉调节负荷。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在安全门保护回路中，为保证动作可靠，一般采用两个压力开关的常开接点串联接法。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热工温度自动控制系统内测温传感器主要使用热电偶和热电阻。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>集散控制系统的网络拓扑结构主要有总线形、环形、树形、星形和点到点互连等5种结构。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DCS中基本控制器的控制回路数量受其内部输入，输出点数限制。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>比例调节器调节过程结束后被调量必然有稳态误差，故比例调节器也叫有差调节器</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>发电厂热工调节过程多采用衰减振荡的调节过程。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>200MW机组除氧器水位低会导致给水泵保护动作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>二次风的作用是为了组织良好的燃烧过程。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>调节器的积分时间长时，积分作用强，消除静态偏差需要经过的时间较短。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>为了防止干扰，信号电缆和电源电缆不得平行敷设。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>高加保护动作时要求入口门关到位再关出口门。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>按系统的特性分，有线性调节系统和非线性调节系统。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>单元机组协调控制系统中，为加快锅炉侧的负荷响应速度，可采用前馈信号。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>差压变送器不可以测量压力信号。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散系统中的通信都是按一定控制方式在高速数据通道上传递的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>为保证调节系统手自动切换是无扰的，在手动时调节器应进行自动跟踪。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>比例积分调节器的整定参数是比例带和积分时间。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>检测火检探头的好坏时，火焰越强输出电压越低。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>300MW火检板设置频率不同，煤的频率低。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>我公司火检处理卡输出的模拟量表示的是频率和火焰强度的综合值。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>我公司200MW、300MW机组负压保护逻辑是正负压开关各三个进行三取二动作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>由于炉膛压力多个测点共用一个取样装置，拆除某一个时会影响其他测点的测量，导致保护拒动。应尽量减少取样管对空的时间，拆下后应将该测点表管尽快堵住。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>我公司200MW机组安全门控制回路DC220V用于电磁铁线圈，DC48V输出至DCS进行SOE记录，DC24V用于热工信号。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>200MW机组如果投入制粉连锁，排粉机掉闸掉同侧磨煤机，同时开冷风门，关热风门。磨煤机跳闸掉给煤机。只能上级动力联掉下级动力。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>6KV动力的运行和停止的判断不使用操作回路的接点(HWJ TWJ)来判断。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>300MW凝结水泵保护动作条件有凝汽器水位低和凝结水泵上下轴承温度高。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>300MW循环水泵出口门DCS远操信号为长信号，是为了防止电源切换时，就地控制箱自保持接点保持不住，导致出口门关闭。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>高、低加热器保护设置的目的防止汽轮机进水，水冲击汽轮机叶片。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>负荷指令管理回路的主要任务是根据机炉运行状态选择适当的外部负荷，并转换为机炉的负荷给定值。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热电偶的补偿导线有分度号和极性之分。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>我公司火检处理卡输出的模拟量表示（    ）和火焰强度的综合值。</desc>
+        <blk beg="17" end="21">频率</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>汽包水位变送器更换时应关闭正压侧二次门，打开（    ），关闭负压侧二次门。</desc>
+        <blk beg="23" end="27">平衡门</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>我公司200MW机组安全门控制回路共有 DC220V、AC220V、DC48V、和（    ）四种电压。</desc>
+        <blk beg="42" end="46">DC24V</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>300MW机组RB降负荷速率风机RB100MW/分钟，给水泵150MW/分钟，断水和FCB为（    ）。</desc>
+        <blk beg="47" end="51">300MW/分钟</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>6KV动力的运行和停止的判断逻辑是常开、常闭和（    ）三个信号三取二来表示运行或停止信号。</desc>
+        <blk beg="24" end="28">电流</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>300MW凝结水泵保护动作条件有（    ）、凝结水泵上下轴承温度高。</desc>
+        <blk beg="17" end="21">凝汽器水位低</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>300MW机组主保护投退开关没有炉膛压力、（    ）、引风机全停、DEH超速和发电机断水。</desc>
+        <blk beg="22" end="26">送风机全停</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>我公司300MW机组ETS的输入输出共有（    ）、DC48V、DC220V三种电压。</desc>
+        <blk beg="21" end="25">DC24V</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>我公司200MW机组ETS停机使用（    ）控制接触器动作双联电磁阀。立盘紧急停机按钮的控制电压为DC220V，控制直流接触器动作双联电磁阀。</desc>
+        <blk beg="18" end="22">AC220</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>温度测量常用元件有（    ）、热电偶、双金属温度计和膨胀式温度计。</desc>
+        <blk beg="10" end="14">热电阻</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>热电偶测温的基本原理是（    ）</desc>
+        <blk beg="12" end="16">热电效应</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>电动执行器有（    ）、减速器、位置发送器和执行器定位控制部分组成。</desc>
+        <blk beg="7" end="11">电动机</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>六期主遮断电磁阀有（    ）、7YV、8 YV和9YV。</desc>
+        <blk beg="10" end="14">6YV</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>300MW机组打闸停机后应手动对（    ）进行复位。</desc>
+        <blk beg="17" end="21">3YV</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>300MW机组挂闸允许条件有（    ）和所有进汽阀全关。</desc>
+        <blk beg="15" end="19">汽轮机已跳闸</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>五期有（    ）电动主汽门、两个高压自动主汽门、两个中压自动主汽门、四个高压调门、四个中压调门。</desc>
+        <blk beg="4" end="8">两个</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>六期（    ）电动主汽门、两个高压自动主汽门、两个中压主汽门、四个高压调门、两个中压调门。</desc>
+        <blk beg="3" end="7">一个</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>300MW机组DEH投上遥调条件有（    ）、AGC指令变化速率不超限、RB未发生、CCS方式投入、负荷未发生迫升迫降。</desc>
+        <blk beg="18" end="22">AGC指令不是坏值</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>五期DEH投入功率回路和调压回路的顺序为投入时先投调节级压力回路，再投（    ）。</desc>
+        <blk beg="36" end="40">功率回路</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>200MW机组DEH与协调控制系统硬接线接口信号有CCS允许、CCS增负荷指令、CCS减负荷指令、（    ）、DEH处于遥调。</desc>
+        <blk beg="50" end="54">RB信号</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>300MW机组DEH与协调控制系统硬接线接口信号有CCS允许、（    ）、DEH实际负荷反馈、RB信号、DEH处于遥调。</desc>
+        <blk beg="32" end="36">CCS模拟量负荷指令</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>XDPS有三种对外接口的方式（    ）、I/O驱动方式和网关软件方式。</desc>
+        <blk beg="15" end="19">硬接线</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>DPU内部的数据分为DPU总体描述、页和（    ）对象</desc>
+        <blk beg="21" end="25">功能块</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>正常运行时，工程师站运行程序有（    ）、历史数据收集, SwtichX和油库ASDPU。</desc>
+        <blk beg="16" end="20">NetWin</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>正常运行时，历史站运行程序有NetWin、（    ）、报表数据收集和8-9共用系统ASDPU。</desc>
+        <blk beg="22" end="26">历史数据收集</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>我厂新华DCS系统的DPU控制柜供电电源一路由厂用电供给，一路为（    ）。</desc>
+        <blk beg="33" end="37">UPS电源</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>新华DCS系统的接地有逻辑地和（    ）两种。</desc>
+        <blk beg="16" end="20">机架地</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>XDPS备用DPU初始化的原因有（    ）、备用DPU跟踪主控超时。</desc>
+        <blk beg="17" end="21">组态不一致</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>DCS直流的用途有（    ）、电气隔离扩展继电器柜、燃油速断阀、高加解列电磁阀。</desc>
+        <blk beg="10" end="14">OPC</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>自动调节系统由（    ）和自动装置两部分组成。</desc>
+        <blk beg="8" end="12">调节对象</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>自动调节系统常见的基本环节有一阶惯性环节、（    ）、积分环节、微分环节和迟延环节。</desc>
+        <blk beg="22" end="26">比例环节</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>衡量调节系统动态过程的质量指标有（    ）、最大动态偏差和过渡过程时间。</desc>
+        <blk beg="17" end="21">稳定裕度</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>调节器基本的调节规律有（    ）、积分控制和微分控制。</desc>
+        <blk beg="12" end="16">比例控制</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>串级调节回路调节器在手动情况下主调节器的输出跟踪副调节器测量值，副调节器的输出跟踪（    ）。</desc>
+        <blk beg="42" end="46">操作器的输出值</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>制粉自动调节系统包括（    ）、磨入口负压、磨负荷三个子系统。</desc>
+        <blk beg="11" end="15">磨出口温度</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>锅炉燃烧自动调节系统包括燃料量（给粉）、（    ）、引风三个子系统。</desc>
+        <blk beg="21" end="25">送风</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>调节器的偏差输入增加时，输出增加为（    ），输入减小时，输出增加为反作用。</desc>
+        <blk beg="18" end="22">正作用</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>一般有关自动调节系统的试验有（    ）、控制设备的特性试验和控制系统定值扰动试验。</desc>
+        <blk beg="15" end="19">控制对象的动态特性试验</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>一般切除自调的条件有（    ）、测量值品质坏、输出与反馈偏差大。</desc>
+        <blk beg="11" end="15">测量与给定偏差大</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>300MW机组协调系统运行方式有（    ）、锅炉基本方式、汽机基本方式、和手动方式。</desc>
+        <blk beg="17" end="21">协调控制方式</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>减温调整门选用的执行机构类型是（    ）,断气源后，能够保证阀门开启。</desc>
+        <blk beg="16" end="20">气闭</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>串级调节回路中，主调节器起（    ）作用，它的控制任务是使主参数等于给定值(无静差)，故一般宜采用PI或PID调节器，而副调节器可采用P或PI调节器。</desc>
+        <blk beg="14" end="18">定值控制</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>中间再热机组设计了旁路系统，低旁减温水取自（    ），高旁减温水取自给水泵抽头。</desc>
+        <blk beg="22" end="26">凝结水</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>汽包有三个作用：（    ）、建立水冷壁水循环、清洗蒸汽。</desc>
+        <blk beg="9" end="13">汽水分离作用</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>汽轮机速度级压力取自汽轮机喷嘴后第一级压力，它可以代表（    ）信号。</desc>
+        <blk beg="28" end="32">汽轮机负荷</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>主汽、再热器温度靠喷水减温和烟气挡板控制，（    ）调节为粗调，喷水减温为细调。过热喷水减温为主汽温度的粗调</desc>
+        <blk beg="22" end="26">烟气挡板</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>当弹簧管压力表的示值误差随着压力成比例地增加时，这种误差叫（    ）。产生的主要原因是齿轮的传动比发生了变化。</desc>
+        <blk beg="30" end="34">线性误差</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>汽包压力变送器应加变送器安装位置到取样口高度差的静压力，当变送器安装位置在取样点的上方时应（    ）高度差静压力。</desc>
+        <blk beg="46" end="50">加上</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>选用压力表时要注意其量程不要过大或过小，通常正常压力值指示在压力表量程的（    ）处。</desc>
+        <blk beg="37" end="41">三分之二</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>仪表检验报告填写须注意字迹清晰，数据准确无涂改，数据格式符合要求，需有（    ）、班组技术员（班长）、分公司专工签字。</desc>
+        <blk beg="36" end="40">检定人</blk>
+    </qstn>
+</library>

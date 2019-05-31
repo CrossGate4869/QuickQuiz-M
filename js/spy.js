@@ -103,7 +103,16 @@ function showSpyList()
 		document.getElementById("hr" + (i)).style.display = "";
 	}
 	
-	document.getElementById("index").innerHTML = "第" + (page + 1) + "页，共" + Math.max(1, Math.ceil(showList.length / 10)) + "页";
+	var count = Math.max(1, Math.ceil(showList.length / 10));
+	document.getElementById("index").innerHTML = "第" + (page + 1) + "页，共" + count + "页";
+	if (count <= 1)
+	{
+		document.getElementById("jumpto").style.display = "none";
+	}
+	else
+	{
+		document.getElementById("jumpto").style.display = "";
+	}
 	
 	if (page <= 0)
 	{
@@ -278,4 +287,10 @@ function jumpPage()
 	
 	resetOpenList();
 	showSpyList();
+}
+
+function clearFind()
+{
+	document.getElementById("find").value = "";
+	document.getElementById("find").focus();
 }

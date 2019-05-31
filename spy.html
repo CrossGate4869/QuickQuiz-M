@@ -28,7 +28,8 @@
 </p>
 	
 <div>
-	<input type = "text" id = "find" maxlength = "16" style = "width : 60%; font-size: 100%; height : 1em;"></input>
+	<input type = "text" id = "find" maxlength = "16" style = "width : 50%; font-size: 100%; height : 1em;"></input>
+	<button type = "button" class = "smallbutton" onclick = "clearFind()">清空</button>
 	<button type = "button" class = "smallbutton" onclick = "findString()">查找</button>
 </div>
 
@@ -59,7 +60,7 @@
 	<button type = "button" class = "smallbutton" id = "next" onclick = "nextPage()">下一页</button><small id = "index" style = "margin-left : 5px;"></small>
 </p>
 
-<p>
+<p id = "jumpto">
 	<input type = "number" id = "jumpIndex" maxlength = "5" style = "width : 30%; font-size: 100%; height : 1em;"></input>
 	<button type = "button" class = "smallbutton" id = "jump" onclick = "jumpPage()">跳转！</button>
 </p>

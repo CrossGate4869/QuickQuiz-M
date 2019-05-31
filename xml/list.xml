@@ -15,8 +15,8 @@
 	<group>
 		<tag>生产技术</tag>
 		<item>
-			<desc>钳工工艺</desc>
-			<href>xml/qggy.xml</href>
+			<desc>热控自动专业试题</desc>
+			<href>xml/rkzdzy.xml</href>
 		</item>
 		<item>
 			<desc>热工自动控制中级工</desc>
@@ -26,9 +26,25 @@
 			<desc>热控DCS技能竞赛</desc>
 			<href>xml/rkdcs.xml</href>
 		</item>
+		<item>
+			<desc>热控通信微机专业试题</desc>
+			<href>xml/rktxwjzy.xml</href>
+		</item>
+		<item>
+			<desc>热控程控专业试题</desc>
+			<href>xml/rkckzy.xml</href>
+		</item>
+		<item>
+			<desc>输煤电专业试题</desc>
+			<href>xml/smdzy.xml</href>
+		</item>
+		<item>
+			<desc>钳工工艺</desc>
+			<href>xml/qggy.xml</href>
+		</item>
 	</group>
 	<group>
-		<tag>党政学习</tag>
+		<tag>思想政治</tag>
 		<item>
 			<desc>学习强国题库</desc>
 			<href>xml/xxqg.xml</href>
