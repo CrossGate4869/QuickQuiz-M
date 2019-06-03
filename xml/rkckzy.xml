@@ -391,7 +391,7 @@
         <opt ans="t">直流事故油泵</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>【没有答案】锅炉点火前进行吹扫，其通风容积流量应大于25％额定风量，时间不少于(    )。</desc>
+        <desc>锅炉点火前进行吹扫，其通风容积流量应大于25％额定风量，时间不少于(    )。</desc>
         <opt ans="f">3min</opt>
         <opt ans="t">5min</opt>
     </qstn>

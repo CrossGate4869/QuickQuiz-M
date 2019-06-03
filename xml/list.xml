@@ -15,16 +15,20 @@
 	<group>
 		<tag>生产技术</tag>
 		<item>
+			<desc>热控基础题库</desc>
+			<href>xml/rkjctk.xml</href>
+		</item>
+		<item>
 			<desc>热控自动专业试题</desc>
 			<href>xml/rkzdzy.xml</href>
 		</item>
 		<item>
-			<desc>热工自动控制中级工</desc>
-			<href>xml/zhongji.xml</href>
+			<desc>热控OC6000e题库</desc>
+			<href>xml/oc6000e.xml</href>
 		</item>
 		<item>
-			<desc>热控DCS技能竞赛</desc>
-			<href>xml/rkdcs.xml</href>
+			<desc>热工自动控制中级工</desc>
+			<href>xml/zhongji.xml</href>
 		</item>
 		<item>
 			<desc>热控通信微机专业试题</desc>

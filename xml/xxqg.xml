@@ -2,6 +2,1358 @@
 <library>
     <key>QuickQuiz</key>
     <title>学习强国挑战答题</title>
+    <qstn type="s-choise" cust="0">
+        <desc>第28届世界遗产大会在中国（    ）召开。</desc>
+        <opt ans="f">北京</opt>
+        <opt ans="f">南京</opt>
+        <opt ans="t">苏州</opt>
+        <opt ans="f">西安</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>把生态文明建设纳入中国特色社会主义事业总体布局的是（     ）</desc>
+        <opt ans="t">党的十八大</opt>
+        <opt ans="f">党的十八届三中全会</opt>
+        <opt ans="f">党的十九大</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年7月1日，在庆祝中国共产党成立95周年大会上的讲话中，指出，（     ）是党执政兴国的第一要务，是解决中国所有问题的关键。</desc>
+        <opt ans="f">改革</opt>
+        <opt ans="t">发展</opt>
+        <opt ans="f">稳定</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>人类可以利用自然，改造自然，但归根到底（     ），必须呵护自然，不能凌驾于自然之上。</desc>
+        <opt ans="t">是自然的一部分</opt>
+        <opt ans="f">是自然的主人</opt>
+        <opt ans="f">是无条件听从自然</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（     ）是深化行政体制改革的核心，实质上要解决的是政府应该做什么、不应该做什么，重点是政府、市场、社会的关系。</desc>
+        <opt ans="f">精简机构</opt>
+        <opt ans="t">转变政府职能</opt>
+        <opt ans="f">提高行政效率</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>世界节能和利用新能源、可再生能源第一大国是（     ）</desc>
+        <opt ans="t">中国</opt>
+        <opt ans="f">美国</opt>
+        <opt ans="f">日本</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在十九大报告中，要求全党牢牢坚持（     ）这个党和国家的生命线、人民的幸福线。</desc>
+        <opt ans="f">群众路线</opt>
+        <opt ans="f">四项基本原则</opt>
+        <opt ans="t">党的基本路线</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2014年9月5日，在庆祝全国人民代表大会成立（     ）周年大会上的讲话指出，实践充分证明，人民代表大会制度是符合中国国情和实际、体现社会主义国家性质、保证人民当家作主、保障实现中华民主伟大复兴的好制度。</desc>
+        <opt ans="f">55</opt>
+        <opt ans="t">60</opt>
+        <opt ans="f">65</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“我们不要过分陶醉于我们人类对自然界的胜利。对于每一次这样的胜利，自然界都对我们进行报复。”这个论断的提出者是（     ）</desc>
+        <opt ans="f">马克思</opt>
+        <opt ans="t">恩格斯</opt>
+        <opt ans="f">列宁</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（     ）是坚持党的领导、人民当家作主、依法治国有机统一的根本制度安排。</desc>
+        <opt ans="t">人民代表大会制度</opt>
+        <opt ans="f">中国共产党领导的多党合作和政治协商制度</opt>
+        <opt ans="f">基层群众自治制度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>5000年的中华文明孕育着丰富的生态智慧。“子钓而不纲，弋不射宿”的提出者是（     ）</desc>
+        <opt ans="t">孔子</opt>
+        <opt ans="f">荀子</opt>
+        <opt ans="f">墨子</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在五大新发展理念中，最能体现坚持以人民为中心的发展思想的是（     ）。</desc>
+        <opt ans="f">创新理念</opt>
+        <opt ans="f">开放理念</opt>
+        <opt ans="t">共享理念</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国是负责任的发展中大国，是全球气候治理的积极参与者，已经向世界承诺将于（     ）左右将二氧化碳排放达到峰值，并争取早日实现。</desc>
+        <opt ans="f">2020年</opt>
+        <opt ans="t">2030年</opt>
+        <opt ans="f">2035年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在福建宁德工作期间，习近平总书记曾指出能否有效地制止腐败现象关系到党的生死存亡和社会主义事业的成败，这就需要建立各种有效的监督机制，其中（     ）的监督是最经常、公开、广泛的一种监督方式。</desc>
+        <opt ans="f">人大</opt>
+        <opt ans="f">党内</opt>
+        <opt ans="t">新闻媒介</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（     ）是社会主义民主政治的本质特征。</desc>
+        <opt ans="f">党的领导</opt>
+        <opt ans="t">人民当家作主</opt>
+        <opt ans="f">依法治国</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>经济体制改革是全面深化改革的重点，其核心问题是（     ）</desc>
+        <opt ans="t">处理好政府和市场关系</opt>
+        <opt ans="f">处理好竞争和垄断的关系</opt>
+        <opt ans="f">处理好积累与消费的关系</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十八届五中全会把扶贫攻坚改成了脱贫攻坚，明确到（     ）年我国现行标准下农村贫困人口实现脱贫，贫困县全部摘帽，解决区域性整体贫困。</desc>
+        <opt ans="t">2020年</opt>
+        <opt ans="f">2030年</opt>
+        <opt ans="f">2035年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>陆游的名句“纸上得来终觉浅，绝知此事要躬行”可以用来譬喻下面哪个情境:（     ）</desc>
+        <opt ans="f">脚踏实地，踏踏实实地工作</opt>
+        <opt ans="f">言出必行，承诺的就要实现</opt>
+        <opt ans="f">团结协作，注重团队的力量</opt>
+        <opt ans="t">知行合一，将知识化为实践</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“大贤秉高鉴，公烛无私光”歌颂的是什么精神？（     ）</desc>
+        <opt ans="t">心底无私、天下为公</opt>
+        <opt ans="f">砥砺奋进、铿锵前行</opt>
+        <opt ans="f">团结协作、共同发展</opt>
+        <opt ans="f">精诚所至、金石为开</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>戚继光的诗句“繁霜尽是心头血，洒向千峰秋叶丹”可以用来譬喻下面哪个情境：（     ）</desc>
+        <opt ans="f">知难而上的奋斗勇气</opt>
+        <opt ans="f">艰苦奋斗的创业精神</opt>
+        <opt ans="f">诚实守信的可贵品质</opt>
+        <opt ans="t">深厚的爱国主义情怀</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“亦余心之所善兮，虽九死其犹未悔。”出自：（     ）</desc>
+        <opt ans="t">离骚</opt>
+        <opt ans="f">楚辞</opt>
+        <opt ans="f">九歌</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“不畏浮云遮望眼”出自哪位诗人？（     ）</desc>
+        <opt ans="f">苏轼</opt>
+        <opt ans="f">辛弃疾</opt>
+        <opt ans="t">王安石</opt>
+        <opt ans="f">杜牧</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>朱德同志《赠诸友》诗写到“志士恨无穷，孤身走西东。投笔（     ）去，刷新旧国风”。</desc>
+        <opt ans="f">报国</opt>
+        <opt ans="f">从军</opt>
+        <opt ans="t">从戎</opt>
+        <opt ans="f">杀敌</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>决定成立国家安全委员会的是（     ）</desc>
+        <opt ans="t">党的十八届三中全会</opt>
+        <opt ans="f">党的十八届三中全会</opt>
+        <opt ans="f">党的十八届三中全会</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“不拘一格降人才”是诗人（     ）的诗句。</desc>
+        <opt ans="f">张九龄</opt>
+        <opt ans="f">陆游</opt>
+        <opt ans="f">林则徐</opt>
+        <opt ans="t">龚自珍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>毛泽东同志的诗“敢叫日月换新天”的上一句是（     ）。</desc>
+        <opt ans="f">别梦依稀咒逝川</opt>
+        <opt ans="f">红旗卷起农奴戟</opt>
+        <opt ans="t">为有牺牲多壮志</opt>
+        <opt ans="f">喜看稻菽千重浪</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>刘禹锡诗“千淘万漉虽辛苦”的下一句是（     ）</desc>
+        <opt ans="f">莫言迁客似沙沉</opt>
+        <opt ans="t">吹尽狂沙始到金</opt>
+        <opt ans="f">黄沙百战穿金甲</opt>
+        <opt ans="f">一片孤城万仞山</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“落其实者思其（     ），饮其流者怀其源”，请补充诗句。</desc>
+        <opt ans="f">叶</opt>
+        <opt ans="f">根</opt>
+        <opt ans="f">源</opt>
+        <opt ans="t">树</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>治贫先治愚，扶贫先扶志。（     ）是阻断贫困待际传递的治本之策。</desc>
+        <opt ans="t">教育</opt>
+        <opt ans="f">就业</opt>
+        <opt ans="f">搬迁</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“语不惊人死不休”属于（     ）体裁。</desc>
+        <opt ans="f">词</opt>
+        <opt ans="f">绝句</opt>
+        <opt ans="t">律诗</opt>
+        <opt ans="f">散文</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以下哪一句诗诗由王勃所作？（     ）</desc>
+        <opt ans="f">海上生明月，天涯共此时</opt>
+        <opt ans="t">海内存知己，天涯若比邻</opt>
+        <opt ans="f">红豆生南国，春来发几枝</opt>
+        <opt ans="f">君自故乡来，应知故乡事</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“飞来山上千寻塔，闻说鸡鸣见日升。（     ）自缘身在最高层”，选自以下诗句补齐诗歌。</desc>
+        <opt ans="f">不识庐山真面目</opt>
+        <opt ans="t">不畏浮云遮望眼</opt>
+        <opt ans="f">不畏浮云蔽百日</opt>
+        <opt ans="f">葳蕤青山遮望眼</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“我家洗砚池头树，朵朵花开淡墨痕。不要人夸好颜色，只留清气满乾坤。”写的植物是（     ）</desc>
+        <opt ans="f">梨花</opt>
+        <opt ans="f">菊花</opt>
+        <opt ans="t">梅花</opt>
+        <opt ans="f">玉兰</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>无论社会发展到什么程度，我们都要毫不动摇把（     ）写在医疗卫生事业的旗帜上，不能走全盘市场化、商业化的路子。</desc>
+        <opt ans="t">公益性</opt>
+        <opt ans="f">盈利性</opt>
+        <opt ans="f">服务性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>与诗句“水屯三楚白，山接九疑青”所描绘的景致不同的一联诗是（     ）。</desc>
+        <opt ans="f">气蒸云梦泽，波撼岳阳城</opt>
+        <opt ans="t">造化钟神秀，阴阳割昏晓</opt>
+        <opt ans="f">吴楚东南坼，乾坤日夜浮</opt>
+        <opt ans="f">雁引愁心去，山衔好月来</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>依据党的十九大报告，生态环境质量实现根本好转，美丽中国目标基本实现的时间节点是（     ）</desc>
+        <opt ans="f">2020年</opt>
+        <opt ans="t">2035年</opt>
+        <opt ans="f">2050年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在统揽伟大斗争、伟大工程、伟大事业、伟大梦想中，起决定性作用的是新时代（     ）</desc>
+        <opt ans="f">中国特色社会主义伟大事业</opt>
+        <opt ans="t">党的建设新的伟大工程</opt>
+        <opt ans="f">中国民族复兴的伟大梦想</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>共享发展理念的内涵之一是全民共享，这是就共享的（     ）而言的。</desc>
+        <opt ans="t">覆盖面</opt>
+        <opt ans="f">内容</opt>
+        <opt ans="f">实现途径</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>毛泽东同志的词中“到中流击水，浪遏飞舟”是在哪一条江河？（     ）</desc>
+        <opt ans="f">黄河</opt>
+        <opt ans="t">湘江</opt>
+        <opt ans="f">长江</opt>
+        <opt ans="f">赣江</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在十八届中央政治局第九次集体学习时的讲话中，习近平总书记指出（     ）是第一资源。也是创新活动中最为活跃、最为积极的因素。</desc>
+        <opt ans="f">自然资源</opt>
+        <opt ans="f">文化资源</opt>
+        <opt ans="t">人才资源</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“桃花仙人种桃树，又摘桃花换酒钱。”“桃花仙人”指的是（     ）。</desc>
+        <opt ans="f">陶渊明</opt>
+        <opt ans="f">刘禹锡</opt>
+        <opt ans="t">唐寅</opt>
+        <opt ans="f">李白</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>理论和实践都证明，（     ）配置资源是最有效率的形式。</desc>
+        <opt ans="f">政府</opt>
+        <opt ans="t">市场</opt>
+        <opt ans="f">计划</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“人生若只如初见”的下一句是（     ）</desc>
+        <opt ans="t">何事秋风悲画扇</opt>
+        <opt ans="f">相见争如不见</opt>
+        <opt ans="f">两重心字罗衣</opt>
+        <opt ans="f">斜阳却照深深院</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“（     ）风来满眼春，花城柳岸愁杀人”，请选择正确的词补全诗句。</desc>
+        <opt ans="t">东方</opt>
+        <opt ans="f">西方</opt>
+        <opt ans="f">南方</opt>
+        <opt ans="f">北方</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“五峰如指翠相连，撑起炎荒半壁天”出自明代丘浚的《题五指山》，以下小说（     ）中有与“五指山”相关的情节。</desc>
+        <opt ans="f">《三国演义》</opt>
+        <opt ans="t">《西游记》</opt>
+        <opt ans="f">《水浒传》</opt>
+        <opt ans="f">《红楼梦》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“路漫漫其修远兮，吾将上下而求索”出自（     ），作者（）。</desc>
+        <opt ans="f">《天问》；屈原</opt>
+        <opt ans="f">《天问》；宋玉</opt>
+        <opt ans="t">《离骚》；屈原</opt>
+        <opt ans="f">《离骚》；宋玉</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>夏明翰的《就义诗》中写道“砍头不要紧，只要主义真”，表达的精神是（     ）</desc>
+        <opt ans="f">积极向上的乐观</opt>
+        <opt ans="f">筚路蓝缕的建设</opt>
+        <opt ans="t">视死如归的坚贞</opt>
+        <opt ans="f">脚踏实地的奋斗</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“相知无远近，万里尚为邻”是唐朝张九龄的诗作，这首诗的题材是（     ）。</desc>
+        <opt ans="f">咏史诗</opt>
+        <opt ans="t">送别诗</opt>
+        <opt ans="f">咏怀诗</opt>
+        <opt ans="f">闺怨诗</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“春蚕到死丝方尽，蜡炬成灰泪始干”的作者是（     ）代的（）。</desc>
+        <opt ans="f">唐；杜牧</opt>
+        <opt ans="f">宋；杜牧</opt>
+        <opt ans="t">唐；李商隐</opt>
+        <opt ans="f">宋；李商隐</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“不似天涯，卷起杨花似雪花”出自苏轼的《减字木兰花·立春》。作者苏轼是（     ）朝代的诗人。</desc>
+        <opt ans="f">唐</opt>
+        <opt ans="t">宋</opt>
+        <opt ans="f">元</opt>
+        <opt ans="f">明</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>离别是中国古典诗词中常用的主题，以下诗词（     ）并无离别之意。</desc>
+        <opt ans="f">海内存知己，天涯若比邻</opt>
+        <opt ans="t">返景入深林，复照青苔上</opt>
+        <opt ans="f">莫愁前路无知己，天下谁人不识君</opt>
+        <opt ans="f">燕燕于飞，差池其羽。之子于归，远送于野</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>王安石的名句“不畏浮云遮望眼”的下一句是（     ）。</desc>
+        <opt ans="f">两山排闼送青来</opt>
+        <opt ans="f">尚疑身属半山园</opt>
+        <opt ans="f">闻说鸡鸣见日升</opt>
+        <opt ans="t">自缘身在最高层</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“万类霜天竞自由”是毛泽东同志的名句，其体裁是（     ）。</desc>
+        <opt ans="f">七律</opt>
+        <opt ans="f">古风</opt>
+        <opt ans="t">词</opt>
+        <opt ans="f">乐府</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>风雨送春归，飞雪迎春到。（     ），犹有花枝俏。</desc>
+        <opt ans="t">已是悬崖百丈冰</opt>
+        <opt ans="f">已是黄昏独自愁</opt>
+        <opt ans="f">瀚海阑干百丈冰</opt>
+        <opt ans="f">六出冰花滚似锦</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“儿童散学归来早，忙趁东风放纸鸢”描写的是什么时候的情景？（     ）</desc>
+        <opt ans="t">初春</opt>
+        <opt ans="f">晚春</opt>
+        <opt ans="f">初夏</opt>
+        <opt ans="f">晚秋</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“牧童骑黄牛，歌声振林樾。意欲捕鸣蝉，忽然闭口立”是性灵派名家（     ）的诗。</desc>
+        <opt ans="f">袁宏道</opt>
+        <opt ans="f">杨万里</opt>
+        <opt ans="f">朱彝尊</opt>
+        <opt ans="t">袁枚</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“山近月远觉月小，便道此山大于月。若有人眼大如天，当见山高月更阔。”这是明代思想家王守仁的《蔽月山房》，与此中哲理最接近的是（     ）。</desc>
+        <opt ans="t">不识庐山真面目，只缘身在此山中</opt>
+        <opt ans="f">若言声在指头上，何不于君指上听?</opt>
+        <opt ans="f">问渠那得清如许，为有源头活水来</opt>
+        <opt ans="f">纸上得来终觉浅，绝知此事要躬行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在一次讲话中引用了明代官员陈诚的诗句“绿野草铺茵，空山雪积银。四时常觉冷，六月不知春”，写的是（     ）的景色。</desc>
+        <opt ans="f">北欧</opt>
+        <opt ans="f">北极</opt>
+        <opt ans="t">中亚</opt>
+        <opt ans="f">西伯利亚</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>词句“青山依旧在，几度夕阳红”的作者是（     ）。</desc>
+        <opt ans="f">施耐庵</opt>
+        <opt ans="f">罗贯中</opt>
+        <opt ans="t">杨慎</opt>
+        <opt ans="f">杨基</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“宜将剩勇追穷寇，不可沽名学霸王”的“霸王”是指（     ）。</desc>
+        <opt ans="f">勾践</opt>
+        <opt ans="f">秦始皇</opt>
+        <opt ans="f">刘邦</opt>
+        <opt ans="t">项羽</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“咬定青山不放松，立根原在破岩中。千磨万击还坚劲，任尔东西南北风”写的植物是（     ）。</desc>
+        <opt ans="f">松树</opt>
+        <opt ans="f">野草</opt>
+        <opt ans="t">竹子</opt>
+        <opt ans="f">柏树</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“山郡逢春复乍晴，陂塘分出几泉清？郭边万户皆临水，雪后千峰半入城。”清代诗人王士祯这首诗写的是（     ）。</desc>
+        <opt ans="f">成都</opt>
+        <opt ans="f">杭州</opt>
+        <opt ans="f">泉州</opt>
+        <opt ans="t">济南</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>元末明初诗人唐珙的诗《题龙阳县青草湖》因曾因诗境近似唐人被选错入《全唐诗》，下面四句诗正确的排列顺序是（     ）。①醉后不知天在水②一夜湘君白发多③西风吹老洞庭波④满船清梦压星河</desc>
+        <opt ans="f">③①④②</opt>
+        <opt ans="f">④②①③</opt>
+        <opt ans="t">③②①④</opt>
+        <opt ans="f">④①③②</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十八届三中全会将市场在资源配置中起基础性作用修改为起（     ）</desc>
+        <opt ans="f">关键性作用</opt>
+        <opt ans="t">决定性作用</opt>
+        <opt ans="f">核心性作用</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“大将歌罢掉头东”的作者是（     ）</desc>
+        <opt ans="f">朱德</opt>
+        <opt ans="t">周恩来</opt>
+        <opt ans="f">毛泽东</opt>
+        <opt ans="f">陈毅</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下面哪一诗句与“纸上得来终觉浅”同出自一首诗？（     ）</desc>
+        <opt ans="t">少壮功夫老始成</opt>
+        <opt ans="f">九州生气恃风雷</opt>
+        <opt ans="f">繁霜尽是心头血</opt>
+        <opt ans="f">东方风来满眼春</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“乘风好去，长空万里，直下看山河”出自辛弃疾的《太常引·建康中秋夜为吕叔潜赋》，请问“太常引”是这首词的（     ）。</desc>
+        <opt ans="f">标题</opt>
+        <opt ans="f">小序</opt>
+        <opt ans="t">词牌</opt>
+        <opt ans="f">曲牌</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下面哪一联诗所表达的内涵与“吟安一个字，捻断数茎须”表达的内涵是一致的：（     ）</desc>
+        <opt ans="f">致君尧舜上，再使风俗淳</opt>
+        <opt ans="f">行行重行行，与君生别离</opt>
+        <opt ans="f">夜中不能寐，起坐弹鸣琴</opt>
+        <opt ans="t">两句三年得，一吟双泪流</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“面壁十年图破壁”一语出自（     ）的诗作。</desc>
+        <opt ans="f">毛泽东</opt>
+        <opt ans="t">周恩来</opt>
+        <opt ans="f">朱德</opt>
+        <opt ans="f">任弼时</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>王勃在诗中写到“海内存知己，天涯若比邻”，这首诗的题材是什么？（     ）</desc>
+        <opt ans="f">田园诗</opt>
+        <opt ans="f">山水诗</opt>
+        <opt ans="t">送别诗</opt>
+        <opt ans="f">怀古诗</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>刘禹锡的诗句“芳林新叶催陈叶，流水前波让后波”歌颂的是以下哪种精神（     ）</desc>
+        <opt ans="t">自我革新的担当精神</opt>
+        <opt ans="f">坚持不懈的拼搏精神</opt>
+        <opt ans="f">无私奉献的奋斗精神</opt>
+        <opt ans="f">筚路蓝缕的建设精神</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>王安石《明妃曲》（其二）中写到“汉恩自浅胡恩深，人生乐在相知心”，这首诗中的“明妃”指的是（     ）。</desc>
+        <opt ans="f">西施</opt>
+        <opt ans="f">貂蝉</opt>
+        <opt ans="t">王昭君</opt>
+        <opt ans="f">杨贵妃</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>毛泽东同志的名句“万类霜天竞自由”可以用来譬喻下面哪个情境：（     ）</desc>
+        <opt ans="t">良好的创新创业环境</opt>
+        <opt ans="f">慷慨激昂的革命事业</opt>
+        <opt ans="f">艰苦卓绝的反抗战争</opt>
+        <opt ans="f">筚路蓝缕的建设时期</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“长风破浪会有时，直挂云帆济沧海”的作者是谁？（     ）</desc>
+        <opt ans="f">王勃</opt>
+        <opt ans="f">杨炯</opt>
+        <opt ans="t">李白</opt>
+        <opt ans="f">杜甫</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“语不惊人死不休”是唐代著名诗人杜甫的诗句，杜甫被后世称为（     ）</desc>
+        <opt ans="f">诗仙</opt>
+        <opt ans="t">诗圣</opt>
+        <opt ans="f">诗佛</opt>
+        <opt ans="f">诗鬼</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2019年要巩固“（     ）”成果，推动更多产能过剩行业加快出清，降低全社会各类营商成本，加大基础设施等领域补短板力度。</desc>
+        <opt ans="f">精准扶贫</opt>
+        <opt ans="f">房地产调控</opt>
+        <opt ans="t">三去一降一补</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2019年要推动城镇化发展，抓好已经在城镇就业的农业转移人口的落户工作，督促落实（     ）年（）人落户目标，提高大城市精细化管理水平。</desc>
+        <opt ans="t">2020 1亿</opt>
+        <opt ans="f">2025 1亿</opt>
+        <opt ans="f">2020 1.3亿</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>打好污染防治攻坚战，要坚守阵地、巩固成果，聚焦做好答应（     ）等工作，加大工作和投入力度，同时要统筹兼顾，避免处置措施简单粗暴。</desc>
+        <opt ans="f">脱贫攻坚战</opt>
+        <opt ans="f">防范化解重大风险攻坚战</opt>
+        <opt ans="t">蓝天保卫战</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（     ）率领团队打造了全球最大电子商务平台，创建了互联网支付和物流体系，建立全球领先移动支付网络，被称为“数字经济的创新者”。</desc>
+        <opt ans="t">马云</opt>
+        <opt ans="f">马化腾</opt>
+        <opt ans="f">刘强东</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>嫦娥四号探测器是用哪个型号的火箭发射的？（     ）</desc>
+        <opt ans="f">长征3A</opt>
+        <opt ans="t">长征3B</opt>
+        <opt ans="f">长征3C</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>嫦娥四号探测器是在我国（     ）发射基地发射成功的。</desc>
+        <opt ans="f">酒泉</opt>
+        <opt ans="t">西昌</opt>
+        <opt ans="f">太原</opt>
+        <opt ans="f">文昌</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>祖冲之是中国南北朝时期的数学家和天文学家。他在数学方面的突破主要贡献是圆周率的精确度计算到小数点后第7位，也就是在3.1415926和3.1415927之间。这一成就比欧洲早了（     ）多年。</desc>
+        <opt ans="f">300</opt>
+        <opt ans="f">600</opt>
+        <opt ans="t">1000</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>目前世界上共有4个卫星导航定位系统，我国的是（     ）导航定位系统。</desc>
+        <opt ans="f">北极星</opt>
+        <opt ans="t">北斗</opt>
+        <opt ans="f">哈勃</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国采取的“北京时间”实际上（     ）的时间。</desc>
+        <opt ans="f">东六区</opt>
+        <opt ans="f">东七区</opt>
+        <opt ans="t">东八区</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>港珠澳大桥全长55公里，是世界上最长的跨海大桥，海底隧道长（     ）公里，是世界上最长的海底公路沉管隧道。</desc>
+        <opt ans="f">4.8</opt>
+        <opt ans="t">5.6</opt>
+        <opt ans="f">8</opt>
+        <opt ans="f">6.3</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国金融服务“三农”的主力军是下列哪一类金融机构（     ）</desc>
+        <opt ans="t">农村信用合作社</opt>
+        <opt ans="f">村镇银行</opt>
+        <opt ans="f">国有商业银行</opt>
+        <opt ans="f">股份制银行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国人民银行是否可以向任何单位和个人提供担保？（     ）</desc>
+        <opt ans="t">都不可提供</opt>
+        <opt ans="f">都可提供</opt>
+        <opt ans="f">可向单位提供，不可向个人提供</opt>
+        <opt ans="f">可向个人提供，不可向单位提供</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国货币政策目标是（     ）</desc>
+        <opt ans="t">保持货币币值的稳定，并以此促进经济增长</opt>
+        <opt ans="f">充分就业</opt>
+        <opt ans="f">经济增长</opt>
+        <opt ans="f">国际收支平衡</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>股票市场上常常被提到的“IPO”的意思是（     ）。</desc>
+        <opt ans="t">首次公开发行，即公司第一次公募股票</opt>
+        <opt ans="f">公司第一次私募股票</opt>
+        <opt ans="f">已有股票的公司再次公募股票</opt>
+        <opt ans="f">已有股票的公司再次私募股票</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>银行个人住房抵押贷款额度的计算公式是（     ）</desc>
+        <opt ans="t">住房评估值×抵借比</opt>
+        <opt ans="f">住房评估值×首付比</opt>
+        <opt ans="f">住房交易值×抵借比</opt>
+        <opt ans="f">住房交易值×首付比</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国的中央银行是（     ）</desc>
+        <opt ans="f">中国银行</opt>
+        <opt ans="t">中国人民银行</opt>
+        <opt ans="f">中国工商银行</opt>
+        <opt ans="f">中国建设银行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于归纳，以下说法不正确的是(     )</desc>
+        <opt ans="f">归纳是一种从许多个别事物中概括出一般原理的推理方法</opt>
+        <opt ans="t">简单枚举法是一种完全归纳法</opt>
+        <opt ans="f">贝叶斯推理是一种基于统计学的归纳推理</opt>
+        <opt ans="f">“穆勒五法”是古典归纳逻辑的最高成就之一</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>科学家要遵守科学知识和科学建制的基本规范的原因是：（     ）</desc>
+        <opt ans="f">为确保实验不带偏见，以标准化的方式进行</opt>
+        <opt ans="f">让其他科学家可以复制这些实验</opt>
+        <opt ans="f">为不带偏见地检验，支持或反驳科学结论</opt>
+        <opt ans="t">以上全是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于我国自主研发的新成果，下列说法错误的是(    )</desc>
+        <opt ans="f">在世界上首次实现卫星与地面之间的量子通信</opt>
+        <opt ans="f">实现总装下线的“蛟龙一600”属于水陆两栖飞机</opt>
+        <opt ans="t">已成功下潜的“潜龙二号”是有缆遥控水下机器人</opt>
+        <opt ans="f">超级计算机“神威?太湖之光”的运算速度居世界第一</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2008年1月16日，国家批准实施《广西北部湾经济区发展规划》，提出把广西北部湾经济区建设成为重要国际区域经济合作区，这是全国第一个国家区域经济合作区，由（)所辖行政区域组成</desc>
+        <opt ans="t">南宁、北海、钦州、防城港、玉林、崇左&#x0D;&#x0A;&#x0D;&#x0A;</opt>
+        <opt ans="f">百色、河池、崇左</opt>
+        <opt ans="f">柳州、桂林、梧州、贵港、玉林、贺州、来宾</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列选项中，属于手足口病主要传染源的是（）</desc>
+        <opt ans="t">&#x0D;&#x0A;病人</opt>
+        <opt ans="f">空气</opt>
+        <opt ans="f">土壤</opt>
+        <opt ans="f">垃圾</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“雄关漫道真如铁，而今迈步从头越”是毛泽东主席名作《忆秦娥·娄山关》中的一句词。请问“忆秦娥”是这首词的（)</desc>
+        <opt ans="f">&#x0D;&#x0A;标题&#x0D;&#x0A;&#x0D;&#x0A;</opt>
+        <opt ans="f">小序</opt>
+        <opt ans="f">曲牌</opt>
+        <opt ans="t">词牌</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>世界现存最大、最完整的木质结构的古代皇宫建筑群是（    ）</desc>
+        <opt ans="f">卢浮宫</opt>
+        <opt ans="t">北京故宫</opt>
+        <opt ans="f">凡尔赛宫</opt>
+        <opt ans="f">曲阜孔庙</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国旅游日是（    ）</desc>
+        <opt ans="f">6月21日</opt>
+        <opt ans="t">5月19日</opt>
+        <opt ans="f">8月21日</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>毛泽东《七律?和柳亚子先生》中“牢骚太盛防肠断”的下一句诗是（    ）</desc>
+        <opt ans="f">索句渝州叶正黄</opt>
+        <opt ans="f">落花时节读华章</opt>
+        <opt ans="f">观鱼胜过富春江</opt>
+        <opt ans="t">风物长宜放眼量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>涉密人员离岗离职应（    ）</desc>
+        <opt ans="f">接受保密教育</opt>
+        <opt ans="f">接受保密监督</opt>
+        <opt ans="t">实行脱密期管理</opt>
+        <opt ans="f">经领导批准</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>重庆解放的具体时间是（    ）</desc>
+        <opt ans="f">1949年10月1日</opt>
+        <opt ans="f">1949年11月1日</opt>
+        <opt ans="t">1949年11月30日</opt>
+        <opt ans="f">1949年12月11日</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>位于广西壮族兴安县境内的灵渠，公元前214年凿成通航，是古代劳动人民创造的一项伟大工程，2018年8月13日，灵渠被入选：（    ）</desc>
+        <opt ans="f">文化与自然双重遗产</opt>
+        <opt ans="t">世界灌溉工程遗产名录</opt>
+        <opt ans="f">世界文化遗产</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>一首《春江花月夜》，被称为孤篇盖全唐之作，其作者是（    ）</desc>
+        <opt ans="t">张若虚</opt>
+        <opt ans="f">张继</opt>
+        <opt ans="f">杜甫</opt>
+        <opt ans="f">李白</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>毛泽东同志的词句“往事越千年，魏武挥鞭，东临碣石有遗篇”，“遗篇”指的是魏武帝曹操的（A ）</desc>
+        <opt ans="t">《观沧海》</opt>
+        <opt ans="f">《龟虽寿》</opt>
+        <opt ans="f">《长歌行》</opt>
+        <opt ans="f">《短歌行》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>有“中国的欧几里德”“中国数学史上的牛顿”之称的是（    ）</desc>
+        <opt ans="t">刘徽</opt>
+        <opt ans="f">祖冲之</opt>
+        <opt ans="f">秦九韶</opt>
+        <opt ans="f">杨辉</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2019年3月15日，十三届全国人大二次会议表决通过（）。</desc>
+        <opt ans="f">《中华人民共和国物权法</opt>
+        <opt ans="f">《中华人民共和国国家安全法》</opt>
+        <opt ans="t">《中华人民共和国外商投资法》</opt>
+        <opt ans="f">《中华人民共和国反分裂国家法》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以下哪个城市被称为“中国银杏之乡”（    ）</desc>
+        <opt ans="t">泰兴</opt>
+        <opt ans="f">江阴</opt>
+        <opt ans="f">溧阳</opt>
+        <opt ans="f">溧水</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新中国成立后，我国政府为保障少数民族地区发展而实行的基本政治制度是（    ）制度</desc>
+        <opt ans="t">民族区域自治</opt>
+        <opt ans="f">民族平等</opt>
+        <opt ans="f">西部开发</opt>
+        <opt ans="f">民族团结</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当遇到火灾时，应迅速向（    ）逃离。</desc>
+        <opt ans="f">着火的相反方向</opt>
+        <opt ans="f">人员多的方向</opt>
+        <opt ans="t">安全出口的方向</opt>
+        <opt ans="f">着火方向</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>最早的地理学著作——（    ）记录了我国古代地理、历史、民族、神话、生物、水利等诸多方面的内容。</desc>
+        <opt ans="f">《大荒经》</opt>
+        <opt ans="f">《禹贡地域图》</opt>
+        <opt ans="f">《水经注》</opt>
+        <opt ans="t">《山海经》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>某物质只含有一种元素，则该物质（    ）</desc>
+        <opt ans="f">肯定是纯净物</opt>
+        <opt ans="f">可能是化合物</opt>
+        <opt ans="t">可能是混合物</opt>
+        <opt ans="f">以上都不是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>按照目前物理科学研究的最新成果，构成物质的最小单位是：（    ）</desc>
+        <opt ans="t">夸克</opt>
+        <opt ans="f">质子</opt>
+        <opt ans="f">中子</opt>
+        <opt ans="f">纳米</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>要不断提高党的创造力、凝聚力、战斗力、建设学习型，（    ）创新性马克思主义执政党，使我们党始终走在时代前列，称为领导全国人民沿着中国特色社会主义道路不断前进的坚强的核心。</desc>
+        <opt ans="f">科学型</opt>
+        <opt ans="f">制度型</opt>
+        <opt ans="t">服务型</opt>
+        <opt ans="f">先进型</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>被李约瑟称为优秀地理著作的《天下郡国利病书》是明代大儒（    ）所撰。</desc>
+        <opt ans="t">顾炎武</opt>
+        <opt ans="f">黄宗羲</opt>
+        <opt ans="f">王夫之</opt>
+        <opt ans="f">曾国藩</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>驾驶机动车上道路行驶，以下选项中哪种情形会被扣留车辆？（    ）</desc>
+        <opt ans="f">逆向行驶</opt>
+        <opt ans="t">未悬挂机动车号牌</opt>
+        <opt ans="f">未按规定使用安全带</opt>
+        <opt ans="f">未安装防撞装置</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>全国开展“向雷锋同志学习”的热潮始于（    ）。</desc>
+        <opt ans="t">1963年</opt>
+        <opt ans="f">1964年</opt>
+        <opt ans="f">1965年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>长江是世界第（    ）大河，流经湖北里程达1061公里。</desc>
+        <opt ans="f">二</opt>
+        <opt ans="t">三</opt>
+        <opt ans="f">四</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>20世纪40年代末，美国科学家（    ）等提出了大爆炸宇宙模型，认为宇宙起源于160亿年前温度和密度极高的“原始火球”的一次大爆炸。</desc>
+        <opt ans="f">爱因斯坦</opt>
+        <opt ans="f">奥本海默</opt>
+        <opt ans="t">伽莫夫</opt>
+        <opt ans="f">霍金</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>有一位唐代诗人在对贺知章诵读《乌栖曲》时，被贺知章称赞道“你莫不是天上下凡的仙人吧，不然怎么能写出这么感人的诗呢？”这位被称之为“谪仙人”的诗人是（    ）</desc>
+        <opt ans="f">杜甫</opt>
+        <opt ans="f">李商隐</opt>
+        <opt ans="t">李白</opt>
+        <opt ans="f">白居易</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>岩石按其地质成因划分为火成岩、沉积岩与变质岩三大类。（    )是三大类岩石的主体，占地壳岩石体积的60%以上。</desc>
+        <opt ans="t">火成岩</opt>
+        <opt ans="f">沉积岩</opt>
+        <opt ans="f">变质岩</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>有经验的汽车师傅都会告诉徒弟，冬天洗车最好用（   ）</desc>
+        <opt ans="f">温水</opt>
+        <opt ans="f">盐水</opt>
+        <opt ans="f">玻璃水</opt>
+        <opt ans="t">冷水</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>驾驶机动车在高速公路上行驶,遇有雾、雨、雪、沙尘、冰雹等低能见度气象条件时，（    )应当从最近的出口尽快驶离高速公路。</desc>
+        <opt ans="t">能见度小于50米时</opt>
+        <opt ans="f">能见度小于100米时</opt>
+        <opt ans="f">能见度小于200米时</opt>
+        <opt ans="f">能见度小于500米时</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在车道减少的路段、路口，或者在没有交通信号灯、交通标志、交通标线或者交通警察指挥的交叉路口遇到停车排队等候或者缓慢行驶时，机动车应当（    ）</desc>
+        <opt ans="f">借道超车</opt>
+        <opt ans="f">占用对面车道</opt>
+        <opt ans="f">穿插等候的车辆</opt>
+        <opt ans="t">依次交替通行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>四川省（    ）获联合国教科文组织2016年度亚太地区文化遗产保护“杰出出项目奖”。</desc>
+        <opt ans="t">理县桃坪羌寨保护与复原</opt>
+        <opt ans="f">茶马古道?观音阁文物抢救保护</opt>
+        <opt ans="f">眉山三苏祠文物抢救保护</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业所得税税法规定，企业分为居民企业和（    ）</desc>
+        <opt ans="f">外商企业</opt>
+        <opt ans="f">外资企业</opt>
+        <opt ans="t">非居民企业</opt>
+        <opt ans="f">非内资企业</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国第一个目标飞行器和空间实验室是（    ）</desc>
+        <opt ans="f">太空一号</opt>
+        <opt ans="f">东方红一号</opt>
+        <opt ans="f">风云一号</opt>
+        <opt ans="t">天宫一号</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>一个纳税年度内，与基本医保相关的医药费用，扣除医保报销后个人负担（是指医保目录范围内的自负部分）累计超过（    ）元的部分，由纳税人在办理年度汇算清缴时，在80000元限额内据实扣除</desc>
+        <opt ans="f">5000</opt>
+        <opt ans="f">10000</opt>
+        <opt ans="t">15000</opt>
+        <opt ans="f">20000</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>大家都知道，一张纸有两个面——正面和反面。但是，如果有人说能给你看一种只有一个面的纸，你觉得这是真的吗？答：（    ）</desc>
+        <opt ans="t">是真的</opt>
+        <opt ans="f">是假的</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>除病毒外，组成生物体的基本单位是（    ）</desc>
+        <opt ans="f">原子</opt>
+        <opt ans="f">有机体</opt>
+        <opt ans="t">细胞</opt>
+        <opt ans="f">器官</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>北宋（    )发明的活字印刷术比欧洲早400年.</desc>
+        <opt ans="f">&#x0D;&#x0A;蔡伦&#x0D;&#x0A;&#x0D;&#x0A;</opt>
+        <opt ans="t">毕昇</opt>
+        <opt ans="f">沈括</opt>
+        <opt ans="f">王祯</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于人工智能，下列说法不正确的是（    )。</desc>
+        <opt ans="f">人工智能是计算机领域的一个分支</opt>
+        <opt ans="f">人工智能能够根据任务自主完成策略的选择</opt>
+        <opt ans="f">人工智能赋予了机器一定的视听感知和分辨处理能力</opt>
+        <opt ans="t">人工智能的发展不会对人类产生任何风险</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>一个研究全天气温变化的实验中，自变量和因变量各是（    ）。</desc>
+        <opt ans="f">自变量是实验员，因变量是一天中的时间</opt>
+        <opt ans="f">自变量和因变量都是一天中的时间</opt>
+        <opt ans="f">自变量是温度，因变量是一天中的时间</opt>
+        <opt ans="t">自变量是一天中的时间，因变量是温度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在中华人民共和国境内，从事食品生产活动，应当依法取得（    )。</desc>
+        <opt ans="t">&#x0D;&#x0A;食品生产许可</opt>
+        <opt ans="f">食品流通许可</opt>
+        <opt ans="f">餐饮服务许可</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国元代科学家郭守敬主要贡献在（    )方面？</desc>
+        <opt ans="f">农学</opt>
+        <opt ans="f">植物学</opt>
+        <opt ans="f">药物学</opt>
+        <opt ans="t">天文学</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2019年1月10日，一年一度的“中国社会科学院考古学论坛?2018年中国考古新发现”在北京举行，四川省（    ）入选2018年中国考古新发现6项入选项目。</desc>
+        <opt ans="t">渠县城坝遗址</opt>
+        <opt ans="f">三星堆遗址</opt>
+        <opt ans="f">金沙遗址</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>全面抗战爆发后，八路军打的第一个大胜仗是（    ）</desc>
+        <opt ans="t">平型关大捷</opt>
+        <opt ans="f">台儿庄战役</opt>
+        <opt ans="f">武汉会战</opt>
+        <opt ans="f">长沙大捷</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>现在不少地方采取错峰用电，如在某地，早上6点到晚上10点电费为每度0.6170元，晚上10点到早上6点仅为0.3070元，错峰用电的意义在于（    )。</desc>
+        <opt ans="f">仅仅只是为居民解决了电费</opt>
+        <opt ans="t">优化电力资源配置，提高电力供应整体的效率图效益</opt>
+        <opt ans="f">增加电网的峰谷负荷差</opt>
+        <opt ans="f">提倡工厂增加夜班排班量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>不属于好氧污泥对有机物完全生物降解的最终产物是（    ）</desc>
+        <opt ans="f">二氧化碳</opt>
+        <opt ans="f">水</opt>
+        <opt ans="t">亚硝酸盐</opt>
+        <opt ans="f">硝酸盐</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>科学与技术的关系是（    ）</desc>
+        <opt ans="f">相同的概念</opt>
+        <opt ans="f">不同的概念</opt>
+        <opt ans="t">不同的概念，但又存在紧密的联系</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>年11月18日下午，神舟十一号载人飞船平安着陆，创下中国航天员太空驻留时间的新纪录，在中国航天史上留下了浓重的一笔。下列中国航天史上的重要里程碑事件，按时间先后顺序排列正确的是（    ）：①“嫦娥一号”成功发射②“东方红一号”成功发射③“天宫一号”成功发射④“神舟五号载人飞船”成功发射</desc>
+        <opt ans="f">①②④③</opt>
+        <opt ans="f">②③④①</opt>
+        <opt ans="t">②④①③</opt>
+        <opt ans="f">②①④③</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>政府支持与促进科学技术事业发展的方式有（    ）。</desc>
+        <opt ans="f">建立科学技术研究资助制度</opt>
+        <opt ans="f">设立专门的科技计划项目</opt>
+        <opt ans="f">制定科技发展规划，出台科技政策</opt>
+        <opt ans="t">以上全是</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“一日不见如隔三秋”中的“三秋”是指（    ）。</desc>
+        <opt ans="f">三个月</opt>
+        <opt ans="f">三年</opt>
+        <opt ans="t">三个季度</opt>
+        <opt ans="f">三十年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>年8月1日，国务院决定从2014年起，将每年（    )设立为“扶贫日”。</desc>
+        <opt ans="f">11月17日</opt>
+        <opt ans="t">10月17日</opt>
+        <opt ans="f">10月18日</opt>
+        <opt ans="f">12月18日</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“不惑之年”指的是（    ）。</desc>
+        <opt ans="f">二十岁</opt>
+        <opt ans="f">三十岁</opt>
+        <opt ans="t">四十岁</opt>
+        <opt ans="f">五十岁</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国共产党成立后，积极发动工农群众开展革命斗争，中国共产党第一次独立领导并取得完全胜利的工人斗争是（    ）</desc>
+        <opt ans="t">安源路矿工人罢工</opt>
+        <opt ans="f">香港海员罢工</opt>
+        <opt ans="f">京汉铁路工人罢工</opt>
+        <opt ans="f">开滦五矿工人罢工</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党章总纲要求，改革开放应当大胆探索，勇于开拓，提高改革决策的科学性，更加注重改革的（    ）、整体性、协同性，在实践中开创新路。</desc>
+        <opt ans="f">高效性</opt>
+        <opt ans="t">系统性</opt>
+        <opt ans="f">和谐性</opt>
+        <opt ans="f">迫切性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>京杭大运河始建于（    ）</desc>
+        <opt ans="t">春秋</opt>
+        <opt ans="f">战国</opt>
+        <opt ans="f">秦朝</opt>
+        <opt ans="f">隋朝</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>四川省规模最大的民办博物馆是（    ）。</desc>
+        <opt ans="t">建川博物馆</opt>
+        <opt ans="f">华希昆虫博物馆</opt>
+        <opt ans="f">成都川菜博物馆</opt>
+        <opt ans="f">许燎原博物馆</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>请选择正确的词语补全诗句：“中华（    ）多奇志，不爱红装爱武装。”</desc>
+        <opt ans="f">巾帼</opt>
+        <opt ans="f">女儿</opt>
+        <opt ans="t">儿女</opt>
+        <opt ans="f">女子</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>气象灾害预警信号根据气象灾害可能造成的危害程度、紧急程度和发展态势一般划分为四级，其中特别严重的等级用（    ）色表示。</desc>
+        <opt ans="f">蓝</opt>
+        <opt ans="f">黄</opt>
+        <opt ans="f">橙</opt>
+        <opt ans="t">红</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列选项中，存在安全隐患，不利于保持消防安全通道畅通的是（    ）。</desc>
+        <opt ans="f">家中阳台、窗户安装的防盗护栏留有安全逃生门</opt>
+        <opt ans="f">定期清除楼道、楼梯间堆积的杂物</opt>
+        <opt ans="f">高层建筑设置避难层</opt>
+        <opt ans="t">将私家车停在消防车道上</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>泥石流是山区沟谷中，由暴雨、冰雪融化等发的含有大量泥沙石块的特殊洪流。在野外如果突遇泥石流来袭，正确的做法是（    ）。</desc>
+        <opt ans="t">向与泥石流方向垂直的两边山坡上爬</opt>
+        <opt ans="f">顺山沟方向往上游跑</opt>
+        <opt ans="f">顺山沟方向往下游跑</opt>
+        <opt ans="f">在凹坡处停留等待救援</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>林徽因，福建闽县（福州）人，出生于浙江杭州。中国著名建筑师、诗人和作家，人民英雄纪念碑和中华人民共和国国徽深化方案的设计者之一。她的文学代表作（    ）广为传诵。</desc>
+        <opt ans="t">《你是人间四月天》</opt>
+        <opt ans="f">《断章》</opt>
+        <opt ans="f">《致大海》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>被认为是“我国现存最早总结江南水稻地区栽培技术的一部农书”的著作是（    ）</desc>
+        <opt ans="t">&#x0D;&#x0A;《陈旉农书》</opt>
+        <opt ans="f">《农桑辑要》</opt>
+        <opt ans="f">《王祯农书》</opt>
+        <opt ans="f">《农政全书》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中科大潘建伟教授团队，与合作者利用“（    ）”量子科学卫星，首次实现距离7600公里的洲际量子密钥分发，实现加密数据传输和视频通信。</desc>
+        <opt ans="f">悟空号</opt>
+        <opt ans="t">墨子号</opt>
+        <opt ans="f">天宫二号</opt>
+        <opt ans="f">神舟十一号</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>唐代尚马之风流行，壁画中的骏马多带有各种装饰，既好看又有实际功能。其中位于马鞍下部，用于障蔽尘土的部分被我们称之为（    ）。</desc>
+        <opt ans="t">障泥</opt>
+        <opt ans="f">鞍鞯</opt>
+        <opt ans="f">辟土</opt>
+        <opt ans="f">净尘</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（    ）市位于福建省中西北部，中国绿都，也是国务院批准建立的全国集体林区改革试验区，有单位面积产量居世界之冠的“宁化古杉木王群”。</desc>
+        <opt ans="f">宁德</opt>
+        <opt ans="t">三明</opt>
+        <opt ans="f">泉州</opt>
+        <opt ans="f">漳州</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2014年2月17日，习近平总书记在省部级主要领导干部学习贯彻十八届三中全会精神全面深化改革专题研讨班开班式上发表重要讲话强调，党的十八届三中全会提出的全面深化改革的总目标，就是完善和发展中国特色社会主义制度、推进国家（    ）和（    ）现代化。这是坚持和发展中国特色社会主义的必然要求，也是实现社会主义现代化的应有之义。</desc>
+        <opt ans="f">管理体系 管理能力</opt>
+        <opt ans="f">法治体系 法治能力</opt>
+        <opt ans="f">制度体系 执行能力</opt>
+        <opt ans="t">治理体系 治理能力</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列不属于八大菜系的是（    ）。</desc>
+        <opt ans="f">山东菜系</opt>
+        <opt ans="f">四川菜系</opt>
+        <opt ans="t">赣菜系</opt>
+        <opt ans="f">湘菜系</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>杜牧的诗作“二十四桥明月夜，玉人何处教吹箫”，其中二十四桥是扬州著名景点（    ）中的一个地标景观。</desc>
+        <opt ans="f">大明寺</opt>
+        <opt ans="t">瘦西湖</opt>
+        <opt ans="f">个园</opt>
+        <opt ans="f">和园</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“尽道隋亡为此河，至今千里赖通波”中的“此河”是指（    ）</desc>
+        <opt ans="f">黄河</opt>
+        <opt ans="t">大运河</opt>
+        <opt ans="f">淮河</opt>
+        <opt ans="f">长江</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>正式党员不足3人的单位，应当按照地域相邻，行业相近，规模适当，便于管理的原则，成立（    ）。</desc>
+        <opt ans="t">联合党支部</opt>
+        <opt ans="f">流动党员党支部</opt>
+        <opt ans="f">临时党支部</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>村、社区党支部委员会每届任期5年，其他基层单位党支部委员会一般每届任期（    ）。</desc>
+        <opt ans="f">1</opt>
+        <opt ans="f">2</opt>
+        <opt ans="t">3</opt>
+        <opt ans="f">4</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>手足口病最主要的易感人群是（    ）。</desc>
+        <opt ans="t">婴幼儿</opt>
+        <opt ans="f">青少年</opt>
+        <opt ans="f">青壮年</opt>
+        <opt ans="f">老年人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（    ）是中国四大名面之一，也是武汉人过早（武汉人将吃早餐叫做“过早”）的首选小吃。</desc>
+        <opt ans="f">豆腐面</opt>
+        <opt ans="t">热干面</opt>
+        <opt ans="f">凉面</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国现存最早的药物学著作是？（    ）</desc>
+        <opt ans="f">《伤寒杂病论》</opt>
+        <opt ans="t">《神农本草经》</opt>
+        <opt ans="f">《本草纲目》</opt>
+        <opt ans="f">《黄帝内经》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据2019年国家林业和草原局公布的第九次全国森林资源清查结果显示，（    ）森林覆盖率为66.80%，已连续40年位列全国第一。</desc>
+        <opt ans="t">&#x0D;&#x0A;福建</opt>
+        <opt ans="f">贵州</opt>
+        <opt ans="f">江西</opt>
+        <opt ans="f">海南</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记指出，（    ）是党最根本、最重要的纪律，遵守政治纪律和政治规矩是遵守党的全部纪律的基础。</desc>
+        <opt ans="t">政治纪律和政治规矩</opt>
+        <opt ans="f">组织纪律和组织规矩</opt>
+        <opt ans="f">工作纪律和工作规矩</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列词语均与中国古代科举考试有关的是（    ）。</desc>
+        <opt ans="f">蟾宫折桂、桂冠、连中三元</opt>
+        <opt ans="f">问鼎中原、独占鳌头、蟾宫折桂</opt>
+        <opt ans="t">连中三元、五子登科、名落孙山</opt>
+        <opt ans="f">金榜题名、桂冠、独占鳌头</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国的根本制度是（    ）</desc>
+        <opt ans="t">人民代表大会制度</opt>
+        <opt ans="f">社会主义制度</opt>
+        <opt ans="f">民主集中制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《四元玉鉴》是中国数学著作中最重要的，同时也是中世纪最杰出的数学著作之一，是（    ）代朱世杰的著作。</desc>
+        <opt ans="t">元</opt>
+        <opt ans="f">明</opt>
+        <opt ans="f">清</opt>
+        <opt ans="f">宋</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>提出“天下兴亡，匹夫有责”的思想家是（    ）</desc>
+        <opt ans="f">王夫之</opt>
+        <opt ans="f">黄宗羲</opt>
+        <opt ans="t">顾炎武</opt>
+        <opt ans="f">龚自珍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>俗语“一问三不知”出自于《左转》，其中的“三不知”具体是指（    ）</desc>
+        <opt ans="f">天文、地理、文学</opt>
+        <opt ans="f">孔子、孟子、老子</opt>
+        <opt ans="t">事情的开始、发展、结果</opt>
+        <opt ans="f">自己的姓名、籍贯、生辰</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国传统四大节日中，端午是中国首个被列入世界非物质文化遗产的节日。下列诗句中描写端午节的是（    ）</desc>
+        <opt ans="t">彩线轻缠红玉臂，小符斜挂绿云鬟</opt>
+        <opt ans="f">借问酒家何处有，牧童遥指杏花村</opt>
+        <opt ans="f">暮云收尽溢清寒，银汉无声转玉盘</opt>
+        <opt ans="f">白头太守真愚甚，满插茱萸望辟邪</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>主持建设我国首条铁路－－京张铁路的工程师是（    ）</desc>
+        <opt ans="f">康有为</opt>
+        <opt ans="f">王梦恕</opt>
+        <opt ans="t">詹天佑</opt>
+        <opt ans="f">梁思成</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《沂蒙山小调》诞生于（    ），作为一首民歌，它凝聚了抗战时期军民的斗争信念，又汇聚了沂蒙人民对美好生活的向往，深植于齐鲁，历经70余年久唱不衰。</desc>
+        <opt ans="f">临沂市蒙阴县</opt>
+        <opt ans="t">临沂市费县</opt>
+        <opt ans="f">临沂市兰陵县</opt>
+        <opt ans="f">临沂市平邑县</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2019年《政府工作报告》指出，过去一年，国内生产总值增长6.6%，总量突破（    ）亿元。</desc>
+        <opt ans="f">80.8万</opt>
+        <opt ans="f">82.7万</opt>
+        <opt ans="t">90万</opt>
+        <opt ans="f">92.7万</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国劳动法》实施于（    ）</desc>
+        <opt ans="f">1994年1月1日</opt>
+        <opt ans="f">1994年7月5日</opt>
+        <opt ans="t">1995年1月1日</opt>
+        <opt ans="f">1995年7月5日</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2019年3月11日，2018中国田径协会马拉松新闻发布会在厦门召开，揭晓2018年度中国田协认证金牌、银牌、铜牌赛事评选最终结果。2018中国－东盟国际马拉松荣获（    ）</desc>
+        <opt ans="f">&#x0D;&#x0A;2018中国田径协会马拉松银牌赛事</opt>
+        <opt ans="f">2018中国田径协会马拉松铜牌赛事</opt>
+        <opt ans="t">2018中国田径协会马拉松银牌赛事和最美赛道特色赛事称号</opt>
+        <opt ans="f">2018中国田径协会马拉松铜牌赛事和最美</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国红十字会发起人沈敦和先生先后创办了数家医院，其中有一家创建于1907年的“中国红十字会总医院暨医学堂”即现在的（    ）</desc>
+        <opt ans="f">北京大学人民医院</opt>
+        <opt ans="t">复旦大学附属华山医院</opt>
+        <opt ans="f">中南大学湘雅医院</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>牡丹在我国被誉为“国花”、“国色天香”、和“花中之王”，在世界上负有盛名，著名描绘牡丹的诗句“唯有牡丹真国色，花开时节动京城”，是诗人（    ）所作。</desc>
+        <opt ans="f">李白</opt>
+        <opt ans="t">刘禹锡</opt>
+        <opt ans="f">韩愈</opt>
+        <opt ans="f">杜甫</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“杨柳青青江水平，闻郎江上唱歌声。东边日出西边雨，道是无晴却有晴。”是唐代诗人刘禹锡在（    ）所作。</desc>
+        <opt ans="f">忠州</opt>
+        <opt ans="t">夔州</opt>
+        <opt ans="f">巫山</opt>
+        <opt ans="f">合州</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>江南贡院是中国历史上规模最大、影响最广的科举考场，中国南方地区开科取士之地，该贡院位于（    ）。</desc>
+        <opt ans="f">&#x0D;&#x0A;苏州&#x0D;&#x0A;&#x0D;&#x0A;</opt>
+        <opt ans="t">南京</opt>
+        <opt ans="f">扬州</opt>
+        <opt ans="f">杭州</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（    ）是深化行政体制改革的核心，实质上是解决的是政府应该做什么，不应该做什么，重点是政府、市场、社会的关系。</desc>
+        <opt ans="f">精简机构</opt>
+        <opt ans="t">转变政府职能</opt>
+        <opt ans="f">提高行政效率</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>苏州的古建筑除了粉墙黛瓦、飞檐翘角，还有保存相对完好的纯居住民国建筑群（    ），电视剧《都挺好》取景于此。</desc>
+        <opt ans="t">同德里</opt>
+        <opt ans="f">同福里</opt>
+        <opt ans="f">同运里</opt>
+        <opt ans="f">同善里</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（    ）是北宋时期一位以博学著称的科学家，在天文历法、数学、物理学、地学、医药学方面均有建树，著有《梦溪笔谈》，以至于被科学史家李约瑟称为是中国整部科学史中最卓越的人物。</desc>
+        <opt ans="f">张衡</opt>
+        <opt ans="f">宋应星</opt>
+        <opt ans="t">沈括</opt>
+        <opt ans="f">郭守敬</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>柴达木盆地是我国的四大盆地之一，它位于我国的（    ）高原。</desc>
+        <opt ans="f">云贵高原</opt>
+        <opt ans="t">青藏高原</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“中国”一词最早的文字记载见于哪件青铜器？（    ）</desc>
+        <opt ans="f">司母戊鼎</opt>
+        <opt ans="f">四羊方尊</opt>
+        <opt ans="t">何尊</opt>
+        <opt ans="f">长信宫灯</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>唐代壁画《客使图》中三位唐代官员是来自（    ）的官员。</desc>
+        <opt ans="f">礼宾院</opt>
+        <opt ans="f">典客署</opt>
+        <opt ans="f">文思院</opt>
+        <opt ans="t">鸿胪寺</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>传入西欧的四大发明，对欧洲思想解放起到直接促进作用的是（    ）。</desc>
+        <opt ans="t">造纸术</opt>
+        <opt ans="f">印刷术</opt>
+        <opt ans="f">火药</opt>
+        <opt ans="f">指南针</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“全国地方戏曲剧种普查”结果显示，全国现有戏曲剧种348个，其中有“百戏之祖”之称的剧种是（    ）。</desc>
+        <opt ans="f">&#x0D;&#x0A;越剧&#x0D;&#x0A;&#x0D;&#x0A;</opt>
+        <opt ans="f">京剧</opt>
+        <opt ans="t">昆曲</opt>
+        <opt ans="f">黄梅戏</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记曾引用过郑板桥的诗句，“衙斋卧听萧萧竹，疑是民间疾苦声。些小吾曹州县吏，（    ）”。反映总书记了对人民的关切。</desc>
+        <opt ans="f">最是橙黄橘绿时</opt>
+        <opt ans="f">任尔东西南北风</opt>
+        <opt ans="f">要留清白在人间</opt>
+        <opt ans="t">一枝一叶总关情</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>北宋初期是我国书院教育的高潮期，出现了著名的（    ）书院、白鹿洞书院、崇阳书院、应天书院，合称为“宋初四大书院”</desc>
+        <opt ans="f">丽泽</opt>
+        <opt ans="t">岳麓</opt>
+        <opt ans="f">石鼓</opt>
+        <opt ans="f">茅山</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>涉密信息系统应当按照国家保密标准配备保密设施、设备。保密设施、设备应当与涉密信息系统（    ）。</desc>
+        <opt ans="f">同步投资，同步规划，同步建设</opt>
+        <opt ans="t">同步规划，同步建设，同步运行</opt>
+        <opt ans="f">同步立项，同步建设，同步运行</opt>
+        <opt ans="f">同步规划，同步立项，同步建设</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列哪个血压值属于高血压（    ）。</desc>
+        <opt ans="f">120/80mmHg</opt>
+        <opt ans="f">130/80mmHg</opt>
+        <opt ans="t">145/90mmHg</opt>
+        <opt ans="f">85/60mmHg</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国岛屿绝大部分分布在（    ）以南的海域。</desc>
+        <opt ans="f">黄河口</opt>
+        <opt ans="f">淮河口</opt>
+        <opt ans="t">长江口</opt>
+        <opt ans="f">珠江口</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>所谓“隐形飞机”是指（    ）的飞机。</desc>
+        <opt ans="f">眼睛看不见</opt>
+        <opt ans="f">飞行太高看不见</opt>
+        <opt ans="f">透明</opt>
+        <opt ans="t">雷达测不到</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“春风又绿江南岸，明月何时照我还？”出自王安石的诗作《泊船瓜洲》，其中瓜洲隶属于今天（    ）？</desc>
+        <opt ans="t">扬州</opt>
+        <opt ans="f">南京</opt>
+        <opt ans="f">镇江</opt>
+        <opt ans="f">常州</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>发生地震时，最先感到的地震波叫（    ）。</desc>
+        <opt ans="f">横波</opt>
+        <opt ans="t">纵波</opt>
+        <opt ans="f">面波</opt>
+        <opt ans="f">体波</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>年7月至2013年8月，成都文物考古研究所发掘了（    ），其中发现了920支医学竹简，部分医书极有可能是失传了的中医扁鹊学派经典书籍。</desc>
+        <opt ans="f">三星堆遗址</opt>
+        <opt ans="f">金沙遗址</opt>
+        <opt ans="f">十二桥遗址</opt>
+        <opt ans="t">老官山汉墓</opt>
+    </qstn>
     <qstn type="m-choise" cust="0">
         <desc>中央指出，要构建（       ）、（）、（）的银行体系，端正发展理念，坚持以市场需求为导向，积极开发个性化、差异化、定制化金融产品。</desc>
         <opt ans="t">多层次</opt>
@@ -10,52 +1362,16 @@
         <opt ans="f">个性化</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
-        <desc>把生态文明建设纳入中国特色社会主义事业总体布局的是（     ）</desc>
-        <opt ans="t">党的十八大</opt>
-        <opt ans="f">党的十八届三中全会</opt>
-        <opt ans="f">党的十九大</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>2016年7月1日，在庆祝中国共产党成立95周年大会上的讲话中，指出，（     ）是党执政兴国的第一要务，是解决中国所有问题的关键。</desc>
-        <opt ans="f">改革</opt>
-        <opt ans="t">发展</opt>
-        <opt ans="f">稳定</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
         <desc>构成中国特色社会主义法治道路的核心要义，并规定和确保着中国特色社会主义法治体系的制度属性和前进方向的是（       ）</desc>
         <opt ans="t">党的领导</opt>
         <opt ans="t">中国特色社会主义制度</opt>
         <opt ans="t">中国特色社会主义法治理论</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
-        <desc>人类可以利用自然，改造自然，但归根到底（     ），必须呵护自然，不能凌驾于自然之上。</desc>
-        <opt ans="t">是自然的一部分</opt>
-        <opt ans="f">是自然的主人</opt>
-        <opt ans="f">是无条件听从自然</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>（     ）是深化行政体制改革的核心，实质上要解决的是政府应该做什么、不应该做什么，重点是政府、市场、社会的关系。</desc>
-        <opt ans="f">精简机构</opt>
-        <opt ans="t">转变政府职能</opt>
-        <opt ans="f">提高行政效率</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
         <desc>在十九届三中全会上作的《关于深化党和国家机构改革决定稿和方案稿的说明》中，指出这次深化机构改革是一场（       ）的变革。</desc>
         <opt ans="t">系统性</opt>
         <opt ans="t">整体性</opt>
         <opt ans="t">重构性</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>世界节能和利用新能源、可再生能源第一大国是（     ）</desc>
-        <opt ans="t">中国</opt>
-        <opt ans="f">美国</opt>
-        <opt ans="f">日本</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>在十九大报告中，要求全党牢牢坚持（     ）这个党和国家的生命线、人民的幸福线。</desc>
-        <opt ans="f">群众路线</opt>
-        <opt ans="f">四项基本原则</opt>
-        <opt ans="t">党的基本路线</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
         <desc>党的十八届三中全会提出，全面深化改革的总目标是（      ）</desc>
@@ -70,28 +1386,10 @@
         <opt ans="t">生态良好</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
-        <desc>2014年9月5日，在庆祝全国人民代表大会成立（     ）周年大会上的讲话指出，实践充分证明，人民代表大会制度是符合中国国情和实际、体现社会主义国家性质、保证人民当家作主、保障实现中华民主伟大复兴的好制度。</desc>
-        <opt ans="f">55</opt>
-        <opt ans="t">60</opt>
-        <opt ans="f">65</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
         <desc>以下属于十九届三中全会之后新组建的国务院机构的是（       ）</desc>
         <opt ans="t">自然资源部</opt>
         <opt ans="t">生态环境部</opt>
         <opt ans="t">文化和旅游部</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“我们不要过分陶醉于我们人类对自然界的胜利。对于每一次这样的胜利，自然界都对我们进行报复。”这个论断的提出者是（     ）</desc>
-        <opt ans="f">马克思</opt>
-        <opt ans="t">恩格斯</opt>
-        <opt ans="f">列宁</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>（     ）是坚持党的领导、人民当家作主、依法治国有机统一的根本制度安排。</desc>
-        <opt ans="t">人民代表大会制度</opt>
-        <opt ans="f">中国共产党领导的多党合作和政治协商制度</opt>
-        <opt ans="f">基层群众自治制度</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
         <desc>以下属于十九届三中全会之后新组建的国务院机构的是（      ）</desc>
@@ -100,34 +1398,10 @@
         <opt ans="t">应急管理部</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
-        <desc>5000年的中华文明孕育着丰富的生态智慧。“子钓而不纲，弋不射宿”的提出者是（     ）</desc>
-        <opt ans="t">孔子</opt>
-        <opt ans="f">荀子</opt>
-        <opt ans="f">墨子</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>在五大新发展理念中，最能体现坚持以人民为中心的发展思想的是（     ）。</desc>
-        <opt ans="f">创新理念</opt>
-        <opt ans="f">开放理念</opt>
-        <opt ans="t">共享理念</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
         <desc>以下属于十九届三中全会之后新组建的国务院机构的是（      ）。</desc>
         <opt ans="t">退役军人事务部</opt>
         <opt ans="f">中央全面依法治国委员会</opt>
         <opt ans="t">文化和旅游部</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>中国是负责任的发展中大国，是全球气候治理的积极参与者，已经向世界承诺将于（     ）左右将二氧化碳排放达到峰值，并争取早日实现。</desc>
-        <opt ans="f">2020年</opt>
-        <opt ans="t">2030年</opt>
-        <opt ans="f">2035年</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>在福建宁德工作期间，曾指出能否有效地制止腐败现象关系到党的生死存亡和社会主义事业的成败，这就需要建立各种有效的监督机制，其中（     ）的监督是最经常、公开、广泛的一种监督方式。</desc>
-        <opt ans="f">人大</opt>
-        <opt ans="f">党内</opt>
-        <opt ans="t">新闻媒介</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
         <desc>以下属于十九届三中全会之后新组建的国务院机构的有（       ）</desc>
@@ -142,29 +1416,11 @@
         <opt ans="t">保护自然</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
-        <desc>（     ）是社会主义民主政治的本质特征。</desc>
-        <opt ans="f">党的领导</opt>
-        <opt ans="t">人民当家作主</opt>
-        <opt ans="f">依法治国</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
         <desc>2013年8月19日，在全国宣传思想工作会议上强调，要坚持党管媒体原则不动摇，坚持政治家（        ）。</desc>
         <opt ans="t">办报</opt>
         <opt ans="t">办刊</opt>
         <opt ans="t">办台</opt>
         <opt ans="t">办新闻网站</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>经济体制改革是全面深化改革的重点，其核心问题是（     ）</desc>
-        <opt ans="t">处理好政府和市场关系</opt>
-        <opt ans="f">处理好竞争和垄断的关系</opt>
-        <opt ans="f">处理好积累与消费的关系</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>党的十八届五中全会把扶贫攻坚改成了脱贫攻坚，明确到（     ）年我国现行标准下农村贫困人口实现脱贫，贫困县全部摘帽，解决区域性整体贫困。</desc>
-        <opt ans="t">2020年</opt>
-        <opt ans="f">2030年</opt>
-        <opt ans="f">2035年</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
         <desc>曾撰文指出，要善于在实际工作中去深入认识、发掘社会主义和市场经济两个方面的优势。能够集中财力办大事是社会主义制度的经济优势。以下属于社会主义制度政治优势的是（       ）。</desc>
@@ -179,37 +1435,10 @@
         <opt ans="f">不愁住</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
-        <desc>陆游的名句“纸上得来终觉浅，绝知此事要躬行”可以用来譬喻下面哪个情境:（     ）</desc>
-        <opt ans="f">脚踏实地，踏踏实实地工作</opt>
-        <opt ans="f">言出必行，承诺的就要实现</opt>
-        <opt ans="f">团结协作，注重团队的力量</opt>
-        <opt ans="t">知行合一，将知识化为实践</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“大贤秉高鉴，公烛无私光”歌颂的是什么精神？（     ）</desc>
-        <opt ans="t">心底无私、天下为公</opt>
-        <opt ans="f">砥砺奋进、铿锵前行</opt>
-        <opt ans="f">团结协作、共同发展</opt>
-        <opt ans="f">精诚所至、金石为开</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
         <desc>推进农业转移人口市民化，要坚持的原则是（       ）。</desc>
         <opt ans="t">自愿</opt>
         <opt ans="t">分类</opt>
         <opt ans="t">有序</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>戚继光的诗句“繁霜尽是心头血，洒向千峰秋叶丹”可以用来譬喻下面哪个情境：（     ）</desc>
-        <opt ans="f">知难而上的奋斗勇气</opt>
-        <opt ans="f">艰苦奋斗的创业精神</opt>
-        <opt ans="f">诚实守信的可贵品质</opt>
-        <opt ans="t">深厚的爱国主义情怀</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“亦余心之所善兮，虽九死其犹未悔。”出自：（     ）</desc>
-        <opt ans="t">离骚</opt>
-        <opt ans="f">楚辞</opt>
-        <opt ans="f">九歌</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
         <desc>治理和管理一字之差，体现的是（       ）、综合施策。</desc>
@@ -218,78 +1447,10 @@
         <opt ans="t">源头治理</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
-        <desc>“不畏浮云遮望眼”出自哪位诗人？（     ）</desc>
-        <opt ans="f">苏轼</opt>
-        <opt ans="f">辛弃疾</opt>
-        <opt ans="t">王安石</opt>
-        <opt ans="f">杜牧</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>朱德同志《赠诸友》诗写到“志士恨无穷，孤身走西东。投笔（     ）去，刷新旧国风”。</desc>
-        <opt ans="f">报国</opt>
-        <opt ans="f">从军</opt>
-        <opt ans="t">从戎</opt>
-        <opt ans="f">杀敌</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>决定成立国家安全委员会的是（     ）</desc>
-        <opt ans="t">党的十八届三中全会</opt>
-        <opt ans="f">党的十八届三中全会</opt>
-        <opt ans="f">党的十八届三中全会</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“不拘一格降人才”是诗人（     ）的诗句。</desc>
-        <opt ans="f">张九龄</opt>
-        <opt ans="f">陆游</opt>
-        <opt ans="f">林则徐</opt>
-        <opt ans="t">龚自珍</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>毛泽东同志的诗“敢叫日月换新天”的上一句是（     ）。</desc>
-        <opt ans="f">别梦依稀咒逝川</opt>
-        <opt ans="f">红旗卷起农奴戟</opt>
-        <opt ans="t">为有牺牲多壮志</opt>
-        <opt ans="f">喜看稻菽千重浪</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
         <desc>“一带一路”建设秉持的原则是（       ）</desc>
         <opt ans="t">共赏</opt>
         <opt ans="t">共建</opt>
         <opt ans="t">共享</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>刘禹锡诗“千淘万漉虽辛苦”的下一句是（     ）</desc>
-        <opt ans="f">莫言迁客似沙沉</opt>
-        <opt ans="t">吹尽狂沙始到金</opt>
-        <opt ans="f">黄沙百战穿金甲</opt>
-        <opt ans="f">一片孤城万仞山</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“落其实者思其（     ），饮其流者怀其源”，请补充诗句。</desc>
-        <opt ans="f">叶</opt>
-        <opt ans="f">根</opt>
-        <opt ans="f">源</opt>
-        <opt ans="t">树</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>治贫先治愚，扶贫先扶志。（     ）是阻断贫困待际传递的治本之策。</desc>
-        <opt ans="t">教育</opt>
-        <opt ans="f">就业</opt>
-        <opt ans="f">搬迁</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“语不惊人死不休”属于（     ）体裁。</desc>
-        <opt ans="f">词</opt>
-        <opt ans="f">绝句</opt>
-        <opt ans="t">律诗</opt>
-        <opt ans="f">散文</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>以下哪一句诗诗由王勃所作？（     ）</desc>
-        <opt ans="f">海上生明月，天涯共此时</opt>
-        <opt ans="t">海内存知己，天涯若比邻</opt>
-        <opt ans="f">红豆生南国，春来发几枝</opt>
-        <opt ans="f">君自故乡来，应知故乡事</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
         <desc>新时代推进生态文明建设，必须坚持人与自然和谐共生，坚持（       ）、（）、（）的方针。</desc>
@@ -308,319 +1469,6 @@
         <opt ans="t">市场</opt>
         <opt ans="t">企业</opt>
         <opt ans="t">市民</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“飞来山上千寻塔，闻说鸡鸣见日升。（     ）自缘身在最高层”，选自以下诗句补齐诗歌。</desc>
-        <opt ans="f">不识庐山真面目</opt>
-        <opt ans="t">不畏浮云遮望眼</opt>
-        <opt ans="f">不畏浮云蔽百日</opt>
-        <opt ans="f">葳蕤青山遮望眼</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“我家洗砚池头树，朵朵花开淡墨痕。不要人夸好颜色，只留清气满乾坤。”写的植物是（     ）</desc>
-        <opt ans="f">梨花</opt>
-        <opt ans="f">菊花</opt>
-        <opt ans="t">梅花</opt>
-        <opt ans="f">玉兰</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>无论社会发展到什么程度，我们都要毫不动摇把（     ）写在医疗卫生事业的旗帜上，不能走全盘市场化、商业化的路子。</desc>
-        <opt ans="t">公益性</opt>
-        <opt ans="f">盈利性</opt>
-        <opt ans="f">服务性</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>与诗句“水屯三楚白，山接九疑青”所描绘的景致不同的一联诗是（     ）。</desc>
-        <opt ans="f">气蒸云梦泽，波撼岳阳城</opt>
-        <opt ans="t">造化钟神秀，阴阳割昏晓</opt>
-        <opt ans="f">吴楚东南坼，乾坤日夜浮</opt>
-        <opt ans="f">雁引愁心去，山衔好月来</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>依据党的十九大报告，生态环境质量实现根本好转，美丽中国目标基本实现的时间节点是（     ）</desc>
-        <opt ans="f">2020年</opt>
-        <opt ans="t">2035年</opt>
-        <opt ans="f">2050年</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>在统揽伟大斗争、伟大工程、伟大事业、伟大梦想中，起决定性作用的是新时代（     ）</desc>
-        <opt ans="f">中国特色社会主义伟大事业</opt>
-        <opt ans="t">党的建设新的伟大工程</opt>
-        <opt ans="f">中国民族复兴的伟大梦想</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>共享发展理念的内涵之一是全民共享，这是就共享的（     ）而言的。</desc>
-        <opt ans="t">覆盖面</opt>
-        <opt ans="f">内容</opt>
-        <opt ans="f">实现途径</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>毛泽东同志的词中“到中流击水，浪遏飞舟”是在哪一条江河？（     ）</desc>
-        <opt ans="f">黄河</opt>
-        <opt ans="t">湘江</opt>
-        <opt ans="f">长江</opt>
-        <opt ans="f">赣江</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>在十八届中央政治局第九次集体学习时的讲话中，习近平总书记指出（     ）是第一资源。也是创新活动中最为活跃、最为积极的因素。</desc>
-        <opt ans="f">自然资源</opt>
-        <opt ans="f">文化资源</opt>
-        <opt ans="t">人才资源</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“桃花仙人种桃树，又摘桃花换酒钱。”“桃花仙人”指的是（     ）。</desc>
-        <opt ans="f">陶渊明</opt>
-        <opt ans="f">刘禹锡</opt>
-        <opt ans="t">唐寅</opt>
-        <opt ans="f">李白</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>理论和实践都证明，（     ）配置资源是最有效率的形式。</desc>
-        <opt ans="f">政府</opt>
-        <opt ans="t">市场</opt>
-        <opt ans="f">计划</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“人生若只如初见”的下一句是（     ）</desc>
-        <opt ans="t">何事秋风悲画扇</opt>
-        <opt ans="f">相见争如不见</opt>
-        <opt ans="f">两重心字罗衣</opt>
-        <opt ans="f">斜阳却照深深院</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“（     ）风来满眼春，花城柳岸愁杀人”，请选择正确的词补全诗句。</desc>
-        <opt ans="t">东方</opt>
-        <opt ans="f">西方</opt>
-        <opt ans="f">南方</opt>
-        <opt ans="f">北方</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“五峰如指翠相连，撑起炎荒半壁天”出自明代丘浚的《题五指山》，以下小说（     ）中有与“五指山”相关的情节。</desc>
-        <opt ans="f">《三国演义》</opt>
-        <opt ans="t">《西游记》</opt>
-        <opt ans="f">《水浒传》</opt>
-        <opt ans="f">《红楼梦》</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“路漫漫其修远兮，吾将上下而求索”出自（     ），作者（）。</desc>
-        <opt ans="f">《天问》；屈原</opt>
-        <opt ans="f">《天问》；宋玉</opt>
-        <opt ans="t">《离骚》；屈原</opt>
-        <opt ans="f">《离骚》；宋玉</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>夏明翰的《就义诗》中写道“砍头不要紧，只要主义真”，表达的精神是（     ）</desc>
-        <opt ans="f">积极向上的乐观</opt>
-        <opt ans="f">筚路蓝缕的建设</opt>
-        <opt ans="t">视死如归的坚贞</opt>
-        <opt ans="f">脚踏实地的奋斗</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“相知无远近，万里尚为邻”是唐朝张九龄的诗作，这首诗的题材是（     ）。</desc>
-        <opt ans="f">咏史诗</opt>
-        <opt ans="t">送别诗</opt>
-        <opt ans="f">咏怀诗</opt>
-        <opt ans="f">闺怨诗</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“春蚕到死丝方尽，蜡炬成灰泪始干”的作者是（     ）代的（）。</desc>
-        <opt ans="f">唐；杜牧</opt>
-        <opt ans="f">宋；杜牧</opt>
-        <opt ans="t">唐；李商隐</opt>
-        <opt ans="f">宋；李商隐</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“不似天涯，卷起杨花似雪花”出自苏轼的《减字木兰花·立春》。作者苏轼是（     ）朝代的诗人。</desc>
-        <opt ans="f">唐</opt>
-        <opt ans="t">宋</opt>
-        <opt ans="f">元</opt>
-        <opt ans="f">明</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>离别是中国古典诗词中常用的主题，以下诗词（     ）并无离别之意。</desc>
-        <opt ans="f">海内存知己，天涯若比邻</opt>
-        <opt ans="t">返景入深林，复照青苔上</opt>
-        <opt ans="f">莫愁前路无知己，天下谁人不识君</opt>
-        <opt ans="f">燕燕于飞，差池其羽。之子于归，远送于野</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>王安石的名句“不畏浮云遮望眼”的下一句是（     ）。</desc>
-        <opt ans="f">两山排闼送青来</opt>
-        <opt ans="f">尚疑身属半山园</opt>
-        <opt ans="f">闻说鸡鸣见日升</opt>
-        <opt ans="t">自缘身在最高层</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“万类霜天竞自由”是毛泽东同志的名句，其体裁是（     ）。</desc>
-        <opt ans="f">七律</opt>
-        <opt ans="f">古风</opt>
-        <opt ans="t">词</opt>
-        <opt ans="f">乐府</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>风雨送春归，飞雪迎春到。（     ），犹有花枝俏。</desc>
-        <opt ans="t">已是悬崖百丈冰</opt>
-        <opt ans="f">已是黄昏独自愁</opt>
-        <opt ans="f">瀚海阑干百丈冰</opt>
-        <opt ans="f">六出冰花滚似锦</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“儿童散学归来早，忙趁东风放纸鸢”描写的是什么时候的情景？（     ）</desc>
-        <opt ans="t">初春</opt>
-        <opt ans="f">晚春</opt>
-        <opt ans="f">初夏</opt>
-        <opt ans="f">晚秋</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“牧童骑黄牛，歌声振林樾。意欲捕鸣蝉，忽然闭口立”是星灵派名家（     ）的诗。</desc>
-        <opt ans="f">袁宏道</opt>
-        <opt ans="f">杨万里</opt>
-        <opt ans="f">朱彝尊</opt>
-        <opt ans="t">袁枚</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“山近月远觉月小，便道此山大于月。若有人眼大如天，当见山高月更阔。”这是明代思想家王守仁的《蔽月山房》，与此中哲理最接近的是（     ）。</desc>
-        <opt ans="t">不识庐山真面目，只缘身在此山中</opt>
-        <opt ans="f">若言声在指头上，何不于君指上听?</opt>
-        <opt ans="f">问渠那得清如许，为有源头活水来</opt>
-        <opt ans="f">纸上得来终觉浅，绝知此事要躬行</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>在一次讲话中引用了明代官员陈诚的诗句“绿野草铺茵，空山雪积银。四时常觉冷，六月不知春”，写的是（     ）的景色。</desc>
-        <opt ans="f">北欧</opt>
-        <opt ans="f">北极</opt>
-        <opt ans="t">中亚</opt>
-        <opt ans="f">西伯利亚</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>词句“青山依旧在，几度夕阳红”的作者是（     ）。</desc>
-        <opt ans="f">施耐庵</opt>
-        <opt ans="f">罗贯中</opt>
-        <opt ans="t">杨慎</opt>
-        <opt ans="f">杨基</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“宜将剩勇追穷寇，不可沽名学霸王”的“霸王”是指（     ）。</desc>
-        <opt ans="f">勾践</opt>
-        <opt ans="f">秦始皇</opt>
-        <opt ans="f">刘邦</opt>
-        <opt ans="t">项羽</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“咬定青山不放松，立根原在破岩中。千磨万击还坚劲，任尔东西南北风”写的植物是（     ）。</desc>
-        <opt ans="f">松树</opt>
-        <opt ans="f">野草</opt>
-        <opt ans="t">竹子</opt>
-        <opt ans="f">柏树</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“山郡逢春复乍晴，陂塘分出几泉清？郭边万户皆临水，雪后千峰半入城。”清代诗人王士祯这首诗写的是（     ）。</desc>
-        <opt ans="f">成都</opt>
-        <opt ans="f">杭州</opt>
-        <opt ans="f">泉州</opt>
-        <opt ans="t">济南</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>元末明初诗人唐珙的诗《题龙阳县青草湖》因曾因诗境近似唐人被选错入《全唐诗》，下面四句诗正确的排列顺序是（     ）。①醉后不知天在水②一夜湘君白发多③西风吹老洞庭波④满船清梦压星河</desc>
-        <opt ans="f">③①④②</opt>
-        <opt ans="f">④②①③</opt>
-        <opt ans="t">③②①④</opt>
-        <opt ans="f">④①③②</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>党的十八届三中全会将市场在资源配置中起基础性作用修改为起（     ）</desc>
-        <opt ans="f">关键性作用</opt>
-        <opt ans="t">决定性作用</opt>
-        <opt ans="f">核心性作用</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“大将歌罢掉头东”的作者是（     ）</desc>
-        <opt ans="f">朱德</opt>
-        <opt ans="t">周恩来</opt>
-        <opt ans="f">毛泽东</opt>
-        <opt ans="f">陈毅</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>下面哪一诗句与“纸上得来终觉浅”同出自一首诗？（     ）</desc>
-        <opt ans="t">少壮功夫老始成</opt>
-        <opt ans="f">九州生气恃风雷</opt>
-        <opt ans="f">繁霜尽是心头血</opt>
-        <opt ans="f">东方风来满眼春</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“乘风好去，长空万里，直下看山河”出自辛弃疾的《太常引·建康中秋夜为吕叔潜赋》，请问“太常引”是这首词的（     ）。</desc>
-        <opt ans="f">标题</opt>
-        <opt ans="f">小序</opt>
-        <opt ans="t">词牌</opt>
-        <opt ans="f">曲牌</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>下面哪一联诗所表达的内涵与“吟安一个字，捻断数茎须”表达的内涵是一致的：（     ）</desc>
-        <opt ans="f">致君尧舜上，再使风俗淳</opt>
-        <opt ans="f">行行重行行，与君生别离</opt>
-        <opt ans="f">夜中不能寐，起坐弹鸣琴</opt>
-        <opt ans="t">两句三年得，一吟双泪流</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“面壁十年图破壁”一语出自（     ）的诗作。</desc>
-        <opt ans="f">毛泽东</opt>
-        <opt ans="t">周恩来</opt>
-        <opt ans="f">朱德</opt>
-        <opt ans="f">任弼时</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>王勃在诗中写到“海内存知己，天涯若比邻”，这首诗的题材是什么？（     ）</desc>
-        <opt ans="f">田园诗</opt>
-        <opt ans="f">山水诗</opt>
-        <opt ans="t">送别诗</opt>
-        <opt ans="f">怀古诗</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>刘禹锡的诗句“芳林新叶催陈叶，流水前波让后波”歌颂的是以下哪种精神（     ）</desc>
-        <opt ans="t">自我革新的担当精神</opt>
-        <opt ans="f">坚持不懈的拼搏精神</opt>
-        <opt ans="f">无私奉献的奋斗精神</opt>
-        <opt ans="f">筚路蓝缕的建设精神</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>王安石《明妃曲》（其二）中写到“汉恩自浅胡恩深，人生乐在相知心”，这首诗中的“明妃”指的是（     ）。</desc>
-        <opt ans="f">西施</opt>
-        <opt ans="f">貂蝉</opt>
-        <opt ans="t">王昭君</opt>
-        <opt ans="f">杨贵妃</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>毛泽东同志的名句“万类霜天竞自由”可以用来譬喻下面哪个情境：（     ）</desc>
-        <opt ans="t">良好的创新创业环境</opt>
-        <opt ans="f">慷慨激昂的革命事业</opt>
-        <opt ans="f">艰苦卓绝的反抗战争</opt>
-        <opt ans="f">筚路蓝缕的建设时期</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“长风破浪会有时，直挂云帆济沧海”的作者是谁？（     ）</desc>
-        <opt ans="f">王勃</opt>
-        <opt ans="f">杨炯</opt>
-        <opt ans="t">李白</opt>
-        <opt ans="f">杜甫</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>“语不惊人死不休”是唐代著名诗人杜甫的诗句，杜甫被后世称为（     ）</desc>
-        <opt ans="f">诗仙</opt>
-        <opt ans="t">诗圣</opt>
-        <opt ans="f">诗佛</opt>
-        <opt ans="f">诗鬼</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>2019年要巩固“（     ）”成果，推动更多产能过剩行业加快出清，降低全社会各类营商成本，加大基础设施等领域补短板力度。</desc>
-        <opt ans="f">精准扶贫</opt>
-        <opt ans="f">房地产调控</opt>
-        <opt ans="t">三去一降一补</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>2019年要推动城镇化发展，抓好已经在城镇就业的农业转移人口的落户工作，督促落实（     ）年（）人落户目标，提高大城市精细化管理水平。</desc>
-        <opt ans="t">2020 1亿</opt>
-        <opt ans="f">2025 1亿</opt>
-        <opt ans="f">2020 1.3亿</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
         <desc>中央经济工作会议指出，2019年要进一步（          ）、（）、（）、（）、（）、（），提振市场信心，增强人民群众获得感、幸福感、安全感，保持经济持续健康发展和社会稳定大局。</desc>
@@ -669,12 +1517,6 @@
         <opt ans="t">东部率先发展</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
-        <desc>打好污染防治攻坚战，要坚守阵地、巩固成果，聚焦做好答应（     ）等工作，加大工作和投入力度，同时要统筹兼顾，避免处置措施简单粗暴。</desc>
-        <opt ans="f">脱贫攻坚战</opt>
-        <opt ans="f">防范化解重大风险攻坚战</opt>
-        <opt ans="t">蓝天保卫战</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
         <desc>2019要着力激发微观主体活力，创新和完善宏观调控，统筹推进（         ）、（）、（）、（）、（）工作，保持经济运行在合理区间。</desc>
         <opt ans="t">稳增长</opt>
         <opt ans="t">促改革</opt>
@@ -693,12 +1535,6 @@
         <opt ans="t">藏粮于地</opt>
         <opt ans="f">藏粮于库</opt>
         <opt ans="t">藏粮于技</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>（     ）率领团队打造了全球最大电子商务平台，创建了互联网支付和物流体系，建立全球领先移动支付网络，被称为“数字经济的创新者”。</desc>
-        <opt ans="t">马云</opt>
-        <opt ans="f">马化腾</opt>
-        <opt ans="f">刘强东</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
         <desc>路遥是著名作家，把文学创作融入改革开放伟大实践，用心用情抒写改革开放故事，主要作品有《》《》《》，被称为“鼓舞亿万农村青年投身改革开放的优秀作家”。(       )</desc>
@@ -720,44 +1556,6 @@
         <opt ans="t">文化产业</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
-        <desc>嫦娥四号探测器是用那个型号的火箭发射的？（     ）</desc>
-        <opt ans="f">长征3A</opt>
-        <opt ans="t">长征3B</opt>
-        <opt ans="f">长征3C</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>嫦娥四号探测器是在我国（     ）发射基地发射成功的。</desc>
-        <opt ans="f">酒泉</opt>
-        <opt ans="t">西昌</opt>
-        <opt ans="f">太原</opt>
-        <opt ans="f">文昌</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>祖冲之是中国南北朝时期的数学家和天文学家。他在数学方面的突破主要贡献是圆周率的精确度计算到小数点后第7位，也就是在3.1415926和3.1415927之间。这一成就比欧洲早了（     ）多年。</desc>
-        <opt ans="f">300</opt>
-        <opt ans="f">600</opt>
-        <opt ans="t">1000</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>目前世界上共有4个卫星导航定位系统，我国的是（     ）导航定位系统。</desc>
-        <opt ans="f">北极星</opt>
-        <opt ans="t">北斗</opt>
-        <opt ans="f">哈勃</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>我国采取的“北京时间”实际上（     ）的时间。</desc>
-        <opt ans="f">东六区</opt>
-        <opt ans="f">东七区</opt>
-        <opt ans="t">东八区</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>港珠澳大桥全长55公里，是世界上最长的跨海大桥，海底隧道长（     ）公里，是世界上最长的海底公路沉管隧道。</desc>
-        <opt ans="f">4.8</opt>
-        <opt ans="t">5.6</opt>
-        <opt ans="f">8</opt>
-        <opt ans="f">6.3</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
         <desc>中央强调，党报党刊要实现新闻传播的（       ）、（）、（），推动党的声音直接进入各类用户终端，努力占领新的舆论场。</desc>
         <opt ans="t">全方位覆盖</opt>
         <opt ans="t">全天候延伸</opt>
@@ -768,69 +1566,6 @@
         <opt ans="t">互动式</opt>
         <opt ans="t">服务式</opt>
         <opt ans="t">体验式</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>我国金融服务“三农”的主力军是下列哪一类金融机构（     ）</desc>
-        <opt ans="t">农村信用合作社</opt>
-        <opt ans="f">村镇银行</opt>
-        <opt ans="f">国有商业银行</opt>
-        <opt ans="f">股份制银行</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>中国人民银行是否可以向任何单位和个人提供担保？（     ）</desc>
-        <opt ans="t">都不可提供</opt>
-        <opt ans="f">都可提供</opt>
-        <opt ans="f">可向单位提供，不可向个人提供</opt>
-        <opt ans="f">可向个人提供，不可向单位提供</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>我国货币政策目标是（     ）</desc>
-        <opt ans="t">保持货币币值的稳定，并以此促进经济增长</opt>
-        <opt ans="f">充分就业</opt>
-        <opt ans="f">经济增长</opt>
-        <opt ans="f">国际收支平衡</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>股票市场上常常被提到的“IPO”的意思是（     ）。</desc>
-        <opt ans="t">首次公开发行，即公司第一次公募股票</opt>
-        <opt ans="f">公司第一次私募股票</opt>
-        <opt ans="f">已有股票的公司再次公募股票</opt>
-        <opt ans="f">已有股票的公司再次私募股票</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>银行个人住房抵押贷款额度的计算公式是（     ）</desc>
-        <opt ans="t">住房评估值×抵借比</opt>
-        <opt ans="f">住房评估值×首付比</opt>
-        <opt ans="f">住房交易值×抵借比</opt>
-        <opt ans="f">住房交易值×首付比</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>我国的中央银行是（     ）</desc>
-        <opt ans="f">中国银行</opt>
-        <opt ans="t">中国人民银行</opt>
-        <opt ans="f">中国工商银行</opt>
-        <opt ans="f">中国建设银行</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>关于归纳，以下说法不正确的是(     )</desc>
-        <opt ans="f">归纳是一种从许多个别事物中概括出一般原理的推理方法</opt>
-        <opt ans="t">简单枚举法是一种完全归纳法</opt>
-        <opt ans="f">贝叶斯推理是一种基于统计学的归纳推理</opt>
-        <opt ans="f">“穆勒五法”是古典归纳逻辑的最高成就之一</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>科学家要遵守科学知识和科学建制的基本规范的原因是：（     ）</desc>
-        <opt ans="f">为确保实验不带偏见，以标准化的方式进行</opt>
-        <opt ans="f">让其他科学家可以复制这些实验</opt>
-        <opt ans="f">为不带偏见地检验，支持或反驳科学结论</opt>
-        <opt ans="t">以上全是</opt>
-    </qstn>
-    <qstn type="m-choise" cust="0">
-        <desc>关于我国自主研发的新成果，下列说法错误的是(    )</desc>
-        <opt ans="f">在世界上首次实现卫星与地面之间的量子通信</opt>
-        <opt ans="f">实现总装下线的“蛟龙一600”属于水陆两栖飞机</opt>
-        <opt ans="t">已成功下潜的“潜龙二号”是有缆遥控水下机器人</opt>
-        <opt ans="f">超级计算机“神威•太湖之光”的运算速度居世界第一</opt>
     </qstn>
     <qstn type="m-choise" cust="0">
         <desc>贯彻新时代党的组织路线，建设忠诚干净担当的高素质干部队伍是关键，重点是要做好干部（    ）、（    ）、（    ）、（    ）工作。</desc>
@@ -1057,10 +1792,6 @@
         <blk beg="9" end="13">自变量是一天中的时间，因变量是温度</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>企业所得税税法规定，企业分为居民企业和（    ）</desc>
-        <blk beg="20" end="24">非居民企业</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>被尊为中华民族的人文初祖是：（    ）</desc>
         <blk beg="15" end="19">黄帝</blk>
     </qstn>
@@ -1082,20 +1813,12 @@
         <blk beg="14" end="18">自行解密</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>“杨柳青青江水平，闻郎江上唱歌声…是唐刘禹锡在（    ）</desc>
-        <blk beg="24" end="28">夔州</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>（    ），是中国特色社会主义本质要求和重要保障</desc>
         <blk beg="1" end="5">全面依法治国</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>我国的古代六艺所指的是“（    ）”</desc>
         <blk beg="13" end="17">礼、乐、射、御、书、数</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>俗语“一问三不知”出自于《左转》，其中三不知：（    ）</desc>
-        <blk beg="24" end="28">事情的开始、发展、结果</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>根据《中华人民共和国法官法》的规定法官的任职条件中最低年龄要求（    ）</desc>
@@ -1118,10 +1841,6 @@
         <blk beg="29" end="33">《论盛孝章书》</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>“中国”一词最早文字记载鉴于 （    ）青铜器</desc>
-        <blk beg="16" end="20">何尊</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>表达了“吟安一个字，捻断数茎须”内涵一致的是（    ）</desc>
         <blk beg="23" end="27">“两句三年得，一吟双泪流”</blk>
     </qstn>
@@ -1142,10 +1861,6 @@
         <blk beg="32" end="36">强制性，无偿性</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>最早的地理学著作（    ）记录了我国古代地理、历史、民族、神话、生物等内容</desc>
-        <blk beg="9" end="13">《山海经》</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>首届世界互联网大会以（    ）为主题，回应了网络空间面临的问题</desc>
         <blk beg="11" end="15">“互联互通，共享共治”</blk>
     </qstn>
@@ -1162,16 +1877,8 @@
         <blk beg="35" end="39">深秋帘幕千家雨，落日楼台一笛风</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>位于广西壮族兴安县境内的灵渠，公元前214年凿成通航，是古代劳动人民创造的一项伟大工程，2018年8月13日，灵渠被入选：（    ）</desc>
-        <blk beg="62" end="66">世界灌溉工程遗产名录</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>2019年3月22日是第二十七届“世界水日”3月22—28是第三十二届“中国水周”联合国确定2019年“世界水日”的宣传主题为“Leaving no behind”（不让任何一个人掉队）。我国2019年”世界水日和中国水周活动的宣传主题为（    ）</desc>
         <blk beg="120" end="124">坚持节水优先，强化水资源管理</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>要不断提高党的创造力、凝聚力、战斗力、建设学习型，（    ）创新性马克思主义执政党，使我们党始终走在时代前列</desc>
-        <blk beg="26" end="30">服务型</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>（    ）是人们认识世界、改造世界的重要工具，是推动历史发展和</desc>
@@ -1214,10 +1921,6 @@
         <blk beg="22" end="26">南宋</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>（    ）位于福建省中西北部，中国绿都，也是国务院批准建立的全国集体林区改革试验，“宁化古杉木王群”</desc>
-        <blk beg="1" end="5">三明市</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>《中共中央国务院关于实施乡村振兴战略的意见》指出，完善农民闲置宅基地和闲置农房政策，探索宅基地所有权，资格权、（    ），三权分置</desc>
         <blk beg="56" end="60">使用权</blk>
     </qstn>
@@ -1239,10 +1942,6 @@
         <blk beg="17" end="21">1天</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>手足口病最主要的易感人群是（    ）</desc>
-        <blk beg="14" end="18">婴幼儿</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>党章规定，党员如果没有正当理由，连续（    ）个月不参加党的组织生活，或不交党费，或不做党所分配的工作，被默认自行脱党</desc>
         <blk beg="19" end="23">六</blk>
     </qstn>
@@ -1259,10 +1958,6 @@
         <blk beg="40" end="44">忠耿正直</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>发生地震时，最先感到的地震波叫“（    ）”</desc>
-        <blk beg="17" end="21">纵波</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>我国的宪法日是（    ）</desc>
         <blk beg="8" end="12">12月4日</blk>
     </qstn>
@@ -1275,16 +1970,8 @@
         <blk beg="29" end="33">黄布倒影</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>中国第一个目标飞行器和空间实验室是（    ）</desc>
-        <blk beg="18" end="22">天宫一号</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>成语，“一衣带水”中的水是指（    ）</desc>
         <blk beg="15" end="19">长江</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>（    ），是深化行政体制改革的核心实质上是解决的是政府应该做什么，不应该做什么，重点是政府、市场、社会的关系</desc>
-        <blk beg="1" end="5">转变政府职能</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>纳税人的子女接受全日制学历教育的相关支出、按照每个子女每月（    ）元的标准扣除</desc>
@@ -1303,10 +1990,6 @@
         <blk beg="32" end="36">部分反映整体</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>唐代笔画《客使图.》中三位唐代官员是来自（    ）</desc>
-        <blk beg="21" end="25">鸿胪寺</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>唐代阙楼作为礼制性建筑，其最高等级为（    ）</desc>
         <blk beg="19" end="23">三出阙</blk>
     </qstn>
@@ -1323,16 +2006,8 @@
         <blk beg="26" end="30">超额累进税率</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>正式党员不足3人的单位，应当按照地域相邻，行业相近，规模适当，便于管理的原则，成立（    ）</desc>
-        <blk beg="42" end="46">联合党支部</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>不畏浮云遮望眼 出自于（    ）</desc>
         <blk beg="12" end="16">王安石</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>唐代尚马之风流行，壁画中的骏马多带有各种装饰，既好看有实际功能，其中位于马鞍下部的是（    ）</desc>
-        <blk beg="43" end="47">障泥</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>在《孙子兵法》中，（    ）为上兵</desc>
@@ -1360,10 +2035,6 @@
         <blk beg="46" end="50">1亿</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>全面抗战爆发后，八路军打的第一个大胜仗是（    ）</desc>
-        <blk beg="21" end="25">平型关大捷</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>“恸哭六军俱缟素，冲冠一怒为红颜’的红颜是（    ）</desc>
         <blk beg="22" end="26">陈圆圆</blk>
     </qstn>
@@ -1388,16 +2059,8 @@
         <blk beg="9" end="13">周敬王六年</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>20世纪40年代末，美国科学家（    ）等提出了大爆炸宇宙模型</desc>
-        <blk beg="16" end="20">伽莫夫</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>设立党支部委员会，党支部委员会由3至5人组成，不超过7人必要可设一名（    ）</desc>
         <blk beg="35" end="39">副书记</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>（    ）是中国的旅游日</desc>
-        <blk beg="1" end="5">5月19日</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>研究表明，1980-2018年中国沿海海平面上升速率为（    ）</desc>
@@ -1528,20 +2191,12 @@
         <blk beg="22" end="26">何尊</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>（    ）是中国四大名面之一，也是武汉人过早的首选小吃。</desc>
-        <blk beg="1" end="5">热干面</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>2018年10月24日通车的港珠澳大桥……；海底隧道长（    ）公里，是世界……。</desc>
         <blk beg="28" end="32">5.6</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>《雨打芭蕉》是我国哪个地方的音乐代表（    ）。</desc>
         <blk beg="19" end="23">广东</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>《沂蒙山小调》延生于（    ），……。</desc>
-        <blk beg="11" end="15">临沂市费县</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>地球大气中的二氧化碳含量不断增加的主要后果是（    ）。</desc>
@@ -1558,10 +2213,6 @@
     <qstn type="blank" cust="0">
         <desc>“不甘落后似天涯，卷起杨花似雪花”出自苏轼的……。作者苏轼是（    ）朝代的诗人。</desc>
         <blk beg="31" end="35">宋</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>长江是世界第（    ）大河……。</desc>
-        <blk beg="7" end="11">三</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>相对传统打印方式，3D打印的优点是（    ）。</desc>
@@ -1586,10 +2237,6 @@
     <qstn type="blank" cust="0">
         <desc>地处闽、浙、赣三省交界处，俗称“闽北”，（    ）</desc>
         <blk beg="21" end="25">南平</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>京杭大运河始建于（    ）</desc>
-        <blk beg="9" end="13">春秋</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>1938年出土于湖南长沙宁乡的商代晚期青铜礼器（    ）</desc>
@@ -1648,10 +2295,6 @@
         <blk beg="11" end="15">A 化学反应</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>有“中国的欧几里德”“中国数学史上的牛顿”之称的是（    ）</desc>
-        <blk beg="26" end="30">A 刘徽</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>我国消耗臭氧层物质的淘汰量占发展中国家总量的（    ）以上，成为对全球臭氧层保护贡献最大的国家</desc>
         <blk beg="23" end="27">50%</blk>
     </qstn>
@@ -1700,7 +2343,7 @@
         <blk beg="35" end="39">西门豹</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>《孟子•尽心》中提出“君子有三乐”，以下哪个不属于“三乐”？（    ）</desc>
+        <desc>《孟子?尽心》中提出“君子有三乐”，以下哪个不属于“三乐”？（    ）</desc>
         <blk beg="31" end="35">B 聚钱财而有之</blk>
     </qstn>
     <qstn type="blank" cust="0">
@@ -1757,10 +2400,6 @@
         <blk beg="11" end="15">A左传</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>四川省（    ）获联合国教科文组织2016年度文化遗产保护“杰出出项目奖”</desc>
-        <blk beg="4" end="8">A 理县桃坪羌寨保护与复原</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>“风急天高猿啸哀，渚清沙白鸟飞回。无边落木萧萧下不尽，长江滚滚来。”是唐代诗人杜甫所作（    ）中的前四句。</desc>
         <blk beg="44" end="48">C 《登高》</blk>
     </qstn>
@@ -1798,10 +2437,6 @@
         <blk beg="38" end="42">A 法国-巴黎-塞纳河</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>中国共产党成立后，积极发动工农群众开展革命斗争，中国共产党第一次独立领导并取得完全胜利的工人斗争是（    ）</desc>
-        <blk beg="50" end="54">A 安源路矿工人罢工</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>新疆是中国领土不可分割的一部分。在汉代开始，新疆地区正式成为中国版图的一部分。1884年清政府在新疆地区建省。新疆（    ）和平解放，1955年10月1日成立新疆维吾尔自治区</desc>
         <blk beg="58" end="62">B 1949年</blk>
     </qstn>
@@ -1830,10 +2465,6 @@
         <blk beg="1" end="5">A 各港口海事管理机构</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>“尽道隋亡为此河，至今千里赖通波”中的“此河”是指（    ）</desc>
-        <blk beg="26" end="30">B 大运河</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>企业违反（    ），侵犯职工劳动权益的，工会可以依法要求（    ）承担责任。</desc>
         <blk beg="5" end="9">B 集体合同</blk>
         <blk beg="30" end="34">企业</blk>
@@ -1855,10 +2486,6 @@
         <blk beg="17" end="21">C 蔡和森</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>提出“天下兴亡，匹夫有责”的思想家是（    ）</desc>
-        <blk beg="19" end="23">C顾炎武</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>“知屋漏者在宇下，知政失者在草野”出自（    ）政论家王充《论衡》</desc>
         <blk beg="20" end="24">A 汉代</blk>
     </qstn>
@@ -1873,10 +2500,6 @@
     <qstn type="blank" cust="0">
         <desc>京沪高铁全长（    ）公里</desc>
         <blk beg="7" end="11">C 1318</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>政府支持与促进科学技术事业发展的方式有（    ）</desc>
-        <blk beg="20" end="24">D 以上全是</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>雷锋同志的故乡是（    ）</desc>
@@ -1907,16 +2530,8 @@
         <blk beg="9" end="13">B 高腔</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>“一日不见如隔三秋”中的“三秋”是指（    ）</desc>
-        <blk beg="19" end="23">C 三个季度</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>马球在唐代被称为（    ）</desc>
         <blk beg="9" end="13">波罗球</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>杜牧的诗作“二十四桥明月夜，玉人何处教吹箫”，其中24桥至扬州著名景点（    ）中的一个地标景观。</desc>
-        <blk beg="36" end="40">B 瘦西湖</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>中国最大的岛屿是（    ）</desc>
@@ -1927,10 +2542,6 @@
         <blk beg="13" end="17">B 梳篦</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>2019年《政府工作报告》指出，过去一年，国内生产总值增长6.6%，总量突破（    ）亿元。</desc>
-        <blk beg="39" end="43">C 90万</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>明朝末年，地方志不仅在中国大地上牢牢扎根，还传播到了日本。陈元赟为毛利辉元用汉字编写了一卷（    ），在中日关系史上留下了一段佳话</desc>
         <blk beg="46" end="50">C 《长门国志》</blk>
     </qstn>
@@ -1939,32 +2550,16 @@
         <blk beg="69" end="73">A 100</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>习近平总书记指出，（    ）是党最根本、最重要的纪律，遵守政治纪律和政治规矩是遵守党的全部纪律的基础。</desc>
-        <blk beg="10" end="14">A 政治纪律和政治规矩</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>下面这首诗是1991年1月9日习近平同志创作，题目是《（    ）•七律》：“挽住云河洗天青，闽山闽水物华新。小梅正吐黄金蕊，老榕先掬碧玉心。君驭南风冬亦暖，我临东海情同深。难得举城作一庆，爱我人民爱我军。”</desc>
+        <desc>下面这首诗是1991年1月9日习近平同志创作，题目是《（    ）?七律》：“挽住云河洗天青，闽山闽水物华新。小梅正吐黄金蕊，老榕先掬碧玉心。君驭南风冬亦暖，我临东海情同深。难得举城作一庆，爱我人民爱我军。”</desc>
         <blk beg="28" end="32">军民情</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>毛泽东《七律•和柳亚子先生》中“牢骚太盛防肠断”的下一句诗是（    ）</desc>
-        <blk beg="31" end="35">D 风物长宜放眼量</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>林徽因，代表作《你是人间四月天》、《莲灯》、《九十九度中》等。其中，（    ）最为大众熟知，广为传诵。</desc>
         <blk beg="35" end="39">《你是人间四月天》</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>泥石流是商区沟谷中，由暴雨、冰雪融化等发的含有大量泥沙石块的特殊洪流。在野外如果突遇泥石流来袭，正确的做法是（    ）</desc>
-        <blk beg="55" end="59">A 向与泥石流方向垂直的两边山坡上爬</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>永定河是北京的母亲河，全河流经山西、内蒙古……入（    ）。</desc>
         <blk beg="25" end="29">渤海</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>全国开展“向雷锋同志学习”的热潮始于（    ）。</desc>
-        <blk beg="19" end="23">1963年</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>领导我们事业的核心力量是中国共产党，这一论断是毛泽东在（    ）中提出来的。</desc>
@@ -1987,20 +2582,12 @@
         <blk beg="11" end="15">3月5日</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>中科大潘建伟教授团队，与合作者利用“（    ）”量子科学卫星，首次实现距离7600公里的洲际量子密钥分发</desc>
-        <blk beg="19" end="23">墨子号</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>有正式党员7人以上的党支部，应当设立党支部委员会。党支部委员会由3至5人组成，一般不超过7人。党支部委员会设书记和组织委员、宣传委员、纪检委员等，必要时可以设1名（    ）。</desc>
         <blk beg="82" end="86">副书记</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>因地制宜开展农村人居环境整治，推进（    ）、垃圾污水治理，建设美丽乡村。</desc>
         <blk beg="18" end="22">厕所革命</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>下列词语均与中国古代科举考试有关的是（    ）</desc>
-        <blk beg="19" end="23">连中三元、五子登科、名落孙山</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>领土由领陆、（    ）、领空三部分组成。</desc>
@@ -2013,10 +2600,6 @@
     <qstn type="blank" cust="0">
         <desc>苏颂，字子容，汉族，原籍福建泉州府同安县，他领导制造出世界上最古老的天文钟（    ）</desc>
         <blk beg="38" end="42">水运仪象台</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>有经验的汽车师傅都会告诉徒弟，冬天洗车最好用（    ）</desc>
-        <blk beg="23" end="27">冷水</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>一个国家的（    ）决定于这个国家的经济社会基础，同时又反作用于这个国家的经济社会基础，及至于起到决定性作用。</desc>
@@ -2033,10 +2616,6 @@
     <qstn type="blank" cust="0">
         <desc>我国近代第一所培养海军人才的学校是（    ）</desc>
         <blk beg="18" end="22">福建船政学堂</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>四川省规模最大的民办博物馆是（    ）</desc>
-        <blk beg="15" end="19">建川博物馆</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>油锅起火时使用以下方法中（    ）方法扑灭是不正确的。</desc>
@@ -2103,14 +2682,6 @@
         <blk beg="23" end="27">青铜车马</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>灵渠入选（    ）</desc>
-        <blk beg="5" end="9">世界灌溉工程遗产名录</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>《四元玉鉴》是中国数学著作中最重要的，同时也是中世纪最杰出的数学著作之一，是（    ）代朱世杰的著作。</desc>
-        <blk beg="39" end="43">元</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>不属于同一时代的语句（    ）</desc>
         <blk beg="11" end="15">江南子弟多才俊</blk>
     </qstn>
@@ -2143,10 +2714,6 @@
         <blk beg="55" end="59">宋词、唐诗、楚辞</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>柴达木盆地是（    ）</desc>
-        <blk beg="7" end="11">青藏高原</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>（    ），处10日以下拘留，并处1000元以上2000元以下罚款，吊销机动车驾驶证。</desc>
         <blk beg="1" end="5">因饮酒后驾驶机动车被处罚，再次饮酒后驾驶机动车的</blk>
     </qstn>
@@ -2169,15 +2736,6 @@
     <qstn type="blank" cust="0">
         <desc>奥运五环旗中的黄色环代表（    ）</desc>
         <blk beg="13" end="17">亚洲</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>2019年1月10日，一年一度的“中国社会科学院考古学论坛2018年中国考古新发现”在北京举行，四川省（    ）入选</desc>
-        <blk beg="52" end="56">渠县城坝遗址</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>一个纳税年度内，与基本医保相关的医药费用，扣除医保报销后个人负担（    ）累计超过（    ）元的部分，由纳税人在办理年度汇算清缴时，在80000元限额内据实扣除</desc>
-        <blk beg="33" end="37">是指医保目录范围内的自负部分</blk>
-        <blk beg="43" end="47">15000</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>如果我们要了解西周劳动人民的生活情况，最好查阅（    ）</desc>
@@ -2224,10 +2782,6 @@
         <blk beg="21" end="25">美国独立宣言</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>不惑之年是指(    )岁</desc>
-        <blk beg="7" end="11">四十</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>在西汉陆上丝绸之路的起点是（    ）</desc>
         <blk beg="14" end="18">长安，今西安</blk>
     </qstn>
@@ -2254,10 +2808,6 @@
     <qstn type="blank" cust="0">
         <desc>文章千古事，得失寸心知，是谁的名句？（    ）</desc>
         <blk beg="19" end="23">杜甫</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>不属于好氧污泥对有机物完全生物降解的最终产物是（    ）</desc>
-        <blk beg="24" end="28">亚硝酸盐</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>秦统一全国后，统一货币名称为（    ）</desc>
@@ -2300,10 +2850,6 @@
         <blk beg="57" end="61">京汉铁路工人大罢工</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>大家知道，一张纸有两个面—正面和反面。但是，如果有人说能给你看一种只有一面的纸，你觉得这是真的吗？答（    ）。</desc>
-        <blk beg="51" end="55">是真的</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>长江三峡是瞿塘峡、西陵峡和（    ）的总称。</desc>
         <blk beg="14" end="18">巫峡</blk>
     </qstn>
@@ -2344,10 +2890,6 @@
         <blk beg="1" end="5">转变政府职能</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>下列哪个血压值属于高血压（    ）。</desc>
-        <blk beg="13" end="17">145/90mmHg</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>十月革命一声炮响，给中国送来了马克思列宁主义。陈独秀、（    ）等……。</desc>
         <blk beg="28" end="32">李大钊</blk>
     </qstn>
@@ -2368,20 +2910,12 @@
         <blk beg="45" end="49">忠县</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>下列不属于八大菜系的是（    ）。</desc>
-        <blk beg="12" end="16">赣菜系</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>除了太阳，离我们最近的恒星是（    ）。</desc>
         <blk beg="15" end="19">比邻星</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>如张三对B市A县税务局第三税务分局对其处以的行政处罚决定不服，想要申请行政复议的，复议机关应为（    ）</desc>
         <blk beg="48" end="52">A县税务局或A县县政府</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>苏州的古建筑除了粉墙黛瓦、飞檐翘角，还有保存相对完好的纯居住民国建筑群（    ）。</desc>
-        <blk beg="36" end="40">同德里</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>电子计算机发明于哪一年？（    ）</desc>
@@ -2396,7 +2930,7 @@
         <blk beg="12" end="16">由许多块布补缀而成</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>现在的世界杯足球赛的冠军奖杯定名为什么： (    )</desc>
+        <desc>现在的世界杯足球赛的冠军奖杯定名为什么：?(    )</desc>
         <blk beg="22" end="26">国际足联世界杯</blk>
     </qstn>
     <qstn type="blank" cust="0">
@@ -2850,14 +3384,6 @@
         <blk beg="27" end="31">官僚主义</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>所谓“隐形飞机”是指（    ）的飞机</desc>
-        <blk beg="11" end="15">D 雷达测不到</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>除病毒外，组成生物体的基本单位是（    ）</desc>
-        <blk beg="17" end="21">C 细胞</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>我们既要保持战略定力，推动我国经济发展沿着正确方向前进；又要增强忧患意识，未雨绸缪，精准研判、妥善应对经济领域可能出现的重大风险。平衡好（    ）和（    ）的关系，把握好节奏和力度。</desc>
         <blk beg="69" end="73">稳增长</blk>
         <blk beg="76" end="80">防风险</blk>
@@ -2908,10 +3434,6 @@
         <blk beg="37" end="41">意识形态</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>某物质只含有一种元素，则该物质（    ）</desc>
-        <blk beg="16" end="20">C 可能是混合物</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>关于科学的概念，下列选项不正确的是（    ）</desc>
         <blk beg="18" end="22">D 科学是一种很快带来经济效益的生产力</blk>
     </qstn>
@@ -2959,14 +3481,6 @@
         <blk beg="16" end="20">A 遗传物质是 RNA</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>大家都知道，一张纸有两个面——正面和反面。但是，如果有人说能给你看一种只有一个面的纸，你觉得这是真的吗？答：（    ）</desc>
-        <blk beg="55" end="59">A 是真的</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>科学与技术的关系是（    ）</desc>
-        <blk beg="10" end="14">C 不同的概念，但又存在紧密的联系</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>董必武同志的诗句“烟雨迷蒙访旧踪”访的是浙江嘉兴（    ）</desc>
         <blk beg="25" end="29">D 南湖</blk>
     </qstn>
@@ -2987,7 +3501,7 @@
         <blk beg="27" end="31">枫桥经验</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>下面这首词是1990年7月15日创作，题目是《念奴娇•（    ）》“魂飞万里，盼归来，此水此山此地。百姓谁不爱好官？把泪焦桐成雨。生也沙丘，死也沙丘，父老生死系。暮雪朝霜，毋改英雄意气！依然月明如昔，思君夜夜，肝胆长如洗。路漫漫其修远矣，两袖清风来去。为官一任，造福一方，遂了平生意。绿我涓滴，会它千顷澄碧。”</desc>
+        <desc>下面这首词是1990年7月15日创作，题目是《念奴娇?（    ）》“魂飞万里，盼归来，此水此山此地。百姓谁不爱好官？把泪焦桐成雨。生也沙丘，死也沙丘，父老生死系。暮雪朝霜，毋改英雄意气！依然月明如昔，思君夜夜，肝胆长如洗。路漫漫其修远矣，两袖清风来去。为官一任，造福一方，遂了平生意。绿我涓滴，会它千顷澄碧。”</desc>
         <blk beg="28" end="32">追思焦裕禄</blk>
     </qstn>
     <qstn type="blank" cust="0">
@@ -3047,10 +3561,6 @@
     <qstn type="blank" cust="0">
         <desc>开放带来进步，封闭必然落后。中国开放的大门不会关闭，（    ）</desc>
         <blk beg="27" end="31">只会越开越大</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>一个研究全天气温变化的实验中，自变量和因变量各是（    ）。</desc>
-        <blk beg="25" end="29">D 自变量是一天中的时间，因变量是温度</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>科学共同体是（    ）</desc>
@@ -3164,10 +3674,6 @@
         <blk beg="19" end="23">马克思主义指导地位</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>毛泽东同志的词句“往事越千年，魏武挥鞭，东临碣石有遗篇”，“遗篇”指的是魏武帝曹操的（    ）</desc>
-        <blk beg="43" end="47">A 《观沧海》</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>党的各级领导干部特别是高级干部，要原原本本学习和研读经典著作，努力把马克思主义哲学作为自己的（    ），坚定理想信念，坚持正确政治方向，提高战略思维能力、综合决策能力、驾驭全局能力，团结带领人民不断书写改革开放历史新篇章。</desc>
         <blk beg="47" end="51">看家本领</blk>
     </qstn>
@@ -3264,11 +3770,7 @@
         <blk beg="38" end="42">B 部分反作用于整体</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>曾引用过郑板桥的诗句，“衙斋卧听萧萧竹，疑是民间疾苦声。些小吾曹州县吏，（    ）”。反映了对人民的关切</desc>
-        <blk beg="37" end="41">D 一枝一叶总关情</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>2018年4月13日，与法国科学家安娜•德尚、于克•德戴共同在瑞典首都斯德哥尔摩获得舍贝里奖的中国科学家是（    ）</desc>
+        <desc>2018年4月13日，与法国科学家安娜?德尚、于克?德戴共同在瑞典首都斯德哥尔摩获得舍贝里奖的中国科学家是（    ）</desc>
         <blk beg="54" end="58">D 陈竺</blk>
     </qstn>
     <qstn type="blank" cust="0">
@@ -3299,10 +3801,6 @@
         <blk beg="31" end="35">两</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>有一位唐代诗人在对贺知章诵读《乌栖曲》时，被贺知章称赞道“你莫不是天上下凡的仙人吧，不然怎么能写出这么感人的诗呢？”这位被称之为“谪仙人”的诗人是（    ）</desc>
-        <blk beg="74" end="78">C 李白</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>以县级以上行政区域名称冠名的地方志书、地方综合年鉴，分别由本机人民政府负责（    ）工作的机构按照规划组织编纂，其他组织和个人不得编纂</desc>
         <blk beg="38" end="42">B 地方志</blk>
     </qstn>
@@ -3325,10 +3823,6 @@
     <qstn type="blank" cust="0">
         <desc>《长江三角洲城市群发展规划》中包含（    ）个城市</desc>
         <blk beg="18" end="22">B 26</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>中国传统四大节日中，端午是中国首个被列入世界非物质文化遗产的节日。下列诗句中描写端午节的是（    ）</desc>
-        <blk beg="46" end="50">A彩线轻缠红玉臂，小符斜挂绿云鬟</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>蒙古族刺绣，是中国蒙古族人民在长期生产生活中形成的一种手工艺。蒙古族刺绣艺术凝重质朴取胜，其大面料的贴花方法，粗犷均称的针法、鲜明的对比色彩，给人以饱满充实之感。（    ），入选中国第二批国家级非物质文化遗产目录。</desc>
@@ -3436,10 +3930,6 @@
         <blk beg="5" end="9">高朗亭</blk>
     </qstn>
     <qstn type="blank" cust="0">
-        <desc>传入西欧的四大发明，对欧洲思想解放起到直接促进作用的是（    ）</desc>
-        <blk beg="28" end="32">A 造纸术</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
         <desc>西津渡是我国著名古渡之一，是重要的军港、客运渡口、义渡码头，有水上救生和驿道咽喉等功能。中国文物学会会长罗哲文先生把西津渡誉为“中国（    ）”</desc>
         <blk beg="67" end="71">古渡博物馆</blk>
     </qstn>
@@ -3462,10 +3952,6 @@
     <qstn type="blank" cust="0">
         <desc>许多人喜欢面食，制作馒头等面食时需要用到小苏打，下列哪个是小苏打的学术名称：（    ）</desc>
         <blk beg="39" end="43">C 碳酸氢钠</blk>
-    </qstn>
-    <qstn type="blank" cust="0">
-        <desc>北宋初期是我国书院教育的高潮期，出现了著名的（    ）书院、白鹿洞书院、崇阳书院、应天书院，合称为“宋初四大出院”</desc>
-        <blk beg="23" end="27">B 岳麓</blk>
     </qstn>
     <qstn type="blank" cust="0">
         <desc>中国古代最长的联梁式石板桥是（    ）</desc>

@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <key>QuickQuiz</key>
+    <title>热控基础题库</title>
+    <cust type="text">论述题</cust>
+    <qstn type="s-choise" cust="0">
+        <desc>仪表的精度等级是用下面哪种误差表示的（   ）。  </desc>
+        <opt ans="f">系统误差</opt>
+        <opt ans="f">绝对误差</opt>
+        <opt ans="t">允许误差</opt>
+        <opt ans="f">相对误差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>精度为0.5级的温度表，测量范围为50～800℃，该表的允许基本误差是（   ）。</desc>
+        <opt ans="t">±3.75℃</opt>
+        <opt ans="f">±4℃</opt>
+        <opt ans="f">±4.25℃</opt>
+        <opt ans="f">±0.35℃</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>有一压力测点，如被测量最大压力为10MPa，则所选压力表的量程应为（   ）。</desc>
+        <opt ans="t">16MPa</opt>
+        <opt ans="f">10MPa</opt>
+        <opt ans="f">25Mpa</opt>
+        <opt ans="f">20MPa </opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>被测量为脉动压力时，所选压力表的量程应为被测量值的（   ）。</desc>
+        <opt ans="f">1.5倍</opt>
+        <opt ans="f">1倍</opt>
+        <opt ans="t">2倍</opt>
+        <opt ans="f">1.25倍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>标准化节流装置是（   ）。</desc>
+        <opt ans="t">文丘利管</opt>
+        <opt ans="f">偏心孔板</opt>
+        <opt ans="f">翼形动压管</opt>
+        <opt ans="f">毕托管</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>采用容积测量法的是(   )。</desc>
+        <opt ans="f">超声波量计</opt>
+        <opt ans="t">罗茨流量计</opt>
+        <opt ans="f">电磁流量计</opt>
+        <opt ans="f">靶式流量计</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>火电厂中，燃油流量的测量普遍地使用（   ）。</desc>
+        <opt ans="t">靶式流量计</opt>
+        <opt ans="f">标准孔板</opt>
+        <opt ans="f">转子流量计</opt>
+        <opt ans="f">恒压降式流量计</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉在正常运行中，汽包上的云母水位计所示水位与汽包内实际水位比（   ）。　　 </desc>
+        <opt ans="f">偏高</opt>
+        <opt ans="f">相等</opt>
+        <opt ans="t">偏低</opt>
+        <opt ans="f">不能确定</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>SS-46型双向测振仪，振动大时有输出，微弱振动时无输出，原因是（   ）。</desc>
+        <opt ans="f">拾振器线圈断路</opt>
+        <opt ans="f">拾振器线圈短路</opt>
+        <opt ans="t">拾振器线圈和磁钢间有磨擦现象</opt>
+        <opt ans="f">拾振器线圈松</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>氧化锆氧量计要得到准确的测量结果，其工作温度必须在（   ）。</desc>
+        <opt ans="f">500℃左右</opt>
+        <opt ans="t">850℃左右</opt>
+        <opt ans="f">1200℃左右</opt>
+        <opt ans="f">600℃左右</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>目前汽轮机转速测量精度最高的表计是（   ）。</desc>
+        <opt ans="f">离心式机械测速表</opt>
+        <opt ans="f">测速发电机</opt>
+        <opt ans="f">磁力式转速表</opt>
+        <opt ans="t">数字式转速表 </opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>闭环系统（   ）反馈调节系统。</desc>
+        <opt ans="f">不一定是</opt>
+        <opt ans="f">不是</opt>
+        <opt ans="f">大多是</opt>
+        <opt ans="t">一定是 </opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>恒值调节系统、程序调节系统、随动调节系统是按什么来划分的（   ）。</desc>
+        <opt ans="f">按自动调节系统的结构</opt>
+        <opt ans="f">按自动调节系统的特性</opt>
+        <opt ans="t">按给定值变化的规律</opt>
+        <opt ans="f">按自动调节系统的类型</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在自动化领域中，把被调量随时间变化的不平衡状态称为（   ）。</desc>
+        <opt ans="f">动作</opt>
+        <opt ans="f">运动</opt>
+        <opt ans="t">动态</opt>
+        <opt ans="f">稳态</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>自动调节系统中，静态与动态的关系（   ）。</desc>
+        <opt ans="f">是线性关系</opt>
+        <opt ans="t">静态是动态的一种特例</opt>
+        <opt ans="f">非线性关系</opt>
+        <opt ans="f">无任何关系</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在计算机控制系统中，计算机的输入和输出信号是（   ）。</desc>
+        <opt ans="f">模拟信号</opt>
+        <opt ans="t">数字信号</opt>
+        <opt ans="f">4-20mA的标准信号</opt>
+        <opt ans="f">开关信号</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在计算机控制系统中主机与外设备是（   ）。</desc>
+        <opt ans="t">硬件部分</opt>
+        <opt ans="f">软件部分</opt>
+        <opt ans="f">中间部分</opt>
+        <opt ans="f">控制部分</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>计算机控制系统中主机接收现场信号经过运算、判断和处理后，做出各种控制决策，这些决策以什么形式输出（   ）。</desc>
+        <opt ans="f">十进制</opt>
+        <opt ans="f">十六进制</opt>
+        <opt ans="t">二进制</opt>
+        <opt ans="f">三种都可以</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>计算机软件包括（   ）。</desc>
+        <opt ans="f">外部设备</opt>
+        <opt ans="f">各种仪表</opt>
+        <opt ans="t">用各种语言编写的程序等</opt>
+        <opt ans="f">计算机的CPU</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>DCS系统中DO表示：（   ）。</desc>
+        <opt ans="f">模拟输入</opt>
+        <opt ans="f">模拟输出</opt>
+        <opt ans="t">开关量输出</opt>
+        <opt ans="f">模拟输出和开关量输出</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>BASIC语言属于（   ）。</desc>
+        <opt ans="f">计算机驱动程序</opt>
+        <opt ans="f">计算机硬件</opt>
+        <opt ans="t">计算机语言</opt>
+        <opt ans="f">汇编语言</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>补偿导线的正确敷设应从热电偶起敷到（   ）为止。</desc>
+        <opt ans="f">就地接线箱</opt>
+        <opt ans="f">二次仪表</opt>
+        <opt ans="t">与冷端补偿装置同温的地方</opt>
+        <opt ans="f">控制室</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>基地式调节阀适用于（   ）的场合。</desc>
+        <opt ans="f">流量变化大</opt>
+        <opt ans="t">调节精度要求不高</opt>
+        <opt ans="f">仪表气源供应方便</opt>
+        <opt ans="f">调节精度要求高</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>调节器加入微分作用是用来（   ）。</desc>
+        <opt ans="f">克服对象的纯滞后</opt>
+        <opt ans="f">克服对象的惯性滞后</opt>
+        <opt ans="t">克服对象的惯性滞后和容积滞后</opt>
+        <opt ans="f">减小被调量的静态偏差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在节流装置的流量测量中进行温、压补偿是修正（   ）。</desc>
+        <opt ans="f">随机误差</opt>
+        <opt ans="f">相对误差</opt>
+        <opt ans="t">系统误差</opt>
+        <opt ans="f">偶然误差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用孔板测量流量，孔板应装在调节阀（   ）。</desc>
+        <opt ans="t">前</opt>
+        <opt ans="f">后</opt>
+        <opt ans="f">进口处</opt>
+        <opt ans="f">任意位置</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>压力表的使用范围一般在它量程的1/3－2/3处，如果低于1/3则（   ）。</desc>
+        <opt ans="f">精度等级下降</opt>
+        <opt ans="f">因压力过低而没指示</opt>
+        <opt ans="t">相对误差增加</opt>
+        <opt ans="f">随机误差增加</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>运行中的PMK调节器，若供电突然停后又来电，则恢复后的调节器输出值为（   ）。</desc>
+        <opt ans="t">刚停电前的值</opt>
+        <opt ans="f">预置值</opt>
+        <opt ans="f">0%</opt>
+        <opt ans="f">50%</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>低噪音调节阀常用的是（   ）。</desc>
+        <opt ans="f">单座阀</opt>
+        <opt ans="t">套筒阀</opt>
+        <opt ans="f">隔膜阀</opt>
+        <opt ans="f">角阀</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>调节系统的稳定性是对调节系统最基本的要求，稳定调节过程的衰减率Ψ应是：（   ）。</desc>
+        <opt ans="f">Ψ=0</opt>
+        <opt ans="f">Ψ＜0</opt>
+        <opt ans="t">0＜Ψ＜1</opt>
+        <opt ans="f">Ψ=1</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>一个线性调节系统的稳定性取决于（   ）。</desc>
+        <opt ans="f">干扰作用的形式及强弱</opt>
+        <opt ans="t">系统本身的结构及参数</opt>
+        <opt ans="f">干扰作用的形式及强弱</opt>
+        <opt ans="f">干扰作用的强弱</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>单纯的前馈调节是一种能对（   ）进行补偿的调节系统。</desc>
+        <opt ans="f">测量与给定之间的偏差</opt>
+        <opt ans="f">被调量的变化</opt>
+        <opt ans="t">干扰量的变化</opt>
+        <opt ans="f">输出的变化</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>玻璃液位计是根据（   ）原理工作的。</desc>
+        <opt ans="f">阿基米德</opt>
+        <opt ans="t">连通器</opt>
+        <opt ans="f">牛顿定律</opt>
+        <opt ans="f">万有引力定律</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在DDZ-Ⅲ型仪表中，现场与控制室之间采用（   ）的信号。</desc>
+        <opt ans="t">4～20mA</opt>
+        <opt ans="f">1～5V</opt>
+        <opt ans="f">0～10Ma</opt>
+        <opt ans="f">0～20V</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我们常提到的PLC是（   ）。</desc>
+        <opt ans="f">可编程序调节器</opt>
+        <opt ans="t">可编程序控制器</opt>
+        <opt ans="f">集散控制系统</opt>
+        <opt ans="f">总线控制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下面哪一个是分散控制系统的英文缩写（   ）。</desc>
+        <opt ans="f">PMK</opt>
+        <opt ans="f">PLC</opt>
+        <opt ans="t">DCS</opt>
+        <opt ans="f">PCS</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用万用表判断三极管的好坏，应将万用表置（   ）挡。</desc>
+        <opt ans="f">直流电压挡</opt>
+        <opt ans="f">交流电压档</opt>
+        <opt ans="t">欧姆档</opt>
+        <opt ans="f">任意</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用补偿导线把热电偶电势引入测温仪表，补偿导线的长度对测量影响是：（   ）</desc>
+        <opt ans="t">补偿导线越长，测量误差越大</opt>
+        <opt ans="f">补偿导线越长，测量误差越小</opt>
+        <opt ans="f">补偿导线越短，测量误差越大</opt>
+        <opt ans="f">补偿导线的长短对测量误差无影响</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在三冲量给水调节系统中，校正信号是（   ）。</desc>
+        <opt ans="t">汽包水位信号</opt>
+        <opt ans="f">蒸汽流量信号</opt>
+        <opt ans="f">给水流量信号</opt>
+        <opt ans="f">给水压力信号</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>调节系统的整定就根据调节对象调节通道的特性确定（   ）参数。</desc>
+        <opt ans="f">变送器</opt>
+        <opt ans="f">传感器</opt>
+        <opt ans="f">执行器</opt>
+        <opt ans="t">调节器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工业现场压力表的示值表示被测参数的（   ）。</desc>
+        <opt ans="f">动压</opt>
+        <opt ans="f">全压</opt>
+        <opt ans="t">静压</opt>
+        <opt ans="f">绝对压力</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>发电机组的调速系统根据系统中频率的微小变化而进行的调节作用称为（   ）。</desc>
+        <opt ans="t">一次调节</opt>
+        <opt ans="f">二次调节</opt>
+        <opt ans="f">三次调节</opt>
+        <opt ans="f">四次调节</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>通过移动特性曲线使频率恢复到额定值，这种调节作用称为（   ）。</desc>
+        <opt ans="f">一次调节</opt>
+        <opt ans="t">二次调节</opt>
+        <opt ans="f">三次调节</opt>
+        <opt ans="f">四次调节</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列信号中不是热工信号的是（   ）。</desc>
+        <opt ans="f">主汽温度高报警</opt>
+        <opt ans="f">汽包水位低报警</opt>
+        <opt ans="f">炉膛压力低报警</opt>
+        <opt ans="t">发电机跳闸</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>正常运行时，汽轮机组保护系统的四个AST电磁阀是（   ）。</desc>
+        <opt ans="f">得电打开</opt>
+        <opt ans="f">失电关闭</opt>
+        <opt ans="f">得电关闭</opt>
+        <opt ans="t">失电打开</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热工信号和保护装置能否正常运行，将直接影响到设备、人身的安全。因此，应该在（   ）投入。</desc>
+        <opt ans="f">主设备启动后一段时间</opt>
+        <opt ans="t">主设备启动前</opt>
+        <opt ans="f">主设备并网后</opt>
+        <opt ans="f">总工同意后</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热工仪表的质量好坏通常用（   ）等三项主要指标评定。</desc>
+        <opt ans="f">灵敏度、稳定性、时滞</opt>
+        <opt ans="t">准确度、灵敏度、时滞</opt>
+        <opt ans="f">稳定性、准确性、快速性</opt>
+        <opt ans="f">精确度、稳定性、时滞</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>火力发电厂中，测量主蒸汽流量的节流装置多选用（   ） 。</desc>
+        <opt ans="f">A标准孔板； B标准喷嘴</opt>
+        <opt ans="t">长径喷嘴</opt>
+        <opt ans="f">渐阔喷嘴</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>主机真空低停机保护逻辑采用（   ）</desc>
+        <opt ans="t">三取二</opt>
+        <opt ans="f">二取二</opt>
+        <opt ans="f">二取一</opt>
+        <opt ans="f">三取一</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉灭火保护动作最主要作用是（   ）</desc>
+        <opt ans="f">跳一次风机</opt>
+        <opt ans="f">跳引送风机</opt>
+        <opt ans="t">切断所有燃料</opt>
+        <opt ans="f">切断所有一二次风源</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在协调控制系统的运行方式中最为完善、功能最强的方式是（   ）。 </desc>
+        <opt ans="f">机炉独自控制方式</opt>
+        <opt ans="t">协调控制方式</opt>
+        <opt ans="f">汽轮机跟随锅炉方式</opt>
+        <opt ans="f">锅炉跟随汽轮机方式</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>协调控制系统由两大部分组成，其一是机、炉独立控制系统，另一部分是（   ）。 </desc>
+        <opt ans="f">中调来的负荷指令</opt>
+        <opt ans="f">电液调节系统</opt>
+        <opt ans="t">主控制系统</opt>
+        <opt ans="f">机组主控制器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在协调控制系统的运行方式中负荷调节反应最快的方式是（   ）。 </desc>
+        <opt ans="f">机炉独立控制方式</opt>
+        <opt ans="f">协调控制方式</opt>
+        <opt ans="f">汽轮机跟随锅炉方式</opt>
+        <opt ans="t">锅炉跟随汽轮机方式</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列各选项中冲转前可以不投入的保护是（   ）。 </desc>
+        <opt ans="f">润滑油低</opt>
+        <opt ans="f">锅炉水位保护</opt>
+        <opt ans="t">低真空保护</opt>
+        <opt ans="f">轴向位移</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>与AGC相关的自动调节等级最低的一项是（   ）。 </desc>
+        <opt ans="f">CCS</opt>
+        <opt ans="f">给煤自动</opt>
+        <opt ans="f">燃料主控</opt>
+        <opt ans="t">给水自动</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>汽轮机润滑油低油压保护应在（   ）投入。 </desc>
+        <opt ans="t">盘车前</opt>
+        <opt ans="f">满速后</opt>
+        <opt ans="f">冲转前</opt>
+        <opt ans="f">带负荷后</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>负逻辑体制中用O表示（   ） </desc>
+        <opt ans="f">电压为0伏</opt>
+        <opt ans="f">低电平</opt>
+        <opt ans="t">高电平</opt>
+        <opt ans="f">断路</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>正逻辑体制中用1表示（   ） </desc>
+        <opt ans="f">电压为1伏</opt>
+        <opt ans="f">电流为1安培</opt>
+        <opt ans="f">低电平</opt>
+        <opt ans="t">高电平</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>测量仪表的准确度等级是0.5级，则该仪表的基本误差是（   ）。 </desc>
+        <opt ans="f">+0.5%</opt>
+        <opt ans="f">-0.5%</opt>
+        <opt ans="t">-0.5%到+0.5%</opt>
+        <opt ans="f">-0.1%到+0.1%</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>DCS中，所有控制和保护回路的数字量输入信号的扫描和更新周期应小于（   ）ms。</desc>
+        <opt ans="f">50</opt>
+        <opt ans="f">60</opt>
+        <opt ans="f">80</opt>
+        <opt ans="t">100</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>DCS系统的备用电源的切换时间应小于（   ）ms，以保证控制器不初始化。</desc>
+        <opt ans="f">1</opt>
+        <opt ans="f">2</opt>
+        <opt ans="f">3</opt>
+        <opt ans="t">5</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>引起（   ）变化的各种因素称为扰动。</desc>
+        <opt ans="f">调节对象</opt>
+        <opt ans="f">调节系统</opt>
+        <opt ans="t">被调量</opt>
+        <opt ans="f">调节设备</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在功频电液调节中不能克服的反调现象的措施是（   ）</desc>
+        <opt ans="f">除转速信号外，增加采用转速的微分信号</opt>
+        <opt ans="f">在功率测量中加惯性延迟</opt>
+        <opt ans="f">在功率信号中加负的功率微分信号</opt>
+        <opt ans="t">在功率信号中加积分信号</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>电接点水位计是利用锅水与蒸汽（   ）的差别而设计的， 它克服了汽包压力变化对水位的影响，可在锅炉启停及变参数运行时使用。                      </desc>
+        <opt ans="t">电导率</opt>
+        <opt ans="f">密度</opt>
+        <opt ans="f">热容量</opt>
+        <opt ans="f">电阻</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当一套汽包水位测量装置因故障退出运行时，一般应在（   ）内恢复，最多不能超过24小时。</desc>
+        <opt ans="f">4小时</opt>
+        <opt ans="f">6小时</opt>
+        <opt ans="t">8小时；    12小时</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>设备送电后CRT上显示的颜色状态为 （   ）。</desc>
+        <opt ans="f">红色</opt>
+        <opt ans="t">绿色</opt>
+        <opt ans="f">黄色</opt>
+        <opt ans="f">紫色</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>发电机组的联合控制方式的机跟炉运行方式、炉跟机运行方式、手动调节方式由运行人员（       ）来选择。</desc>
+        <opt ans="f">随意</opt>
+        <opt ans="t">根据机、炉设备故障情况</opt>
+        <opt ans="f">由领导决定</opt>
+        <opt ans="f">根据电网调度要求</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>电接点压力表用来（   ）。</desc>
+        <opt ans="f">测量瞬时压力值</opt>
+        <opt ans="f">测量最大压力值</opt>
+        <opt ans="f">测量最小压力值</opt>
+        <opt ans="t">当指针与压力高限或低限电接点闭合时，发出动作信号</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>机组在CCS协调下，闭锁负荷增的条件是（   ）</desc>
+        <opt ans="f">主汽温度高</opt>
+        <opt ans="f">主汽压力度高</opt>
+        <opt ans="t">调节阀在上限</opt>
+        <opt ans="f">气轮机调节级压力高</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>热电偶补偿导线与热电偶连接点的温度，对热电偶热电势无影响，其依据是（   ）。</desc>
+        <opt ans="f">均质定律</opt>
+        <opt ans="f">中间导体定律</opt>
+        <opt ans="t">中间温度定律</opt>
+        <opt ans="f">参考电极定律</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为了减小云母水位计的指示误差△H，应该（   ）。</desc>
+        <opt ans="f">缩短云母水位计的汽水连通管高度L</opt>
+        <opt ans="f">加长云母水位计的汽水连通管高度L</opt>
+        <opt ans="f">将云母水位计中心线的安装位置等于汽包中心线</opt>
+        <opt ans="t">将云母水位计中心线的安装位置偏高于汽包中心线约△H值</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>超声波流量计是属于（   ）。</desc>
+        <opt ans="f">容积式流量计</opt>
+        <opt ans="t">速度式流量计</opt>
+        <opt ans="f">差压式流量计</opt>
+        <opt ans="f">阻力式流量计</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>测量时环境温度的改变造成的误差属于（   ）。</desc>
+        <opt ans="f">疏失误差</opt>
+        <opt ans="f">随机误差</opt>
+        <opt ans="t">系统误差</opt>
+        <opt ans="f">基本误差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>主蒸汽管的管壁温度监测点设在（   ）。</desc>
+        <opt ans="f">汽轮机的电动主汽门后</opt>
+        <opt ans="t">汽轮机的自动主汽门前</opt>
+        <opt ans="f">汽轮机的调节汽门前的主汽管上</opt>
+        <opt ans="f">主汽门和调节汽门之间</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>采用按控制功能划分的设计原则时，分散控制系统可分为DAS、MCS、SCS、FSSS等子系统，其中MCS的中文含义是 （   ）。</desc>
+        <opt ans="t">模拟量控制系统</opt>
+        <opt ans="f">数据采集系统</opt>
+        <opt ans="f">顺序控制系统</opt>
+        <opt ans="f">炉膛燃烧安全监控系统</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>功频电液调节系统的输入信号是（   ）。</desc>
+        <opt ans="f">转速</opt>
+        <opt ans="f">功率</opt>
+        <opt ans="t">功率和频率</opt>
+        <opt ans="f">频率</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>DCS上无法记忆的开关跳闸信息是（   ）</desc>
+        <opt ans="f">操作员误点操作器</opt>
+        <opt ans="f">热工联锁保护动作</opt>
+        <opt ans="t">按下就地事故按钮</opt>
+        <opt ans="f">操作员正常点操作器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在给水自动三冲量中，（   ）是前馈信号，它能有效地防止由于“虚假水位”而引起调节器的误动作，改善蒸汽流量扰动下的调节流量。</desc>
+        <opt ans="f">汽包水位</opt>
+        <opt ans="f">给水流量</opt>
+        <opt ans="t">蒸汽流量    D给水调节阀开度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>汽包水位计的配置应采用（   ）种以上工作原理共存的配置方式，以保证在任何运行工况下锅炉汽包水位的正确监视</desc>
+        <opt ans="t">2</opt>
+        <opt ans="f">3</opt>
+        <opt ans="f">4</opt>
+        <opt ans="f">5</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉过热蒸汽温度调节系统中，被调量是（   ）。</desc>
+        <opt ans="t">过热器出口汽温</opt>
+        <opt ans="f">减温水量</opt>
+        <opt ans="f">减温阀开度</opt>
+        <opt ans="f">过热器进口汽温</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>电磁阀属于（   ）。</desc>
+        <opt ans="f">电动门</opt>
+        <opt ans="f">手动门</opt>
+        <opt ans="t">快速动作门</opt>
+        <opt ans="f">中速动作门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“炉跟机”控制方式的特点是（   ）。</desc>
+        <opt ans="f">主汽压变化平稳</opt>
+        <opt ans="f">负荷变化平稳</opt>
+        <opt ans="t">负荷变化快，适应性好</opt>
+        <opt ans="f">锅炉运行稳定</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>电接点水位计是利用锅水与蒸汽（   ）的差别而设计的，它克服了汽包压力变化对水位影响，可在锅炉启停及变参数时使用。</desc>
+        <opt ans="t">电导率</opt>
+        <opt ans="f">密度</opt>
+        <opt ans="f">热容量</opt>
+        <opt ans="f">电阻</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>主厂房内架空电缆与热体管道应保持足够的距离，控制电缆不小于（   ）m. </desc>
+        <opt ans="t">0.5</opt>
+        <opt ans="f">1</opt>
+        <opt ans="f">0.8</opt>
+        <opt ans="f">0.3</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>过热器出口压力为13.5MPa及以上的锅炉的汽包水位信号应采取（   ）值的方式进行优选.</desc>
+        <opt ans="f">三取平均</opt>
+        <opt ans="t">三取中</opt>
+        <opt ans="f">三取二</opt>
+        <opt ans="f">三取高值</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉汽包水位高、低保护应采用独立测量的（   ）的逻辑判断方式。</desc>
+        <opt ans="f">二取平均值</opt>
+        <opt ans="t">三取二</opt>
+        <opt ans="f">三取中</opt>
+        <opt ans="f">三取中</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉汽包水位高、低保护当有一点因某种原因须退出运行时，应自动转为（   ）的逻辑判断方式.</desc>
+        <opt ans="f">二取平均值</opt>
+        <opt ans="t">二取一</opt>
+        <opt ans="f">二取高</opt>
+        <opt ans="f">二取低</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>数字式电液控制系统用作协调控制系统中的（   ）部分。</desc>
+        <opt ans="t">汽轮机执行器</opt>
+        <opt ans="f">锅炉执行器</opt>
+        <opt ans="f">发电机执行器</opt>
+        <opt ans="f">协调指示执行器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列布尔代数运算错误的是（   ）</desc>
+        <opt ans="f">A+1=1</opt>
+        <opt ans="f">A A=A</opt>
+        <opt ans="f">1+1=1</opt>
+        <opt ans="t">1+0=0</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于单元机组自动调节系统中常用的校正信号，下列叙述中错误的是（   ）</desc>
+        <opt ans="f">送风调节系统中用烟气氧量与给定值的偏差作为送风量的校正信号</opt>
+        <opt ans="t">给水调节系统中用给水压力与给定值的偏差作为送风量的校正信号</opt>
+        <opt ans="f">在燃料量调节系统中用机组实际输出的功率与负荷要求的偏差来校正燃烧率</opt>
+        <opt ans="f">在汽压调节系统中常引入电网频率的动态校正信号，使电网频率改变时，汽轮机进汽阀不动作</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于数字式电液调节系统，下列叙述不正确的是（   ）</desc>
+        <opt ans="f">调节系统中外扰是负荷变化</opt>
+        <opt ans="f">调节系统中内扰是蒸汽压力变化</opt>
+        <opt ans="f">给定值有转速给定与功率给定</opt>
+        <opt ans="t">机组启停或甩负荷时用功率回路控制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>DEH系统不必由自动切至手动的情况是（   ）</desc>
+        <opt ans="t">由单阀切换为多阀运行时</opt>
+        <opt ans="f">阀门控制卡（VCC卡）故障，在线更换VCC卡</opt>
+        <opt ans="f">一只LVDT故障，在线更换故障的LVDT时</opt>
+        <opt ans="f">DPU（主控站）故障</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>DEH的ATC运行方式，下列叙述中错误的是（   ）</desc>
+        <opt ans="f">目标转速，目标负荷是通过ATC程序由主计算机确定的最佳值</opt>
+        <opt ans="t">在ATC方式可自动升负荷至额定负荷</opt>
+        <opt ans="f">升速率和升负荷率是通过ATC程序由主计算机确定的最佳值</opt>
+        <opt ans="f">在ATC方式可进行自动升速、暖机、主汽门/调节汽门切换</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列哪些参数超限时，需人为干预停机（   ）。</desc>
+        <opt ans="f">汽机超速</opt>
+        <opt ans="f">润滑油压极低</opt>
+        <opt ans="f">真空极低</opt>
+        <opt ans="t">蒸汽参数异常，达到极限值</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>协调控制滑压运行方式是以（   ）为基础的协调控制系统。       </desc>
+        <opt ans="t">锅炉跟踪协调</opt>
+        <opt ans="f">汽机跟踪协调</opt>
+        <opt ans="f">锅炉跟踪</opt>
+        <opt ans="f">汽机跟踪</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>比例调节器的整定参数是（   ）</desc>
+        <opt ans="t">比例带</opt>
+        <opt ans="f">超调量</opt>
+        <opt ans="f">积分时间</opt>
+        <opt ans="f">惯性时间常数</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于P、I、D调节规律下列叙述错误的是（   ）</desc>
+        <opt ans="f">积分作用能消除静态偏差，但它使过渡过程的最大偏差及调节过程时间增大</opt>
+        <opt ans="f">微分作用能减少过渡过程的最大偏差和调节过程时间</opt>
+        <opt ans="t">单独采用积分调节有助于克服系统的振荡</opt>
+        <opt ans="f">比例调节过程结束后被调量有静态偏差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>直流锅炉机组运行中丰存在几种比例关系，下列不成比例的是（   ）</desc>
+        <opt ans="t">给水量与燃料量</opt>
+        <opt ans="f">燃料量与负荷</opt>
+        <opt ans="f">；送风量与燃料量</opt>
+        <opt ans="f">给水量与送风量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于单元制机组“机跟炉”和“炉跟机”运行方式选择，下列叙述错误的是（   ）</desc>
+        <opt ans="t">炉跟机适应于锅炉有故障的工况</opt>
+        <opt ans="f">炉跟机适应于汽机有故障的工况</opt>
+        <opt ans="f">机跟炉适应于锅炉有故障的工况</opt>
+        <opt ans="f">机跟炉适应于带基本负荷的机组</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在DEH阀门管理功能叙述中，错误的是（   ）</desc>
+        <opt ans="f">在单、多阀切换过程中，负荷基本上保持不变</opt>
+        <opt ans="t">在单、多阀切换过程中，如果流量请求值有变化，阀门管理程序不响应</opt>
+        <opt ans="f">阀门管理程序能提供最佳阀位</opt>
+        <opt ans="f">能将某一控制方式下的流量请求值转换成阀门开度信号</opt>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>评定仪表品质好坏的技术指标主要是看仪表最大绝对误差的大小。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>凡测量温度在600℃以下者，统称低温计，在600℃以上者，统称高温计。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>压力式温度计属于液体膨胀式温度计。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热电偶的热电势是热电偶两端温度差的函数，是非线性的；在不同温域内，温差相等，热电势并不相等。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在热电偶回路中插入第三、四种导体，只要插入导体的两端温度相等，且插入导体是匀质的，无论插入导体的温度分布如何，都不会影响原来热电偶热电势的大小。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任意两种导体材料都可以配制成热电偶。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热电偶分度表是在其冷端温度为０℃条件下制作的，使用时要求其冷端温度为０℃，如果冷端温度不为０℃，必须对冷端温度修正到０℃。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在读取液柱式压力计液柱高度时，一般按照液柱弯月面顶点位置在标尺上读取数据。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>双波纹管差压计主要用于与节流装置配合测量流体流量（   ）。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>测量管道流量，不仅要有合格的节流元件，而且其前后管直管段应符合要求。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>利用动压测量管测量流量时，实际上是通过测量流体平均流速，从而间接测量出       其流量。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热电厂中，空气流量的测量多采用孔板。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉在正常运行时，汽包水位界面是水平清晰的。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>汽轮机联跳发电机只能通过发电机逆功率保护。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>使用平衡容器测量水位时，汽包压力变化使饱和水与饱和水蒸汽的重度改变，是产生测量误差的主要原因。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>电接点水位计的电极越多，测量准确度越高，可靠性越好。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>使用氧化锆氧量计，可以测出一定空间内相对稳定的气体中的氧气含量。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>测速发电机的输出电压与汽轮机的转速成正比。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在自动调节中，PID调节器主要靠比例作用避免过分振荡，靠积分作用消除静态偏差，靠微分作用减少动态偏差。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DCS控制系统就是指分散控制系统。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>数模转换就是A/D转换。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>引起自动调节系统被调量波动的因素叫干扰。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在闭环自动调节系统中，反馈是不可缺少的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>保护接地可与装置区或单元的电气保护接地网相连，不必单独设置。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>仪表的精度级别指的是仪表的误差。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在正常运行时，AST电磁阀电源失电关闭泄油孔，AST油压正常建立。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当转速达到103％额定转速时，OPC动作信号输出，OPC电磁阀就被励磁（通电）打开，使OPC母管油压泄放。这样，相应的执行机构上的卸荷阀就快速打开，使调节汽阀迅速关闭。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当AST电磁阀动作时，AST油路油压下跌，OPC油路通过二个单项阀，油压也下跌，将关闭所有蒸汽进汽阀而停机。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当OPC电磁阀动作，单相阀维持AST的油压，使调节汽阀保持全开，当转速降到额定转速时，OPC电磁阀关闭，主阀重新打开，使机组维持在额定转速。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>机组现出现“ASP油压高”报警信号是由于AST电磁阀动作的结果动作，此时若主汽门未关闭，应尽快申请停机。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在“CCS”投入的条件下，当“CCS”中“一次调频”投入时，DEH上即使投入“一次调频”，也不起作用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DEH中功率回路和调节级压力回路的投入顺序是：投入时先投功率回路，再投压力回路；切除时先切功率回路，再切压力回路。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当投CCS时，DEH相当于CCS系统中的一执行机构。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>机跟炉协调控制方式是牺牲主汽压力的稳定性来加快锅炉侧的负荷响应速度，使机、炉之间动作达到协调。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制中的基本控制单元可以实现闭环模拟量控制和顺序控制，完成常规模拟仪表所能完成的一切功能，并且在数量上有很多个。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对某些带有旁路系统的中间再热机组，在汽轮机跳闸时可以不动作MFT。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制系统中可以没有专门的数据采集站，而由基本控制单元来完成数据采集和生产过程控制的双重任务。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉在投自动时要严格遵守以下顺序：送风机自动→氧量校正自动→引风机自动→燃料量自动。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DEH调节系统的转速控制回路和负荷控制回路能根据电网要求参于一次调频，而不能参于二次调频。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉安全监控系统不仅能对燃烧系统的大量参数与状态进行连续监视和逻辑判断，而且能够完成各种操作的保护动作，也能避免运行人员手动误操作。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>机组自启停顺序控制系统在机组启动过程中是全自动的，不需要人工干预。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>机炉协调控制的方式中，在新的负荷下达到新的稳定状态后功率偏差与压力偏差均趋于零</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当单元机组中汽轮机设备运行正常，而机组的输出功率受到锅炉的限制时，也可采这种锅炉跟随汽轮机的方式。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在运行人员从“顺序阀”向“单阀”切换进程的过程中，若想再进行相反的切换，计算机将立即响应，不必等切换结束后再进行</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当低负荷给水调节采用单冲量给水调节系统，相对于此时采用三冲量给水调节系统，有利于减小测量误差。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>直流锅炉的给水调节、燃烧调节和汽温调节不象汽包炉那样相对独立，而是密切关联的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>调节就是抵消扰动的影响，使调节变量恢复到给定值。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DCS中基本控制器的控制回路数量受其内部输入、输出点的限制。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>直接根据扰动进行调节的控制方式，称为前馈控制。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>闭环调节系统一定是反馈调节系统。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>分散控制系统主要功能包括四个部分：控制、监视、管理和通信功能。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>扰动是指引起调节量变化的各种因素。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>调节过程结束后，被控量的实际值与给定值之间的偏差称为动态偏差。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>顺序控制中，主要采用PID作为控制规律，控制整个SCS系统的正常运行。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>反馈调节的测量参数是被调节变量的本身。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>闭环控制系统是根据扰动与给定值的偏差进行控制的系统。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>汽轮机自启动程序以应力计算为基础，对转速控制可以给出目标转速和速度变化率，而对于负荷只能给出负荷变化率。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DCS系统的信息全都是二进制或模拟信号形成的，必须有D/A与A/D转换。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>给水全程自动调节设两套调节系统，在启停过程中，当负荷低于一定程度时，蒸汽流量信号很小，测量误差很大，所以单冲量给水调节系统切换为三冲量给水系统。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于直流锅炉来说，调节汽温的根本手段是使燃烧率和给水量成适当比例。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热工仪表在投入前所有的一、二次门均处于关闭位置（差压仪表的中间平衡门应处于开启位置）</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在投入燃料自动之前，各给煤机自动必须投入</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>大气压力变化对凝汽器的真空表计指示没有影响</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在锅炉燃烧过程自动调节系统中，燃料量、送风量和引风量是被调量。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>压力表的指示数值是工质的绝对压力</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>MFT动作时自动关闭燃油快关阀、燃油回油阀、油枪进油电磁阀</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>0.5级仪表的精度比0.25级仪表的精度低</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>RB保护是锅炉自动减负荷的保护</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>大型机组FSSS系统可以实现给煤机、磨煤机组程序启停</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>绝对压力是用压力表实际测出的压力</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>计算机监控系统的输入/输出信号通常为模拟量、开关量、数字量（   ）。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>FCB（快速切除负荷保护）的种类可分为5％FCB保护（甩负荷只带厂用电运行）、全部甩负荷保护（甩负荷停机不停炉）。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>风、粉系统联锁回路中，联锁开关在投入位置时可不按顺序启动设备。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何一台磨煤机跳闸时，应联跳对应的给煤机。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热电厂给水流量测量，其节流元件多选用孔板。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《300MW汽轮机运行导则》要求，新安装机组调速系统迟缓率应不大于0.2％。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉过热器采用分级控制：将整个过热器分成若干级，每级设置一个减温装置，分别控制各级过热器的汽温，以维持主汽温度为给定值。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在汽温自动调节系统中，减温水量是调节变量</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>电液伺服阀的作用是将液压信号转变为电信号。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DEH系统中保安系统的电磁阀在有遮断请求时，通常是通电的。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DEH系统中的油动机通常是单侧进油式。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>CCS在以锅炉为基础方式下运行时，锅炉调负荷，汽轮机调压力。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>RB（快速甩负荷）功能与机组增减负荷限制等控制功能可以有效地降低机组异常工况时运行人员的操作强度，保障机组的安全运行。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>大容量汽轮机组“OPC”快关保护动作时， 将同时关闭高中压主汽门和高中压调速汽门。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>机跳炉保护是属于机组的横向连锁保护。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热电偶的热端温度不变，而冷端温度升高时，热电偶的输出电势将减小。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当投AGC时，DEH应在遥控状态。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>汽轮机ETS通道有故障时不得进行通道试验。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>协调控制方式既能保证有良好的负荷跟踪性能，又能保证汽机运行的稳定性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>协调控制方式运行时，主控系统中的功率指令处理回路不接受任何指令信号。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>协调控制运行方式当加负荷幅度较大时，汽轮机调节汽阀可立即持续开大，汽压的变化幅度此时由锅炉来控制。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>机头就地打闸按钮动作的是AST电磁阀，AST母管油接通了无压回油母管，主汽门关闭，OPC母管油从AST母管回到无压回油母管，调门关闭，汽轮机停机</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当单元机组中汽轮机设备运行正常，而机组的输出功率受到锅炉的限制时，可采炉跟随机的方式。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热电偶测温系统一般是由热电偶、一般导线及二次仪表组成</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热电厂主蒸汽流量测量，其节流元件多选用喷嘴。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>弹簧管子压力表是根据弹性元件的变形量来测量压力的</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>汽轮机跟随控制方式适用于承担调峰负荷的单元机组 。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在正常运行时， AST电磁阀电源失电关闭至回油的泄油孔，AST油压正常建立。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>FCS系统可以将PID闭环控制功能装入变送器或执行器中，缩短了控制周期，改善调节性能。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>闭环控制系统是根据扰动量与给定值的偏差进行控制的系统。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>PID调节系统中由于微分调节器的作用，该系统较比例积分系统具有更强的克服偏差的能力。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>微机分散控制系统的通信网络结构主要有星形、环形和总线三种形式。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>热工信号（灯光或音响）的作用是反映电气设备工作的状况，如合闸、断开及异常情况等，它包括位置信号、故障信号和警告信号等。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当压力表所测介质具有高温时，安装压力表时为防止高温介质直接进入压力表，必须在压力表前加装冷凝管。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在PID调节中，PID调节器主要靠比例作用避免过分振荡，靠积分作用消除静态偏差，靠微分作用消除动态偏差。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么叫测量与测量仪表？</desc>
+        <ans>测量就是通过实验的方法，把被测量与其所采用的单位标准量进行比较，求出其数值的过程。&#x0D;&#x0A;被测量与其单位用实验方法进行比较，需要一定的设备，它输入被测量，输出被测量单位的比值，这种设备就叫测量仪表。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是测量结果的真实值与测量误差？　</desc>
+        <ans>测量结果的真实值是指在某一时刻，某一位置或某一状态下，被测物理量的真正大小，一般把标准仪器所测量的结果视为真实值。&#x0D;&#x0A;测量误差：测量结果与测量真实值之存在的差值，通常称为测量误差。测量误差有大小、正负和单位。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么叫示值的绝对误差、相对误差与引用误差？</desc>
+        <ans>仪表的指示值与被测量的真实值之间的代数差，称为示值绝对误差。&#x0D;&#x0A;示值的绝对误差与被测量的实际值之比称为示值的相对误差。&#x0D;&#x0A;示值的绝对误差与该仪表的量程上限或量程范围之比，称为示值的引用误差，以百分数表示。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么叫仪表的基本误差与系统误差？　</desc>
+        <ans>在规定的技术条件下，将仪表的示值和标准表的示值相比较，在被测量平稳增加和减少的过程中，在仪表全量程取得的诸示值的引用误差中的最大者，称为仪表的基本误差。&#x0D;&#x0A;在相同条件下多次测量同一量时，误差的大小和符号保持恒定，或按照一定规律变化，这种误差称为系统误差。一般可以通过实验或分析的方法查明其变化的规律及产生的原因，并能在确定数值大小和方向后，对测量结果进行修正。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么叫仪表的灵敏度与仪表的分辨力？</desc>
+        <ans>灵敏度是仪表对被测量的反应能力，通常定义为输入变化引起输出变化ΔL对输入变化ΔX之比值。它是衡量仪表质量的重要指标之一，仪表的灵敏度高，则示值的位数可以增加，但应注意灵敏度与其允许误差要相适应，过多的位数是不能提高测量精度的。&#x0D;&#x0A;仪表的分辨力也叫鉴别力，表明仪表响应输入量微小变化的能力。分辨力不足将引起分辨误差，即在被测量变化某一定值时，示值仍不变，这个误差叫不灵敏区或死区。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>火力发电厂的热工测量参数有哪些？　</desc>
+        <ans>一般有温度、压力、流量、料位和成分，另外还有转速，机械位移和振动。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述数字式热工显示仪表的结构及各部分的作用。</desc>
+        <ans>数字式热工仪表结构及各部分的作用如下：&#x0D;&#x0A;（1）传感器：它将数字显示表头提供输入信号、电压或电流信号；&#x0D;&#x0A;（2）放大器：它将输入的电压或电流信号进行放大；&#x0D;&#x0A;（3）A / D转换器：即模数转换器，它是数字仪表的核心。它的作用是将连续的模拟电压信号转换成离散的数字信号，并以数字形式显示测量结果；&#x0D;&#x0A;（4）线性化器：通常传感器具有非线性的函数关系，它的作用是消除非线性误差；&#x0D;&#x0A;（5）寄存与显示器：将A / D转换器的输出信号进行寄存和数字显示；&#x0D;&#x0A;（6）控制逻辑电路：对全机进行控制，协调各部件工作；&#x0D;&#x0A;（7）报警电路：对被测参数的上、下限进行报警。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>热电厂中测量温度的意义是什么？</desc>
+        <ans>在电厂热力生产过程中，温度是保证安全，经济发电的一个重要参数。如过热蒸汽温度控制不好，过热器就可能因为过热而爆管，汽包和汽缸在机组启停时，若温度不均要产生危险的热应力，又如排烟温度比设计值高，则锅炉效率要降低，主蒸汽温度低于设计值，则汽轮机的效率也要降低。因此，准确地测量温度对于保证电厂生产过程的安全和提高经济效益是十分重要的。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>热电厂中所用温度计，按工作原理分哪几类？</desc>
+        <ans>（1）压力表式温度计；&#x0D;&#x0A;（2）玻璃管液体温度计；&#x0D;&#x0A;（3）双金属温度计；&#x0D;&#x0A;（4）热电阻温度计；&#x0D;&#x0A;（5）热电偶温度计；&#x0D;&#x0A;（6）辐射温度计。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>热电阻温度计的测温原理？ </desc>
+        <ans>热电阻的测温原理是基于导体和半导体材料的电阻值随温度的变化而变化，再用显示仪表测出热电阻的电阻值，从而得出与电阻值相对应的温度值。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述热电偶测温原理？</desc>
+        <ans>热电偶测温的基本原理是热电效应。把任意两种不同的导体或者是半导体连接成闭合回路，如果两接点的温度不等，在回路中就会产生热电动势，形成热电流，这就是热电效应。热电偶就是用两种不同的金属材料一端焊接而成，焊接的一端叫测量端，未焊接的一端叫参考端，如果参考端温度恒定不变，则热电势的大小和方向只与两种材料的特性和测量端的温度有关，且热电势和温度之间有一固定的函数关系，利用这个关系，只要测出热电势的大小，即可达到测量温度的目的。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>热电偶的均质导体定律的内容？ </desc>
+        <ans>两种均质金属组成的热电偶其电势大小与热电极直径、长度及原热电极长度上的温度分布无关，只与热电极材料和两端温度有关，热电势大小是两端温度的函数之差，如果两端温度相等，则热电势为零，如果材质不均匀，则当热电极上各处温度不同时，将产生附加热电势，造成无法估计的测量误差。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>热电偶中间导体定律？  </desc>
+        <ans>在热电偶回路中，插入第三、四种导体，只要使插入导体的两端温度相等，且插入导体是均质的，则无论插入导体的温度分布如何，都不会影响原来热电偶的热电势的大小。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>热电偶的中间温度定律的内容的什么？ </desc>
+        <ans>热电偶在接点温度为t、t0时的热电势等于该热电偶在接点温度为t、tn和tn、t0时相应的热电分为的代数和，即： &#x0D;&#x0A;EAB(t,t0)= EAN(t,tN)+ ENB(tn,t0)</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>利用热电偶测温时，热电偶参考端为什么要求处于0℃？</desc>
+        <ans>由热电偶测温原理知道，热电势的大小与热电偶两端的温差有关。因此，要准确地测量温度，必须使参考端的温度固定，一般固定在0℃，热电偶的分度表和根据分度表刻度的温度仪表，其参考端都是以0℃为条件的。故在使用中热电偶的参考端要求处于0℃。如果使用时参考端不是0℃，必须对参考端的温度进行修正。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>温度变送器在温度测量中的作用是什么？</desc>
+        <ans>热电偶的毫伏信号及热电阻的阻值变化信号，经温度变送器被转换成统一的电流信号。输入到显示、记录仪表中，可作为温度的自动检测，输入到调节器中，可组成自动调节系统，进行温度自动调节。经过转换输入到电子计算机中，可进行温度巡回检测，计算机控制等。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>辐射温度计的测温原理是什么？辐射式高温计有哪几种？</desc>
+        <ans>辐射温度计的测温原理是利用被测温物体的热辐射能量与其温度有一定的关系，通过测量热辐射能量来显示被测物体的温度。&#x0D;&#x0A;目前广泛应用的辐射式高温计有光学高温计和全辐射温度计。此外，比色高温计、红外线温度计等也在发展。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>热电厂中测量压力的意义是什么？ </desc>
+        <ans>压力是热力过程中的一个重要参数。准确地测量压力进而控制压力，对保证热力设备安全和经济运行有重要意义。如主蒸汽压力控制不好，汽压过高会使过热器和水冷壁承受不了，主蒸汽压力过低则使锅炉出力和汽轮机热效率下降。再如凝汽器真空达不到要求，则汽轮机出力下降，效率下降。影响到整个机组安全和经济效益。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>热电厂中使用有哪些类型的压力计？ </desc>
+        <ans>热电厂中使用的测压装置主要有以下几类液柱式压力计、活塞式静重压力计、弹性压力表、应变计式远传压力计。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么叫霍尔效应？ </desc>
+        <ans>置于磁场中的一片半导体，若使磁场方向垂直于半导体平面，沿着与磁场垂直的方向给半导体通入电流，则在半导体内与磁场方向、电流方向相垂直的方向上将产生电势，称为霍尔电势。这一现象就叫霍尔效应。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>热电厂中使用有哪些类型的流量计？</desc>
+        <ans>热电厂中常用流量计有以下几种：差压式流量计、动压式流量计、恒压降式流量计（亦称转子式）、容积式流量计、靶式流量计和电磁流量计。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>流体流过节流件其状态参数将如何变化？如何利用此特性来测量流量？</desc>
+        <ans>流体流过节流件时，流速增大、压力减小、温度降低、比容增加。流体流过节流件时，在节流件前后产生压力差，且此压力差与流量有一定的函数关系，因此测出节流件前后的压力差即能测得量值，差压式流量计就是采用这原理测流量的。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述差压式流量计的工作原理？</desc>
+        <ans>差压式流量计是按照流动的节流原理来测量流量的。在圆管中与管道轴线垂直方向固定一个中间具有圆孔而孔径比管道直径小的阻挡件，称为节流件。当流体流过节流件时，流速增加，静压力减少，在节流件前后产生静压力差。这个静压力差与管内平均流速或流量之间有一定的函数关系。用差压计测出阻挡件前后的压差，即可间接求出流体的流量。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>火力发电厂中测量水位的意义是什么？ </desc>
+        <ans>火力发电厂中有很多设备需要保持正常水位才能安全、经济地运行，例如，锅炉汽包水位、汽机凝汽器水位、除氧器水位、高低压加热器水位等。所以，准确地测量水位，进而更好地控制水位在允许范围内变化，对于保证安全，提高经济效益具有重要意义。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>火力发电厂中使用的汽包水位表有哪几种？ </desc>
+        <ans>汽包水位表主要有云母水位计、差压型低置水位计、电极式水位计、工业电视。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述云母水位计的测量原理，并说明其主要用途？</desc>
+        <ans>云母水位计是采用连通器原理测量水位的。是就地水位计，主要用于锅炉启、停时监视汽包水位和正常运行时定期校对其它型式的水位计。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>利用差压式水位计测量汽包水位时产生误差的主要原因有哪些？</desc>
+        <ans>（1）在测量过程中，汽包压力的变化将引起饱和水、饱和蒸汽的重度变化，从而造成差压输出的误差；&#x0D;&#x0A;（2）一般设计计算的平衡容器补偿管是按水位处于零水位情况下计算的，运行时锅炉汽包水位偏离零水位，将会引起测量误差；&#x0D;&#x0A;（3）当汽包压力突然下降时，由于正压室内凝结水可能被蒸发掉而导致仪表指示失常。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>双色水位计的工作原理？ </desc>
+        <ans>双色水位计是根据连通器原理和汽、水对光有不同的折射率原理来测量水位的。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述电接点水位计的工作原理？  </desc>
+        <ans>由于水和蒸汽的电阻率存在着极大的差异，因此，可以把饱和蒸汽看作非导体（或高阻导体），而把水看成导体（或低阻导体）。电接点水位计就是利用这一原理，通过测定与容器相连的测量筒内处于汽水介质中的各电极间的电阻来判别汽水界面位置的。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>测量锅炉烟气的含氧量有何意义？</desc>
+        <ans>锅炉燃烧质量的好坏直接影响电厂的煤耗，锅炉处于最佳燃烧状态时，具有一定的过剩空气系数α，而α和烟气中的O2的含量有一定的关系，因此可以用监视烟气中的O2的含量来了解值α，以判别燃烧是否处于最佳期状态，甚至于把O2含量信号引入燃烧自动控制系统，作为校正信号来控制送风量，以保证锅炉的经济燃烧。&#x0D;&#x0A;氧量过大或过小还直接威胁锅炉的安全运行。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>大型汽轮机监视项目有哪些？  </desc>
+        <ans>大型汽轮机监视项目有汽缸金属温度、轴瓦振动、轴向位移、大轴偏心度、汽缸与转子相对膨胀、绝对膨胀、汽轮机转速以及阀门开度等。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述电气式转速表的工作原理？</desc>
+        <ans>电气式转速表采用测速发电机为转换器。测速发电机通过软轴与汽轮机大轴相连接。汽轮机转动时，带动测速发电机转子转动，从而发电。其输出电压和转速成正比。测速发电机输出的交流电压经各组整流器整流成直流电压，加到各分压器上，由分压器取出的电压信号，送入显示表，即指示出转速。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>写出压力表的投入操作步骤？</desc>
+        <ans>（1）开启一次阀门，使导管充满介质；&#x0D;&#x0A;（2）二次阀门为三通门时，缓缓开启排污手轮，用被测介质导管冲洗干净后，关闭排污手轮；&#x0D;&#x0A;（3）缓缓开启二次阀门，投入仪表；&#x0D;&#x0A;（4）多点测量的风压表投入后，应逐点检查指示是否正常；&#x0D;&#x0A;（5）真空压力表投入后，应进行严密性试验。（在正常状态下，关闭一次阀门，五分钟内指示值的降低不应大于30%）。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>怎样安全使用万用表？</desc>
+        <ans>（1）测量时应手持测试笔绝缘部分。&#x0D;&#x0A;（2）测量大电流大电压时，不要带电改变功能旋钮或量程选择旋钮。&#x0D;&#x0A;（3）被测电量不能超过仪表的最大允许值。&#x0D;&#x0A;（4）测量交流和直流迭加时，要考虑万用表各部分承受能力。&#x0D;&#x0A;（5）使用完，应将开关置于关位置，如无此档，可置于大电压档，长期不用， 应取出电池。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>为什么用万用表测量电阻总要先调零？</desc>
+        <ans>因为用万用表的欧姆档测量电阻时，表头偏转电流的大小是在电压一定感的情况下，才与被测电阻具有一定关系的，实际上，欧姆档上电源电压是电池产生的，它的电势值不是恒定的，当电池电压很低时，即使Rx=0，仪表指针也不会达到满偏，所以电压的变化会给欧姆档带来很大的误差，为避免电源电压变化带来的误差，事先要先调零。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>自动调节系统由哪两部分组成？组成自动调节系统最常见的基本环节有哪些？</desc>
+        <ans>自动调节系统由调节对象和自动装置两部分组成。组成自动调节系统常见的基本环节有一阶惯性环节、比例环节、积分环节、微分环节和迟延环节。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述三冲量给水调节系统的信号来源</desc>
+        <ans>在三冲量给水调节系统中，调节器接受三个输入信号：主信号汽包水位H，前馈信号蒸汽流量D，和反馈信号给水流量W。其中，蒸汽流量和给水流量是引起汽包水位变化的主要原因，当引起汽包水位变化的扰动一经发生，调节系统立即动作，能即使有效的控制水位的变化。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么叫闭环控制？闭环控制中，常用什么参数来衡量控制质量？</desc>
+        <ans>闭环控制系统是根据被控量与给定值的偏差进行控制的系统。&#x0D;&#x0A;分析一个闭环控制系统的性能时，常用上升时间和过渡过程时间来衡量系统的快速性，超调量和衰减度来代表系统的稳定性，静差大小来表示系统的准确性。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>比例调节器作用和优点是什么？</desc>
+        <ans>比例调节器作用和优点是反应速度快，调节作用能立即见效，即当有偏差信号输入时，调节器的输出立即与偏差成比例的变化，较快的克服干扰所引起的被调参数的波动。&#x0D;&#x0A;输出的偏差信号越大，输出的调节作用越强，这是比例调节器的一个显著特点。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述PID调节系统的调节过程。</desc>
+        <ans>PID调节系统由比例、积分、微分三个环节组成。当干扰出现时，微分调节立即动作，同时，比例调节也起克服作用，使偏差的幅度减小，接着积分开始起作用，该系统较比例积分系统具有更强的克服偏差的能力。PID调节系统只经过短暂的衰减震荡后，偏差即被消除，进入新的稳定状态。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>为什么不能单独使用微分调节？</desc>
+        <ans>单纯的微分调节器的输出只能反映偏差信号的速度，不能反应偏差大小，调节的结果不能消除静差，因此不能单独的使用微分调节器，而总要和比例或积分规律结合起来使用。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>压力式液位计的工作原理是什么？</desc>
+        <ans>各种液体的介电常数不同，当液位变化时，置于容器液体中的电容或容器本身的电容就会发生变化，可通过测量其变化来测量液位的变化量。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是动态过程和稳态过程？</desc>
+        <ans>动态过程又称过渡或瞬态过程，指系统在典型输入信号的作用下，系统输出量从初始状态到最终状态的响应过程。&#x0D;&#x0A;稳态过程指系统在典型输入信号的作用下，当时间t趋于无穷时，系统输出量的表现方式。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是前馈调节？前馈调节与反馈调节有什么区别？</desc>
+        <ans>前馈调节是按照扰动的变化量进行调节的系统。&#x0D;&#x0A;前馈调节与反馈调节有什么区别在于：&#x0D;&#x0A;（1）前馈调节的测量参数是可能引起被调量变化的过程量，而反馈调节的测量参数是被调节变量的本身。&#x0D;&#x0A;（2）前馈调节能在扰动产生的瞬间就发出调节信号，而反馈调节要等干扰量影响到被调量时才发出调节信号，所以前馈调节更及时。&#x0D;&#x0A;（3）前馈调节是不管调节效果的，而反馈调节是管调节效果的。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是分散控制（DCS）系统？</desc>
+        <ans>DCS为分散控制系统的英文（ DISTRIBUTED CONTROL SYSTEM）简称。 DCS分散控制系统指控制功能分散、风险分散、操作显示集中。它是采用分布式结构的智能网络控制系统即利用计算机技术对生产过程进行集中监视、操作、管理和分散控制。作为一种纵向分层和横向分散的大型综合控制系统，它以多层计算机网络为依托，将分布在全厂范围内的各种控制设备的数据处理设备连接在一起，实现各部分信息的共享的协调工作，共同完成控制、管理及决策功能。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>电气控制系统（ECS）主要包括哪些内容？　</desc>
+        <ans>电气控制系统主要包括各厂用断路器的合分控制,发变组控制,励磁电压调节,AVR的设置与调节,自动准同期设置等。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是现场总线控制系统（FCS）？</desc>
+        <ans>现场总线是将自动化最底层的现场控制器和现场智能仪表设备互连的实时控制通信网络，遵循ISO和OSI开放系统互连参考模型的全部或部分通信协议。现场总线控制系统（Fielbus control system）则是开放的现场总线控制网络将自动化最底层的现场控制器和现场智能仪表设备互连的实时网络控制系统。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>DCS系统由哪几部分组成？</desc>
+        <ans>DCS系统包括三大部分：带I/O部件的控制器、通讯网络和人机接口．人机接口包括操作站、工程师站、历史站和现场控制站。控制器I/O部件和生产过程相联接，操作站和人相联系，通讯网络把这两部分联成系统。所以操作站是DCS的重要组成部分，工程师站给控制器和操作站组态，历史站记录生产过程的历史数据。 现场控制站用于现场信号的采集处理，控制策略的实现，并具有可靠的冗余保证和网络通信功能。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是数据采集系统（DAS）？</desc>
+        <ans>数据采集系统（DAS）指采用数字计算机控制系统对工艺系统和设备的运行参数、状态进行检测，对检测结果进行处理、记录、显示和报警，对机组的运行情况进行运算分析，并提出运行指导的监视系统。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是协调控制系统（CCS）？</desc>
+        <ans>协调控制系统（CCS）指将锅炉-汽轮发电机组作为一个整体进行控制，通过控制回路协调锅炉汽轮机在自动状态下运行给锅炉、汽轮机的自动控制系统发出指令，以适应负荷变化的需要，尽最大可能发挥机组的调频、调峰的能力，它直接作用的执行级是锅炉燃料控制系统和汽轮机控制系统。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>协调控制系统的运行方式有哪几种？</desc>
+        <ans>协调控制系统有几种运行方式：&#x0D;&#x0A;（1）协调控制方式；&#x0D;&#x0A;（2）汽轮机跟随锅炉；&#x0D;&#x0A;（3）锅炉跟随汽轮机,机组输出功率不可调节；&#x0D;&#x0A;（4）全手动方式。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>协调控制系统中，为什么采用调速汽门过开来适应电网对机组的功率要求？</desc>
+        <ans>单元协调控制系统中，因为中间再热机组在调节阀开度改变时，中、低压缸的功率变化有惯性，功率变化滞后于高压缸，所以采用调速汽门过开的措施来适应电网对机组的功率要求，提高汽机的负荷适应性。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>DEH系统由哪些部分的组成？</desc>
+        <ans>DEH系统主要有五大部分组成：&#x0D;&#x0A;（1）电子控制器（主要包括数字计算机、混合模拟插件、接口和电源设备等，用于接收反馈信号、逻辑运算、和发出指令进行控制等）；&#x0D;&#x0A;（2）操作和监视系统主要是图象站。（包括操作盘、独立的计算机、显示器和打印机等，为运行人员进行人机对话，提供运行信息、监督和操作）；&#x0D;&#x0A;（3）油系统。包括高压抗燃油和润滑油系统；&#x0D;&#x0A;（4）转换放大和执行机构（包括伺服系统、手动备用控制系统、以及具有附加快关、隔离和逆止装置的单侧油动机等，负责控制主汽门、调节汽门）；&#x0D;&#x0A;（5）保护系统（主要包括继电系统和电磁阀。用于防护和遮断机组）。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是顺序控制系统(SCS)？</desc>
+        <ans>顺序控制又叫程序控制。SCS顺序控制系统指对火电机组的辅机及辅助系统，按照运行规律规定的顺序（输入信号条件顺序、动作顺序或时间顺序）实现启动或停止过程的自动控制系统。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是大型单元机组的完整控制模式?</desc>
+        <ans>大型单元机组完整的控制模式，包括数据采集系统DAS、协调控制系统CCS、汽轮机电液调节系统DEH、给水泵汽轮机微机调节系统MEH、汽机TSI、旁路控制系统BPC和全厂辅助系统BOP等功能子系统。将控制、报警、监视、保护四大功能集中到一起，实现了机、炉电的集中监控。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是FSSS炉膛安全监控系统?</desc>
+        <ans>炉膛安全监控系统（FSSS）指对锅炉点火和油枪进行程序自动控制，防止锅炉炉膛由于燃烧熄火、过压等原因引起炉膛爆炸而采取的监视和控制措施的自动系统。其包括燃烧器控制系统BCS和炉膛安全系统FSS。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是 AGC？</desc>
+        <ans>AGC即自动发电控制，根据电网对各电厂负荷要求对机组发电功率由电网调度进行自动控制的系统。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是 MFT？</desc>
+        <ans>MFT是指锅炉主燃料跳闸，指保护信号指令动作或由人工操作后控制系统自动将锅炉燃料系统切断，并且联动相应的系统及设备，使整个热力系统安全的停运，以防止故障的进一步扩大。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是DEH？</desc>
+        <ans>汽轮机数字式电液控制系统（DEH-digital electro-hydraulic control system），是由按电气原理设计的敏感元件、数字电路以及按液压原理设计的放大元件和液压伺服机构构成的汽轮机控制系统。主要功能是对汽轮机进行转速控制、负荷控制、阀门管理、和汽机超速保护等。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是 ATC？</desc>
+        <ans>ATC或ATSC是汽轮机自启动控制，根据汽轮机的运行参数和热应力计算，使汽轮机从盘车开始直到带初负荷按程序实现自启动。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是OPC？</desc>
+        <ans>OPC是汽轮机的超速保护控制功能，常见有以下两种：&#x0D;&#x0A;（1）当汽轮机转速达到额定转速的103%时，自动关闭中、高压调节汽门；当转速恢复正常时，开启这些汽门以维持额定转速；&#x0D;&#x0A;（2）正常运行中，当汽轮机转速加速度超过给定值时，发出超速指令，关闭高、中压调速汽门；当加速度为0时由正常转速控制回路维持正常转速。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是BPC？</desc>
+        <ans>BPC是旁路控制系统，是汽轮机旁路系统的自动投入和旁路系统蒸汽压力、温度等自动控制系统的总称。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是ETS？</desc>
+        <ans>ETS是汽轮机的紧急跳闸系统。在汽轮机的运行过程中，机组重要参数越限等异常工况下，实现自动停止汽轮机运行的控制系统。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是MEH？</desc>
+        <ans>MEH是驱动给水泵的小汽轮机的电液调节系统，它是采用微型计算机控制和液压执行机构实现控制逻辑，驱动给水泵汽轮机的控制系统。其主要功能是对小汽轮机进行转速控制、负荷控制、阀门管理、和小汽机超速保护等。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是辅机故障减负荷（RB）？</desc>
+        <ans>辅机故障减负荷（RB），是针对机组主要辅机故障采取的控制措施，即当主要辅机（如给水泵、送风机、引风机）发生故障机组不能带满负荷时，快速降低机组负荷的一种措施。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述微机分散控制系统的通信网络结构的三种形式。</desc>
+        <ans>微机分散控制系统的通信网络结构主要有星形、环形和总线三种形式。星形结构的结点分为中心结点和普通结点，它们之间用专用通信线以辐射方式相连。环形结构是将分散的结点连成一个封闭的环，信息沿环路单向或环向传递，各结点有存储和转发的功能。总线结构是树形只有主干的特例，可看作一个开环，它将网络结点全部连接到一根共享的总线上。对于不同型号的分散系统或同一型号的分散系统的不同层次，制造厂以达到最好的效果来选用合适的通信网络系统。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>热工信号和电气信号的作用什么？</desc>
+        <ans>热工信号（灯光或音响）的作用是在有关热工参数偏离规定范围或出现某些异常情况时，发出灯光或音响（语音）信号，提醒运行人员注意，以便采取措施，避免事故的发生和扩大。&#x0D;&#x0A;电气信号的作用是反映电气设备工作的状况，如合闸、断开及异常情况等，它包括位置信号、故障信号和警告信号等。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>火电厂的顺序控制有哪些？</desc>
+        <ans>火电厂常用的顺序控制项目主要有化学水处理系统、输煤系统、锅炉燃烧系统、汽轮机的启停系统、锅炉定期排污系统、锅炉炊灰、凝汽器胶球冲洗、高压加热器的程序控制，以及送、引风机，空气预热器、给水泵、射水泵、循环水泵、凝结水泵等大型机械的程序控制。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>单元机组协调控制投入的顺序如何？</desc>
+        <ans>在正常情况下，机组协调控制投入的顺序：&#x0D;&#x0A;（1）送风投入自动；&#x0D;&#x0A;（2）燃料量投入自动；&#x0D;&#x0A;（3）锅炉主控投入自动；&#x0D;&#x0A;（4）汽轮机主控投入自动；&#x0D;&#x0A;（5）协调控制投入自动。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是机组自启、停顺序控制系统（UAM）？</desc>
+        <ans>机组自启停顺序控制系统（unit automation mode,简称UAM），其功能是使机组在冷态、温态或热态等方式下启动，在冷态方式下从循环水泵启动开始直到机组带满负荷以及在任何负荷下，将机组负荷降到零。UAM的控制对象为BCS（锅炉顺序控制）、BMS（锅炉主顺序控制）、SEQ（设备级顺序控制）、UCM（功能组级顺序控制）、DEH和汽轮机保护系统等子系统。UAM通过通信环路向上述子系统发出操作指令，并从这些子系统获得运行参数、状态信息和操作反馈信号。UAM不直接控制现场设备。机组非全自动的，而是要求少量的人工干预。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>“机跟炉”与“炉跟机”运行方式有何特点？各用于什么工况？</desc>
+        <ans>单元制机组的“机跟炉”运行方式具有汽压稳定，但适应负荷能力差的特点，而“炉跟机”运行方式则正好相反，具有适应负荷能力强，而汽压波动大的特点。前者适应于炉侧有故障的工况，后者适应于机侧有故障的工况。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>单元制机组运行时，在哪些情况下采用“机跟炉”运行方式？</desc>
+        <ans>单元制机组运行时，一般符合下列情况采用“机跟炉”运行方式：&#x0D;&#x0A;（1）汽轮机主控制处于“自动”，锅炉主控处于“手动”时；&#x0D;&#x0A;（2）汽轮机主控制处于“自动”，投入锅炉主控“自动”时；&#x0D;&#x0A;（3）协调控制方式下发生锅炉RB时；&#x0D;&#x0A;（4）协调控制方式下按“汽轮机跟踪”键时；&#x0D;&#x0A;（5）协调控制方式下发生“燃料—给水”、 “燃料—风量”比例失调时。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>单元制机组运行时，在哪些情况下采用“炉跟机”运行方式？</desc>
+        <ans>（1）锅炉主控处于“自动”方式；&#x0D;&#x0A;（2）机组控制不在机跟炉方式；&#x0D;&#x0A;（3）机组控制不在协调控制方式。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>在锅炉汽温调节系统中，为何选取减温器后的汽温信号作为导前信号？</desc>
+        <ans>减温器后的汽温信号作为局部反馈信号，可以通过各种动态关系反应干扰作用，是它们的间接测量信号，它比主蒸汽温度能够提前反应减温水的波动。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>解释直流锅炉调节中，“燃—水”和“水—燃”方案的含义，各适用于什么场合？</desc>
+        <ans>直流锅炉调节中，典型方案分为“燃—水”式方案和“水—燃”式方案，其中“燃—水”式方案是以燃料为主的控制系统，燃料调节器接受负荷指令，给水量跟踪燃料量，保持一定的燃水比。“水—燃”式方案是以给水为主的控制系统，是把负荷（功率）指令送给给水调节器，燃料量跟踪给水量，保持一定的燃水比。&#x0D;&#x0A;一般来说，“燃—水”式方案适用于带基本负荷，“水—燃”式方案适用于带变动负荷情况。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>大型锅炉过热汽温调节为什么要采用分段式控制方案？</desc>
+        <ans>由于大型锅炉过热器管道很长，结构复杂，形式多样，因此，主汽温对象的延迟和惯性很大，若采用一种调节方案是无法保持主汽温度不变的（额定工况），加之大型锅炉多布置多级喷水减温装置，这样就为汽温分段控制提供了基础条件，只要对各段的辅助汽温控制住，主汽温度的调节就变得比较容易了。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>给水调节系统投入自动有何要求？</desc>
+        <ans>给水调节系统投入自动有下列要求：&#x0D;&#x0A;（1）锅炉正常运行，达到向汽轮机送汽条件；&#x0D;&#x0A;（2）给水系统为正常运行状态；&#x0D;&#x0A;（3）汽包炉汽包水位表、蒸汽流量表及给水流量表运行正常，指示准确，记录清晰；&#x0D;&#x0A;（4）直流炉中间点压力、中间点温度给水流量、蒸汽流量指示准确，记录清晰；&#x0D;&#x0A;（5）汽包水位信号（或省煤器前流量）及保护装置投入运行。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>减温调节系统投入自动的条件有哪些？</desc>
+        <ans>减温调节系统投入自动的条件有：&#x0D;&#x0A;（1）锅炉正常运行，过热蒸汽有足够过热度；&#x0D;&#x0A;（2）减温水调节门有足够的调节余量；&#x0D;&#x0A;（3）主蒸汽温度表、再热蒸汽温度表指示准确，记录清晰。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>减温水“自动”调节系统切除的条件有哪些？</desc>
+        <ans>减温水“自动”调节系统切除的条件有：&#x0D;&#x0A;（1）锅炉稳定运行时，过热汽温和再热汽温超出报警值；&#x0D;&#x0A;（2）减温水调节门已全开而汽温仍继续升高，或减温水调节门已全关汽温仍继续下  降；&#x0D;&#x0A;（3）调节系统工作不稳定，减温水流量大幅度摆动，汽温出现周期性不衰减波动；&#x0D;&#x0A;（4）锅炉运行不正常，过热汽温和再热汽温低于额定值；&#x0D;&#x0A;（5）温度变送器故障；&#x0D;&#x0A;（6）减温调节系统发生故障。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是无扰切换？自动系统中，实现无扰切换应满足什么条件？</desc>
+        <ans>调节系统从“自动”状态进入“手动”状态时，执行机构应保持在原来的位置，手动操作应在自动调节时执行机构原来的位置基础上去进行。反之，当调节系统从“手动”状态转入“自动”状态时，执行机构应保持在原来的位置上接受调节器的指挥，然后按被调量的偏差、变化的情况进行调节，符合上述情况的切换即为无扰切换。&#x0D;&#x0A;实现无扰切换的条件是调节器的输出等于给定。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>汽包炉单元制压力调节系统投入自动有要求有哪些？</desc>
+        <ans>汽包炉单元制压力调节系统投入自动有要求有：&#x0D;&#x0A;（1）给粉调节机构运行正常，调节特性符合要求；&#x0D;&#x0A;（2）锅炉燃烧稳定，汽包压力表、机前压力表及蒸汽流量表指示准确、可靠；&#x0D;&#x0A;（3）汽压信号及保护装置投入运行。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>锅炉送风调节系统投入自动的条件有哪些？</desc>
+        <ans>锅炉送风调节系统投入自动的条件有：&#x0D;&#x0A;（1）锅炉运行正常，燃烧稳定，负荷一般大于本厂规定值；&#x0D;&#x0A;（2）送风机挡板在最大开度下的送风量应能满足锅炉最大负荷的要求，并约有5%裕量；&#x0D;&#x0A;（3）风量信号准确可靠，氧量指示正确，记录清晰；&#x0D;&#x0A;（4）炉膛压力自动调节系统投入运行；&#x0D;&#x0A;（5）调节系统应有可靠的监视保护装置。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>锅炉引风调节系统投入自动的条件有哪些？</desc>
+        <ans>锅炉引风调节系统投入自动的条件有：&#x0D;&#x0A;（1）锅炉运行正常，燃烧稳定；&#x0D;&#x0A;（2）引风机挡板在最大开度下的送风量应能满足锅炉最大负荷的要求，并约有5%裕量；&#x0D;&#x0A;（3）炉膛压力信号正确可靠，炉膛压力表指示准确；&#x0D;&#x0A;（4）调节系统应有可靠的监视保护装置。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>当投CCS时，为何要切除DEH的功率及压力回路？</desc>
+        <ans>因为当投AGC或一次调频时，机组处于协调控制运行方式。在协调控制主控系统中设有功率及压力控制回路，功率与压力已在协调控制主控系统中被恰当地处理。主控系统发出的是经处理后的燃烧率指令和汽轮机阀位指令。当投CCS时，如果不切除DEH的功率及压力回路，两者功能重复，从而影响机组运行稳定性与调节品质。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>热工测量仪表由哪几部分组成？各部分起什么作用？</desc>
+        <ans>热工测量仪表由感受件、中间件和显示件组成。&#x0D;&#x0A;感受件直接与被测对象相联系，感受被测参数的变化，并将被测参数信号转换成相应的便于进行测量和显示的信号输出。中间件将感受件输出的信号直接传输给显示元件，或进行放大和转换，使之成为适应显示元件的信号。显示件向观察者反映被测参数的量值和变化。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么叫可编程序控制器？一般由哪几部分组成？</desc>
+        <ans>可编程序控制器是一种以微处理器为基础的数字控制装置。一般包括以下几个部分：中央处理器，存贮器及扩展板，I/O接口，通信接口，扩展接口，编程器。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>汽轮机主保护的原则性要求有哪些？</desc>
+        <ans>汽轮机主保护的原则性要求有：&#x0D;&#x0A;（1）汽轮机超速保护、润滑油压低保护、抗燃油压力低保护、凝汽器真空低保护。一般都进行“三取二”处理，避免保护系统误动或拒动，确保停机可靠；&#x0D;&#x0A;（2）汽轮机超速对机组有极大的危险，为防止汽轮机超速设有多道防线。汽轮机转速达103%额定转速时，超速防护（OPC）动作，通过DEH发出指令关闭各调节汽阀，起到超速防护的作用。汽轮机转速达110%额定转速时，汽轮机轴系监测系统（TSI）、汽轮机电液调节系统（DEH）、机械超速保护三套独立的超速保护分别动作通过危急遮断系统，关闭所有的主汽阀和调节汽阀，实行紧急停机；&#x0D;&#x0A;（3）汽轮机还设有手动遮断系统，供紧急情况下就地操作使用。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>汽轮机本体监视一般包括哪些内容？</desc>
+        <ans>汽轮机本体监视包括：转速、轴向位移、汽缸热膨胀、胀差、轴弯曲、轴承温度、推力瓦温度、轴振动、轴承振动等监视。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>自动调节器有哪些整定参数？</desc>
+        <ans>有比例带、积分时间、微分时间三个整定参数。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是热工信号？热工信号分为哪几类？</desc>
+        <ans>热工信号是指在机组启停或运行过程中，当某些重要参数达到规定限值，或设备，自动装置出现异常情况（但未构成危及机组安全）时，向运行人员发出报警的一种信号。热工信号一般分为热工预告信号，热工危险信号。除以上两种信号外，还有显示设备状态的信号系统，以及一些中小型电厂主控室与机炉控制室间传递运行术语的联络信号。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>电动执行器由哪几部分组成？简述其作用？</desc>
+        <ans>主要由伺服放大器和执行器两大部分组成，电动执行器是电动单元组合仪表中的执行单元，以伺服电动机为动力的位置伺服机构。电动执行器接受调节器来的0~10mA或4~20mA的直流信号，将其线性地转换成机构转角或直线位置位移，用以操作风门、挡板、阀门等调节机构，以实现自动调节。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>自动调节系统由哪两部分组成？组成自动调节系统最常见的基本环节有哪些？</desc>
+        <ans>自动调节系统由调节对象和自动装置两部分组成。&#x0D;&#x0A;组成自动调节系统常见的基本环节有一阶惯性环节、比例环节、积分环节、微分环节和迟延环节。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>试述火电厂计算机实时监控系统应有的功能。</desc>
+        <ans>火电厂计算机实时监控系统应具有以下功能：数据采集；运行监视；报警记录；跳闸事件顺序记录；事故追忆打印；机组效率计算；重要设备性能计算；系统运行能量耗计算；操作指导；打印报表。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述汽轮机监视仪表系统的作用。</desc>
+        <ans>汽轮机监视仪表系统（TSI）是一种可靠的连续监测汽轮发电机组转子和汽缸的机械工作参数的多路监控系统，用于连续显示机组的启停和运行状态，并为记录仪表提供信号。当被测参数超过整定值时发出报警信号，必要时采取自动停机保护，并能提供故障诊断的各种测量数据。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述锅炉燃烧过程自动调节的任务。</desc>
+        <ans>（1）维持热负荷与电负荷平衡，以燃料量调节蒸汽量，维持蒸汽压力；&#x0D;&#x0A;（2）维持燃烧充分，当燃料改变时，相应调节送风量，维持适当风煤比例；&#x0D;&#x0A;（3）维保持炉膛负压不变，调节引风与送风配合比，以维持炉膛负压。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述差压变送器的投入过程。</desc>
+        <ans>（1）检查差压变送器的正、负压门是否关闭，平衡门是否打开；&#x0D;&#x0A;（2）开启排污门。缓缓打开一次阀门冲洗导管，冲洗后关闭排污门，一般冲洗不少于两次；&#x0D;&#x0A;（3）待导管冷却后，才可启动仪表，若管路中装有空气门应先开启一下空气门，排除空气后方可启动仪表；&#x0D;&#x0A;（4）渐渐开启变送器正压门，当测量介质为蒸汽或液体时，待充满凝结水或液体时，松开变送器正、负测量室排污螺钉，待介质逸出并排净空气后拧紧螺钉，然后检查是否渗透漏并检查仪表零点；&#x0D;&#x0A;（5）关闭平衡门，逐渐打开负压门。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>试述电动执行器和气动执行机构的就地如何手动操作？</desc>
+        <ans>（1）执行器就地手动操作时，可将电动机上的把手拨到“手动”位置，拉出手轮，摇转即可；&#x0D;&#x0A;（2）气动执行机构就地手动操作时，可将控制箱上的平衡阀板到“手动”位置，将上、下缸气路连通。不带手轮的气动执行机构，在其支架转轴端部带有六万头，可使用专用扳手进行手动操作。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>锅炉送、引风机联动控制系统的联锁条件是什么？</desc>
+        <ans>联锁条件是：&#x0D;&#x0A;（1）运行中的引风机（或送风机）中有一台停运时，应自动关闭其相应的入口导向装置，以防止风短路。但是，运行中的一台引风机（或送风机）或两台运行中的引风机（或送风机）均应停止时，不得关闭其入口导向装置；&#x0D;&#x0A;（2）运行中的唯一一台引风机停止运行时，应自动停止送风机的运行。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>单极、串极三冲量给水调节系统在结构上有什么相似与不同之处？</desc>
+        <ans>（1）相同之处是都有蒸汽流量、给水流量、水位三个信号，并由给水流量信号反馈构成内回路，水位信号构成外回路，以及有蒸汽流量信号的前馈通路；&#x0D;&#x0A;（2）不同之处是串级系统增加了一个调节器，主调节器控制外回路，副调控制内回路。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>采用变速给水泵的给水全程控制系统应包括哪三个系统？</desc>
+        <ans>（1）给水泵转速控制系统。根据锅炉负荷的要求，控制给水泵转速，改变给水流量；&#x0D;&#x0A;（2）给水泵最小流量控制系统。通过控制回水量，维持给水泵流量不低于某个最小流量， 以保证给水泵工作点不落在上限特性曲线的左边。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是压力开关？它的工作原理？</desc>
+        <ans>压力开关是一种简单的压力控制装置。当被测压力达到额定值时，压力开关可发出警报或控制信号。&#x0D;&#x0A;压力开关的工作原理是：当被测压力超过或低于整定值时，弹性元件的的自由端产生位移直接或经过比较后推动开关元件，改变开关元件的通断状态。&#x0D;&#x0A;开关形式有常开式和常闭式。调节方式有两位式和三位式。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>锅炉给水全程调节为什么要设两套调节系统？它们之间切换的原则是什么？</desc>
+        <ans>给水全程自动调节系统设两套调节系统的目的是在启停过程中，当负荷低于一定程度时，蒸汽流量信号很小，测量误差很大，所以三冲量给水调节系统改为单冲量系统。&#x0D;&#x0A;两套系统进行切换的原则是：当蒸气流量信号低于某一值时，高低值监视器动作，控制继电器使之由三冲量调节系统切换到单冲量调节系统。反之，当负荷高于某一值时，高低值监视器动作，控制继电器使之由单冲量调节系统切换到三冲量调节系统。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是现场总线？</desc>
+        <ans>现场总线是应用于过程控制现场的一种数字网络，它不仅包含有过程控制信息交换，而且还包含设备管理信息的交流。通过现场总线，各种智能设备可以方便地进行数据交换，过程控制策略可以完全在现场设备层次上实现。应用现场总线技术可以将各种分布在控制现场的相关智能设备和I/O单元方便的连接在一起，构成控制系统，这种结构已经成为DCS发展的趋势。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是在线监控系统?</desc>
+        <ans>在线监控又称实时监控，即传感器将现场生产过程中任何参数变化输入到计算机中，计算机根据现场变化立即作出应变措施，保证维持发电主、辅设备安全。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是功率放大器？</desc>
+        <ans>在实践中，常常要求放大器的末级能带一定的负载，如推动电动机旋转，使继电器或记录仪表动作等，这就要求放大器能输出一定的功率信号。通常将功率放大器的末级称为功率放大器。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>功率放大器和电压放大器有什么不同？</desc>
+        <ans>对电压放大器的主要要求是使负载得到不失真的电压信号，讲座的主要指标是电压放大倍数、输入和输出阻抗等，输出功率并不一定大。而功率放大器则不同，它的主要要求是获得一定的不失真（或失真较小）的输出功率，通常在大信号状态下工作，因而出现在电压放大器中没有出现过的特殊问题：①要求输出功率尽可能大；②效率高；③非线性失真小；④半导体三极管的散热问题。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是可控硅？其有何优点？</desc>
+        <ans>可控硅是一种新型的大功率整流元件，它与一般的硅整流元件的区别在于整流电压可以控制，当供给整流电路的交流电压一定时，输出电压能够均匀调节。&#x0D;&#x0A;可控硅是可控整流器、逆变换流器、无触点交流开头的主要器件，具有调节方便、开迅速、无电火花等优点。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>晶闸管在什么条件下就会导通？导通后如何使它关断？</desc>
+        <ans>当晶闸管的阳极为正电压，阴极为负电压，同时控制极有高于阴极一定的电压（对中、小型管子约为1-4V）时晶闸管会导通。&#x0D;&#x0A;晶闸管导通后控制极就不起作用，要让晶闸管截止，可以：①把阳极电压降低到等于阴极电压或比阴极电压更负；②把流过晶闸管的电流减小到等于该管的维持电流。以上任一种方法都可以使晶闸管截止。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是数字电路？</desc>
+        <ans>什么是数字电路就是把脉冲信号的“有”与“无”用“1”与“0”两种状态表示，而把这个二进制的信号进行传输、处理、变换、控制、运算、测量和显示等的电路统称数字电路。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是逻辑电路？</desc>
+        <ans>在数字电路中，能够实现逻辑功能的电路。就是利用电路的输入信号反映条件，而用输出信号来反映结果，比而使电路的输入与输出之间代表了一定的逻辑关系，这种电路称为逻辑电路。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>最基本的逻辑关系有哪几种？写出各自的逻辑运算表达式。</desc>
+        <ans>最基本的逻辑关系有三种：&#x0D;&#x0A;（1）“与”逻辑关系。可以表述为：“当有关条件A、B、C都具备时，事件F才能发生”；&#x0D;&#x0A;“与”逻辑可用逻辑乘法表示，写作：F = AㆍBㆍC。&#x0D;&#x0A;（2）“或”逻辑关系。可以表述为：“当有关条件A、B、C中只要有一个或一个以上具备时，事件F就能发生”；&#x0D;&#x0A;“或”逻辑可用“逻辑加法”表示，写作：F = A + B + C。&#x0D;&#x0A;（3）“非”逻辑关系。可以表述为：“当有关条件A成立时，事件F就不会发生”。&#x0D;&#x0A;“非”逻辑可用“逻辑求反”或“非运算”表示，写作：F =  F&apos;。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是模数转换器？</desc>
+        <ans>模数转换器（analog to digital coverter）是能将模拟量成数字量的器件，简称ADC或A/D。模数转换器是利用数字系统分析、处理、控制模拟信号的桥梁。被分析处理的对象一般多为物理量，如温度、压力、位移、速度等。因此它在需要应用数字技术和计算机技术对模拟信息进行分析、处理和控制的各个领域中得到广泛的应用。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>什么是数模转换器？</desc>
+        <ans>数模转换器（digital to analog coverter）是能将数字量成模拟量的器件，简称DAC或D/A。数模转换是模数转换的逆过程，即从数字编码信号转换为对应的模拟量信号，它在通信、计算机、远动技术、及测量仪器等领域得到广泛的应用。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>汽包炉一次风调节系统系统投入有哪些条件？</desc>
+        <ans>汽包炉一次风调节系统系统投入的条件有：&#x0D;&#x0A;（1）主汽压力调节系统已投入运行；&#x0D;&#x0A;（2）一次风挡板在最大开度下的风量能保持在给定值的±5%范围内；&#x0D;&#x0A;（3）一次风门开度改变5%时，调节系统应在30秒内消除振动；&#x0D;&#x0A;（4）一次风压定值改变49Pa时 ,调节系统应使风压在30秒内稳定在新的给定值。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>直流炉启动旁路系统中，串联的调节阀和电动截止阀间的操作原则是什么？</desc>
+        <ans>截止阀优先于调节阀。截止阀电动操作系统中，不设置总复归按钮，而只是开关互相制约的闭锁阀。截止阀没有中间位置状态。截止阀应尽量避免汽蚀区，尽可能不在低开度和高压差情况下运行。&#x0D;&#x0A;这样，在串联的调节阀和电动截止阀系统中，可以确定如下操作原则：&#x0D;&#x0A;（1）满足开度条件，将调节阀投入自动（或遥控开启），调节阀开度大于2%（有的机组大于5%），联锁开启电动阀，这通过调节阀处行程开关实现；&#x0D;&#x0A;（2）满足关闭条件，调节阀自动关闭（或遥控关闭），调节阀开度小于2%（有的机组小于5%），联锁关闭电动阀，这也通过调节阀处行程开关实现。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>对热工信号系统的试验有哪些质量要求？</desc>
+        <ans>对热工信号系统试验的质量要求如下：&#x0D;&#x0A;（1）当转换开关置于“灯光试验”位置（或按“试灯”按钮）时，全部光字牌应亮（或慢闪）；&#x0D;&#x0A;（2）当转换开关置于“信号试验”位置（或按“试验”按钮）时，应发出音响和所有光字牌光报警，按消音按钮，音响应消失，所有光字牌变为平光；&#x0D;&#x0A;（3）当模拟触点动作时，相对应的光字牌应闪亮，并发出音响报警，按消音按钮，音响应消失，光字牌闪光转为平光。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>试述虚假水位是怎样造成的？它对水位自动调节有何影响？</desc>
+        <ans>虚假水位是由于汽包内压力变化造成的。汽包内部压力是随蒸汽负荷变化及锅炉工况而变化的，如当锅炉燃烧强度未变，而负荷突然增加，需从汽包内多取出一部分蒸汽量，水位应下降，但因此时燃料未及时增加，势必引起汽包压力下降，使整个汽水混合物的体积增大，结果反使水位升高了。这与物质量平衡对水位的影响规律相反，故称为虚假水位。待燃料增加后，压力才能逐步恢复额定值，假水位现象才逐步消除。&#x0D;&#x0A;虚假水位有使给水量向与负荷变化方向相反向变化的趋势，造成错误的调节动作。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>说明炉膛安全监控保护装置的投入必须具备哪些条件？</desc>
+        <ans>炉膛安全监视保护装置必须具备下列条件方可投入运行：&#x0D;&#x0A;（1）炉膛压力取压装置、脉冲管路等连接牢固，严密，畅通；&#x0D;&#x0A;（2）压力开关、传感器、风压表等应处于完好状态，越限报警和保护动作值整定正确，动作可靠；&#x0D;&#x0A;（3）火焰检测器安装正确牢固，周围温度不得超过允许值；&#x0D;&#x0A;（4）火焰探头的冷却风系统运行正常，风压正常；&#x0D;&#x0A;（5）炉膛安全监视保护系统的逻辑功能正确无误；&#x0D;&#x0A;（6）整套系统的静态试验和动态试验合格。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>汽轮机控制的内容有哪些？</desc>
+        <ans>一个完善的汽轮机控制系统包括以下功能系统：&#x0D;&#x0A;（1）监视系统。监视系统是保证汽轮机安全运行的必不可少的设备，它能够连续监视汽轮机各参数的变化。汽轮机参数监视通常由DAS系统实现，测量结果同时送往调节系统作为限制条件，送往保护系统作为保护条件，送往顺序控制系统作为控制条件；&#x0D;&#x0A;（2）保护系统。保护系统的作用是当电网或汽轮机本身出现故障时保护装置根据实际情况迅速动作，使汽轮机退出工作，或者采取一定措施进行保护，以防止事故扩大或造成设备损坏。大容量汽轮机保护内容有超速保护、低油压保护、位移保护、胀差保护、低真空保护、振动保护等；&#x0D;&#x0A;（3）调节系统。汽轮机的闭环调节系统包括转速调节系统、功率系统调节、压力调节系统等。&#x0D;&#x0A;（4）热应力在线监视系统。热应力无法直接测量，通常是用建立模型的方法通过测取汽轮机某些特定点的温度值来间接计算热应力的。热应力计算结果除用于监视外，还可以对汽轮机升速率和变负荷率进行较低较正；&#x0D;&#x0A;（5）汽轮机自启停控制系统。汽轮机自启停控制该系统能够完成盘车、抽真空、升速并网、带负荷、带满负荷以及甩负荷和停机的全部过程。可实现汽轮机自启停的前提条件是各个必要的控制系统应配备齐全，并且可以正常投运。这些系统为自动调节系统、监视系统、热应力计算系统以及旁路控制系统等；&#x0D;&#x0A;（6）液压伺服系统。液压伺服系统包括汽轮机供油系统和液压执行机构两部分。供油系统向液压执行机构提供压力油。液压执行机构由电液转换器、油动机、位置传感器等部件组成，其功能是根据电调系统的指令去挂号信相应的阀门动作。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>试论述大型单元制机组采用协调控制系统的必要性。</desc>
+        <ans>大功率都采用中间再热和单元制，其控制方式和母管制机组比有很大区别。从电网角度看，现代单元制机组作为一整体满足电网负荷要求。这种要求一般有三种方式：电网调度的负荷分配指令、机组值班员指令、电网频率要求指令。无论哪种指令改变，都要求机组迅速进行调整，改变出力，适应负荷要求。采用中间再热的单元制机组，庞大的中间再热容积使得汽轮机中低压缸功率滞后，加上锅炉的热惯性大，使得汽轮发电机组的一次调频能力降低。&#x0D;&#x0A;从运行的角度讲，机组对负荷要求的快速响应能力必须建立在不能危及机组本身运行稳定性的基础上。如果机组自身尚处于不稳定状态，负荷适应能力则无从谈起。机组的不稳定性是由于汽轮机与锅炉的动态特性的差异引起的。锅炉的热惯性大，动态响应速度慢，而汽轮机将热能转变为机械能为迅速得多。这种差异使得当外界负荷发生变化时，机前压力迅速降低，破坏机组运行的稳定性。机前压力的波动也和锅炉的蓄热能力有关，锅炉的蓄热能力越大，机前压力波动越小。&#x0D;&#x0A;综上所述，为了保证机炉的配合动作，各自发挥其优势，共同满足负荷要求，并保证机炉间的相互兼顾，汽压稳定，应设置协调控制系统。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>分散控制系统如何组成？并说出各部分功能。</desc>
+        <ans>分散控制系统由以微处理器为核心的基本控制单元、数据采集站、高速数据通道、上位监视和管理计算机、网间连接器以及CRT操作站等组成。&#x0D;&#x0A;基本控制单元是直接控制生产过程的硬件和软件的有机结合体。是分散控制系统的基础，它可以实现闭环模拟量控制和顺序控制，完成常规模拟仪表所能完成的一切功能。&#x0D;&#x0A;数据采集站主要用来采集生产现场数据，以满足系统监视、控制以及生产管理与决策计算的需要。有的分散控制系统没有专门的数据采集站，而由基本控制单元完成数据采集和生产过程控制的双重任务。&#x0D;&#x0A;高速数据通道是信息交换的媒介，它将分散在不同的物理位置上招待不同的任务的各基本控制单元、数据采集站、上位计算机、CRT操作站连接起来，形成一个信息共享的控制和管理系统。&#x0D;&#x0A;上位计算机用于对生产过程的管理和监督控制，直协调各基本控制单元的工作，实现生产过程最优化控制，并在大容量存贮器中建立数据库。有的分散控制系统没有设置上位计算机，而是把它的功能分散到系统的其它一些工作站中，建立分散的数据库，并为整个系统公用，各个工作站都可以透明的访问它。&#x0D;&#x0A;CRT操作站是用户与系统进行信息交换的设备，它以屏幕窗口或文件表格的形式提供人与过程、人与系统的界面，可以实现操作指令输入、各种画面显示、控制系统组态、系统仿真等功能。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>协调控制系统的主要任务是什么？协调控制系统由哪些部分组成？</desc>
+        <ans>协调控制系统的主要任务是：&#x0D;&#x0A;（1）根据机炉具体运行状态及控制要求，选择协调控制的方式和恰当的外部负荷指令；&#x0D;&#x0A;（2）对外部负荷指令进行恰当处理，使之与机炉的动态特性及负荷变化能力相适应，对机炉发出负荷指令；&#x0D;&#x0A;（3）根据不同的负荷指令，锅炉确定相应的风、水、煤量，汽轮机确定相应的高、中压调节阀开度。&#x0D;&#x0A;协调控制系统主要有二部分构成：&#x0D;&#x0A;第一部分是协调控制主控制系统，包括负荷指令处理器和机炉主控制器；第二部分是机、炉独立控制系统，即：锅炉燃烧率控制系统、锅炉风量控制系统、锅炉给水控制系统、汽轮机阀位控制系统。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>叙述机、炉协调控制的过程。</desc>
+        <ans>在机炉协调控制的方式中，锅炉与汽轮机控制装置同时接受功率与压力偏差信号。在稳定工况下，机组的实发功率等于给定功率，主汽压力等于给定压力，其偏差均为零。当外界要求机组增加出力时，使给定功率信号（出力指令）加大，出现正的偏差信号，这一信号一方面加到汽轮机主控制器上，会导致汽轮机调速门开大，增加汽轮机出力；另一方面加到锅炉主控制器上，会导致燃料量增加，提高锅炉蒸汽量。汽轮机调速门的开大会立即引起主汽压力下降，这时锅炉虽已增加了燃料，但锅炉汽压的变化有一定的延迟，因而此时会出现正的压力偏差信号（实际汽压低于给定汽压）。压力偏差信号按正方向加在锅炉主控制器上，促使燃料控制阀开得更大；压力偏差信号按负方向作用在汽轮机主控制器上，使调速汽门向关小的方向动作，使得汽压恢复正常。正的功率偏差使调速汽门开大，而开大的结果导致产生正的压力偏差，又使调速汽门关小，因此，这两个偏差对调速汽门作用的结果使调速汽门在开大到一定的程度后停在某一位置上。同时调速汽门在功率偏差和主汽压力恢复的作用下，提高机组负荷，使功率偏差也缩小，最后功率偏差与压力偏差均趋于零，机组在新的负荷下达到新的稳定状态。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>协调控制系统中负荷指令处理器的作用是什么？它由哪些部分组成？</desc>
+        <ans>负荷指令处理器由负荷指令信号运算、机组可能最大出力计算、机组实际出力计算、三部分组成。&#x0D;&#x0A;负荷指令处理器作用是：&#x0D;&#x0A;（1）根据机组的运行状态，选择不同的外部负荷指令信号； &#x0D;&#x0A;（2）根据本机组辅机发生故障的运行状态、运行台数以及燃烧率偏差信号计算出机组最大允许出力； &#x0D;&#x0A;（3）根据机组金属部件热应力状况计算出达到目标负荷所需要的负荷变化和起始变化幅度； &#x0D;&#x0A;（4）迫降功能。在运行中，当机、炉部分辅机发生故障时，其最大允许负荷将发生阶跃变化，由于100％降致50％或某一指定值在甩负荷过程中，还根据不同设备的故障类型规定适当的甩负荷速度；&#x0D;&#x0A;（5）负荷限制功能。当机组运行参数不利于支持设备时，对机组负荷加以限制。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>协调控制系统中采取哪些技术措施解决锅炉与汽机响应负荷变化速度上的差异？</desc>
+        <ans>单元机组中锅炉与汽机在响应负荷变化速度上有很大的差异，锅炉适应负荷较慢，而汽轮机适应负荷是依靠释放锅炉的部分储热，以汽压的波动为代价的，适应负荷较快。为解决这一矛盾，协调控制系统中采用前馈调节方式，当给定功率变化时，把其给定功率的微分信号送到锅炉控制系统，使锅炉尽快适应负荷。为避免汽轮机调门动作时汽压波动太大，设置汽压偏差限制器，当压力给定与机前压力偏差大于一定数值时，汽阀就停止动作。只有当锅炉燃烧率的改变，输出能量增加，使压力给定与机前压力偏差小于这一数值 时，汽机调节阀继续动作，最终使机组功率等于功率给定，压力等于压力给定。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>叙述单元机组锅炉跟随的负荷调节方式。</desc>
+        <ans>在单元机组锅炉跟随的负荷调节方式中，当中调来的指令要求改荷改变时，首先改变汽轮机进汽阀的开度，进而改变汽轮机的进汽量，使发电机的输出功率迅速与所要求的负荷一致。当汽轮机的进汽阀开度改变时，锅炉出口的汽压随即改变，通过汽压调节器加入锅炉的燃料量和相应的送风量、给水量。这种方式能很快适应负荷，但汽压变动大。在大单元机组中，锅炉的蓄热能力相对减少，对于较小的负荷变化，在汽轮机允许的范围内利用锅炉的蓄热以迅速适应负荷是有可能的，这对电网的频率控制也是有利的。但是在负荷变动太大时，汽压变化就太大，会影响锅炉的正常运行。尤其是对于直流锅炉，蓄热能力比汽包炉小的多，采用锅炉跟随的方式上适应较大的负荷变化，实际上是不可能的。&#x0D;&#x0A;当单元机组中锅炉设备运行正常，而机组的输出功率受到汽轮机的限制时，可采这种锅炉跟随的方式。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>叙述单元机组汽机跟随的负荷调节方式。</desc>
+        <ans>在单元机组汽机跟随的负荷调节方式中，当指令要求荷改变时，首先改变锅炉的锅炉的燃料量和相应的送风量、给水量。而当锅炉的蒸发量开始改变，出口汽压开始改变后，才通过汽压调节器去改变汽轮机进汽阀的开度，从而改变汽轮机的进汽量，最后使发电机的输出功率迅速与所要求的负荷一致。在这个系统中，由锅炉调节负荷 ，而由汽轮机调节汽压，因此汽压变化小，但由于没有利用锅炉的蓄热，而只有当锅炉燃烧率盛行蒸发量改变后，才改变机组的出力，这样适应负荷的变化能力较差，这个系统适合于承担基本负荷的单元机组或当机组刚投入运行经验不够时，采用这个系统可使汽压稳定为机组稳定运行条件。当单元机组中汽轮机设备运行正常，而机组的输出功率受到锅炉的限制时，也可采这种汽轮机跟随的方式。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>叙述机组协调控制投入和切除条件及投、退协调控制的操作。</desc>
+        <ans>协调投入的条件：&#x0D;&#x0A;（1）机组运行运行稳定；&#x0D;&#x0A;（2）锅炉主控制器在自动方式下，主汽压力波动不大；&#x0D;&#x0A;（3）汽机主控制器在自动方式下，调门调整自如；&#x0D;&#x0A;（4）DEH在遥控方式。&#x0D;&#x0A;协调切除的条件：&#x0D;&#x0A;（1）锅炉或汽机主控制器在手动方式；&#x0D;&#x0A;（2）无CCS请求；&#x0D;&#x0A;（3）电气主开关断开；&#x0D;&#x0A;（4）DEH切本机方式；&#x0D;&#x0A;（5）MFT动作。&#x0D;&#x0A;协调投入操作：&#x0D;&#x0A;（1）机组运行稳定，投入炉主控制器自动；&#x0D;&#x0A;（2）投入DEH“遥控”；&#x0D;&#x0A;（3）投入机主控制器自动。选择“CCS1”或“DEB”方式；&#x0D;&#x0A;协调退出操作：&#x0D;&#x0A;DEH退遥控，炉主控制器退自动或机主控制器退自动均导致协调退出。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>火力发电厂中有哪些热工自动常规调节系统？</desc>
+        <ans>目前火力发电厂热工自动常规调节系统主要有：&#x0D;&#x0A;（1）锅炉负荷调节系统；&#x0D;&#x0A;（2）燃料量调节系统；&#x0D;&#x0A;（3）给水调节系统；&#x0D;&#x0A;（4）主、再热蒸汽调节系统；&#x0D;&#x0A;（5）炉膛负压调节系统（引风量调节系统）；&#x0D;&#x0A;（6）磨煤机出口温度调节系统；&#x0D;&#x0A;（7）除氧器水位调节系统；&#x0D;&#x0A;（8）高、低加水位调节系统；&#x0D;&#x0A;（9）凝汽器水位调节系统&#x0D;&#x0A;（10）吹灰蒸汽压力调节系统；&#x0D;&#x0A;（11）轻油压力调节系统；&#x0D;&#x0A;（12）润滑油调节系统；&#x0D;&#x0A;（13）汽封压力调节系统；&#x0D;&#x0A;（14）除氧器压力调节系统；&#x0D;&#x0A;（15）凝汽器再循环压力调节系统；&#x0D;&#x0A;（16）给水泵再循环流量调节系统；&#x0D;&#x0A;（17）功率调节系统、转速调节系统等。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>叙述锅炉控制系统的主要内容</desc>
+        <ans>锅炉控制系统包括模拟量控制系统、辅机顺序控制系统，以及锅炉燃烧管理系统。&#x0D;&#x0A;（1）模拟量闭环控制系统包括：A 燃料控制系统：由燃料主控系统发出燃料指令，改变进入炉膛的燃料量，以保证主汽压力稳定；B 二次风量控制系统：通过对送风机动叶的调节，控制进入炉膛的二次风量，保持最佳过剩空气系数，以达到最佳燃烧工况；C炉膛压力调节系统：通过对引风机静叶或动叶的调节，控制从炉膛抽出的烟气量，从而保持炉膛压力在设定值；D蒸汽温度控制系统：包括对主汽温度控制和再热蒸汽温度的控制，其控制质量直接影响到机组的安全与经济运行；E 给水控制系统：调节锅炉的给水量，以适应机组负荷的变化，保持汽包水位稳定或者保持在不同锅炉负荷下的最佳燃水比；　&#x0D;&#x0A;（2）磨煤机控制系统：包括磨煤机出口温度控制系统，磨煤机风量控制系统，磨煤机煤位控制系统等；&#x0D;&#x0A;（3）辅机顺控系统：一般都以某一辅机为主，在启停过程中与它相关的设备按一定的逻辑或顺序进行动作，以保证整个机组安全启停，主要有如下系统：A 送风机启停顺序控制系统；B引风机顺序控制系统；C空预器顺序控制系统；D一次风机顺序控制系统；E磨煤机顺序控制系统；F锅炉汽水顺序控制系统；&#x0D;&#x0A;（4）锅炉安全监控系统：主要功能是进行锅炉吹扫、锅炉点火、燃油泄漏试验、煤燃烧器控制。一旦运行出现危险,系统控制主燃料跳闸(MFT)，切断进入锅炉的一切燃料。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>叙述机组在CCS协调下，闭锁负荷增、减的条件</desc>
+        <ans>CCS协调下，有下列情况之一者闭锁负荷增。&#x0D;&#x0A;（1）负荷指令超过负荷设定的高限；&#x0D;&#x0A;（2）燃料指令在最大；&#x0D;&#x0A;（3）送风机或引风机指令在最大；&#x0D;&#x0A;（4）给水泵指令在最大；&#x0D;&#x0A;（5）中断使能（按下负荷“保持”）。&#x0D;&#x0A;CCS协调下，有下列情况之一者闭锁负荷减&#x0D;&#x0A;（1）负荷指令低于负荷设定的低限；&#x0D;&#x0A;（2）燃料指令在最小；&#x0D;&#x0A;（3）送风机或引风机指令在最小；&#x0D;&#x0A;（4）给水指令在最小；&#x0D;&#x0A;（5）中断使能（按下负荷“保持”）。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>叙述汽机主控自动不能投入及汽机主控闭锁增、减确良的条件。</desc>
+        <ans>当满足下列条件之一者，不能投入“汽机主控自动”：&#x0D;&#x0A;（1）功率偏差大；&#x0D;&#x0A;（2）调门偏差大；&#x0D;&#x0A;（3）主汽压力偏差大或机前压力高；&#x0D;&#x0A;（4）MFT动作；&#x0D;&#x0A;（5）DEH遥控未投。&#x0D;&#x0A;当满足下列条件之一者，“汽机主控闭锁增”成立：&#x0D;&#x0A;（1）汽机高调门在上限；&#x0D;&#x0A;（2）高调门指令在上限；&#x0D;&#x0A;（3）燃料指令在上限；&#x0D;&#x0A;（4）送风机指令在上限。&#x0D;&#x0A;当满足下列条件之一者，“汽机主控闭锁减”成立：&#x0D;&#x0A;（1）汽机高调门在下限；&#x0D;&#x0A;（2）高调门指令在下限；&#x0D;&#x0A;（3）燃料指令在下限；&#x0D;&#x0A;（4）送风机指令在下限。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>叙述单元机组AGC投、退入条件及操作。</desc>
+        <ans>AGC投入条件：&#x0D;&#x0A;（1）AGC的投入按中调值班员的命令执行；&#x0D;&#x0A;（2）AGC投入前应检查确认协调投入，机组运行稳定；&#x0D;&#x0A;（3）AGC信号可用；&#x0D;&#x0A;（4）机组负荷在规定范围内。&#x0D;&#x0A;投入操作：&#x0D;&#x0A;在“负荷控制中心”按下“AGC投入”按纽即可。AGC投入后，监盘人员应注意根据负荷情况适当修改主汽压力设定值，保持机组各参数的稳定。&#x0D;&#x0A;AGC退出条件：&#x0D;&#x0A;（1）AGC的退出按中调值班员的命令执行；&#x0D;&#x0A;（2）协调控制退出；&#x0D;&#x0A;（3）ADS指令信号坏质量或ADS指令信号10s前后偏差大。&#x0D;&#x0A;（4）阀门活动实验；&#x0D;&#x0A;（5）发电机主开关断开。&#x0D;&#x0A;退出操作：在“负荷控制中心”按下“AGC切除”按扭即可。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>DEH自动控制系统接受的信号有哪些？</desc>
+        <ans>DEH自动控制系统接受以下信号：&#x0D;&#x0A;（1）转速或负荷的给定信号；&#x0D;&#x0A;（2）转速反馈信号：（鉴于转速的重要性，系统接受两个数字信号和一个模拟系统经A/D转换来的数字信号，经选择一个最可靠的转速作为转速反馈信号）；&#x0D;&#x0A;（3）调节级压力信号：作以代表汽轮机功率的反馈信号；&#x0D;&#x0A;（4）主汽阀前主汽压力信号：有于保证汽轮机进汽压力不低于某一限定值，因而实际上就是负荷限制信号；&#x0D;&#x0A;（5）模拟系统的手动信号：用于模拟控制。当手动操作时，数字系统也对模拟系统进行跟踪，以保证手动/自动变换过程中的无扰动切换。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>DEH控制系统有哪些可供选择的运行方式？</desc>
+        <ans>为了确保控制的可靠，DEH控制系统有四种运行方式，机组可在其中任一方式下运行，其顺序和关系是：二级手动←→一级手动←→操作员自动←→汽轮机自动ATC，紧邻两种运行方式相互跟踪，并可做到无扰切换。此外，居于二级手动以下还有一种硬手操作，作为二级手动的备用，但两者无跟踪，需要对位操作后才能切换。&#x0D;&#x0A;二级手动运行方式是跟踪系统中最低级的运行方式，可作为备用运行方式。该级全部由成熟的常规模拟元件组成，以便数字系统故障时，自动转入模拟系统控制。确保机组的安全可靠。&#x0D;&#x0A;一级手动是一种开环运行方式，运行人员在操作盘上按键就可以控制各阀门开度，各按钮之间是逻辑互锁，同时具有操作超速保护控制器（OPC）、主汽压力控制器（TPC）、外部触点返回RUNBACK和脱扣等保护功能。该方式 作为汽轮机自动运行方式的备用。&#x0D;&#x0A;操作员自动是DEH调节系统最基本的运行方式，用这种方式实现汽轮机转速和负荷的闭环控制，并具有各种保护功能。该系统设有双机容余，具有跟踪和自动切换功能，也可以强迫切换。在该方式下，转速和目标负荷及其速率，均由操作员给定。&#x0D;&#x0A;汽轮机自动（ATC）是最高一级运行方式，此时包括转速和目标负荷及其速率，均不来自操作员，而是由计算机程序或外部设备进行控制。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>什么是功频电液调节中的反调现象？克服反调现象可采取哪些措施？</desc>
+        <ans>电机的输出功率突然变大，而转子的转速因转子惯性的影响瞬间变化很小，转速信号也变化较小时，功频电液调节系统不但不会开大调门来增大负荷，相反即会因当发电机功率大于给定值致关小阀门，这样是所谓“反调现象”。&#x0D;&#x0A;“反调现象”的产生从根本上讲是因为功率信号变化快于转速信号的变化，为了消除“反调”，可采取下列措施：&#x0D;&#x0A;（1）除转速信号外，增加采用转速的微分信号；&#x0D;&#x0A;（2）在功率测量中加惯性延迟；&#x0D;&#x0A;（3）在功率信号中加负的功率微分信号；&#x0D;&#x0A;（4）在调节系统中增加一些电网故障的逻辑断，以区别是甩负荷从电网解列，还是电网瞬时故障暂时失去负荷，在确定电负荷突然变化的原因后，决定调解系统动作方式。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>什么是“单阀”与“多阀”？运行中如何正确运用这一功能？</desc>
+        <ans>单阀/多阀控制即节流/喷嘴调节。所谓节流调节，即把高压调门一同进入同步控制。在喷嘴调节运行方式下，调节汽阀按预先设定的顺序逐个开启，仅有一个调节汽阀处于节流状态。&#x0D;&#x0A;单阀/顺序阀切换的目的是为了提高机组的经济性和快速性，实质是通过喷嘴的节流配汽（单阀控制）和喷嘴配汽（顺序阀控制）的无扰切换，解决变负荷过程中均匀加热与部分负荷经济性的矛盾。单阀方式下，蒸汽通过高压调节阀和喷嘴室，调节级动叶全周进汽，受热均匀，有效地改善了叶片的应力分配，使机组可以较快改变负荷；但由于所有调节阀均部分开启，节流损失较大。顺序阀中由于仅有一个调节汽阀处于节流状态节流损失大大减小，机组运行的热经济性得以明显改善，但同时对叶片存在产生冲击，容易形成部分应力区，机组负荷改变速度受到限制。因此，冷态启动或低参数下变负荷运行期间，采用单阀方式能够加快机组的热膨胀，减小热应力，延长机组寿命；额定参数下变负荷运行时，机组的热经济性是电厂运行水平的考核目标，采用顺序阀方式能有效地减小节流损失，提高汽机热效率。&#x0D;&#x0A;对于定压运行带基本负荷的工况，调节阀接近全开状态，这时节流调节和喷嘴调节的差别很小，单阀/顺序阀切换的意义不大。对于滑压运行调峰的变负荷工况，部分负荷对应于部分压力，调节阀也近似于全开状态，这时阀门切换的意义也不大。对于定压运行变负荷工况，在变负荷过程中希望用节流调节改善均热过程，而当均热完成后，又希望用喷嘴调节来改善机组效率，因此这种工况下要求运行方式采用单阀／顺序阀切换来实现两种调节方式的无扰切换。&#x0D;&#x0A;当DEH画面上的“单阀”灯亮时，则说明控制器正处于节流调节方式。此时运行人员可按下“顺序阀”键，进行两种运行方式的切换，“单阀”灯灭，“顺序阀”灯亮后完成切换。同样运行人员也可以从“顺序阀”向“单阀”切换。在阀切换正在进程的过程中，想再进行相反的切换，计算机将不予响应，只有等切换结束后再进行。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>什么是TPC控制?它有哪些运行方式?</desc>
+        <ans>TPC控制即主汽压控制,是指运行人员能投切主蒸汽压力控制软件控制主蒸汽压力不大于某一给定值。可实现低汽压保护及机调压功能。&#x0D;&#x0A;当DEH处于自动时，运行人员机选择“操作员TPC”、“固定TPC”、“遥控TPC”三种方式之一进行主汽压TPC控制。&#x0D;&#x0A;其中“固定TPC”是程序内固定主汽压力。当额定负荷运行时，主汽压力下降至设定值压力，压力限制器投入工作，随着主汽压力的继续下降，将调节汽阀逐渐关小，以求主汽压复升到设定压力以上。否则，主汽压力降至第二设定值，将调节汽阀关至空负荷位置。只要压力回升，调阀将会重新打开。&#x0D;&#x0A;“操作员TPC”和“遥控TPC”的主汽压力分别由操作员和CCS输入主汽压力设定的值。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>汽轮机的OPC和AST保护是如何实现的？</desc>
+        <ans>汽轮机的OPC和AST保护是通过DEH控制器所控制的OPC-AST电磁阀组件实现的。&#x0D;&#x0A;OPC—AST电磁阀组件由两只并联布置的超速保护电磁阀、两个逆止阀、四个串并联布置的自动停机危急遮断保护电磁阀、一个控制块构成超速危急遮断保护电磁阀组件，这个组件布置在高压抗燃油系统中。它们是由DEH控制器的OPC部分和AST部分所控制。&#x0D;&#x0A;正常运行时两个OPC电磁阀是失电常闭的，封闭了OPC母管的泄油通道，使高压调节汽阀执行机构活塞杆的下腔建立起油压，当转速超过%103%额定转速时，OPC动作信号输出，这两个电磁阀就被励磁打开，使OPC母管油液经无压回油管路排至EH油箱。这样相应的调节阀执行机构上的卸载阀就快速开启，使各高压调节阀迅速关闭。&#x0D;&#x0A;四个串并联布置的AST电磁阀是由ETS系统所控制，正常运行时这四个AST电磁阀是得电关闭的，封闭了AST母管的泄油通道，使主汽门执行机构和调节阀门执行机构活塞杆的下腔建立起油压，当机组发生危急情况时，AST信号输出，这四个电磁阀就失电打开，使AST母管油液经无压回油管路排至EH油箱。这样主汽门执行机构和调节阀门执行机构上的卸荷阀就快速打开，使各个汽门快速关闭。&#x0D;&#x0A;四个AST电磁阀布置成串并联方式，其目的是为了保证汽轮机运行的安全性及可靠性，AST/1和AST/3、AST/2和AST/4每组并联连接，然后两组串联连接，这样在汽轮机危急遮断时每组中只要有一个电磁阀动作，就可以将AST母管中的压力油泄去，进而保证汽轮机的安全。在复位时，两组电磁阀组的电磁阀，只要有一组关闭，就可以使AST母管中建立起油压，使汽轮机具备起机的条件。&#x0D;&#x0A;AST油和OPC油是通过AST电磁阀组件上的两个逆止阀隔开的，这两个逆止阀被设计成：当OPC电磁阀动作时，AST母管油压不受影响。当AST电磁阀动作时，OPC母管油压也失去。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>锅炉燃烧器程序（顺序）控制系统的主要功能有哪些？</desc>
+        <ans>锅炉燃烧器程序控制系统的主要功能有：&#x0D;&#x0A;（1）点火准备：对锅炉的所有点火条件进行校核和确认；&#x0D;&#x0A;（2）点火器点火控制：在现场和中央操作盘发出操作命令，通过程序控制装置自动进行点火器点熄火的程序操作；&#x0D;&#x0A;（3）燃烧器点熄火控制：在现场和中央操作盘发出操作命令，通过程序控制装置自动进行燃烧器点熄火的程序操作，包括重油燃烧器、煤粉燃烧器（磨煤机和给煤机的启停）、煤气燃烧器等燃烧系统的控制；&#x0D;&#x0A;（4）自动火焰检测：检测点火器、燃烧器火焰信号通过检测电路，变换为触点信号送至主逻辑控制柜内的逻辑电路中；&#x0D;&#x0A;（5）风箱挡板控制：用来控制每个燃烧器的进风量（配风器），以提高锅炉燃烧器的经济性；&#x0D;&#x0A;（6）状态监视网络：向运行人员发出各种操作的回报信号和报警监视信号，进行燃烧器系统的状态监视和操作指导；&#x0D;&#x0A;（7）自动缩减燃料量：当机组发生各种事故时，接受机组联锁保护系统的指令，自动进行缩减燃料量；&#x0D;&#x0A;（8）作为控制计算机的一个子回路：在机组分级控制中，作为局部控制级的一个重要装置，可以接受计算机自启停指令，在计算机的控制下自动完成锅炉点火和重油暖炉原控制（煤粉燃烧器需由人工控制）。并且在机组启停和运行过程中，控制系统还向计算机回报各种工况信号。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>DEH系统阀门管理的主要功能有哪些？</desc>
+        <ans>DEH系统阀门管理的主要功能有：&#x0D;&#x0A;（1）保证机组在两种控制方式之间切换时，负荷基本上保持不变；&#x0D;&#x0A;（2）实现阀门流量持性的线性化，并将某一种控制方式下的流量请求值转换成阀门的开度信号；&#x0D;&#x0A;（3）在阀门控制方式转换期间，如流量请求值有变化，阀门管理程序能适应流量的改变，以满足新的流量请示值的要求；&#x0D;&#x0A;（4）保证DEH系统能均衡地从手动方式切换到自动方式；&#x0D;&#x0A;（5）当主汽压力改变时，为汽轮机的进汽量提供前馈信号；&#x0D;&#x0A;（6）提供最佳的阀位位置。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>锅炉主燃料跳闸一般包括哪些条件？</desc>
+        <ans>锅炉主燃料跳闸条件一般包括：&#x0D;&#x0A;（1）硬手操跳闸；&#x0D;&#x0A;（2）软手操跳闸；&#x0D;&#x0A;（3）炉膛火焰全无；&#x0D;&#x0A;（4）临界火焰消失；&#x0D;&#x0A;（5）角火焰消失；&#x0D;&#x0A;（6）燃料全部中断；&#x0D;&#x0A;（7）送风量小于额定风量规定最底值；&#x0D;&#x0A;（8）炉膛压力高保护；&#x0D;&#x0A;（9）炉膛压力低保护；&#x0D;&#x0A;（10）汽包水位高保护；&#x0D;&#x0A;（11）汽包水位低保护；&#x0D;&#x0A;（12）火检冷却风压低保护；&#x0D;&#x0A;（13）送风机全部不运行；&#x0D;&#x0A;（14）引风机全部不运行；&#x0D;&#x0A;（15）给水泵全部不运行；&#x0D;&#x0A;（16）主蒸汽温度高保护；&#x0D;&#x0A;（17）再热蒸汽出口温度高保护；&#x0D;&#x0A;（18）主汽压力高保护；&#x0D;&#x0A;（19）汽轮机跳闸。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>直流锅炉调节特性是什么？</desc>
+        <ans>在直流锅炉中，给水变成过热蒸汽是一次完成的，这样锅炉的蒸发量不仅取决于燃烧率，同时也决定于给水流量。为了满足负荷变化的需要，给水调节和燃烧调节是密切相关而不能独立。而且给水量和燃烧率的比例改变时，锅炉的各个受热面的分界就发生移动。由于受热面不固定，因此当给水量和燃烧率的比例改变时，过热汽温将有剧烈变化。对于一般高压锅炉，燃烧率和给水量的比例变化为1%，将使过热汽温度变化约10℃。因此对于直流锅炉来说，调节汽温的根本手段是使燃烧率和给水量成适当比例。应该指出，在直流锅炉中，也采用喷水减温作为调节汽温的手段，喷水量的改变能迅速改变汽温，但不能依靠喷水作为调节汽温的主要手段。在稳态时，必须使燃烧率和给水流量保持适当的比例，而使喷水量维持设计时的数值（保持适当的喷水），以便在动态过程中喷水量可以少量地增或减，有效地、暂时地改变汽温。&#x0D;&#x0A;因此，直流锅炉的给水调节、燃烧调节和汽温调节不象汽包炉那样相对独立，而是密切关联，这就是直流锅炉调节的主要特性</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>叙述引进或国产大型机组FSSS系统的主要功能？</desc>
+        <ans>炉膛安全监控制系统FSSS是现代大型锅炉设备使用的保护控制系统。它是根据一定的程序以及设备的允许条件完成锅炉的启动、升负荷、正常运行监视和事故连锁保护等功能，来提高设备的可靠性和运行的经济性。&#x0D;&#x0A;FSSS系统由火焰检测、油层控制、煤层控制、电源装置和主逻辑柜构成。它具有以下主要功能：&#x0D;&#x0A;（1）炉点火前和停炉后的炉膛吹扫；&#x0D;&#x0A;（2）油枪或油枪组程控；&#x0D;&#x0A;（3）燃油系统泄漏试验；&#x0D;&#x0A;（4）自动程序点火、远方点火和就地点火功能；&#x0D;&#x0A;（5）给煤机、磨煤机组程序启停和保护逻辑；&#x0D;&#x0A;（6）煤粉燃烧器控制管理；&#x0D;&#x0A;（7）火焰监视和熄火自动保护；&#x0D;&#x0A;（8）机组快速甩负荷；&#x0D;&#x0A;（9）辅机故障减负荷；&#x0D;&#x0A;（10）火焰检测器冷却风管理；&#x0D;&#x0A;（11）首次跳闸故障记忆显示, 按顺序打印出产生事故的各种原因及参数变化情况。&#x0D;&#x0A;FSSS包含在DCS控制系统之中，系统处理模块应为冗余配置, 所有设备本身及接口可进行自检，保证装置的可靠性。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>现场总线控制系统(FCS)与分散控制系统(DCS)有哪些区别?</desc>
+        <ans>FCS系统的核心是总线协议；FCS系统的基础是数字智能现场装置；FCS系统的本质是信息处理现场化。因此，它和DCS的主要区别为：&#x0D;&#x0A;（1）DCS系统是个大系统，其控制器功能强而且在系统中的作用十分重要，数据公路更是系统的关键，所以，必须整体投资一步到位，事后的扩容难度较大。而FCS功能下放较彻底，信息处理现场化，数字智能现场装置的广泛采用，使得控制器功能与重要性相对减弱。因此，FCS系统投资起点低，可以边用、边扩、边投运；&#x0D;&#x0A;（2）DCS系统是封闭式系统，各公司产品基本不兼容。而FCS系统是开放式系统，用户可以选择不同厂商、不同品牌的各种设备连入现场总线，达到最佳的系统集成；&#x0D;&#x0A;（3）DCS系统的信息全都是二进制或模拟信号形成的，必须有D/A与A/D转换。而FCS系统是全数字化，就免去了D/A与A/D变换，高集成化高性能，使精度可以从±0.5%提高到±0.1%；&#x0D;&#x0A;（4）FCS系统可以将PID闭环控制功能装入变送器或执行器中，缩短了控制周期，目前可以从DCS的每秒2-5次，提高到FCS的每秒10-20次，从而改善调节性能；&#x0D;&#x0A;（5）DCS它可以控制和监视工艺全过程，对自身进行诊断、维护和组态。但是，由于自身的致命弱点，其I/O信号采用传统的模拟量信号，因此，它无法在DCS工程师站上对现场仪表（含变送器、执行器等）进行远方诊断、维护和组态。FCS采用全数字化技术，数字智能现场装置发送多变量信息，而不仅仅是单变量信息，并且还具备检测信息差错的功能。FCS采用的是双向数字通信现场总线信号制。因此，它可以对现场装置（含变送器、执行机构等）进行远方诊断、维护和组态；&#x0D;&#x0A;（6）FCS由于信息处理现场化，与DCS相比可以省去相当数量的隔离器、端子柜、I/O终端、I/O卡件、I/O文件及I/O柜，同时也节省了I/O装置及装置室的空间与占地面积。有专家认为可以省去60%；&#x0D;&#x0A;（7）与（６）同样理由，FCS可以减少大量电缆与敷设电缆用的桥架等，同时也节省了设计、安装和维护费用；&#x0D;&#x0A;（8）FCS相对于DCS组态简单，由于结构、性能标准化，便于安装、运行、维护。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>说明炉膛安全监控保护装置的投入必须具备哪些条件？</desc>
+        <ans>炉膛安全监视保护装置必须具备下列条件方可投入运行：&#x0D;&#x0A;（1）炉膛压力取压装置、脉冲管路等连接牢固，严密，畅通；&#x0D;&#x0A;（2）压力开关、传感器、风压表等应处于完好状态，越限报警和保护动作值整定正确，动作可靠；&#x0D;&#x0A;（3）火焰检测器安装正确牢固，周围温度不得超过允许值；&#x0D;&#x0A;（4）火焰探头的冷却风系统运行正常，风压正常；&#x0D;&#x0A;（5）炉膛安全监视保护系统的逻辑功能正确无误；&#x0D;&#x0A;（6）整套系统的静态试验和动态试验合格。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>给水泵小汽轮机MEH控制系统的控制方式有哪几种？它们之间是如何切换的？</desc>
+        <ans>给水泵小汽轮机MEH控制系统的控制方式有：&#x0D;&#x0A;（1）锅炉自动方式。通过把从锅炉协调控制系统CCS来的给水流量信号，转换成转速定值信号，输入转速控制回路控制小汽轮机的转速。转速控制范围是3000-6000r/min；&#x0D;&#x0A;（2）转速自动控制方式。运行人员给定目标转速，由转速闭环回路控制汽轮机的转速随给定值变化。转速控制范围是600-6600r/min；&#x0D;&#x0A;（3）手动控制方式。这是一种备用方式。当发生异常情况时，按操作盘上的阀位增加或阀位减小带灯按钮，直接控制高压调节阀和低压调节阀的开度来保持或改变汽轮机的转速，其转速控制范围在600r/min以下，但需要时，0-110%n0范围都可用。&#x0D;&#x0A;三种控制方式的切换：600r/min以下时，控制器总处于手动控制方式。启动时，按操作盘上的阀位增加带灯按钮，使调节阀开启，汽轮机升速。当转速大于600r/min时，按转速自动带按钮，便切换到转速自动控制方式。当小汽轮机的转速达到3000r/min，超速试验钥匙开关在正常位置，主机接到CCS来的允许锅炉自动投入的信号时，自动切换到锅炉自动控制方式。&#x0D;&#x0A;在锅炉自动控制方式下，若转速控制范围超出3000-6000r/min，或超速试验钥匙开关在是电气或机械位置，或CCS来的给水流量信号消失，通过软件自动地从锅炉自动控制方式切换到转速自动控制方式。当按操作盘上的手动带灯按钮，从锅炉自动控制方式或转速自动控制方式，切换手动控制方式。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>叙述运行中DCS故障的处理方法。</desc>
+        <ans>DCS是由多种硬件、软件及网络构成的系统，其故障点分布和故障分析都很复杂。但故障处理的核心思想必须明确，即保证人身和机组设备的安全。当故障已严重威胁机组安全运行或对DCS故障处理把握性不大的情况下，决不能以侥幸心理维持运行，应停机处理。&#x0D;&#x0A;DCS故障一般可以分为以下三种情况处理：&#x0D;&#x0A;（1）当全部操作员站死机或数据不更新时，如BTG（或DEH）盘参数的监视无法保证机组的安全时应按停机处理。相关须到就地操作的项目应确保正确、及时；&#x0D;&#x0A;（2）当部分部操作员站故障时，应由可用操作员站继续承担机组监控任务，此时应停止所有重大操作，同时联系仪控迅速排除故障。若故障无法排除应根据实际运行情况后酌情处理，做好相关事故预想；&#x0D;&#x0A;（3）当系统中的控制器或相应电源故障时应及时联系仪控，并按如下原则处理：&#x0D;&#x0A;1）辅机控制器或相应电源故障时，若有后备手动方式则切至后备控制。否则退出该辅机运行；&#x0D;&#x0A;2）调节回路控制器或相应电源故障时，应将自动切至手动运行。并根据处理情况采取相应措施；&#x0D;&#x0A;3）关系到机组保护的控制器或相应电源故障时，应立即通知仪控处理，并做好故障停机的事故预想。&#x0D;&#x0A;（4）在事故处理时（特别是涉及机组保护模块更换、恢复电源等操作时）应做好相关控制器被初始化的措施。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>锅炉MFT动作现象如何?MFT动作时联动哪些设备?</desc>
+        <ans>锅炉MFT动作现象：&#x0D;&#x0A;（1）MFT动作报警，光字牌亮；&#x0D;&#x0A;（2）MFT首出跳闸原因指示灯亮；&#x0D;&#x0A;（3）锅炉所有燃料切断，炉膛灭火，炉膛负压、一、二次压各段烟温下降；&#x0D;&#x0A;（4）相应的跳闸辅机报警；&#x0D;&#x0A;（5）蒸汽流量、汽压、汽温急剧下降；&#x0D;&#x0A;（6）机组功率下降。&#x0D;&#x0A;MFT动作自动联跳下列设备：&#x0D;&#x0A;（1）一次风机停，密封风机停；&#x0D;&#x0A;（2）燃油快关阀关闭，燃油回油阀关闭，油枪电磁阀关闭；&#x0D;&#x0A;（3）磨煤机、给煤机全停；&#x0D;&#x0A;（4）电除尘停运；&#x0D;&#x0A;（5）吹灰器停运；&#x0D;&#x0A;（6）汽动给水泵跳闸，电动给水泵应自启；&#x0D;&#x0A;（7）过热器、再热器减温水系统自动隔离；&#x0D;&#x0A;（8）各层助燃风挡板开启，控制切为手动。</ans>
+    </qstn>
+    <qstn type="text" cust="1">
+        <desc>热工保护反事故措施中的技术管理包括哪些内容？</desc>
+        <ans>对热工保护反事故措施中的技术管理应当特别注意做好下列工作：&#x0D;&#x0A;（1）建立健全必要的图纸资料，为了能够正确地掌握保护情况，在工作时有所依据，消灭误接线事故，应具备符合实际情况的设备布置图、原理接线、端子排出线图和各种检修试验记录等；&#x0D;&#x0A;（2）对原保护系统进行修改时，必须事先作好图纸或在原图上修改，并经领导批准；&#x0D;&#x0A;（3）现场仪表设备的标志牌、铭牌应正确齐全；&#x0D;&#x0A;（4）现场检修作业时，必须持有工作票。工作票应有详细的安全措施；&#x0D;&#x0A;（5）认真作好保护切除和投入的申请记录工作；&#x0D;&#x0A;（6）加强对职工的技术培训，经常开展技术问答和技术交流活动；&#x0D;&#x0A;（7）必须认真贯彻事故调查规程和评价规程，对所有热工保护的不正确动作，应当及时分析找出原因，提出措施并认真处理。</ans>
+    </qstn>
+</library>
