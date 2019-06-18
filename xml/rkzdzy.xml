@@ -220,7 +220,7 @@
         <opt ans="f">温度</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>P1调节器的整定参数是(   )。</desc>
+        <desc>PI调节器的整定参数是(   )。</desc>
         <opt ans="f">比例带</opt>
         <opt ans="t">比例带、积分时间</opt>
         <opt ans="f">比例带、微分时间</opt>

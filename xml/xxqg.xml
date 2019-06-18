@@ -5510,4 +5510,28 @@
         <opt ans="f">不可回收垃圾</opt>
         <opt ans="f">厨余垃圾</opt>
     </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“葡萄美酒夜光杯，欲饮琵琶马上催”，是【    】的诗作。（出题单位：南开大学文学院）</desc>
+        <opt ans="f">王昌龄</opt>
+        <opt ans="t">王翰</opt>
+        <opt ans="f">王之涣</opt>
+        <opt ans="f">王勃</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>世界上最早的国际邮展是在【    】举办的。（出题单位：中国2019世界集邮展览执委会  组织：中共武汉市委宣传部）</desc>
+        <opt ans="f">英国</opt>
+        <opt ans="t">比利时</opt>
+        <opt ans="f">法国</opt>
+        <opt ans="f">美国</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>山体崩塌是登山健身时有可能遇到的自然灾害。岩层面、裂缝面与山坡方向【    】时，更容易发生山体崩塌。（出题单位：中国体育报业总社）</desc>
+        <opt ans="t">一致</opt>
+        <opt ans="f">不一致</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1896年，游泳被列为第一届奥运会比赛项目时【    】。（出题单位：中国体育报业总社）</desc>
+        <opt ans="t">不区分泳姿</opt>
+        <opt ans="f">区分泳姿</opt>
+    </qstn>
 </library>

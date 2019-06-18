@@ -334,8 +334,9 @@
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>火力发电厂中，测量主蒸汽流量的节流装置多选用（   ） 。</desc>
-        <opt ans="f">A标准孔板； B标准喷嘴</opt>
-        <opt ans="t">长径喷嘴</opt>
+        <opt ans="f">标准孔板</opt>
+        <opt ans="t">标准喷嘴</opt>
+        <opt ans="f">长径喷嘴</opt>
         <opt ans="f">渐阔喷嘴</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
@@ -454,7 +455,8 @@
         <desc>当一套汽包水位测量装置因故障退出运行时，一般应在（   ）内恢复，最多不能超过24小时。</desc>
         <opt ans="f">4小时</opt>
         <opt ans="f">6小时</opt>
-        <opt ans="t">8小时；    12小时</opt>
+        <opt ans="t">8小时</opt>
+        <opt ans="f">12小时</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>设备送电后CRT上显示的颜色状态为 （   ）。</desc>
@@ -544,7 +546,8 @@
         <desc>在给水自动三冲量中，（   ）是前馈信号，它能有效地防止由于“虚假水位”而引起调节器的误动作，改善蒸汽流量扰动下的调节流量。</desc>
         <opt ans="f">汽包水位</opt>
         <opt ans="f">给水流量</opt>
-        <opt ans="t">蒸汽流量    D给水调节阀开度</opt>
+        <opt ans="t">蒸汽流量</opt>
+        <opt ans="f">给水调节阀开度</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>汽包水位计的配置应采用（   ）种以上工作原理共存的配置方式，以保证在任何运行工况下锅炉汽包水位的正确监视</desc>
@@ -683,7 +686,7 @@
         <desc>直流锅炉机组运行中丰存在几种比例关系，下列不成比例的是（   ）</desc>
         <opt ans="t">给水量与燃料量</opt>
         <opt ans="f">燃料量与负荷</opt>
-        <opt ans="f">；送风量与燃料量</opt>
+        <opt ans="f">送风量与燃料量</opt>
         <opt ans="f">给水量与送风量</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
