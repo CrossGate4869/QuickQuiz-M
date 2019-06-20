@@ -11,6 +11,11 @@
 			<desc>安全规程电气部分</desc>
 			<href>xml/anguidq.xml</href>
 		</item>
+		<item>
+			<desc>安全环保知识答题</desc>
+			<href>xml/aqhbzs.xml</href>
+			<password>a8b7d1b3cc5541456f3cd7af3a1b6ffd</password>
+		</item>
 	</group>
 	<group>
 		<tag>生产技术</tag>
@@ -56,6 +61,11 @@
 		<item>
 			<desc>学习强国题库</desc>
 			<href>xml/xxqg.xml</href>
+		</item>
+		<item>
+			<desc>党政工知识答题</desc>
+			<href>xml/dzgzs.xml</href>
+			<password>a8b7d1b3cc5541456f3cd7af3a1b6ffd</password>
 		</item>
 		<item>
 			<desc>2017共青团知识竞赛题库</desc>
