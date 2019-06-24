@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <key>QuickQuiz</key>
+    <title>热控OC6000e</title>
+    <qstn type="judge" cust="0">
+        <desc>执行序号对于 OC 6000e 的图形化组态软件来说是一个非常重要的参数。逻辑组态中的每页组态和每个功能块都有各自的执行序号， DPU 会根据此序号来先后计算组态中的各页和各功能块。执行序号越大，则计算优先级越高。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>DEVICE 模块输入信号优先级最高为“操作失败 OPFL”，此信号将禁止一切输出，直到被确认。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>MCS (Modulating Control System) 系统可实现汽轮机、发电机、锅炉及辅助设备启停或开关的操作，并可对某一工艺系统或主要辅机系统按一定规律进行顺序控制。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>I/O 网络是 I/O 模块与就地设备之间进行数据交换的网络， I/O 网络也可冗余配置。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当用户对 I/O 模块做了改动后，如添加/删除模块、修改模块参数等，在 I/O 模块组图标上会出现黄色不等号标志，此时必须使用“启用新配置”命令，否则新配置无效。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>OC 6000e总控软件是MPC。在启动其它任何HMI软件之前，必须首先启动总控软件，即启动了OC 6000e 实时（    ）和实时（    ），为运行其它HMI软件做好准备。</desc>
+        <blk beg="59" end="63">数据库</blk>
+        <blk beg="68" end="72">网驱动程序</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>OC 6000e 系统采用了角色管理的机制对用户权限进行统一管理，OC 6000e 系统将用户分为三个级别：（    ）、（    ）以及（    ）。</desc>
+        <blk beg="55" end="59">系统管理员</blk>
+        <blk beg="62" end="66">工程师</blk>
+        <blk beg="70" end="74">一般用户</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>对HMI站，节点属性包含四部分：（    ）、（    ）、（    ）和（    ）。</desc>
+        <blk beg="17" end="21">节点信息</blk>
+        <blk beg="24" end="28">网络信息</blk>
+        <blk beg="31" end="35">系统信息</blk>
+        <blk beg="38" end="42">点目录信息</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>DPU状态信息可以根据其在自检画面中显示的颜色判断，绿色代表（    ）状态，蓝色代表（    ）状态，黄色代表（    ）状态。</desc>
+        <blk beg="31" end="35">主控</blk>
+        <blk beg="44" end="48">副控</blk>
+        <blk beg="57" end="61">初始化</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>HMI站是面向机组运行人员的界面，可以直观、实时地获得生产过程的运行数据，安全可靠地对整个生产过程进行（    ）、（    ）、（    ）和（    ）。</desc>
+        <blk beg="52" end="56">监视</blk>
+        <blk beg="59" end="63">操作</blk>
+        <blk beg="66" end="70">控制</blk>
+        <blk beg="73" end="77">管理</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>HMI 站是系统中各人机接口站的统称，主要包括操作员站（    ）、 工程师站（    ）、 历史站（    ）、 网关接口站（    ）等。</desc>
+        <blk beg="28" end="32">OPU</blk>
+        <blk beg="40" end="44">ENG</blk>
+        <blk beg="51" end="55">HSU</blk>
+        <blk beg="64" end="68">GTW</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>页间引用必须通过特定的功能块实现，它们是 XPgAI 和 XPgDI，被引用的必须为 （    ），（    ） 或（    ）。</desc>
+        <blk beg="44" end="48">XPgAO</blk>
+        <blk beg="51" end="55">XPgDO</blk>
+        <blk beg="59" end="63">其它上网模块</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>模拟量输入功能块为（    ），其IO地址Addr的格式为（    ），功能块从一个 I/O 地址取得一个（    ）值，进行转换，将工程值结果存放在 Y中，供其它功能块读取。如果 I/O 通道（    ），则本模块状态为坏状态。</desc>
+        <blk beg="10" end="14">XAI</blk>
+        <blk beg="30" end="34">站号-卡号-通道号</blk>
+        <blk beg="54" end="58">A/D</blk>
+        <blk beg="98" end="102">有故障</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>开关量输入功能块为（    ），功能块从一个 I/O 地址取得一个 （    ）的数据，转换为（    ）值，将结果存放在 D 中，供其它功能块读取。</desc>
+        <blk beg="10" end="14">XDI</blk>
+        <blk beg="35" end="39">bit（位）</blk>
+        <blk beg="48" end="52">Bool</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>功能块TIMER模式的设置共有4种，分别为（    ）、（    ）、（    ）、（    ）、（    ）。</desc>
+        <blk beg="22" end="26">定时</blk>
+        <blk beg="29" end="33">脉冲Pulse</blk>
+        <blk beg="36" end="40">延时关TD_On</blk>
+        <blk beg="43" end="47">延时开TD_Off</blk>
+        <blk beg="50" end="54">滞后置位保持型定时器TD_OnHld</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>工程师站(    ) 是系统检修/维护工程师对生产过程进行（    ）、（    ）、（    ）、（    ）的 HMI 站。</desc>
+        <blk beg="5" end="9">Engineer Unit</blk>
+        <blk beg="30" end="34">实时监视</blk>
+        <blk beg="37" end="41">过程控制</blk>
+        <blk beg="44" end="48">设备维护</blk>
+        <blk beg="51" end="55">功能组态及调试</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>OC6000e 系统可以分为三个最基本的组成部分：（    ）、（    ）和  （    ）。</desc>
+        <blk beg="26" end="30">过程控制系统</blk>
+        <blk beg="33" end="37">网络系统</blk>
+        <blk beg="42" end="46">操作管理系统</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>触发事件可分为四类：（    ）、（    ）、（    ）、（    ）。</desc>
+        <blk beg="11" end="15">模拟量测点触发</blk>
+        <blk beg="18" end="22">开关量测点触发</blk>
+        <blk beg="25" end="29">特征字触发</blk>
+        <blk beg="32" end="36">通告触发</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>双重冗余配置的控制器在运行时分为（    ）和（    ），正常情况下两控制器同时工作，任一控制器故障不会影响系统正常运行。</desc>
+        <blk beg="17" end="21">主控制器</blk>
+        <blk beg="24" end="28">副控制器</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>Pcode 文件是一组记录（    ）的文件，控制器和 I/O 模块都拥有各自的 Pcode文件。</desc>
+        <blk beg="14" end="18">配置信息</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>连接DPU的快捷键组合为（    ），上装组态的快捷键组合为（    ），保存组态文件的快捷键组合为（    ）。</desc>
+        <blk beg="13" end="17">Ctrl+L</blk>
+        <blk beg="31" end="35">Ctrl+U</blk>
+        <blk beg="51" end="55">Ctrl+S</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>OC6000e系统的通讯网络分为（    ）、（    ）两种。</desc>
+        <blk beg="17" end="21">环形网络</blk>
+        <blk beg="24" end="28">星形网络</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>按DCS系统的通讯网络分级体系划分，OC6000e的网络有（    ）、（    ）二级。</desc>
+        <blk beg="30" end="34">I/O总线网络</blk>
+        <blk beg="37" end="41">控制网络</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>OC6000e历史站的配置HMI级别为（    ）级。</desc>
+        <blk beg="20" end="24">1</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>OC6000e的操作员站节点号配置范围为（    ），工程师站节点号配置范围为（    ），DPU号配置范围为（    ）和（    ），网桥配置范围为（    ）。</desc>
+        <blk beg="21" end="25">81--89</blk>
+        <blk beg="40" end="44">90--100</blk>
+        <blk beg="56" end="60">1-69</blk>
+        <blk beg="63" end="67">101-169</blk>
+        <blk beg="77" end="81">70-79</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>OC6000e中的自检窗口中DPU网络连线显示为虚线表示此（    ），卡件连线显示为虚线表示此卡件（    ）。</desc>
+        <blk beg="30" end="34">网络中断</blk>
+        <blk beg="51" end="55">网络中断</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>OC6000e系统中UCSA是系统（    ），即DPU，负责（    ）。</desc>
+        <blk beg="18" end="22">控制器</blk>
+        <blk beg="32" end="36">周期性通过I/O网络与I/O模件进行数据交换</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>BAI卡(    )可以接入热电阻和热电偶信号，其中热电阻信号的A端接入卡件的（    ）端子，热电偶信号正负端分别接入（    ）端子。</desc>
+        <blk beg="5" end="9">RTD/TC输入</blk>
+        <blk beg="40" end="44">C</blk>
+        <blk beg="61" end="65">B、C</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>OC6000E I/O模块LED指示灯分别代表不同的运行状态，其中Power灯代表（    ）；RUN灯代表（    ）；INT ERROR代表（    ）；EXT ERROR代表（    ）；TX/RX A、B等代表（    ）。</desc>
+        <blk beg="42" end="46">电源</blk>
+        <blk beg="55" end="59">运行</blk>
+        <blk beg="73" end="77">卡件有内部故障</blk>
+        <blk beg="91" end="95">通道短路或开路</blk>
+        <blk beg="110" end="114">A、B口的数据通讯状态</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>更改模拟量单点量程需要进入组态Distributer I/O中INPUT选项卡中更改，更改完毕后需（    ），若更改点目录中的量程信息，则是改变了该点（    ）。</desc>
+        <blk beg="50" end="54">下装Pcode参数</blk>
+        <blk beg="77" end="81">历史趋势的上下限</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>沙河OC6000E系统的控制器、卡件的电源等级为（    ），其负端对地（    ）。</desc>
+        <blk beg="25" end="29">DC24V</blk>
+        <blk beg="37" end="41">浮空</blk>
+    </qstn>
+    <qstn type="blank" cust="0">
+        <desc>DCS系统最佳工作温度为（    ）。</desc>
+        <blk beg="13" end="17">15-25°C</blk>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>DCS机柜安装的绝缘电阻要求多少？如何保证？</desc>
+        <ans>机柜的绝缘电阻要求≥2兆欧（500V）。机柜就位时，在安装槽钢上应垫上≥8mm厚的绝缘橡皮，固定机柜用的螺栓套上绝缘垫圈，确保所有机柜浮空布置，每安装完一面机柜，及时测量该机柜的绝缘电阻。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>DCS控制柜、各MMI站开关箱的电源进线及接法有何具体要求？</desc>
+        <ans>电源线线径必须&gt;=1.5mm2，采用O型接法，并且要求A路接UPS电源，B路接保安段电源。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>OC6000e系统受电前，关于电源方面，需要检查电源柜、控制柜和扩展柜的哪些方面？</desc>
+        <ans>电源柜的所有空气开关在关闭位&#x0D;&#x0A;控制柜的所有空气开关在关闭位&#x0D;&#x0A;控制柜内24V电源模块输出无短路现象&#x0D;&#x0A;扩展柜的风扇电源电缆已连接&#x0D;&#x0A;扩展柜的24VDC电源电缆已连接&#x0D;&#x0A;检查机柜进线电缆间阻值，看有无短路现象</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>机柜需要受电，但是给HMI站供电的电源开关箱的电源电缆没有连接完毕，如何处理？</desc>
+        <ans>在电源开关箱处的电缆连接处理完毕前，禁止连接电源柜空气开关输出处的电缆。即保证开关箱处先接线，然后电源柜处再接线。防止有人误投空气开关而造成事故。&#x0D;&#x0A;或者：在电源柜给HMI站供电的空气开关处使用加标/锁定装置，以防人为误投开关造成事故。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>OC6000e系统，电厂已将二路电（A路UPS、B路APS）送至电源柜。如何送电，直至卡件得电？</desc>
+        <ans>（1）检查电源柜的电源输入端子，电源正常。&#x0D;&#x0A;（2）检查空气开关排的输入、输出端，输入电压正常、无输出。&#x0D;&#x0A;（3）分别合上电源柜至各DPU机柜电源开关箱的UPS电源分开关，在各机柜处测量控制柜电源开关箱的A路输入电压，正常。&#x0D;&#x0A;（4）分别合上电源柜至各DPU机柜电源开关箱的APS电源分开关，在各机柜处测量控制柜电源开关箱的B路输入电压，正常。&#x0D;&#x0A;（5）分别合上各DPU机柜电源开关箱的空气开关F1，检查机柜24VDC的电压；如果有扩展柜，检查扩展柜的24VDC的电压。检查正常后，断开F1。&#x0D;&#x0A;分别合上各DPU机柜电源开关箱的空气开关F2，检查机柜背面24VDC的电压；如果有扩展柜，检查扩展柜的24VDC的电压。检查正常后，断开F2。&#x0D;&#x0A;（6）检查正常后，合上各DPU机柜电源开关F1、F2。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>电源已正常送至控制机柜，但控制柜电源开关箱的A路输入电源空气开关F1总是合上就跳，如何处理？</desc>
+        <ans>空气开关合上就跳，肯定是由于输出回路有短路现象。设备损坏、线路接错，都有可能造成短路。可以通过分级的办法查找短路，也就是一级一级地断开、分拆回路：每分拆一级，就用万用表量一级，直至找到短路。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>如何查看DPU/ETS/HMI的状态信息？</desc>
+        <ans>打开诊断画面，在图标上右击，选择诊断信息</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>自检画面中，DPU图标的颜色的含义是什么？</desc>
+        <ans>绿色表示主控；蓝色表示副控；墨绿色表示禁止主控DPU切为副控；黄色表示副控DPU初始化；红色表示DPU脱网。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>DPU节点下方小锁/三角警告/扳手页标志如何解除？</desc>
+        <ans>小锁：对加锁的逻辑进行解锁&#x0D;&#x0A;三角警告：查看DPU诊断信息，先判断错误类型&#x0D;&#x0A;扳手页：组态中有强制，取消强制</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>如何检查DPU/HMI/卡件的版本信息？</desc>
+        <ans>查看左边状态栏</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>主副控制器一个为墨绿色一个蓝色表示什么状态？</desc>
+        <ans>墨绿色表示禁止主控DPU切为副控，蓝色表示副控。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>自检图上网络线状态有几个？</desc>
+        <ans>3种，实线、虚线、叉。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>现场DO底板故障，如何更换？</desc>
+        <ans>首先将原DO输出切除扫描；将备用DO底板更换，在系统配置中将原DO卡件的Bar Code地址号修改为新DO底板的Bar Code地址号，在系统配置工具中在Distributed I/O点右键选启用新配置，在卡件上点右键，选升级项，待卡件升级完成后，卡件在组态中处于正常状态即为更换完成，将扫描切除的DO点恢复。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>现场碰到变送器输出范围为0~20ma的信号，组态应如何处理才能适应？</desc>
+        <ans>可以将该数据通道的Low_Value由4.0改为0，在卡件上点右键，选择下装Pcode参数，来实现对0~20ma信号的采样。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>现场4~20ma信号如从外供电模式改变为内供电模式，应该如何处理？</desc>
+        <ans>将信号接线由原来的1+、2-修改为3+、1-，并在数据通道的Input Type处将mA_No_Power_Out改为mA_Power_Out，在卡件上点右键，选择下装Pcode参数，完成供电模式修改。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简单描述一下如何在MAI12卡件的备用通道中增加一个变送器测点？</desc>
+        <ans>a、选中备用通道，双击打开通道属性窗口；&#x0D;&#x0A;b、在“点目录”窗口中的“Tag”和“Desc”参数项中分别加入测点名称和测点描述；&#x0D;&#x0A;c、在“点目录”窗口中修改测点的量程和报警限值，按确定按钮关闭测点属性窗口；&#x0D;&#x0A;d、把备用通道“Input Type”列的参数由“Unused” 改为“mA_Power_Out”。&#x0D;&#x0A;e、在卡件上点右键，选择下装Pcode参数。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简单描述一下如何在MDI12卡件的备用通道中增加一个soe测点？</desc>
+        <ans>a、选中备用通道，双击打开通道属性窗口；&#x0D;&#x0A;b、在“点目录”窗口中的“Tag”和“Desc”参数项中分别加入测点名称和测点描述；&#x0D;&#x0A;c、把备用通道“SeqOfEvents”列的参数由“Disable” 改为“Enable”。&#x0D;&#x0A;d、在卡件上点右键，选择下装Pcode参数。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>某电厂有三套DCS系统，分别为Unit1、Unit2以及公用系统。DCS系统软件采用的是MPC，请描述为了实现单元机组和公用系统的通讯，如何进行网络连接？</desc>
+        <ans>在公用系统增加网关站，网关站最少应该配置四块网卡，定义为A、B、D、E网，A、B网作为公用系统的UDH网络，D、E网作为通讯网络接入单元机组的UDH网络中。其中D网接入单元机组的A网，E网接入单元机组的B网。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>单元机组与公用系统的通讯能否实现冗余配置？如果可以，如何配置冗余？</desc>
+        <ans>可以实现冗余通讯。&#x0D;&#x0A;配置冗余通讯时，首先完成一台网关站的配置，然后将配置好的网络通讯配置文件、输入点目录文件及输出点目录文件拷贝到冗余网关站上，在冗余网关站上运行主程序，完成冗余网桥的网络配置。互为冗余的网桥节点号应相差100。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>机柜和HMI站刚上电，通过自检发现部分DPU只有A网正常，另一部分DPU则只有B网正常，可能是什么原因？</desc>
+        <ans>可能一：交换机级联时，某个A网交换机错误地级联至B网交换机；&#x0D;&#x0A;可能二：某些DPU的A、B网网线插反了。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>OC6000e的实时控制网有那两种类型？</desc>
+        <ans>星形网络：使用一般的工业交换机作为网络构架；&#x0D;&#x0A;光纤环形网络：使用环网交换机作为网络构架。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>如何启动一个虚拟DPU？</desc>
+        <ans>1）在OC6000e目录下找到VirtualCtrl.exe；&#x0D;&#x0A;2）在OC6000e\VDPU目录下，建立一些vco后缀的文件：如vdpu2.vco；&#x0D;&#x0A;3）双击vdpu2.vco可以启动一个虚拟DPU。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>在OC6000E系统中，如何添加新节点到系统中？</desc>
+        <ans>1）点击“系统配置”；&#x0D;&#x0A;2）在UDH上点击右键后添加设备；&#x0D;&#x0A;3）在系统配置信息中保存系统配置；&#x0D;&#x0A;4）下装系统配置。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>在OC6000E系统中，如何导入DPU组态并下装？</desc>
+        <ans>1）连接一个运行的DPU；&#x0D;&#x0A;2）从文件中导入组态；&#x0D;&#x0A;3）下装组态到DPU;&#x0D;&#x0A;4）保存组态到电子磁盘；&#x0D;&#x0A;5）关闭DPU并重新启动。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>OC6000e系统可分为哪三个层次？</desc>
+        <ans>1）人机界面层（HMI），包括OPU,ENG,HSU等。&#x0D;&#x0A;2）过程控制层（DPU），采用冗余UCSA模块。&#x0D;&#x0A;3）I/O处理层（I/O模块），集成的I/O模块和端子板。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>OC 6000e I/O模块RUN指示灯含义？</desc>
+        <ans>运行指示灯Run，绿色表示软件运行状态正常。当软件处于初始化或者获取网络地址时，以1秒亮、1秒灭的速率慢速闪烁。软件初始化完毕正常运行后，以0.125秒亮、0.125秒灭的速度快速闪烁。如果处理器死机，将常亮或熄灭。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>OC 6000e 中系统配置信息主要包括什么？</desc>
+        <ans>系统配置信息主要包括用户信息管理、NTP时钟服务器、数据源服务器、预定义测点组及其它设置。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述模拟量输入模块MAI10的功能？</desc>
+        <ans>MAI10 模块可处理 16 路 mA/V 模拟量信号输入。每一路可独立配置为±5 V 或 ±10V 的电压输入类型，或 0-20mA 的电流输入类型。该模块包含一块处理器板和两块 mA/V 模拟量输入 IO 板，三块电路板安装在一块模拟量输入底板上。为电流型&#x0D;&#x0A;输入配置的采样电阻位于模拟量输入 IO 板上，通过该采样电阻将电流输入信号转变为电压信号。该模块提供两路 IONET 以太网接口，用以将采集到的现场模拟量输入信号上送给控制器。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述RTD/TC 模拟量输入模块 MAI20的功能？</desc>
+        <ans>MAI20 模块可处理 16 路 RTD/TC 模拟量信号输入。每一路可独立配置为 TC 或 RTD的输入类型。该模块包含一块处理器板和两块 RTD/TC 模拟量输入 IO 板；三块电路板安装在一块 RTD/TC 模拟量输入底板上。电流源位于模拟量输入 IO 板上，当配置成 RTD 输入模式时，它提供 0.2mA 的电流流过 RTD，通过采样 RTD 上的电压而获得信号的值。该模块提供两路 IONET 以太网接口，用以将采集到的现场模拟量输入信号上送给控制器。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述模拟量输出模块 MAO10的功能？</desc>
+        <ans>MAO10 模块可提供 8 路 0-20mA 或者 0-10V 模拟量输出。每一路 AO 通道通过一个 ADC 转换器进行开短路检测。该模块包含一块处理器板和两块模拟量输出 IO板，三块电路板安装在一块模拟量输出底板上。该模块提供两路 IONET 以太网接口，用以接收来自控制器的模拟量输出命令并输出。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>33. 简述开关量输入模块 MDI10的功能？</desc>
+        <ans>MDI10 模块可以接收 16 路开关量输入信号，回路检测电压是直流 24 伏。16 通道分为两组：1 至 8 通道为一组，9 至 16 通道为一组。每组可独立配置为源电流模式或者沉电流模式。每个通道可单独配置 SOE 功能 。该模块包含一块处理器板和&#x0D;&#x0A;两块 IO 板，三块电路板安装在一块开关量输入底板上。如果需要开路检测功能，则需外接 47K 电阻。该模块提供两路 IONET 以太网接口，用以将采集到的现场开关量输入信号上送给控制器。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述mA/V模拟量输入底板 BAI10的功能？</desc>
+        <ans>BAI10 支持16路模拟量输入，每一路通道支持电压输入或电流输入，并可在电流模式向外部变送器供电。底板上没有噪声抑制电路，噪声抑制电路在 IO 板上。底板上有一个64针和两个48 针连接器用于连接 MAI10 模块。64针连接器连接CPU板，两个48针连接器连接IO板。底板上的2路以太网信号和 2 路供电电源通过64针连接器连接到CPU 板。16路模拟量输入信号和2路供电电源通过两个48针连接器分别连接到IO板。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述RTD/TC 模拟量输入底板 BAI20的功能？</desc>
+        <ans>BAI20 支持 16 路模拟量输入，每一路通道支持 RTD 或 TC 信号。底板上没有噪声抑制电路，噪声抑制电路在 IO 板上。底板上有一个 64 针和两个 48 针连接器用于连接 MAI20 模块。64 针连接器连接CPU 板，两个 48 针连接器连接 IO 板。底板上的 2 路以太网信号和 2 路供电电源通过 64 针连接器连接到 CPU 板。16 路模拟量输入信号和 2 路供电电源通过两个48 针连接器分别连接到 IO 板。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述模拟量输出底板 BAO10的功能？</desc>
+        <ans>BAO10 支持 8 路 0-20mA 或 0-10V 模拟量输出。输出信号来自 MAO10 模拟量输出模块。底板上没有噪声抑制电路，噪声抑制电路在 IO 板上。底板上有一个 64 针和两个 48 针连接器用于连接MAO10 模块。64 针连接器连接CPU 板，两个 48 针连接器连接 IO 板。底板上的 2 路以太网信号和 2 路供电电源通过 64 针连接器连接到 CPU 板，8 路模拟量输出信号和 2 路供电电源通过两个48 针连接器分别连接到 IO 板。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>简述交流继电器开关量输出底板 BDO10的功能？</desc>
+        <ans>BDO10 接收来自 MDO10 的控制信号，提供 16 路 250VAC/3A 的交流继电器完成输出控制。底板上有一个 64 针和两个 48 针连接器用于连接 MDO10 模块。64 针连接器连接CPU 板，两个 48 针连接器连接 IO 板。底板上的 2 路以太网信号和 2 路供电电源通过 64 针连接器连接到 CPU 板，16 路开关量输出信号和 2 路供电电源通过两个48 针连接器分别连接到 IO 板。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>OC6000e的DCS系统接地要求？</desc>
+        <ans>1）系统接地为单点接地，所有 I/O 机柜必须通过电缆连接到系统接地点接地。&#x0D;&#x0A;2）机柜间采用星形方式连接接地电缆。&#x0D;&#x0A;3）每排机柜再采用星形方式通过系统接地汇流铜排或接地箱连接到厂用接地网。&#x0D;&#x0A;4）机柜接地铜排与厂用接地网间的接地阻抗不得超过 2.5Ω。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>OC6000e的DCS系统接地电缆的要求？</desc>
+        <ans>机柜间接地电缆截面积不小于 10平方 ；每排机柜与系统接地汇流铜排或接地箱之间接地电缆截面积不小于20平方 ；系统接地汇流铜排或接地箱与厂用接地网间接地电缆截面积不小于90平方；金属操作台和远程控制柜就近接地。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>如何在线更换DPU控制器？</desc>
+        <ans>1）首先确认故障DPU处于副控状态，若故障DPU原处于主控状态，发生故障后有可能处于禁止副控状态，导致在HMI站上无法将故障DPU切为副控，在确认其冗余DPU正常情况下将主控DPU电源断掉，强制将其冗余DPU切至主控。&#x0D;&#x0A;2）将故障DPU的CF卡取出，装入新DPU中。&#x0D;&#x0A;3）将新DPU安装好上电，在副控状态下观察一段时间正常后方可切为主控状态运行。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>如何在DCS停机中检查接地点？</desc>
+        <ans>1）沙河OC6000e系统内外电源24V正负端均对地浮空，若接地或接入强电则会对I/O点正常测量造成影响。&#x0D;&#x0A;2）在确认检查机柜中所带系统均已停用后方可进行以下操作。&#x0D;&#x0A;3）使用万用表分别测量内、外电源对地测量电压。若测得数据为浮动电压，则说明电源正常浮空，若测得数据为固定电压值，则说明电源有接地现象。&#x0D;&#x0A;4）内电源主要提供卡件、DPU、交换机工作电源，外电源主要提供AI、AO、DI等卡件的查询电压。可使用排除法逐个对接地设备进行判断，锁定接地设备后，同样适用排除法对接地设备所接外回路进行接地判断。若有些设备将不同机柜的电源连接起来，如炉侧火检电源柜，需先想办法断开此设备与机柜之间的连接。&#x0D;&#x0A;5）对接地设备进行治理、更换措施。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>如何添加新卡件？</desc>
+        <ans>1）将所需添加的卡件（已升级至最新版本）、卡件底板固定于机柜内，按要求连接卡件与I/O交换机的A、B网线，从机柜中内电源和外电源中各取一路接至卡件底座（若是DI卡，外电源一路需经过隔离器）。&#x0D;&#x0A;2）打开需要添加的DPU，选中Distributed I/O，右键选择添加“添加模块”，选中添加模块的模块类型，按要求输入Bar Code码、机柜号、卡件位置信息。&#x0D;&#x0A;3）选中Distributed I/O，右键单击选中“启用新配置”，待卡件工作正常后输入各IO点的相关信息，输入完毕后下装Pcode参数后，添加卡件工作结束。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>DPU控制器各状态指示灯（LINK、ACT、Power、Boot、Online、Flash、DC、Diag、On）含义？</desc>
+        <ans>1）、网络连接指示灯LINK：绿色，指示物理通讯连接状态。在与控制器建立连接后，该灯常亮。&#x0D;&#x0A;2）、网络通讯灯ACT:指示网络通讯状态，如果流量较低时，该灯闪烁，但大多数情况常亮。&#x0D;&#x0A;3）、电源指示灯Power：绿色，指示电源状态。控制器自身会将输入的直流24V转换为直流5V，所有的内部回路都从该5V电源处取电。当内部5V电源正常时，该指示灯常亮。&#x0D;&#x0A;4）、系统启动指示灯 Boot：红色，指示控制器启动状态。在控制器启动过程中，该指示灯常亮，除非有错误发生。如果有错误发生，该指示灯将以 1Hz 的频率闪烁，闪烁次数表征故障状态。&#x0D;&#x0A;5）、在线指示灯Online：绿色，指示控制器的工作状态。控制器在线并成功加载应用程序后，该指示灯常亮。&#x0D;&#x0A;6）、读写CF卡指示灯Flash：黄色，指示CF卡读取操作状态。在读写CF卡过程中，该指示灯快速闪烁。无读写操作时，熄灭。&#x0D;&#x0A;7）、主控指示灯 DC：绿色，指示控制器处于主控状态。控制器处于主控状态时，常亮。&#x0D;&#x0A;8）、报警指示灯Diag：红色，指示报警信息状态。当控制器检测到有新的报警信息产生时，该指示灯闪烁，报警信息可以通过系统组态工具或诊断程序查看。&#x0D;&#x0A;9）、USB 端口指示灯 On：绿色，指示 USB 端口处于活动状态。当有 USB 设备接入 USB 端口时，该指示灯常亮。</ans>
+    </qstn>
+    <qstn type="text" cust="0">
+        <desc>修改完毕组态后需要进行那些操作？</desc>
+        <ans>1）、选中更改组态的DPU。选择操作—写电子磁盘—确定。更改完组态后，组态随及时生效，但更改信息在DPU中仅以临时文件存在，一旦DPU发生重启，若没有写电子磁盘操作则所更改信息丢失。&#x0D;&#x0A;2）、选中更改组态的DPU。选择操作—拷贝副控—确定。更改组态仅更改了主控DPU信息， DPU一旦发生切换，若无拷贝副控操作则所更改的组态则无效。&#x0D;&#x0A;3）、保存文本文件后关闭。</ans>
+    </qstn>
+</library>

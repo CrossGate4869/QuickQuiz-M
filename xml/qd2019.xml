@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <key>QuickQuiz</key>
+    <title>青岛培训题库</title>
+    <pswd>670b14728ad9902aecba32e22fa4f6bd</pswd>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》为了加强安全生产工作，防止和减少生产安全事故，保障人民群众生命和财产安全，（    ），制定本法。</desc>
+        <opt ans="f">坚持安全发展原则</opt>
+        <opt ans="t">促进经济社会健康发展</opt>
+        <opt ans="f">坚持可持续发展</opt>
+        <opt ans="f">坚持科学发展</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》县级以上地方各级人民政府应当加强对生产工作的领导，支持、督促各有关部门依法履行安全生产监督管理职责，建立健全安全生产工作（    ）,及时协调、解决安全生产监督管理中存在的重大问题。</desc>
+        <opt ans="f">联席会议</opt>
+        <opt ans="f">联合检查</opt>
+        <opt ans="t">协调机制</opt>
+        <opt ans="f">应急机制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》县级以上地方各级人民政府负有安全生产监督管理职责的部门应当建立健全事故隐患治理（   ）制度，督促生产经营单位消除重大事故隐患。</desc>
+        <opt ans="f">公开曝光</opt>
+        <opt ans="f">黑名单</opt>
+        <opt ans="f">新闻发布</opt>
+        <opt ans="t">督办</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》生产经营单位应当按照国家有关规定将本单位重大危险源及有关安全措施、应急措施报有关地方人民政府负责安全生产监督的部门和有关部门（    ）。</desc>
+        <opt ans="t">备案</opt>
+        <opt ans="f">审批</opt>
+        <opt ans="f">许可</opt>
+        <opt ans="f">备查</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》县级以上各级人民政府应当根据本行政区域内安全生产状况，组织有关部门按照职责分工，对本行政区内容易发生重大事故的生产经营单位进行（    ）。</desc>
+        <opt ans="f">定期检查</opt>
+        <opt ans="t">严格检查</opt>
+        <opt ans="f">不定期检查</opt>
+        <opt ans="f">评价</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》生产经营单位必须（     ）依法制定的保障安全生产的国家标准和行业标准。</desc>
+        <opt ans="f">参考</opt>
+        <opt ans="f">参照</opt>
+        <opt ans="f">遵守</opt>
+        <opt ans="t">执行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》生产经营单位应当具备安全生产条件所必需的（     ），由生产经营单位的决策机构、主要负责人或者个人经营的投资人予以保证，并对由于安全生产所必需的资金投入不足导致的后果承担责任。</desc>
+        <opt ans="f">人力</opt>
+        <opt ans="f">技术</opt>
+        <opt ans="f">安全管理机构</opt>
+        <opt ans="t">资金投入</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》生产经营单位应当按照规定提取和使用安全生产费用，专门用于改善 （   ）。安全生产费用在成本中据实列支。</desc>
+        <opt ans="t">安全生产条件</opt>
+        <opt ans="f">作业环境条件</opt>
+        <opt ans="f">劳动保护</opt>
+        <opt ans="f">防尘防毒等</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》生产经营单位应当建立安全生产（     ）档案，如实记录安全生产教育和培训的时间、内容、参加人员以及考核结果等情况。</desc>
+        <opt ans="f">安全检查</opt>
+        <opt ans="f">隐患治理</opt>
+        <opt ans="t">教育和培训</opt>
+        <opt ans="f">基础</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》生产经营单位对重大危险源应当（     ），进行定期检测、评估、</desc>
+        <opt ans="f">监督检查</opt>
+        <opt ans="t">登记建档</opt>
+        <opt ans="f">备案</opt>
+        <opt ans="f">审批</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>依据《安全生产法》的规定，生产经营单位（    ）工程项目的安全设施，必须与主体工程同时设计、同时施工、同时投入生产和使用。</desc>
+        <opt ans="f">新建、扩建、引进</opt>
+        <opt ans="t">新建、扩建、改建</opt>
+        <opt ans="f">扩建、改建、翻修</opt>
+        <opt ans="f">新建、改建、装修</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位场所和员工宿舍应当设有符合紧急疏散要求、标志明显、保持畅通的（     ）。</desc>
+        <opt ans="f">走廊</opt>
+        <opt ans="f">通道</opt>
+        <opt ans="f">隔离间</opt>
+        <opt ans="t">出口</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位管理人员在检查中发现（      ），依照前款规定向本单位有关负责人报告，有关负责人不及时处理的，安全管理人员可以向主管的负有安全生煎监督管理职责的部门报告，接到报告后的部门应当依法及时处理。</desc>
+        <opt ans="f">重大问题</opt>
+        <opt ans="t">重大事故隐患</opt>
+        <opt ans="f">重大危险</opt>
+        <opt ans="f">事故隐患</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位应当安排用于配备劳动防护用品、进行安全生产培训的（      ）。</desc>
+        <opt ans="t">经费</opt>
+        <opt ans="f">机构</opt>
+        <opt ans="f">人员</opt>
+        <opt ans="f">预案</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位发生安全生产事故时，单位主要负责人应当立即组织抢救，并不得在事故调查处理期间（      ）。</desc>
+        <opt ans="f">出国考察</opt>
+        <opt ans="f">休假</opt>
+        <opt ans="t">擅离职守</opt>
+        <opt ans="f">出差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在2019年1月9日召开的全国安全生产电视电话会议上，李克强总理指出，要树牢(       )理念，以防范化解重大安全风险、坚决遏制重特大事故为重点，切实提高防灾减灾救灾能力。</desc>
+        <opt ans="f">以人为本</opt>
+        <opt ans="f">安全第一</opt>
+        <opt ans="t">安全发展</opt>
+        <opt ans="f">生命至上</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2013年，习近平总书记就做好安全生产工作作出重要指示，强调人命关天，发展决不能以(       )为代价,这必须作为一条不可逾越的红线。</desc>
+        <opt ans="t">牺牲人的生命</opt>
+        <opt ans="f">损害劳动者安全</opt>
+        <opt ans="f">损害财产安全</opt>
+        <opt ans="f">牺牲环境</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>落实“(       )，一岗双责，齐抓共管，失职追责”责任体系是做好安全生产工作的前提。</desc>
+        <opt ans="f">党委负责</opt>
+        <opt ans="f">政府负责</opt>
+        <opt ans="f">党政分管</opt>
+        <opt ans="t">党政同责</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列不属于企业安全生产管理人员法定职责的是(       )</desc>
+        <opt ans="f">参与经营决策</opt>
+        <opt ans="t">起草有关安全生产管理的讲话材料</opt>
+        <opt ans="f">报告和处理重大隐患</opt>
+        <opt ans="f">知识和能力考核合格</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>(       )是安全生产的责任主体。</desc>
+        <opt ans="f">企业从业人员</opt>
+        <opt ans="f">在岗职工</opt>
+        <opt ans="t">企业</opt>
+        <opt ans="f">企业负责人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>落实企业安全生产主体责任的关键是(       )安全责任的落实。</desc>
+        <opt ans="t">企业主要负责人</opt>
+        <opt ans="f">企业领导班子</opt>
+        <opt ans="f">企业安全部门负责人</opt>
+        <opt ans="f">企业在岗职工</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>落实企业主体责任时，必须落实安全生产“(       )”，所有领导班子成员对分管范围内安全生产工作承担相应责任。</desc>
+        <opt ans="f">党政同责</opt>
+        <opt ans="t">一岗双责</opt>
+        <opt ans="f">齐抓共管</opt>
+        <opt ans="f">失职追责</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>落实企业主体责任时，必须落实安全生产报告制度，定期向董事会、业绩考核部门报告安全生产情况，并向(       )公示。</desc>
+        <opt ans="t">社会</opt>
+        <opt ans="f">本单位从业人员</opt>
+        <opt ans="f">在岗职工</opt>
+        <opt ans="f">上级主管部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中共中央、国务院关于推进安全生产领域改革发展的意见》指出，要严格落实企业主体责任，实行(       )安全生产责任制度。</desc>
+        <opt ans="f">全面</opt>
+        <opt ans="f">全系统</opt>
+        <opt ans="f">多层级</opt>
+        <opt ans="t">全员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>完善应急管理体系，应坚持党的领导、以人为本、生态优先、(       )、改革创新、国际合作。</desc>
+        <opt ans="f">以抗为主</opt>
+        <opt ans="t">预防为主</opt>
+        <opt ans="f">防抗结合</opt>
+        <opt ans="f">部门联动</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>构建双重预控机制的原因是：行政要求、(       )、压力挑战、机制可行。</desc>
+        <opt ans="t">发展需要</opt>
+        <opt ans="f">生存需要</opt>
+        <opt ans="f">法律规定</opt>
+        <opt ans="f">形势所迫</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列不属于双重预控机制特征的是(       )</desc>
+        <opt ans="f">基于过程，标本兼治</opt>
+        <opt ans="t">治已病，以封堵为主</opt>
+        <opt ans="f">注重事前预防</opt>
+        <opt ans="f">风险分级管控与隐患排查治理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于第一类危险源和第二类危险源说法错误的是(       )。</desc>
+        <opt ans="f">第一类危险源决定了事故后果的严重性</opt>
+        <opt ans="f">第二类危险源决定了发生事故的可能性</opt>
+        <opt ans="f">事故的发生是两类危险源共同作用的结果</opt>
+        <opt ans="t">第一类危险源包括人的因素、物的因素、管理因素、环境因素等</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列不属于“物的因素”的是(       )</desc>
+        <opt ans="f">物理性危险有害因素</opt>
+        <opt ans="f">化学性危险有害因素</opt>
+        <opt ans="f">生物性危险有害因素</opt>
+        <opt ans="t">地理性危险有害因素</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>应建立(       )，在醒目位置和重点区域分别设置安全风险公告栏，制作岗位安全风险告知卡。</desc>
+        <opt ans="f">安全风险预防制度</opt>
+        <opt ans="f">安全风险管控制度</opt>
+        <opt ans="t">安全风险公告制度</opt>
+        <opt ans="f">安全风险培训制度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》是根据《中华人民共和国(       )》和《中华人民共和国突发事件应对法》制定的。</desc>
+        <opt ans="f">宪法</opt>
+        <opt ans="f">刑法</opt>
+        <opt ans="t">安全生产法</opt>
+        <opt ans="f">行政法</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，(       )统一领导全国的生产安全事故应急工作，县级以上地方人民政府统一领导本行政区域内的生产安全事故应急工作。</desc>
+        <opt ans="f">中央人民政府</opt>
+        <opt ans="t">国务院</opt>
+        <opt ans="f">国家安全委员会</opt>
+        <opt ans="f">国家安全生产监督管理总局</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产安全事故应急工作涉及(       )以上行政区域的，由有关行政区域共同的上一级人民政府负责，或者由各有关行政区域的上一级人民政府共同负责。</desc>
+        <opt ans="f">一个</opt>
+        <opt ans="t">两个</opt>
+        <opt ans="f">三个</opt>
+        <opt ans="f">四个</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，(       )和其他对有关行业、领域的安全生产工作实施监督管理的部门在各自职责范围内，做好有关行业、领域的生产安全事故应急工作。</desc>
+        <opt ans="f">县级以上人民政府</opt>
+        <opt ans="f">安全生产监督管理部门</opt>
+        <opt ans="t">县级以上人民政府应急管理部门</opt>
+        <opt ans="f">乡、镇人民政府以及街道办事处等地方人民政府派出机关</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，县级以上人民政府应急管理部门指导、协调(       )其他负有安全生产监督管理职责的部门和下级人民政府的生产安全事故应急工作。</desc>
+        <opt ans="f">上级党政机关</opt>
+        <opt ans="f">本级党政机关</opt>
+        <opt ans="f">上级人民政府</opt>
+        <opt ans="t">本级人民政府</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，乡、镇人民政府以及街道办事处等地方人民政府派出机关应当协助(       )有关部门依法履行生产安全事故应急工作职责。</desc>
+        <opt ans="t">上级人民政府</opt>
+        <opt ans="f">本级人民政府</opt>
+        <opt ans="f">县级以上人民政府</opt>
+        <opt ans="f">安全生产监督管理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产经营单位应当加强生产安全事故应急工作，建立、健全生产安全事故应急工作责任制，其(       )对本单位的生产安全事故应急工作全面负责。</desc>
+        <opt ans="t">主要负责人</opt>
+        <opt ans="f">领导班子</opt>
+        <opt ans="f">法定代表人</opt>
+        <opt ans="f">安全部主管</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，县级以上人民政府及其负有安全生产监督管理职责的部门和乡、镇人民政府以及街道办事处等地方人民政府派出机关，应当针对可能发生的生产安全事故的特点和危害，进行风险辨识和评估，制定相应的生产安全事故应急救援预案，并依法向(       )公布。</desc>
+        <opt ans="f">上级人民政府</opt>
+        <opt ans="f">上级主管部门</opt>
+        <opt ans="f">安全生产监督管理部门</opt>
+        <opt ans="t">社会</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产经营单位应当针对本单位可能发生的生产安全事故的特点和危害，进行风险辨识和评估，制定相应的生产安全事故应急救援预案，并向(       )公布。</desc>
+        <opt ans="f">社会</opt>
+        <opt ans="f">上级主管部门</opt>
+        <opt ans="f">在岗职工</opt>
+        <opt ans="t">本单位从业人员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产安全事故应急救援预案应当符合有关法律、法规、规章和标准的规定，具有(       )、针对性和可操作性。</desc>
+        <opt ans="t">科学性</opt>
+        <opt ans="f">安全性</opt>
+        <opt ans="f">实用性</opt>
+        <opt ans="f">功能性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，县级以上人民政府负有安全生产监督管理职责的部门应当将其制定的生产安全事故应急救援预案报送(       )备案。</desc>
+        <opt ans="f">上级人民政府</opt>
+        <opt ans="t">本级人民政府</opt>
+        <opt ans="f">政府应急管理部门</opt>
+        <opt ans="f">安全生产监督管理部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，易燃易爆物品、危险化学品等危险物品的生产、经营、储存、运输单位，矿山、金属冶炼、城市轨道交通运营、建筑施工单位，以及宾馆、商场、娱乐场所、旅游景区等人员密集场所经营单位，应当将其制定的生产安全事故应急救援预案按照国家有关规定报送(       )负有安全生产监督管理职责的部门备案，并依法向社会公布。</desc>
+        <opt ans="f">乡镇级以上人民政府</opt>
+        <opt ans="t">县级以上人民政府</opt>
+        <opt ans="f">公安机关</opt>
+        <opt ans="f">政府应急管理部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，县级以上地方人民政府以及县级以上人民政府负有安全生产监督管理职责的部门，乡、镇人民政府以及街道办事处等地方人民政府派出机关，应当至少每(       )年组织1次生产安全事故应急救援预案演练。</desc>
+        <opt ans="f">半</opt>
+        <opt ans="f">1</opt>
+        <opt ans="t">2</opt>
+        <opt ans="f">3</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，易燃易爆物品、危险化学品等危险物品的生产、经营、储存、运输单位，矿山、金属冶炼、城市轨道交通运营、建筑施工单位，以及宾馆、商场、娱乐场所、旅游景区等人员密集场所经营单位，应当至少每(       )年组织1次生产安全事故应急救援预案演练</desc>
+        <opt ans="t">半</opt>
+        <opt ans="f">1</opt>
+        <opt ans="f">2</opt>
+        <opt ans="f">3</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，县级以上地方人民政府负有安全生产监督管理职责的部门应当对本行政区域内前款规定的重点生产经营单位的生产安全事故应急救援预案演练进行(       )。</desc>
+        <opt ans="f">指导</opt>
+        <opt ans="f">监督</opt>
+        <opt ans="f">暗查</opt>
+        <opt ans="t">抽查</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，县级以上人民政府负有安全生产监督管理职责的部门根据生产安全事故应急工作的实际需要，在重点行业、领域单独建立或者依托有条件的生产经营单位、社会组织共同建立(       )。</desc>
+        <opt ans="f">应急预案</opt>
+        <opt ans="f">应急救援制度</opt>
+        <opt ans="t">应急救援队伍</opt>
+        <opt ans="f">应急救援指挥中心</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，国家(       )生产经营单位和其他社会力量建立提供社会化应急救援服务的应急救援队伍。</desc>
+        <opt ans="f">不提倡</opt>
+        <opt ans="f">不支持</opt>
+        <opt ans="f">不赞同</opt>
+        <opt ans="t">鼓励和支持</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，应急救援队伍的应急救援人员应当具备必要的专业知识、技能、身体素质和(       )。</desc>
+        <opt ans="f">思想素质</opt>
+        <opt ans="t">心理素质</opt>
+        <opt ans="f">道德素质</opt>
+        <opt ans="f">科学文化素质</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，发生生产安全事故后，生产经营单位应当(       )生产安全事故应急救援预案。</desc>
+        <opt ans="t">立即启动</opt>
+        <opt ans="f">视情况启动</opt>
+        <opt ans="f">报备后启动</opt>
+        <opt ans="f">暂不启动</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，有关地方人民政府不能有效控制生产安全事故的，应当及时向(       )报告。</desc>
+        <opt ans="t">上级人民政府</opt>
+        <opt ans="f">本级人民政府</opt>
+        <opt ans="f">政府应急管理部门</opt>
+        <opt ans="f">安全生产监督管理部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，易燃易爆物品、危险化学品等危险物品的生产、经营、储存、运输单位，矿山、金属冶炼、城市轨道交通运营、建筑施工单位，以及宾馆、商场、娱乐场所、旅游景区等人员密集场所经营单位，应当根据本单位可能发生的生产安全事故的特点和危害，配备必要的灭火、排水、通风以及危险物品稀释、掩埋、收集等应急救援器材、设备和物资，并进行(       )维护、保养，保证正常运转。</desc>
+        <opt ans="f">定期</opt>
+        <opt ans="f">不定期</opt>
+        <opt ans="f">常规性</opt>
+        <opt ans="t">经常性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，应急救援队伍根据救援命令参加生产安全事故应急救援所耗费用，由(       )承担。</desc>
+        <opt ans="f">有关人民政府</opt>
+        <opt ans="f">生产经营单位</opt>
+        <opt ans="f">事故责任人</opt>
+        <opt ans="t">事故责任单位</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，发生生产安全事故后，现场指挥部实行(    )。</desc>
+        <opt ans="f">厂长（经理）负责制</opt>
+        <opt ans="f">总监负责制</opt>
+        <opt ans="t">总指挥负责制</opt>
+        <opt ans="f">集体负责制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，在生产安全事故应急救援过程中，发现可能直接危及应急救援人员生命安全的紧急情况时，现场指挥部或者统一指挥应急救援的人民政府应当立即采取相应措施消除隐患，降低或者化解风险，必要时可以(       )应急救援人员。</desc>
+        <opt ans="f">永久撤离</opt>
+        <opt ans="t">暂时撤离</opt>
+        <opt ans="f">立即撤离</opt>
+        <opt ans="f">不再派出</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，有关人民政府及其部门根据生产安全事故应急救援需要依法调用和征用的财产，在使用完毕或者应急救援结束后，(       )。</desc>
+        <opt ans="f">应当妥善保管</opt>
+        <opt ans="t">应当及时归还</opt>
+        <opt ans="f">损失不必赔偿</opt>
+        <opt ans="f">灭失不必偿还</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急条例》规定，按照国家有关规定成立的生产安全事故调查组应当对应急救援工作进行评估，并在事故调查报告中作出(       )。</desc>
+        <opt ans="f">评估原则</opt>
+        <opt ans="f">评估目的</opt>
+        <opt ans="t">评估结论</opt>
+        <opt ans="f">评估过程</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>地方各级人民政府和街道办事处等地方人民政府派出机关以及县级以上人民政府有关部门违反《生产安全事故应急条例》规定的，由其上级行政机关责令改正；情节严重的，对(       )的主管人员和其他直接责任人员依法给予处分。</desc>
+        <opt ans="t">直接负责</opt>
+        <opt ans="f">间接负责</opt>
+        <opt ans="f">主要负责</opt>
+        <opt ans="f">主抓安全工作</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>地方各级人民政府和街道办事处等地方人民政府派出机关以及县级以上人民政府有关部门违反《生产安全事故应急条例》规定的，由其(       )责令改正。</desc>
+        <opt ans="t">上级行政机关</opt>
+        <opt ans="f">本级行政机关</opt>
+        <opt ans="f">上级人民政府</opt>
+        <opt ans="f">本级人民政府</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>违反《生产安全事故应急条例》规定，构成违反治安管理行为的，由(       )依法给予处罚；构成犯罪的，依法追究刑事责任。</desc>
+        <opt ans="f">上级人民政府</opt>
+        <opt ans="f">上级行政机关</opt>
+        <opt ans="t">公安机关</opt>
+        <opt ans="f">安全生产监督管理部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位未制定生产安全事故应急救援预案、未定期组织应急救援预案演练、未对从业人员进行应急教育和培训，生产经营单位的主要负责人在本单位发生生产安全事故时不立即组织抢救的，由县级以上人民政府负有安全生产监督管理职责的部门依照(       )有关规定追究法律责任。</desc>
+        <opt ans="t">《中华人民共和国安全生产法》</opt>
+        <opt ans="f">《中华人民共和国突发事件应对法》</opt>
+        <opt ans="f">《中华人民共和国国家安全法》</opt>
+        <opt ans="f">《生产安全事故应急条例》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>要扎实做好危险化学品安全综合治理工作，借力政府监管执法，狠抓监管执法责任落实，推动危险化学品企业(       )落实主体责任。</desc>
+        <opt ans="t">主动自发</opt>
+        <opt ans="f">依法</opt>
+        <opt ans="f">强制</opt>
+        <opt ans="f">被迫</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>放射性物品按照(       )细分为一级放射性物品、二季放射性物品和三级放射性物品。</desc>
+        <opt ans="f">放射性活度</opt>
+        <opt ans="t">放射性大小</opt>
+        <opt ans="f">当量剂量</opt>
+        <opt ans="f">放射性比活度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>易燃液体的燃烧是通过其挥发的蒸气与空气形成可燃混合物，达到一定的浓度后遇(       )而实现的。</desc>
+        <opt ans="t">火源</opt>
+        <opt ans="f">热量</opt>
+        <opt ans="f">助燃物</opt>
+        <opt ans="f">能源</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品，是指具有毒害、腐蚀、爆炸、燃烧、助燃等性质，对人体、设施、环境具有危害的(       )化学品和其他化学品。</desc>
+        <opt ans="f">普通</opt>
+        <opt ans="f">易制毒</opt>
+        <opt ans="t">剧毒</opt>
+        <opt ans="f">易制爆</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品包括爆炸品、压缩气体和液化气体、易燃液体、易燃固体、自然物品和遇湿易燃物品、氧化剂和有机过氧化物、有毒品、放射性物品、(       )。</desc>
+        <opt ans="t">腐蚀品</opt>
+        <opt ans="f">金属腐蚀剂</opt>
+        <opt ans="f">自反应物质或混合物</opt>
+        <opt ans="f">自热物质和混合物</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>红磷属于(       )</desc>
+        <opt ans="f">自燃物品</opt>
+        <opt ans="t">易燃固体</opt>
+        <opt ans="f">遇湿易燃物品</opt>
+        <opt ans="f">易燃液体</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>操作控制时，危险化学品事故控制措施不包括(       )</desc>
+        <opt ans="f">变更工艺</opt>
+        <opt ans="f">通风</opt>
+        <opt ans="t">减小使用量</opt>
+        <opt ans="f">个体防护</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>贮存易燃、易爆化学危险品的建筑，必须安装(       )。</desc>
+        <opt ans="f">消防设备</opt>
+        <opt ans="f">通风设备</opt>
+        <opt ans="f">报警系统</opt>
+        <opt ans="t">避雷设备</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>盛装、输送、贮存危险化学品的设备，采用标牌、标签等形式表明其(       )。</desc>
+        <opt ans="f">化学品类型</opt>
+        <opt ans="t">危险性</opt>
+        <opt ans="f">使用方法</opt>
+        <opt ans="f">应急处理方法</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>分发危险化学品时应防止静电积累，以防止(       )。</desc>
+        <opt ans="f">爆炸</opt>
+        <opt ans="f">触电</opt>
+        <opt ans="t">火灾</opt>
+        <opt ans="f">泄漏</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>预先危害分析中的风险评价分为四级，下列属于第四级风险的是(       )</desc>
+        <opt ans="f">安全的，可以忽略</opt>
+        <opt ans="f">有可能发生的可能性，事故后果轻微，应该注意控制</opt>
+        <opt ans="f">可能导致事故，采取措施加以控制</opt>
+        <opt ans="t">可能导致人员伤亡或财产巨大损失，必须设法消除</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>JSA是一个识别作业过程中(       )危害因素，进而提出控制措施，从而避免或减少事故发生的工具。</desc>
+        <opt ans="f">存在的</opt>
+        <opt ans="f">发生的</opt>
+        <opt ans="t">潜在的</opt>
+        <opt ans="f">暴露出的</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>JSA只是一种分析手段，本身(       )控制事故的发生，它需要作业人员切实贯彻实施JSA要求的各项控制措施和操作规程。</desc>
+        <opt ans="f">能够</opt>
+        <opt ans="t">不能</opt>
+        <opt ans="f">可以在一定程度上</opt>
+        <opt ans="f">可以在一定范围内</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>JSA的作用不包括(       )</desc>
+        <opt ans="f">持续改善安全标准和工作条件</opt>
+        <opt ans="f">促进团队进行自主管理</opt>
+        <opt ans="f">确保控制措施有效并得到落实</opt>
+        <opt ans="t">控制事故的发生</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列有关JSA特点的描述，不正确的是(       )</desc>
+        <opt ans="f">简单实用，便于操作</opt>
+        <opt ans="t">针对性和时效性较差</opt>
+        <opt ans="f">分解作业，可随客观条件变化</opt>
+        <opt ans="f">作业者参与其中</opt>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位应当依法保护从业人员的生命安全，严禁强迫从业人员超强度劳动或者冒险作业。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在重大危险源、高压输电线路和输油、输气管道等场所和设施的安全距离范围内，任何单位和个人不得新建建筑物、构筑物。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位发生生产安全事故，经调查确定为责任事故的，除应当查明事故单位的责任并依法予以追究外，还应当查明对安全生产的有关事项负有审查批准和监督职责的行政部门的责任，对有失职、渎职行为的，依法追究法律责任。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>因抢救人员、防止事故扩大以及疏通交通等原因，需要移动事故现场物件的，应当做出标志，绘制现场简图并做出书面记录，妥善保存现场重要痕迹、物证。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>事故发生单位负责人接到事故报告后，应当立即启动事故相应应急预案，或者采取有效措施，组织抢救，防止事故扩大，减少人员伤亡和财产损失。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>未经许可，任何单位或者个人不得生产、经营、运输烟花爆竹，不得举办焰火晚会以及其他大型焰火燃放活动。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>从业人员可以上岗后再进行安全生产教育培训。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位可以依法参加工伤社会保险，为从业人员缴纳保险费。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>从业人员发现直接危及人身安全的紧急情况时，可以边作业边报告本单位负责人。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位与从业人员订立劳动合同时，应当将工作过程中可能产生的职业危害及其后果、职业危害防护措施和待遇等如实告知从业人员，但可以不在劳动合同中写明。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>从业人员在履行劳动合同期间因工作岗位或者工作内容变更，从事与所订立劳动合同中未告知的存在职业危害的作业的，生产经营单位只需向从业人员如实告知，并不需要变更原劳动合同相关条款。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位可以先安排未经上岗前职业健康检查的从业人员从事接触职业危害的作业，然后根据具体情况再安排职业健康检查。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>从业人员离开生产经营单位时，有权索取本人职业健康监护档案复印件，生产经营单位应当如实、无偿提供，并在所提供的复印件上签章。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>消防工作实行单位全面负责责任制，建立健全社会化的消防工作网络。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>国务院公安消防部门对全国的消防工作实施监督管理。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何单位和个人都有维护消防安全、保护消防设施、预防火灾、报告火警的义务。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何单位和公民都有参加有组织的灭火工作的义务。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险物品的生产、经营、储存单位以及矿山、建筑施工单位的主要负责人和安全生产管理人员，应当由有关主管部门对其安全生产知识和管理能力考核合格后方可任职，考核可以收取一定的考务费。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定，未经安全生产教育和培训毕业的从业人员，不得上岗作业。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全设备的设计、制造、安装、使用、检测、维修、改造和报废，应当符合国家标准或者地方标准。 </desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位应当按照国家有关规定将本单位重大危险源及有关安全措施、应急措施报有关地方人民政府负责安全生产监督管理的部门和有关部门批准。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位可以与从业人员订立协议，免除或者减轻其对从业人员因生产安全事故伤亡依法应承担的责任。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>建设项目的安全设施“三同时”是指安全设施必须与主体工程同时设计、同时施工、同时完工。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>李克强总理在2019年1月9日召开的全国安全生产电视电话会议上指出，要切实提高防灾减灾救灾能力，落实企业安全生产主体责任和部门监管责任，为维护人民群众生命财产安全和推动经济高质量发展作出新贡献。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>发展是硬道理，中国当前和今后的发展任务仍然很重，因此，发展可以不计代价，一切都要为发展让路。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产是事关人民群众生命财产安全、国民经济持续快速健康发展和社会和谐稳定的头等大事。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>2013年，习近平总书记就做好安全生产工作作出重要指示，强调人命关天，发展决不能以牺牲人的生命为代价,这必须作为一条不可逾越的生命线。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产不可逾越的红线是指，发展决不能以牺牲人的生命为代价。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>必须建立健全最严格的安全生产责任体系，把安全责任落实到岗位、落实到人头。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对安全生产形势和安全监管工作不能有盲目乐观思想，要时刻严查严治“认不清、想不到、管不到”等问题。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>落实企业主体责任时，必须落实安全生产组织领导机构，成立安全生产委员会，由安全部门负责人担任主任。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对事故隐患或者安全生产违法行为，任何单位或者个人均无权向负有安全生产监督管理职责的部门报告或者举报。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>落实企业主体责任，必须落实安全管理力量，依法设置安全生产管理机构，配齐配强注册安全工程师等专业安全管理人员。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>双重预控机制是指，准确把握安全生产的特点和规律，以风险为核心，超前防范、关口前移，从风险辨识入手，以风险管控为手段，把风险控制在隐患形成之前。并通过隐患排查，及时找出风险控制过程中可能出现的缺失、漏洞，把隐患消灭在事故发生之前。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在系统安全研究中，根据危险源在事故发生、发展中的作用，把危险源划分为两大类，即第一类危险源和第二类危险源。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工作安全分析（JSA）是一个风险评估的工具，是一套防范事故的方法。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>开展事故隐患排查治理工作时，由生产经营单位安全部门的主要负责人组织制定本单位事故隐患排查治理制度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>发现事故隐患或其他不安全因素时，从业人员应当立即向现场安全生产管理人员或本单位负责人报告。发现直接危及人身安全的紧急情况时，无权停止作业，同样需向现场安全生产管理人员或本单位负责人报告后由其予以处理。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，国务院统一领导全国的生产安全事故应急工作，县级以上地方人民政府统一领导本行政区域内的生产安全事故应急工作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产安全事故应急工作涉及两个以上行政区域的，由有关行政区域共同的上一级人民政府负责，或者由各有关行政区域的上一级人民政府共同负责。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，市级以上人民政府应急管理部门指导、协调本级人民政府其他负有安全生产监督管理职责的部门和下级人民政府的生产安全事故应急工作。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产经营单位应当加强生产安全事故应急工作，建立、健全生产安全事故应急工作责任制，其法定代表人对本单位的生产安全事故应急工作全面负责。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产经营单位应当针对本单位可能发生的生产安全事故的特点和危害，进行风险辨识和评估，制定相应的生产安全事故应急救援预案，并向本单位从业人员公布。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产安全事故应急救援预案应当符合有关法律、法规、规章和标准的规定，具有科学性、针对性和可操作性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，应急指挥机构及其职责发生调整时，生产安全事故应急救援预案制定单位不必修订相关预案。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，县级以上人民政府负有安全生产监督管理职责的部门应当将其制定的生产安全事故应急救援预案报送本级人民政府备案。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，县级以上地方人民政府以及县级以上人民政府负有安全生产监督管理职责的部门，乡、镇人民政府以及街道办事处等地方人民政府派出机关，应当至少每半年组织1次生产安全事故应急救援预案演练。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，县级以上人民政府应当加强对生产安全事故应急救援队伍建设的统一规划、组织和指导。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，县级以上人民政府负有安全生产监督管理职责的部门根据生产安全事故应急工作的实际需要，在重点行业、领域单独建立或者依托有条件的生产经营单位、社会组织共同建立应急救援队伍。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，小型企业或者微型企业等规模较小的生产经营单位，可以不建立应急救援队伍，但应当指定兼职的应急救援人员，并且可以与邻近的应急救援队伍签订应急救援协议。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，工业园区、开发区等产业聚集区域内的生产经营单位，可以联合建立应急救援队伍。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，应急救援队伍建立单位或者兼职应急救援人员所在单位应当按照国家有关规定对应急救援人员进行培训；应急救援人员可以在参加培训的同时，参加应急救援工作。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，应急救援队伍应当配备必要的应急救援装备和物资，不定期组织训练。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产经营单位应当及时将本单位应急救援队伍建立情况按照国家有关规定报送县级以上人民政府负有安全生产监督管理职责的部门，并依法向社会公布。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，县级以上地方人民政府应当根据本行政区域内可能发生的生产安全事故的特点和危害，储备必要的应急救援装备和物资，并及时更新和补充。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，规模较大、危险性较高的易燃易爆物品、危险化学品等危险物品的生产、经营、储存、运输单位应当成立应急处置技术组，实行24小时应急值班。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，应急救援队伍接到有关人民政府及其部门的救援命令或者签有应急救援协议的生产经营单位的救援请求后，应当立即参加生产安全事故应急救援。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，发生生产安全事故后，现场指挥部实行厂长（经理）负责制，按照本级人民政府的授权组织制定并实施生产安全事故现场应急救援方案，协调、指挥有关单位和个人参加现场应急救援。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产安全事故发生地人民政府应当为应急救援人员提供必需的后勤保障。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产安全事故发生地现场指挥部或者统一指挥生产安全事故应急救援的人民政府及其有关部门应当完整、准确地记录应急救援的重要事项，妥善保存相关原始资料和证据。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产安全事故的威胁和危害得到控制或者消除后，有关人民政府不应停止执行依照《生产安全事故应急条例》和有关法律、法规采取的全部或者部分应急救援措施。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，有关人民政府及其部门根据生产安全事故应急救援需要依法调用和征用的财产，在被调用、征用后毁损、灭失的，有关人民政府及其部门不必给予补偿。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，县级以上地方人民政府应当按照国家有关规定，对在生产安全事故应急救援中伤亡的人员及时给予救治和抚恤；符合烈士评定条件的，按照国家有关规定评定为烈士。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>地方各级人民政府和街道办事处等地方人民政府派出机关以及县级以上人民政府有关部门违反《生产安全事故应急条例》规定的，由其本级行政机关责令改正。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位未制定生产安全事故应急救援预案、未定期组织应急救援预案演练、未对从业人员进行应急教育和培训，生产经营单位的主要负责人在本单位发生生产安全事故时不立即组织抢救的，由县级以上人民政府负有安全生产监督管理职责的部门依照《生产安全事故应急条例》有关规定追究法律责任。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产经营单位未对应急救援器材、设备和物资进行经常性维护、保养，导致发生严重生产安全事故或者生产安全事故危害扩大的，由县级以上人民政府负有安全生产监督管理职责的部门依照《中华人民共和国突发事件应对法》有关规定追究法律责任。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《生产安全事故应急条例》规定，生产经营单位未将生产安全事故应急救援预案报送备案、未建立应急值班制度或者配备应急值班人员的，由县级以上人民政府负有安全生产监督管理职责的部门责令限期改正。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>违反《生产安全事故应急条例》规定，构成违反治安管理行为的，由县级以上行政机关依法给予处罚。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品安全生产工作，应强化重大风险管控，坚决防范遏制较大以上事故。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品必须附有化学品安全技术说明书和化学品安全标签。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>向有危险化学品生产许可证或经营许可证的单位购买危险化学品时，购买企业不必持有相应许可证件。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品生产企业可以根据单位需要，决定是否设置安全生产管理机构或配备专职安全生产管理人员。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>只有危险化学品生产企业需要制定事故应急救援预案。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品单位从业人员可先上岗作业，再进行培训考核。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对有资格要求的危险化学品岗位，应当配备依法取得相应资格的从业人员。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品的特性包括有毒、腐蚀、爆炸、易燃、污染环境等。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>遇湿易燃物品必须遇明火，才能燃烧或爆炸。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>运输危险化学品时，《道路运输证》上需加盖“道路危险货物运输专用章”。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>进行预先危害分析时，首先要查明系统中的能量物质或载体危险源，然后识别使危险源演变为事故的诱发因素。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业主管参加JSA即可，员工和其他受影响的人不必参加。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>JSA是否成功取决于是否有效地与相关人员进行沟通。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>预先危害分析中的风险评价分为四级，其中第一级风险是安全的，可以忽略。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>每天的常规性工作也必须做JSA。</desc>
+        <ans>f</ans>
+    </qstn>
+</library>
