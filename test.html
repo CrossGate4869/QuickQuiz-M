@@ -32,24 +32,24 @@
 
 <div id = "count">
 	<div style = "line-height : 200%">
-		单选题数：<input type = "number" id = "schCount" maxlength = "3" value = "20" style = "width : 30%" onchange = "checkInput()"></input>
+		单选题数：<input type = "number" id = "schCount" maxlength = "3" value = "20" style = "width : 30%" onchange = "checkInput()" onclick = "this.select();"></input>
 		<span id = "schMax"></span>
 	</div>
 	<div style = "line-height : 200%">
-		多选题数：<input type = "number" id = "mchCount" maxlength = "3" value = "0" style = "width : 30%" onchange = "checkInput()"></input>
+		多选题数：<input type = "number" id = "mchCount" maxlength = "3" value = "0" style = "width : 30%" onchange = "checkInput()" onclick = "this.select();"></input>
 		<span id = "mchMax"></span>
 	</div>
 	<div style = "line-height : 200%">
-		判断题数：<input type = "number" id = "jdgCount" maxlength = "3" value = "10" style = "width : 30%" onchange = "checkInput()"></input>
+		判断题数：<input type = "number" id = "jdgCount" maxlength = "3" value = "10" style = "width : 30%" onchange = "checkInput()" onclick = "this.select();"></input>
 		<span id = "jdgMax"></span>
 	</div>
 	<div style = "line-height : 200%">
-		测试时间：<input type = "number" id = "timeLimit" maxlength = "3" value = "15" style = "width : 30%" onchange = "checkInput()"></input>
+		测试时间：<input type = "number" id = "timeLimit" maxlength = "3" value = "15" style = "width : 30%" onchange = "checkInput()" onclick = "this.select();"></input>
 		分钟<br />（最大180分钟，输入0不限时）
 	</div>
 	
 	<p>
-		请输入姓名：<input type = "text" id = "name" maxlength = "8" style = "width : 50%"></input><br/>
+		请输入姓名：<input type = "text" id = "name" maxlength = "8" style = "width : 50%" onclick = "this.select();"></input><br/>
 		（此项可以不输入）
 	</p>
 		
@@ -107,6 +107,7 @@
 			<input type = "checkbox" id = "onlyfalse"></input><label for = "onlyfalse" id = "onlytxt">只看错题</label>
 	</p>
 	<p>
+		<button type = "button" id = "pause" onclick = "pause()">暂停答题</button>
 		<button type = "button" id = "switch" onclick = "switchFunc(true)">结束答题</button>
 	</p>
 	
@@ -135,6 +136,11 @@
 			<button type = "button" onclick = "searchQstn()">查找</button>
 		</p>
 	</div>
+</div>
+
+<div id = "pausescreen" style = "display : none;">
+	<h3>暂停中。。。</h3>
+	<button type = "button" id = "goon" onclick = "goOnTest()">点击继续</button>
 </div>
 
 <hr />

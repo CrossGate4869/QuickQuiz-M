@@ -1683,8 +1683,8 @@
         <desc>2018年8月21日至22日，习近平总书记在全国宣传思想工作会议上指出，要扎实抓好县级融媒体中心建设，更好【】。（出题单位：中共湖南省浏阳市委宣传部推荐单位：湖南学习平台）</desc>
         <opt ans="f">讲好中国故事、传播好中国声音</opt>
         <opt ans="f">创新宣传理念、创新运行机制</opt>
-        <opt ans="t">唱响主旋律、壮大正能量</opt>
-        <opt ans="f">引导群众、服务群众</opt>
+        <opt ans="f">唱响主旋律、壮大正能量</opt>
+        <opt ans="t">引导群众、服务群众</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>根据《中华人民共和国国家安全法》规定，开展情报信息工作，应当充分运用【】，加强对情报信息的鉴别、筛选、综合和研判分析。（出题单位：司法部全国普法办）</desc>
@@ -5511,6 +5511,13 @@
         <opt ans="f">厨余垃圾</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
+        <desc>都江堰水利工程是全世界迄今为止年代最久、唯一留存、仍在一直使用、以无坝引水为特征的宏大水利工程，其修建年代是【    】。（出题单位：国家文物局）</desc>
+        <opt ans="t">战国时期</opt>
+        <opt ans="f">秦代</opt>
+        <opt ans="f">西汉</opt>
+        <opt ans="f">北宋</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
         <desc>“葡萄美酒夜光杯，欲饮琵琶马上催”，是【    】的诗作。（出题单位：南开大学文学院）</desc>
         <opt ans="f">王昌龄</opt>
         <opt ans="t">王翰</opt>
@@ -5533,5 +5540,51 @@
         <desc>1896年，游泳被列为第一届奥运会比赛项目时【    】。（出题单位：中国体育报业总社）</desc>
         <opt ans="t">不区分泳姿</opt>
         <opt ans="f">区分泳姿</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国刑法》规定，非法持有鸦片二百克以上不满一千克、海洛因或者甲基苯丙胺【    】克以上不满五十克或者其他毒品数量较大的，处三年以下有期徒刑、拘役或者管制，并处罚金；情书严重的，处三年以上七年以下有期徒刑，并处罚金。（出题单位：国家禁毒委员会办公室）</desc>
+        <opt ans="f">五</opt>
+        <opt ans="f">五十</opt>
+        <opt ans="t">十</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新精神活性物质（NPS）也被称为“策划药”、“实验室毒品”，是指未被国际公约管制，但存在滥用，并会对公众健康带来威胁的物质。具有与管制毒品相似或者更强的兴奋、致幻、麻醉等效果，已成为继传统毒品、合成毒品后全球流行的“【    】”。</desc>
+        <opt ans="f">第四代毒品</opt>
+        <opt ans="f">新型毒品</opt>
+        <opt ans="t">第三代毒品</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>杜甫《望岳》&quot;岱宗夫如何,齐鲁青未了”中的“岱宗”指的是【    】（出题单位：南开大学文学院）</desc>
+        <opt ans="t">泰山</opt>
+        <opt ans="f">华山</opt>
+        <opt ans="f">衡山</opt>
+        <opt ans="f">嵩山</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国刑法》规定，走私、贩卖、运输、制造鸦片一千克以上、海洛因或者甲基苯丙胺【    】克以上或者其他毒品数量大的,处十五年有期徒刑、无期徒刑或者死刑，并处没收财产。（出题单位：国家禁毒委员会办公室）</desc>
+        <opt ans="f">十</opt>
+        <opt ans="f">二十</opt>
+        <opt ans="t">五十</opt>
+        <opt ans="f">一百</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>并称为“楷书四大家”的除了欧阳询、颜真卿、柳公权，还有【    】。（组织:浙江学习平台 出题:湖州市方志办）</desc>
+        <opt ans="f">鲜于枢</opt>
+        <opt ans="t">赵孟頫</opt>
+        <opt ans="f">赵期颐</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>唐代著名诗人，【    】与贾岛齐名，人称&quot;郊寒岛瘦”，代表作有《游子吟》等。</desc>
+        <opt ans="f">王勃</opt>
+        <opt ans="t">孟郊</opt>
+        <opt ans="f">杜甫</opt>
+        <opt ans="f">韦庄</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>唐朝上元初年(公元760年)，陆羽隐居苕溪，撰成【    】三卷，成为世界上第一部茶叶专著。</desc>
+        <opt ans="t">《茶经》</opt>
+        <opt ans="f">《茶谱》</opt>
+        <opt ans="f">《茶曲》</opt>
+        <opt ans="f">《茶道》</opt>
     </qstn>
 </library>

@@ -61,8 +61,8 @@
     <qstn type="s-choise" cust="0">
         <desc>SS-46型双向测振仪，振动大时有输出，微弱振动时无输出，原因是（   ）。</desc>
         <opt ans="f">拾振器线圈断路</opt>
-        <opt ans="t">拾振器线圈短路</opt>
-        <opt ans="f">拾振器线圈和磁钢间有磨擦现象</opt>
+        <opt ans="f">拾振器线圈短路</opt>
+        <opt ans="t">拾振器线圈和磁钢间有磨擦现象</opt>
         <opt ans="f">拾振器线圈松</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
