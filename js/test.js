@@ -4,7 +4,7 @@ var ansList = [], userList = [], markList = [];
 var qstnIndex = 0;
 var schCount = 0, mchCount = 0, jdgCount = 0;
 var schMax = 0, mchMax = 0, jdgMax = 0;
-var testTime = 0, startTest = false;
+var testTime = 0, testTimeSave = 0, startTest = false;
 
 function testNightMode(tip)
 {
@@ -120,6 +120,7 @@ function resetPage()
 {
 	document.getElementById("count").style.display = "";
 	document.getElementById("test").style.display = "none";
+	document.getElementById("pausescreen").style.display = "none";
 }
 
 function makeQuiz()
@@ -143,6 +144,7 @@ function makeQuiz()
 	addQuestion("m-choise", mchCount);
 	addQuestion("judge", jdgCount);
 	testTime = testTime * 60;
+	testTimeSave = testTime;
 	
 	userList.length = qstnList.length;
 	markList.length = qstnList.length;
@@ -267,7 +269,13 @@ function showTimeLeft(first)
 		
 		if (!startTest)
 		{
-			document.getElementById("timeLeft").innerHTML = "剩余时间：已结束";
+			var use = testTimeSave - testTime;
+			
+			var h = parseInt(use / 3600);
+			var m = parseInt((use % 3600) / 60);
+			var s = parseInt(use % 60);
+			
+			document.getElementById("timeLeft").innerHTML = "考试结束，用时" + h + ":" + m + ":" + s;
 		}
 		else
 		{
@@ -648,7 +656,11 @@ function switchFunc(ask)
 		}
 		
 		var percent = currect / qstnList.length * 100;
-		alert("共" + qstnList.length + "题，答对" + currect + "题\n正确率：" + percent.toFixed(2) + "%");
+		var use = testTimeSave - testTime;
+		var h = parseInt(use / 3600);
+		var m = parseInt((use % 3600) / 60);
+		var s = parseInt(use % 60);
+		alert("共" + qstnList.length + "题，答对" + currect + "题\n正确率：" + percent.toFixed(2) + "%\n用时：" + h + ":" + m + ":" + s);
 		
 		document.getElementById("switch").innerHTML = "重新开始";
 		document.getElementById("doingfunc").style.display = "none";
@@ -787,4 +799,21 @@ function searchQstn()
 
 	qstnIndex = i;
 	showQuestion();
+}
+
+function pause()
+{
+	startTest = false;
+	
+	document.getElementById("test").style.display = "none";
+	document.getElementById("pausescreen").style.display = "";
+}
+
+function goOnTest()
+{
+	startTest = true;
+	showTimeLeft(true);
+	
+	document.getElementById("test").style.display = "";
+	document.getElementById("pausescreen").style.display = "none";
 }
