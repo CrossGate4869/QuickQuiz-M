@@ -120,6 +120,7 @@ function resetPage()
 {
 	document.getElementById("count").style.display = "";
 	document.getElementById("test").style.display = "none";
+	document.getElementById("pause").style.display = "none";
 	document.getElementById("pausescreen").style.display = "none";
 }
 
@@ -156,6 +157,7 @@ function makeQuiz()
 	
 	document.getElementById("count").style.display = "none";
 	document.getElementById("test").style.display = "";
+	document.getElementById("pause").style.display = "";
 	
 	document.getElementById("doingfunc").style.display = "";
 	document.getElementById("onlyfalse").style.display = "none";
@@ -683,6 +685,7 @@ function switchFunc(ask)
 		startTest = false;
 		showQuestion();
 		enableAllChoise(false);
+		document.getElementById("pause").style.display = "none";
 	}
 	else
 	{

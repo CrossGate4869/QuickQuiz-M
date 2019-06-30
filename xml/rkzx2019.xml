@@ -2499,13 +2499,6 @@
         <opt ans="f">无法判断</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>热工测量用传感器,都是把(   )的物理量转换成电量的。</desc>
-        <opt ans="t">非电量</opt>
-        <opt ans="f">物质</opt>
-        <opt ans="f">电量</opt>
-        <opt ans="f">能量</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>测量仪表测热电偶热电动势的理论依据是(   )。</desc>
         <opt ans="f">均质导体定律</opt>
         <opt ans="t">中间导体定律</opt>
