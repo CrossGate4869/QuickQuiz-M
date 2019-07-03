@@ -70,12 +70,6 @@
         <opt ans="t">企业级</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>根据竞赛内容的不同，劳动竞赛可划分为生产型竞赛、智能型竞赛、（   ）三类。</desc>
-        <opt ans="f">现场型竞赛</opt>
-        <opt ans="f">任务型竞赛</opt>
-        <opt ans="t">技能型竞赛</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>工会主席副主席任期未满，任何组织和单位（   ）调动其工作。</desc>
         <opt ans="f">可以</opt>
         <opt ans="f">绝对不能</opt>
@@ -118,12 +112,6 @@
         <opt ans="f">女职工</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>在小型非公有制企业集中的乡镇(街道)、村(社区)、开发区、科技园区、工业园区，基层工会可以建立（   ）或区域(行业)职代会，协商解决带有共性的问题，审议通过区域(行业)集体合同、工资集体协议等草案等。</desc>
-        <opt ans="t">联合职代会</opt>
-        <opt ans="f">职代会联合会</opt>
-        <opt ans="f">联合工会</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>新中国第一部《工会法》颁布于（   ）6月。</desc>
         <opt ans="t">1950年</opt>
         <opt ans="f">1960年</opt>
@@ -164,12 +152,6 @@
         <opt ans="t">1984年</opt>
         <opt ans="f">1994年</opt>
         <opt ans="f">2004年</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>用人单位与劳动者订立的劳动合同中劳动报酬和劳动条件等标准（   ）集体合同规定的标准。</desc>
-        <opt ans="t">不得低于</opt>
-        <opt ans="f">应当高于</opt>
-        <opt ans="f">可以低于</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>当代中国工人运动的主题是（   ）。</desc>
@@ -231,16 +213,198 @@
         <opt ans="t">公平</opt>
         <opt ans="f">公认</opt>
     </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用人单位与劳动者订立的劳动合同中劳动报酬和劳动条件等标准（   ）集体合同规定的标准。</desc>
+        <opt ans="t">不得低于</opt>
+        <opt ans="f">应当高于</opt>
+        <opt ans="f">可以低于</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《工会法》规定:“中华全国总工会、地方总工会、产业工会具有社会团体法人资格。（   ）组织具备民法通则规定的法人条件的，依法取得社会团体法人资格。”</desc>
+        <opt ans="f">企业工会</opt>
+        <opt ans="f">事业单位工会</opt>
+        <opt ans="t">基层工会</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国工会国际工作的方针，是独立自主、互相尊重、求同存异、加强合作、（   ）。</desc>
+        <opt ans="f">互通有无</opt>
+        <opt ans="f">平等互利</opt>
+        <opt ans="t">增进友谊</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中华全国总工会入会申请书上有这样的表述:“我（   ）加入中华全国总工会，遵守工会章程，执行工会决议，积极参加工会活动，为把我国建设成为富强、民主、文明的社会主义国家而努力奋斗。”</desc>
+        <opt ans="f">申请</opt>
+        <opt ans="t">自愿</opt>
+        <opt ans="f">志愿</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工会会员最基本和最重要的权利是（   ）。</desc>
+        <opt ans="t">选举权、被选举权和表决权</opt>
+        <opt ans="f">批评权和监督权</opt>
+        <opt ans="f">言论自由权</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国特色社会主义工会发展道路与中国特色社会主义道路是（   ）的关系。</desc>
+        <opt ans="t">局部和整体</opt>
+        <opt ans="f">形式和内容</opt>
+        <opt ans="f">个别和一般</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工会组织开展普法活动要以（   ）法律为重点。</desc>
+        <opt ans="f">刑法</opt>
+        <opt ans="f">经济法</opt>
+        <opt ans="t">劳动法律</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>全总提出的“两个普遍”要求，指的是依法推动企业普遍建立工会组织，依法推动企业普遍开展（   ）</desc>
+        <opt ans="f">劳动竞赛</opt>
+        <opt ans="f">劳动会同</opt>
+        <opt ans="t">工资集体协商</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工会在推进工资集体协商工作中，对生产经营困难的企业要突出协商建立（   ）机制。</desc>
+        <opt ans="f">工资集体协商共决机制</opt>
+        <opt ans="f">工资正常增长机制</opt>
+        <opt ans="t">工资支付保障机制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工会维护职工获得劳动报酬权利，监督企业严格执行国家有关工资的规定，促进职工尤其是（   ）职工工资与企业经济效益和国家经济社会发展同步增长。</desc>
+        <opt ans="f">管理人员</opt>
+        <opt ans="f">技术人员</opt>
+        <opt ans="t">一线</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当前中国工会的工作方针是（   ）。</desc>
+        <opt ans="f">密切联系职工群众</opt>
+        <opt ans="t">组织起来、切实维权</opt>
+        <opt ans="f">全面提高职工素质</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“（   ）”是全国总工会于1992年开始实施的一项社会保障工作的名称。1994年，全国总工会决定把这一活动拓展为工程，以实现经常化、制度化和社会化。从此，每年元旦春节期间，各级工会都与党政一道，深入到困难企业和职工家庭，送去慰问金和生活必需品。</desc>
+        <opt ans="t">送温暖</opt>
+        <opt ans="f">困难职工帮扶</opt>
+        <opt ans="f">彩虹计划</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1948年8月，在哈尔滨召开的（   ）全国劳动大会决定重建中华全国总工会。</desc>
+        <opt ans="f">第四次</opt>
+        <opt ans="f">第五次</opt>
+        <opt ans="t">第六次</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>厂务公开，首先强调的是职工的（   ）。</desc>
+        <opt ans="t">知情权</opt>
+        <opt ans="f">参与权</opt>
+        <opt ans="f">监督权</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据竞赛内容的不同，劳动竞赛可划分为生产型竞赛、智能型竞赛、（   ）三类。</desc>
+        <opt ans="f">现场型竞赛</opt>
+        <opt ans="f">任务型竞赛</opt>
+        <opt ans="t">技能型竞赛</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工会推进工资集体协商工作应将（   ）、自主决定工资总额的国有和集体企业，以及实行经营者年薪制的企业作为工作重点。</desc>
+        <opt ans="t">非公有制企业</opt>
+        <opt ans="f">私营企业</opt>
+        <opt ans="f">外商投资企业</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业、事业单位应当依法建立健全职工(代表)大会制度或者其他形式的民主管理制度，保障（   ）依法行使民主管理和民主监督权利。</desc>
+        <opt ans="f">工会</opt>
+        <opt ans="f">会员</opt>
+        <opt ans="t">职工</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1957年工会（   ）修改了工会章程，将工会的产业组织原则修改为“按产业和地区相结合的原则组建工会”。</desc>
+        <opt ans="f">七大</opt>
+        <opt ans="t">八大</opt>
+        <opt ans="f">九大</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>各级工会积极开展“（   ）”，通过协助有关部门安排农民工专列、包专车，为农民工购买团体票等形式，帮助亿万农民工平安返回家乡。</desc>
+        <opt ans="f">送温暖活动</opt>
+        <opt ans="f">送文化活动</opt>
+        <opt ans="t">农民工平安返乡行动</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业可以设立劳动争议调解委员会，主任由（   ）代表担任，依法主持本单位劳动争议调解委员会的日常工作。</desc>
+        <opt ans="f">企业</opt>
+        <opt ans="f">职工</opt>
+        <opt ans="t">工会</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在小型非公有制企业集中的乡镇(街道)、村(社区)、开发区、科技园区、工业园区，基层工会可以建立（   ）或区域(行业)职代会，协商解决带有共性的问题，审议通过区域(行业)集体合同、工资集体协议等草案等。</desc>
+        <opt ans="t">联合职代会</opt>
+        <opt ans="f">职代会联合会</opt>
+        <opt ans="f">联合工会</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国工会实行同级党组织和上级工会双重领导，（   ）的原则。</desc>
+        <opt ans="t">以同级党组织领导为主</opt>
+        <opt ans="f">以上级工会领导为主</opt>
+        <opt ans="f">根据实际情况需要决定以哪个为主</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中国工会章程》规定:“各级工会组织根据有关规定管理工会干部。重视培养和选拔青年干部、妇女干部、（   ）。”</desc>
+        <opt ans="f">革命老区干部</opt>
+        <opt ans="t">少数民族干部</opt>
+        <opt ans="f">边疆和贫困地区干部</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《劳动合同法》是完善劳动合同制度、协调劳动关系、保护劳动者合法权益的重要法律。现行的《劳动合同法》于 2007年6月27日由第十届全国人大常委会第二十八次会议通过，并于（   ）实施。</desc>
+        <opt ans="f">2007年6月27日</opt>
+        <opt ans="f">2007年12月31日</opt>
+        <opt ans="t">2008年1月1日</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>按照全国总工会有关劳务派遣工加入工会问题的规定，劳务中介公司已建立工会组织的，应由中介公司的工会组织及时吸收劳务派遣工加入工会;劳务公司尚未建立工会组织的，可由用人单位的工会依据（   ），吸收劳务派遣工加入工会组织。</desc>
+        <opt ans="t">事实劳动关系</opt>
+        <opt ans="f">工龄长短</opt>
+        <opt ans="f">工作岗位</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工会会员劳动(工作)关系发生变化时，会员组织关系需随之进行接转。调出单位工会在《工会会员证》“组织关系接转”栏目中填写有关内容，并加盖公章;《工会会员登记表》（   ）。</desc>
+        <opt ans="f">由调出单位留存</opt>
+        <opt ans="t">随个人档案一并移交</opt>
+        <opt ans="f">交个人保管</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>困难职工帮扶中心是工会履行维权职能的窗口，是工会实施“送温暖工程”、帮扶困难职工的有效载体。其主要工作有职工基本生活救助、（   ）、职工子女入学救助和职工就业帮扶等。</desc>
+        <opt ans="f">职工思想道德教育</opt>
+        <opt ans="f">职工技术技能培训</opt>
+        <opt ans="t">职工法律援助</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国工会的基本职责是（   ）。</desc>
+        <opt ans="f">组织安全生产</opt>
+        <opt ans="f">教育引导职工</opt>
+        <opt ans="t">维护职工合法权益</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新中国成立初期，《中华人民共和国工会法》于（   ）颁布实施。</desc>
+        <opt ans="t">1950年</opt>
+        <opt ans="f">1951年</opt>
+        <opt ans="f">1952年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列选项中，（   ）不属于工会经费来源。</desc>
+        <opt ans="f">会员缴纳的会费</opt>
+        <opt ans="t">会员的劳动收入</opt>
+        <opt ans="f">企业、事业单位、机关和其他社会组织按全部职工工资总额的2%向工会拨缴的经费或建会筹备金</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>集体合同草案应当提交（   ）或者全体职工讨论通过。</desc>
+        <opt ans="t">职工代表大会</opt>
+        <opt ans="f">工会</opt>
+        <opt ans="f">董事会</opt>
+    </qstn>
     <qstn type="judge" cust="0">
         <desc>《中国共产党纪律处分条例》中明确党组织严重违纪的两种处理措施是改革和解散。</desc>
         <ans>f</ans>
     </qstn>
     <qstn type="judge" cust="0">
         <desc>为了减少和解决女职工在劳动中因生理特点造成的特殊困难，保护女职工健康，制定本规定。</desc>
-        <ans>t</ans>
-    </qstn>
-    <qstn type="judge" cust="0">
-        <desc>党的三大优良作风是理论联系实际、密切联系群众和批评与自我批评。</desc>
         <ans>t</ans>
     </qstn>
     <qstn type="judge" cust="0">
@@ -264,15 +428,7 @@
         <ans>t</ans>
     </qstn>
     <qstn type="judge" cust="0">
-        <desc>习近平总书记谈到“四风”问题，其中心内容是全体共产党员特别是党的领导干部，要坚定理想信念，始终把人民放在心中最高的位置，弘扬党的光荣传统和优良作风，坚决反对形式主义、官僚主义，坚决反对享乐主义、奢靡之风，坚决同一切消极腐败现象作斗争，永葆共产党人政治本色，矢志不移为党和人民事业而奋斗。</desc>
-        <ans>t</ans>
-    </qstn>
-    <qstn type="judge" cust="0">
         <desc>党的“三大作风”是理论和实践相结合的作风；与人民群众密切联系的作风；批评和自我批评的作风。</desc>
-        <ans>t</ans>
-    </qstn>
-    <qstn type="judge" cust="0">
-        <desc>我党面临的“四大考验”是执政考验、改革开放考验、市场经济考验、外部环境考验。</desc>
         <ans>t</ans>
     </qstn>
     <qstn type="judge" cust="0">
@@ -420,10 +576,6 @@
         <ans>t</ans>
     </qstn>
     <qstn type="judge" cust="0">
-        <desc>习近平总书记提出的“五大思维”方法是战略思维、创新思维、辩证思维、法治思维、底线思维。</desc>
-        <ans>t</ans>
-    </qstn>
-    <qstn type="judge" cust="0">
         <desc>用人单位应当遵守女职工禁忌从事的劳动范围的规定。用人单位应当将本单位属于女职工禁忌从事的劳动范围的岗位书面告知女职工。</desc>
         <ans>t</ans>
     </qstn>
@@ -458,5 +610,53 @@
     <qstn type="judge" cust="0">
         <desc>劳动者在试用期内提前7日通知用人单位，可以解除劳动合同。</desc>
         <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>习近平总书记提出的“五大思维”方法是战略思维、创新思维、辩证思维、法治思维、底线思维。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中国共产党廉洁自律准则》中党员廉洁自律规范指出，要坚持崇廉拒腐，清白做人，干净做事。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工会的财产、经费和国家拨给工会使用的不动产，任何组织和个人不得侵占、调拨 、挪用和任意 。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的三大优良作风是理论联系实际、密切联系群众和批评与自我批评。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>建设“职工之家”的深刻意义：一是体现了党对工会的要求;二是由工会的性质和宗旨决定的;三是反映了广大职工群众的要求和希望。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工会财务工作区别于企业、事业、行政财务的最大特点是广泛的群众性。工会经费的筹集、管理、使用都有相应的职工群众的参与。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>与企业签订劳动合同建立劳动关系以及与企业存在事实劳动关系的职工，有选举和被选举为职工代表大会代表的权利。依法终止或者解除劳动关系的职工代表，其代表资格自行终止。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>“五大发展理念”是创新、协调、绿色、开放、共享。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中国共产党廉洁自律准则》是中国共产党执政以来第一部坚持正面倡导、面向全体党员的规范全党廉洁自律工作的重要基础性法规。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>习近平总书记谈到“四风”问题，其中心内容是全体共产党员特别是党的领导干部，要坚定理想信念，始终把人民放在心中最高的位置，弘扬党的光荣传统和优良作风，坚决反对形式主义、官僚主义，坚决反对享乐主义、奢靡之风，坚决同一切消极腐败现象作斗争，永葆共产党人政治本色，矢志不移为党和人民事业而奋斗。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>2020年实现两个“翻一番”是国内生产总值比2010年翻一番；城乡居民人均收入比2010年翻一番。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>我党面临的“四大考验”是执政考验、改革开放考验、市场经济考验、外部环境考验。</desc>
+        <ans>t</ans>
     </qstn>
 </library>

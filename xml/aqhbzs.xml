@@ -77,13 +77,6 @@
         <opt ans="t">35mg/Nm3</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>目前我公司净烟气出口烟尘浓度为（ ）以下</desc>
-        <opt ans="t">10mg/Nm3</opt>
-        <opt ans="f">15mg/Nm3</opt>
-        <opt ans="f">20mg/Nm3</opt>
-        <opt ans="f">25mg/Nm3</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>国泰#11机组在2015年（ ）经过人员的精心操作，实现了烟尘、二氧化硫、氮氧化物排放浓度满足《河北省燃煤电厂大气污染排放标准》中限值要求。</desc>
         <opt ans="f">5月份</opt>
         <opt ans="t">6月份</opt>
@@ -110,13 +103,6 @@
         <opt ans="f">黄色（Ⅲ级）应急响应</opt>
         <opt ans="f">橙色（Ⅱ级）应急响应</opt>
         <opt ans="t">红色（Ⅰ级）应急响应</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>国家规定每发一度电排放的烟尘质量（ ）</desc>
-        <opt ans="t">0.035克/千瓦时</opt>
-        <opt ans="f">0.015克/千瓦时</opt>
-        <opt ans="f">0.35克/千瓦时</opt>
-        <opt ans="f">0.15克/千瓦时</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>国家规定每发一度电排放的氮氧化物质量（ ）</desc>
@@ -201,13 +187,6 @@
         <opt ans="f">钙硫比降低</opt>
         <opt ans="f">循环浆液中钙离子浓度增加</opt>
         <opt ans="f">硫酸钙过于饱和</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>吸收塔中的pH值通过注入(   )来进行控制。</desc>
-        <opt ans="t">石灰石浆液</opt>
-        <opt ans="f">工艺水</opt>
-        <opt ans="f">氧化空气</opt>
-        <opt ans="f">石膏</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>关于溶液的pH值，下面叙述正确的是(   )。</desc>
@@ -336,24 +315,11 @@
         <opt ans="f">政府职能部门</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>企业事业单位和其他生产经营者有下列行为（ ），尚不构成犯罪的，除依照有关法律法规规定予以处罚外，由县级以上人民政府环境保护主管部门或者其他有关部门将案件移送公安机关，对其直接负责的主管人员和其他直接责任人员，处十日以上十五日以下拘留；情节较轻的，处五日以上十日以下拘留：</desc>
-        <opt ans="f">建设项目未依法进行环境影响评价</opt>
-        <opt ans="f">违反法律规定，未取得排污许可证排放污染物</opt>
-        <opt ans="t">通过暗管、渗井、渗坑、灌注或者篡改、伪造监测数据，或者不正常运行防治污染设施等逃避监管的方式违法排放污染物的</opt>
-        <opt ans="f">生产、使用国家明令禁止生产、使用的农药</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>编制有关开发利用规划，建设对环境有影响的项目，应当依法进行（ ）。未依法进行环境影响评价的开发利用规划，不得组织实施；未依法进行环境影响评价的建设项目，不得开工建设。</desc>
         <opt ans="f">环境监测</opt>
         <opt ans="f">环境规划</opt>
         <opt ans="t">环境影响评价</opt>
         <opt ans="f">环境监察</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>依据中华人民共和国环境保护法的规定，（ ）都有保护环境的义务，并有权对污染和破坏环境的单位和个人进行检举和控告。</desc>
-        <opt ans="t">任何单位和个人</opt>
-        <opt ans="f">环境保护部门</opt>
-        <opt ans="f">利害关系人</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>对生活垃圾进行无害化处理的主要方法有：焚烧处理、高温堆肥、卫生填埋。我市生活垃圾处理主要采用（ ）。</desc>
@@ -440,12 +406,6 @@
         <opt ans="f">7.0</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>沙暴的形成条件：（ ）。</desc>
-        <opt ans="f">强风、沙源</opt>
-        <opt ans="f">沙源、风暴</opt>
-        <opt ans="t">强风、沙源、不稳定大气</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>我国土壤污染物主要是什么？（ ）</desc>
         <opt ans="f">固体废弃物</opt>
         <opt ans="t">农药和重金属</opt>
@@ -470,20 +430,6 @@
         <opt ans="f">烟尘、二氧化硫、粉尘</opt>
         <opt ans="t">二氧化硫、粉尘、氮氧化物</opt>
         <opt ans="f">烟尘、粉尘、氮氧化物</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>我国的大气污染物排放标准中指的烟囱有效源高度是（ ）</desc>
-        <opt ans="f">烟气抬升高度</opt>
-        <opt ans="t">烟气抬升高度和烟囱几何高度之和</opt>
-        <opt ans="f">烟囱几何高度</opt>
-        <opt ans="f">烟囱几何高度和烟气抬升高度之差</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>历史上，我国黄土高原曾是“丰林密布的沃野、游牧活动的草原”。黄土高原现在生态环境的形成由于( )</desc>
-        <opt ans="f">战争</opt>
-        <opt ans="f">自然灾害</opt>
-        <opt ans="t">乱砍滥伐,毁林开荒</opt>
-        <opt ans="f">动物过量繁殖</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>环境监测的对象有：（ ）</desc>
@@ -520,13 +466,6 @@
         <opt ans="f">客厅</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>能提高身体排污能力的食品是（ ）。</desc>
-        <opt ans="f">高蛋白、高热量、高脂肪的食品</opt>
-        <opt ans="t">粗粮、豆类、海藻</opt>
-        <opt ans="f">各种饮料</opt>
-        <opt ans="f">各种零食</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>夏天为了保证既舒适又节能，空调温度宜设置在（ ）度左右。</desc>
         <opt ans="f">15</opt>
         <opt ans="f">24</opt>
@@ -548,13 +487,6 @@
         <opt ans="f">汞</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>工厂废弃物中的汞可能造成食物的汞污染，引起人类的慢性汞中毒，以下几种食品受重汞污染可能性最大的是（ ）。</desc>
-        <opt ans="f">牛肉</opt>
-        <opt ans="t">海鲜</opt>
-        <opt ans="f">青菜</opt>
-        <opt ans="f">西瓜</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>下面哪一项不属于厨房节能措施（ ）。</desc>
         <opt ans="f">最好不用微波炉加热熟食或解冻冰冻食品</opt>
         <opt ans="f">大块的食物，最好先切成小块再下锅</opt>
@@ -567,13 +499,6 @@
         <opt ans="t">光与光能</opt>
         <opt ans="f">节能与能源</opt>
         <opt ans="f">核与核能</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>如果电视播报的空气质量为三级，那么就说明当天的空气是( )。</desc>
-        <opt ans="f">非常好</opt>
-        <opt ans="f">污染严重</opt>
-        <opt ans="t">轻度污染</opt>
-        <opt ans="f">良好</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>奶奶将刚买来的青菜散开后放到水中浸上1小时再烧，主要是为了什么？( )</desc>
@@ -621,13 +546,6 @@
         <opt ans="t">必须在包装上注明该原料是转基因物质</opt>
         <opt ans="f">不用注明原料性质</opt>
         <opt ans="f">贴上绿色产品标志</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>在开车节能上：要避免冷车启动，避免突然变速，选择合适挡位避免低档跑高速，定期更换( )，高速莫开窗，轮胎气压要适当等。</desc>
-        <opt ans="f">汽油</opt>
-        <opt ans="f">柴油</opt>
-        <opt ans="f">仪表油</opt>
-        <opt ans="t">机油</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>为减少解冻食品时开关微波炉的次数，可预先将食品从冰箱冷冻室移入冷藏室，慢慢解冻，并充分利用冷冻食品中的“( )能”。</desc>
@@ -1677,13 +1595,6 @@
         <opt ans="f">作业人员</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>《安规》(热力和机械部分)规定， 搭设好的脚手架，未经（）不应擅自使用。</desc>
-        <opt ans="f">检验</opt>
-        <opt ans="t">验收</opt>
-        <opt ans="f">签字</opt>
-        <opt ans="f">检查</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>《安规》(热力和机械部分)规定， 在锅炉大修中，动火作业包括氧气瓶、乙炔气瓶等易燃易爆装置的放置应与运行油管道保持（    ）距离，并采取可靠的安全措施。&#x09;</desc>
         <opt ans="f">5米</opt>
         <opt ans="t">足够的安全</opt>
@@ -2209,7 +2120,7 @@
         <opt ans="f">无义务</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>2重大危险源是指（    ）生产、搬运、使用或者储存危险物品，且危险物品的数量等于或超过临界量的单元（包括场所和设施）&#x09;</desc>
+        <desc>重大危险源是指（    ）生产、搬运、使用或者储存危险物品，且危险物品的数量等于或超过临界量的单元（包括场所和设施）&#x09;</desc>
         <opt ans="f">长期地</opt>
         <opt ans="f">短期地</opt>
         <opt ans="t">长期地或临时地</opt>
@@ -3287,11 +3198,114 @@
         <opt ans="f">电阻</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>重大危险源是指（    ）生产、搬运、使用或者储存危险物品，且危险物品的数量等于或超过临界量的单元（包括场所和设施）&#x09;</desc>
-        <opt ans="f">长期地</opt>
-        <opt ans="f">短期地</opt>
-        <opt ans="t">长期地或临时地</opt>
-        <opt ans="f">在生产场所内</opt>
+        <desc>工厂废弃物中的汞可能造成食物的汞污染，引起人类的慢性汞中毒，以下几种食品受重汞污染可能性最大的是(   )。</desc>
+        <opt ans="f">牛肉</opt>
+        <opt ans="t">海鲜</opt>
+        <opt ans="f">青菜</opt>
+        <opt ans="f">西瓜</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>依据中华人民共和国环境保护法的规定，(   )都有保护环境的义务，并有权对污染和破坏环境的单位和个人进行检举和控告。</desc>
+        <opt ans="t">任何单位和个人</opt>
+        <opt ans="f">环境保护部门</opt>
+        <opt ans="f">利害关系人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>目前我公司净烟气出口烟尘浓度为(   )以下</desc>
+        <opt ans="t">10mg/Nm3</opt>
+        <opt ans="f">15mg/Nm3</opt>
+        <opt ans="f">20mg/Nm3</opt>
+        <opt ans="f">25mg/Nm3</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业事业单位和其他生产经营者有下列行为(   )，尚不构成犯罪的，除依照有关法律法规规定予以处罚外，由县级以上人民政府环境保护主管部门或者其他有关部门将案件移送公安机关，对其直接负责的主管人员和其他直接责任人员，处十日以上十五日以下拘留；情节较轻的，处五日以上十日以下拘留：</desc>
+        <opt ans="f">建设项目未依法进行环境影响评价</opt>
+        <opt ans="f">违反法律规定，未取得排污许可证排放污染物</opt>
+        <opt ans="t">通过暗管、渗井、渗坑、灌注或者篡改、伪造监测数据，或者不正常运行防治污染设施等逃避监管的方式违法排放污染物的</opt>
+        <opt ans="f">生产、使用国家明令禁止生产、使用的农药</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在开车节能上：要避免冷车启动，避免突然变速，选择合适挡位避免低档跑高速，定期更换(   )，高速莫开窗，轮胎气压要适当等。</desc>
+        <opt ans="f">汽油</opt>
+        <opt ans="f">柴油</opt>
+        <opt ans="f">仪表油</opt>
+        <opt ans="t">机油</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国的大气污染物排放标准中指的烟囱有效源高度是(   )</desc>
+        <opt ans="f">烟气抬升高度</opt>
+        <opt ans="t">烟气抬升高度和烟囱几何高度之和</opt>
+        <opt ans="f">烟囱几何高度</opt>
+        <opt ans="f">烟囱几何高度和烟气抬升高度之差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>历史上，我国黄土高原曾是“丰林密布的沃野、游牧活动的草原”。黄土高原现在生态环境的形成由于(   )</desc>
+        <opt ans="f">战争</opt>
+        <opt ans="f">自然灾害</opt>
+        <opt ans="t">乱砍滥伐,毁林开荒</opt>
+        <opt ans="f">动物过量繁殖</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>吸收塔中的pH值通过注入(   )来进行控制。</desc>
+        <opt ans="t">石灰石浆液</opt>
+        <opt ans="f">工艺水</opt>
+        <opt ans="f">氧化空气</opt>
+        <opt ans="f">石膏</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家规定每发一度电排放的烟尘质量(   )</desc>
+        <opt ans="t">0.035克/千瓦时</opt>
+        <opt ans="f">0.015克/千瓦时</opt>
+        <opt ans="f">0.35克/千瓦时</opt>
+        <opt ans="f">0.15克/千瓦时</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>如果电视播报的空气质量为三级，那么就说明当天的空气是(   )。</desc>
+        <opt ans="f">非常好</opt>
+        <opt ans="f">污染严重</opt>
+        <opt ans="t">轻度污染</opt>
+        <opt ans="f">良好</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>目前公司发电机组的脱硫效率一般维持在(   )以上。</desc>
+        <opt ans="f">0.8</opt>
+        <opt ans="f">0.9</opt>
+        <opt ans="t">0.98</opt>
+        <opt ans="f">0.99</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>沙暴的形成条件：(   )。</desc>
+        <opt ans="f">强风、沙源</opt>
+        <opt ans="f">沙源、风暴</opt>
+        <opt ans="t">强风、沙源、不稳定大气</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>能提高身体排污能力的食品是(   )。</desc>
+        <opt ans="f">高蛋白、高热量、高脂肪的食品</opt>
+        <opt ans="t">粗粮、豆类、海藻</opt>
+        <opt ans="f">各种饮料</opt>
+        <opt ans="f">各种零食</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安规》(热力和机械部分)规定， 搭设好的脚手架，未经（   ）不应擅自使用。</desc>
+        <opt ans="f">检验</opt>
+        <opt ans="t">验收</opt>
+        <opt ans="f">签字</opt>
+        <opt ans="f">检查</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安规》(发电厂和变电所电气部分) 规定，发生人身触电时，应（   ）</desc>
+        <opt ans="f">立即汇报领导</opt>
+        <opt ans="f">立即使触电人员脱离电源</opt>
+        <opt ans="f">报警</opt>
+        <opt ans="t">立即断开设备电源</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《电力设备典型消防规程》规定，电力设备典型消防规程规定，氢冷系统中含氧量不应大于（   ）。</desc>
+        <opt ans="t">0.02</opt>
+        <opt ans="f">0.03</opt>
+        <opt ans="f">0.04</opt>
+        <opt ans="f">0.05</opt>
     </qstn>
     <qstn type="judge" cust="0">
         <desc>公司每季度都会协助省环保厅监测站完成了重点污染源的监测以及CEMS在线设备比对工作。</desc>
@@ -3448,10 +3462,6 @@
     <qstn type="judge" cust="0">
         <desc>对未取得排污许可证排放污染物的企业事业单位和其他生产经营者可直接拘留其负责的主管人员和其他直接责任人员。</desc>
         <ans>f</ans>
-    </qstn>
-    <qstn type="judge" cust="0">
-        <desc>国家对严重污染环境的工艺、设备和产品实行淘汰制度。</desc>
-        <ans>t</ans>
     </qstn>
     <qstn type="judge" cust="0">
         <desc>水体富营养化是一种氮或磷等植物营养物质含量过多，所引起的水质污染现象。</desc>
@@ -3620,10 +3630,6 @@
     <qstn type="judge" cust="0">
         <desc>行政处分是指环境保护监督管理部门对破坏或者污染环境者实施行政处罚时，作为处罚轻重和免予处罚的各种情况。</desc>
         <ans>f</ans>
-    </qstn>
-    <qstn type="judge" cust="0">
-        <desc>环境保护法规定了两类行政处罚形式，即对破坏环境者与对污染 环境者的行政处罚。</desc>
-        <ans>t</ans>
     </qstn>
     <qstn type="judge" cust="0">
         <desc>连带责任是指受害者不必提出包括致害者由过错等证据，只须提 出致害者已有污染危害环境行为等&quot;表面&quot;证据，和自己受损失是由于致害者排污行为所致的事实，赔偿要求即告成立。</desc>
@@ -4214,10 +4220,6 @@
         <ans>f</ans>
     </qstn>
     <qstn type="judge" cust="0">
-        <desc>《安规》(热力和机械部分)规定，取得一种或几种起重设备合格证的驾驶人员，去承担另一种新型起重设备的驾驶工作时，可以直接工作。</desc>
-        <ans>f</ans>
-    </qstn>
-    <qstn type="judge" cust="0">
         <desc>《安规》(热力和机械部分)规定，燃油（气）区内禁止电瓶车进入。因工作需要必须进入的机动车，应按规定在尾气排放处加装防火罩。</desc>
         <ans>t</ans>
     </qstn>
@@ -4235,6 +4237,7 @@
     </qstn>
     <qstn type="judge" cust="0">
         <desc>《安规》(热力和机械部分)规定，乙炔和氧气软管可以与电焊用的导线敷设在一起以保证强度。</desc>
+        <res>不准把软管和电焊用的导线敷设在一起。</res>
         <ans>f</ans>
     </qstn>
     <qstn type="judge" cust="0">
@@ -4330,10 +4333,6 @@
         <ans>f</ans>
     </qstn>
     <qstn type="judge" cust="0">
-        <desc>《电力设备典型消防规程》规定，电焊机外壳必须接地，接地线应牢固地接在被焊物件上或附近，防止产生电火花。</desc>
-        <ans>t</ans>
-    </qstn>
-    <qstn type="judge" cust="0">
         <desc>《电力设备典型消防规程》规定，电力生产企业应按照“谁主管、谁负责”的原则，建立各级人员的防火责任制。</desc>
         <ans>t</ans>
     </qstn>
@@ -4343,10 +4342,6 @@
     </qstn>
     <qstn type="judge" cust="0">
         <desc>《电力设备典型消防规程》规定，动火工作票不得代替设备停复役手续或检修工作票。</desc>
-        <ans>t</ans>
-    </qstn>
-    <qstn type="judge" cust="0">
-        <desc>《电力设备典型消防规程》规定，氢冷发电机的轴封必须严密，当机组开始起动时，无论有无充氢气，轴封油都不准中断，油压应大于氢压，以防空气进入发电机外壳或氢气充入汽轮机的油系统中而引起爆炸起火。</desc>
         <ans>t</ans>
     </qstn>
     <qstn type="judge" cust="0">
@@ -4438,7 +4433,7 @@
         <ans>t</ans>
     </qstn>
     <qstn type="judge" cust="0">
-        <desc>工作票签发人的安全责任包括: 确认工作票上所填安全措施（  ）完备。&#x09;（正确）</desc>
+        <desc>工作票签发人的安全责任包括: 确认工作票上所填安全措施（  ）完备。</desc>
         <ans>t</ans>
     </qstn>
     <qstn type="judge" cust="0">
@@ -4475,10 +4470,6 @@
     </qstn>
     <qstn type="judge" cust="0">
         <desc>职业健康各种防护器具应定点存放在安全、便于取用的地方，并有专人负责保管，定期校验和维护。</desc>
-        <ans>t</ans>
-    </qstn>
-    <qstn type="judge" cust="0">
-        <desc>装卸高压熔断器，应戴护目眼镜和绝缘手套，必要时使用绝缘夹钳，并站在绝缘垫或绝缘台上。</desc>
         <ans>t</ans>
     </qstn>
     <qstn type="judge" cust="0">
@@ -4756,10 +4747,6 @@
         <ans>f</ans>
     </qstn>
     <qstn type="judge" cust="0">
-        <desc>《安规》(热力和机械部分)规定，已执行的工作票应由单位制定部门按编号顺序收存，至少保存3个月。</desc>
-        <ans>t</ans>
-    </qstn>
-    <qstn type="judge" cust="0">
         <desc>《安规》(热力和机械部分)规定，用高温给水或蒸汽冲洗冷油器时，应戴手套、面罩、围裙并着长靴，裤脚套在靴外面。</desc>
         <ans>t</ans>
     </qstn>
@@ -5016,10 +5003,6 @@
         <ans>t</ans>
     </qstn>
     <qstn type="judge" cust="0">
-        <desc>工作票签发人的安全职责包含:审查工作票上所填写的安全措施是否正确和完善</desc>
-        <ans>t</ans>
-    </qstn>
-    <qstn type="judge" cust="0">
         <desc>工作票签发人的安全职责包含:审查工作是否必要和可能</desc>
         <ans>t</ans>
     </qstn>
@@ -5071,5 +5054,76 @@
         <desc>一份工作票中，工作票签发人、工作负责人和工作许可人三者可以相互兼任。</desc>
         <res>一份工作票中，工作票签发人、工作负责人和工作许可人三者不得相互兼任。</res>
         <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>环境保护法规定了两类行政处罚形式，即对破坏环境者与对污染 环境者的行政处罚。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>国家对严重污染环境的工艺、设备和产品实行淘汰制度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急指挥一般分为集中指挥与现场指挥，或场外指挥与场内指挥几种形式，但无论采用哪一种指挥系统都必须实行的模式是联合指挥。</desc>
+        <res>应急指挥一般分为集中指挥与现场指挥，或场外指挥与场内指挥几种形式，但无论采用哪一种指挥系统都必须实行的模式是统一指挥。</res>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>扑救氯酸钠、氯酸钾火灾时，如果在火场中有储罐、槽车或罐车，周围至少隔离600米。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《电力设备典型消防规程》规定，电焊机外壳必须接地，接地线应牢固地接在被焊物件上或附近，防止产生电火花。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安规》(热力和机械部分)规定，机组运行中对单侧风机进行检修时，应采取牢靠的防止设备自转的措施。可以采用电动机冷却风扇叶轮制动转子。</desc>
+        <res>禁止采用电机冷却风扇叶轮制动转子。</res>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品安全管理条例》不适用于剧毒化学品。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>装卸高压熔断器，应戴护目眼镜和绝缘手套，必要时使用绝缘夹钳，并站在绝缘垫或绝缘台上。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工作票签发人的安全职责包含:审查工作票上所填写的安全措施是否正确和完善。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一级动火工作票的有效期为24小时。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>关于安全生产工作应遵循安全第一、预防为主、综合治理的方针。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>变更工作负责人或增加工作任务时，如工作票签发人无法当面办理，可以通过电话联系，并在工作票登记薄和工作票上注明。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安规》(热力和机械部分)规定，已执行的工作票应由单位制定部门按编号顺序收存，至少保存3个月。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《电力设备典型消防规程》规定，氢冷发电机的轴封必须严密，当机组开始起动时，无论有无充氢气，轴封油都不准中断，油压应大于氢压，以防空气进入发电机外壳或氢气充入汽轮机的油系统中而引起爆炸起火。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安规》(热力和机械部分)规定，取得一种或几种起重设备合格证的驾驶人员，去承担另一种新型起重设备的驾驶工作时，可以直接工作。</desc>
+        <res>取得一种或几种起重设备合格证的驾驶人员，去承担另一种新型起重设备的驾驶工作前，应经过新设备的单独测验，取得相应的操作资格证后方可正式工作。</res>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>二氧化碳适于扑救纤维物内部阴燃火灾。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定：重大危险源，是指长期地或者临时地生产、搬运、使用或者储存危险物品，且危险物品的数量等于或者超过临界量的单元。</desc>
+        <ans>t</ans>
     </qstn>
 </library>
