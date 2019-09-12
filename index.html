@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+<link rel='apple-touch-icon' href='img/icon-h.png' type='image/png' />
+<link rel='shortcut icon' href='img/icon-h.ico' type='image/vnd.microsoft.icon' />
+<link rel='icon' href='img/icon-h.png' type='image/png' />
+<link rel='bookmark' href='img/icon-h.ico' type='image/vnd.microsoft.icon' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name = "viewport" content = "width = device-width, height = device-height, maximum-scale = 1.0, user-scalable = no">
+
+<title>QuickQuiz-M V1.01</title>
+
+<link rel = "stylesheet" type = "text/css" href="css/style.css" />
+
+<script type = "text/javascript" src = "js/common.js"></script>
+<script type = "text/javascript" src = "js/nightmode.js"></script>
+<script type = "text/javascript" src = "js/md5.js"></script>
+<script type = "text/javascript" src = "js/index.js"></script>
+
+</head>
+
+<body onload = "initIndex()">
+
+<p>
+	<button type = "button" class = "smallbutton" id = "night" onclick = "indexNightMode(true)">夜间模式</button>
+</p>
+
+<h2>
+	<img id = "titleicon" src = "img/icon.png" style = "height : 50px"></img>QuickQuiz<sup style = "font-size : 50%">在线版</sup>
+</h2>
+
+<p>
+	请选择题库类别：<br/>
+	<select id = "selectGrp" onchange = "changeGrp()"></select>
+</p>
+
+<p>
+	选择你要学习的题库：<br />
+	<select id = "selectLib" onchange = "changeSel()"></select>
+</p>
+
+<div id = "passdiv">
+	<p>
+		<span style = "font-weight : bold;">加密题库，请输入密码：</span><br />
+		<input type = "password" id = "password" maxlength = "16" style = "width : 75%"></input>
+	</p>
+</div>
+
+<p>
+	<button type = "button" value = "show.html" onclick = "setBtnHref(this)">学习模式</button>
+</p>
+
+<p>
+	<button type = "button" value = "test.html" onclick = "setBtnHref(this)">测试模式</button>
+</p>
+
+<p>
+	<button type = "button" value = "spy.html" onclick = "setBtnHref(this)">作弊模式</button>
+</p>
+
+<hr />
+<small>GX Software 2018-2019 by 南郊居士</small><br />
+<small>当前版本：V1.01<br />完成时间：2019/6/29 21:06:45<br />题库时间：2019/9/12 21:43:03</small>
+
+</body>
+</html>
