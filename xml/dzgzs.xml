@@ -717,6 +717,157 @@
         <opt ans="f">红豆生南国，春来发几枝</opt>
         <opt ans="f">君自故乡来，应知故乡事</opt>
     </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国的中央银行是（ ）。 </desc>
+        <opt ans="f">中国银行</opt>
+        <opt ans="t">中国人民银行</opt>
+        <opt ans="f">中国工商银行</opt>
+        <opt ans="f">中国建设银行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《劳动合同法》规定，建立劳动关系，（ ）订立书面劳动合同。 </desc>
+        <opt ans="f">可以</opt>
+        <opt ans="t">应当</opt>
+        <opt ans="f">不必</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>推进军人荣誉体系建设，培养（ ）的新时代革命军人。 </desc>
+        <opt ans="f">有思想、有本事、有血性、有品德</opt>
+        <opt ans="t">有灵魂、有本事、有血性、有品德</opt>
+        <opt ans="f">有灵魂、有本领、有血性、有作风</opt>
+        <opt ans="f">有灵魂、有本事、有血性、有道德</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《党章》规定，对党员的纪律处分有：（ ） </desc>
+        <opt ans="t">警告、严重警告、撤销党内职务、留党察看、开除党籍</opt>
+        <opt ans="f">警告、撤销党内外职务、留党察看、取消党籍、开除党籍</opt>
+        <opt ans="f">警告、严重警告、撤职查办、留党察看、开除党籍</opt>
+        <opt ans="f">警告、严重警告、降职降级、留党察看、开除党籍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党组应当贯彻（ ）原则，按照信念坚定、为民服务、勤政务实、敢于担当、清正廉洁的好干部标准，加强干部队伍建设，完善干部培养选拔机制，加强干部教育培训，从严管理监督干部。 </desc>
+        <opt ans="t">党管干部</opt>
+        <opt ans="f">从严治党</opt>
+        <opt ans="f">从严从实</opt>
+        <opt ans="f">依法治党</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>王勃在诗中写到“海内存知己，天涯若比邻”，这首诗的题材是什么？（ ） </desc>
+        <opt ans="f">田园诗</opt>
+        <opt ans="f">山水诗</opt>
+        <opt ans="t">送别诗</opt>
+        <opt ans="f">怀古诗</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党员如果没有正当理由，连续（ ）不参加党的组织生活，或不交纳党费，或不做党所分配的工作，就被认为是自行脱党。 </desc>
+        <opt ans="f">三个月</opt>
+        <opt ans="t">六个月</opt>
+        <opt ans="f">九个月</opt>
+        <opt ans="f">一年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列关于党员权利说法正确的是（ ）。 </desc>
+        <opt ans="f">党员对党的决议有不同意见，可以暂缓执行</opt>
+        <opt ans="f">在各种会议和报刊上，参加关于党的政策问题的讨论</opt>
+        <opt ans="t">党员可以对党的工作提出建议和倡议</opt>
+        <opt ans="f">党员可以随意批评任何组织和任何党员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党组成员一般设（ ）人，省部级以上单位、中管国有重要骨干企业和中管金融企业党组成员一般不超过9人。 </desc>
+        <opt ans="t">3至7</opt>
+        <opt ans="f">4至6</opt>
+        <opt ans="f">3至5</opt>
+        <opt ans="f">3至8</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党对军队的绝对领导是（ ）的本质特征，是党和国家的重要政治优势，是人民军队的建军之本、强军之魂。 </desc>
+        <opt ans="f">中国特色人民军队</opt>
+        <opt ans="f">中国特色强军之路</opt>
+        <opt ans="t">中国特色社会主义</opt>
+        <opt ans="f">中国特色强军目标</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在十九大报告中，习近平总书记要求全党牢牢坚持（ ）这个党和国家的生命线、人民的幸福线。 </desc>
+        <opt ans="f">群众路线</opt>
+        <opt ans="f">四项基本原则</opt>
+        <opt ans="t">党的基本路线</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>要尊重（ ），以文明交流超越文明隔阂、文明互鉴超越文明冲突、文明共存超越文明优越。 </desc>
+        <opt ans="t">世界文明多样性</opt>
+        <opt ans="f">各国文化差异</opt>
+        <opt ans="f">文明差异</opt>
+        <opt ans="f">文化多样性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>自觉遵守党的纪律，首先是党的（ ）纪律和政治规矩，模范遵守国家的法律法规，严格保守党和国家的秘密，执行党的决定，服从组织分配，积极完成党的任务，是党员必须履行的义务之一。 </desc>
+        <opt ans="t">政治</opt>
+        <opt ans="f">组织</opt>
+        <opt ans="f">生活</opt>
+        <opt ans="f">群众</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“桃花仙人种桃树，又摘桃花换酒钱。”“桃花仙人”指的是 </desc>
+        <opt ans="f">陶渊明</opt>
+        <opt ans="f">刘禹锡</opt>
+        <opt ans="t">唐寅</opt>
+        <opt ans="f">李白</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国积极参与全球环境治理，落实（ ）承诺。 </desc>
+        <opt ans="f">节能</opt>
+        <opt ans="t">减排</opt>
+        <opt ans="f">绿色发展</opt>
+        <opt ans="f">可持续发展</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（ ）是党的根本组织原则，是党内政治生活正常开展的重要制度保障。 </desc>
+        <opt ans="f">集中统一制</opt>
+        <opt ans="f">民主多元制</opt>
+        <opt ans="f">集体领导制</opt>
+        <opt ans="t">民主集中制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>加快建立绿色生产和消费的法律制度和政策导向，建立健全（ ）发展的经济体系。 </desc>
+        <opt ans="f">绿色节能低碳</opt>
+        <opt ans="f">绿色循环和谐</opt>
+        <opt ans="f">低碳循环和谐</opt>
+        <opt ans="t">绿色低碳循环</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>戚继光的诗句“繁霜尽是心头血，洒向千峰秋叶丹”可以用来譬喻下面哪个情境： </desc>
+        <opt ans="f">知难而上的奋斗勇气</opt>
+        <opt ans="f">艰苦奋斗的创业精神</opt>
+        <opt ans="f">诚实守信的可贵品质</opt>
+        <opt ans="t">深厚的爱国主义情怀</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业、事业单位违反职工代表大会制度和其他民主管理制度，工会（ ）要求纠正，保障职工依法行使民主管理的权利。 </desc>
+        <opt ans="f">无权</opt>
+        <opt ans="t">有权</opt>
+        <opt ans="f">应当</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“咬定青山不放松，立根原在破岩中。千磨万击还坚劲，任尔东西南北风&quot;写的植物是（ ）。 </desc>
+        <opt ans="f">松树</opt>
+        <opt ans="f">野草</opt>
+        <opt ans="t">竹子</opt>
+        <opt ans="f">柏树</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“不拘一格降人才”是诗人（ ）的诗句。 </desc>
+        <opt ans="f">张九龄</opt>
+        <opt ans="f">陆游</opt>
+        <opt ans="f">林则徐</opt>
+        <opt ans="t">龚自珍</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“面壁十年图破壁”一语出自（ ）的诗作 </desc>
+        <opt ans="f">毛泽东</opt>
+        <opt ans="t">周恩来</opt>
+        <opt ans="f">朱德</opt>
+        <opt ans="f">任弼时</opt>
+    </qstn>
     <qstn type="judge" cust="0">
         <desc>《中国共产党纪律处分条例》中明确党组织严重违纪的两种处理措施是改革和解散。</desc>
         <ans>f</ans>
@@ -1031,6 +1182,30 @@
     </qstn>
     <qstn type="judge" cust="0">
         <desc>党员的党龄从预备期满转为正式党员之日算起。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>“四个全面”战略布局是全面建成小康社会、全面深化改革、全面依法治国、全面从严治党。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>用人单位不得因女职工怀孕、生育、哺乳， 降低其工资、予以辞退、与其解除劳动或者聘用合同。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>党的基本路线是“一个中心两个基本点”，即领导和团结全国各族人民，以经济建设为中心，坚持四项基本原则，坚持改革开放，自力更生，艰苦创业，为把我国建设成为富强民主文明和谐的社会主义现代化国家而奋斗。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工会主席的职责：(1)主持工会委员会日常工作，负责制定全面的工作计划和检查、验收、落实、总结和汇报工作。(2)从本单位全局出发，以民主管理为重点，全面安排和带动工会其他各方面工作。(3)主持召开会员大会或会员代表大会、工会委员会、常务委员会和办公会、例会。(4)深入实际、调查研究、总结经验、加强指导。(5)倾听和反映职工的意见和要求，维护职工的合法权益。(6)抓好工会自身建设，关心和培训工会干部和积极分子，调动他们的工作积极性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>“三重一大”制度的内容是涉及重大事项决策、重要干部任免、重要项目安排、大额资金的使用，必须经集体讨论做出决定。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《企业民主管理规定》中职工代表的义务是：(一)遵守法律法规、企业规章制度，提高自身素质，积极参与企业民主管理;(二)依法履行职工代表职责，听取职工对企业生产经营管理等方面的意见和建议，以及涉及职工切身利益问题的意见和要求，并客观真实地向企业反映;(三)参加企业职工代表大会组织的各项活动，执行职工代表大会通过的决议，完成职工代表大会交办的工作;(四)向选举单位的职工报告参加职工代表大会活动和履行职责情况，接受职工的评议和监督;(五)保守企业的商业秘密和与知识产权相关的保密事项。</desc>
         <ans>t</ans>
     </qstn>
 </library>

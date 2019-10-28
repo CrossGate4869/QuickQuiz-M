@@ -154,13 +154,6 @@
         <opt ans="f">6</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>除雾器冲洗水量受(   )控制而不能随意加大。</desc>
-        <opt ans="t">吸收塔液位</opt>
-        <opt ans="f">浆液pH值</opt>
-        <opt ans="f">浆液密度</opt>
-        <opt ans="f">吸收塔压降</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>吸收塔加入石灰石浆液的多少主要取决于(   )。</desc>
         <opt ans="f">吸收塔液位</opt>
         <opt ans="t">循环浆液pH值</opt>
@@ -203,25 +196,11 @@
         <opt ans="f">能够减缓吸收塔内设备的腐蚀</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>脱硫系统中基本无有毒、高温及高压的位置，但石灰石浆液对人眼睛和皮肤有刺激性，如果在生产中被浆液溅入眼睛，应(   )。</desc>
-        <opt ans="t">用清水冲洗</opt>
-        <opt ans="f">马上送医院</opt>
-        <opt ans="f">不必处理</opt>
-        <opt ans="f">用干净的手帕擦拭</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>下列物质中可作为二氧化硫吸收剂的物质是(   )。</desc>
         <opt ans="t">碳酸钙</opt>
         <opt ans="f">石膏</opt>
         <opt ans="f">氧化铝</opt>
         <opt ans="f">三氧化二铁</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>净烟气的腐蚀性要大于原烟气，主要是因为(   )。</desc>
-        <opt ans="f">含有大量氯离子</opt>
-        <opt ans="f">含有三氧化硫</opt>
-        <opt ans="f">含有大量二氧化硫</opt>
-        <opt ans="t">温度降低且含水量增大</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>不断向吸收塔浆液池中鼓入空气是为了(   )。</desc>
@@ -255,13 +234,6 @@
         <opt ans="f">烟气中二氧化硫的浓度</opt>
         <opt ans="f">入炉煤的含硫量</opt>
         <opt ans="t">吸收塔液位</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>当通过吸收塔的烟气流量加大时，系统脱硫效率可能会（   ）。</desc>
-        <opt ans="t">降低</opt>
-        <opt ans="f">升高</opt>
-        <opt ans="f">不变</opt>
-        <opt ans="f">不确定</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>城市建筑工程中禁止夜间施工，其所指的&quot;夜间&quot;是指（ ）</desc>
@@ -3201,13 +3173,6 @@
         <opt ans="f">电阻</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>工厂废弃物中的汞可能造成食物的汞污染，引起人类的慢性汞中毒，以下几种食品受重汞污染可能性最大的是(   )。</desc>
-        <opt ans="f">牛肉</opt>
-        <opt ans="t">海鲜</opt>
-        <opt ans="f">青菜</opt>
-        <opt ans="f">西瓜</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>依据中华人民共和国环境保护法的规定，(   )都有保护环境的义务，并有权对污染和破坏环境的单位和个人进行检举和控告。</desc>
         <opt ans="t">任何单位和个人</opt>
         <opt ans="f">环境保护部门</opt>
@@ -3219,13 +3184,6 @@
         <opt ans="f">15mg/Nm3</opt>
         <opt ans="f">20mg/Nm3</opt>
         <opt ans="f">25mg/Nm3</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>企业事业单位和其他生产经营者有下列行为(   )，尚不构成犯罪的，除依照有关法律法规规定予以处罚外，由县级以上人民政府环境保护主管部门或者其他有关部门将案件移送公安机关，对其直接负责的主管人员和其他直接责任人员，处十日以上十五日以下拘留；情节较轻的，处五日以上十日以下拘留：</desc>
-        <opt ans="f">建设项目未依法进行环境影响评价</opt>
-        <opt ans="f">违反法律规定，未取得排污许可证排放污染物</opt>
-        <opt ans="t">通过暗管、渗井、渗坑、灌注或者篡改、伪造监测数据，或者不正常运行防治污染设施等逃避监管的方式违法排放污染物的</opt>
-        <opt ans="f">生产、使用国家明令禁止生产、使用的农药</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>在开车节能上：要避免冷车启动，避免突然变速，选择合适挡位避免低档跑高速，定期更换(   )，高速莫开窗，轮胎气压要适当等。</desc>
@@ -3270,13 +3228,6 @@
         <opt ans="f">良好</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>目前公司发电机组的脱硫效率一般维持在(   )以上。</desc>
-        <opt ans="f">0.8</opt>
-        <opt ans="f">0.9</opt>
-        <opt ans="t">0.98</opt>
-        <opt ans="f">0.99</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>沙暴的形成条件：(   )。</desc>
         <opt ans="f">强风、沙源</opt>
         <opt ans="f">沙源、风暴</opt>
@@ -3309,6 +3260,55 @@
         <opt ans="f">0.03</opt>
         <opt ans="f">0.04</opt>
         <opt ans="f">0.05</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业事业单位和其他生产经营者有下列行为( )，尚不构成犯罪的，除依照有关法律法规规定予以处罚外，由县级以上人民政府环境保护主管部门或者其他有关部门将案件移送公安机关，对其直接负责的主管人员和其他直接责任人员，处十日以上十五日以下拘留；情节较轻的，处五日以上十日以下拘留：</desc>
+        <opt ans="f">建设项目未依法进行环境影响评价</opt>
+        <opt ans="f">违反法律规定，未取得排污许可证排放污染物</opt>
+        <opt ans="t">通过暗管、渗井、渗坑、灌注或者篡改、伪造监测数据，或者不正常运行防治污染设施等逃避监管的方式违法排放污染物的</opt>
+        <opt ans="f">生产、使用国家明令禁止生产、使用的农药</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>除雾器冲洗水量受( )控制而不能随意加大。</desc>
+        <opt ans="t">吸收塔液位</opt>
+        <opt ans="f">浆液pH值</opt>
+        <opt ans="f">浆液密度</opt>
+        <opt ans="f">吸收塔压降</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工厂废弃物中的汞可能造成食物的汞污染，引起人类的慢性汞中毒，以下几种食品受重汞污染可能性最大的是( )。</desc>
+        <opt ans="f">牛肉</opt>
+        <opt ans="t">海鲜</opt>
+        <opt ans="f">青菜</opt>
+        <opt ans="f">西瓜</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>净烟气的腐蚀性要大于原烟气，主要是因为( )。</desc>
+        <opt ans="f">含有大量氯离子</opt>
+        <opt ans="f">含有三氧化硫</opt>
+        <opt ans="f">含有大量二氧化硫</opt>
+        <opt ans="t">温度降低且含水量增大</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>脱硫系统中基本无有毒、高温及高压的位置，但石灰石浆液对人眼睛和皮肤有刺激性，如果在生产中被浆液溅入眼睛，应( )。</desc>
+        <opt ans="t">用清水冲洗</opt>
+        <opt ans="f">马上送医院</opt>
+        <opt ans="f">不必处理</opt>
+        <opt ans="f">用干净的手帕擦拭</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>( )是公司环保信息对外公开及更新的责任部门</desc>
+        <opt ans="t">安全环保部</opt>
+        <opt ans="f">办公室</opt>
+        <opt ans="f">政治工作部</opt>
+        <opt ans="f">生产技术部</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当通过吸收塔的烟气流量加大时，系统脱硫效率可能会( )。</desc>
+        <opt ans="t">降低</opt>
+        <opt ans="f">升高</opt>
+        <opt ans="f">不变</opt>
+        <opt ans="f">不确定</opt>
     </qstn>
     <qstn type="judge" cust="0">
         <desc>公司每季度都会协助省环保厅监测站完成了重点污染源的监测以及CEMS在线设备比对工作。</desc>
@@ -5158,6 +5158,34 @@
     </qstn>
     <qstn type="judge" cust="0">
         <desc>危险分析工作中，属于风险评估范畴的有明确危险发生的可能性、明确后果严重程度、明确安全技术措施等。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工作中遇任何威胁到工作人员安全的情况时，工作负责人或专责监护人可根据情况，临时停止工作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>灭火时为贯彻“以救人为第一原则”，在火情侦察中应做的这方面主要工作是有无被火势危险的贵重物资。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>上下爬梯必须抓牢，不准两手同时抓一个梯阶。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产、储存危险化学品的单位，应当对其铺设的危险化学品管道设置明显标志，并对危险化学品管道定期检查、检测。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有异物刺人头部或胸部时，需马上拔出，进行止血。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>严禁把氧气瓶及乙炔瓶放在一起运送。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>运输危险化学品的车辆放置于驾驶室顶部的灯是黄色长方形。</desc>
         <ans>f</ans>
     </qstn>
 </library>
