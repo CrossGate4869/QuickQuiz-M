@@ -154,13 +154,6 @@
         <opt ans="f">6</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>吸收塔加入石灰石浆液的多少主要取决于(   )。</desc>
-        <opt ans="f">吸收塔液位</opt>
-        <opt ans="t">循环浆液pH值</opt>
-        <opt ans="f">锅炉负荷</opt>
-        <opt ans="f">烟气含硫量</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>火力发电厂投用脱硫系统的目的是(   )。</desc>
         <opt ans="t">减少污染物排放</opt>
         <opt ans="f">节约能源</opt>
@@ -187,13 +180,6 @@
         <opt ans="f">pH值越高，溶液的酸性越强</opt>
         <opt ans="t">pH值越低，溶液的酸性越强</opt>
         <opt ans="f">pH值用于度量浓酸的酸度</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>适当降低吸收塔内的pH值，(   )。</desc>
-        <opt ans="t">可以达到减少结垢的目的</opt>
-        <opt ans="f">有利于石膏的结晶析出</opt>
-        <opt ans="f">可以提高二氧化硫的吸收率</opt>
-        <opt ans="f">能够减缓吸收塔内设备的腐蚀</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>下列物质中可作为二氧化硫吸收剂的物质是(   )。</desc>
@@ -3173,26 +3159,6 @@
         <opt ans="f">电阻</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>依据中华人民共和国环境保护法的规定，(   )都有保护环境的义务，并有权对污染和破坏环境的单位和个人进行检举和控告。</desc>
-        <opt ans="t">任何单位和个人</opt>
-        <opt ans="f">环境保护部门</opt>
-        <opt ans="f">利害关系人</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>目前我公司净烟气出口烟尘浓度为(   )以下</desc>
-        <opt ans="t">10mg/Nm3</opt>
-        <opt ans="f">15mg/Nm3</opt>
-        <opt ans="f">20mg/Nm3</opt>
-        <opt ans="f">25mg/Nm3</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>在开车节能上：要避免冷车启动，避免突然变速，选择合适挡位避免低档跑高速，定期更换(   )，高速莫开窗，轮胎气压要适当等。</desc>
-        <opt ans="f">汽油</opt>
-        <opt ans="f">柴油</opt>
-        <opt ans="f">仪表油</opt>
-        <opt ans="t">机油</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>我国的大气污染物排放标准中指的烟囱有效源高度是(   )</desc>
         <opt ans="f">烟气抬升高度</opt>
         <opt ans="t">烟气抬升高度和烟囱几何高度之和</opt>
@@ -3212,13 +3178,6 @@
         <opt ans="f">工艺水</opt>
         <opt ans="f">氧化空气</opt>
         <opt ans="f">石膏</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>国家规定每发一度电排放的烟尘质量(   )</desc>
-        <opt ans="t">0.035克/千瓦时</opt>
-        <opt ans="f">0.015克/千瓦时</opt>
-        <opt ans="f">0.35克/千瓦时</opt>
-        <opt ans="f">0.15克/千瓦时</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>如果电视播报的空气质量为三级，那么就说明当天的空气是(   )。</desc>
@@ -3297,18 +3256,52 @@
         <opt ans="f">用干净的手帕擦拭</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>( )是公司环保信息对外公开及更新的责任部门</desc>
-        <opt ans="t">安全环保部</opt>
-        <opt ans="f">办公室</opt>
-        <opt ans="f">政治工作部</opt>
-        <opt ans="f">生产技术部</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>当通过吸收塔的烟气流量加大时，系统脱硫效率可能会( )。</desc>
         <opt ans="t">降低</opt>
         <opt ans="f">升高</opt>
         <opt ans="f">不变</opt>
         <opt ans="f">不确定</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>依据中华人民共和国环境保护法的规定，( )都有保护环境的义务，并有权对污染和破坏环境的单位和个人进行检举和控告。</desc>
+        <opt ans="t">任何单位和个人</opt>
+        <opt ans="f">环境保护部门</opt>
+        <opt ans="f">利害关系人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>适当降低吸收塔内的pH值，( )。</desc>
+        <opt ans="t">可以达到减少结垢的目的</opt>
+        <opt ans="f">有利于石膏的结晶析出</opt>
+        <opt ans="f">可以提高二氧化硫的吸收率</opt>
+        <opt ans="f">能够减缓吸收塔内设备的腐蚀</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>吸收塔加入石灰石浆液的多少主要取决于( )。</desc>
+        <opt ans="f">吸收塔液位</opt>
+        <opt ans="t">循环浆液pH值</opt>
+        <opt ans="f">锅炉负荷</opt>
+        <opt ans="f">烟气含硫量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家规定每发一度电排放的烟尘质量( )</desc>
+        <opt ans="t">0.035克/千瓦时</opt>
+        <opt ans="f">0.015克/千瓦时</opt>
+        <opt ans="f">0.35克/千瓦时</opt>
+        <opt ans="f">0.15克/千瓦时</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在开车节能上：要避免冷车启动，避免突然变速，选择合适挡位避免低档跑高速，定期更换( )，高速莫开窗，轮胎气压要适当等。</desc>
+        <opt ans="f">汽油</opt>
+        <opt ans="f">柴油</opt>
+        <opt ans="f">仪表油</opt>
+        <opt ans="t">机油</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>目前我公司净烟气出口烟尘浓度为( )以下</desc>
+        <opt ans="t">10mg/Nm3</opt>
+        <opt ans="f">15mg/Nm3</opt>
+        <opt ans="f">20mg/Nm3</opt>
+        <opt ans="f">25mg/Nm3</opt>
     </qstn>
     <qstn type="judge" cust="0">
         <desc>公司每季度都会协助省环保厅监测站完成了重点污染源的监测以及CEMS在线设备比对工作。</desc>
@@ -5187,5 +5180,33 @@
     <qstn type="judge" cust="0">
         <desc>运输危险化学品的车辆放置于驾驶室顶部的灯是黄色长方形。</desc>
         <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>根据《消防法》的规定，火灾扑灭后，对隐瞒、掩饰伤亡人数、推卸责任，故意破坏现场或者伪造现场，尚不构成犯罪的，处警告、罚款或15日以下拘留。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对重大、特别重大及以上事故负有主要责任的企业，其主要负责人10年内不得担任本行业企业的厂长、经理。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援是指在应急响应过程中，为消除、减少事故危害，防止事故扩大或恶化，最大限度地降低事故造成的损失或危害而采取的救援措施或行动。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>依据GB/T18664-2002《呼吸防护用品的选择、使用与维护》，携气式防护用品使用后，应依据需要更换用完的或部分使用的气瓶或呼吸气体发生器。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一级动火时，动火部门应指定人员，并和消防人员或指定义务消防员始终在现场监护。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>按照社会危害程度、影响范围等因素，自然灾害、事故灾难、公共卫生事件分为3级。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>石油化工企业火灾的特点包括：极易发生爆炸、容易形成立体燃烧、燃烧速度快、容易形成大面积燃烧、容易形成多次复燃和多次爆炸等。</desc>
+        <ans>t</ans>
     </qstn>
 </library>

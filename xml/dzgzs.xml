@@ -449,13 +449,6 @@
         <opt ans="f">北方</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>十九大报告指出，要坚持正确舆论导向，高度重视传播手段建设和创新，提高新闻舆论传播力、引导力、影响力、（ ）。 </desc>
-        <opt ans="f">判断力</opt>
-        <opt ans="t">公信力</opt>
-        <opt ans="f">凝聚力</opt>
-        <opt ans="f">号召力</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>实施（ ）战略，是应对发展环境变化、把握发展自主权、提高核心竞争力的必然选择，是加快转变经济发展方式、破解经济发展深层次矛盾和问题的必然选择，是更好引领我国经济发展新常态、保持我国经济持续健康发展的必然选择。 </desc>
         <opt ans="f">科技创新</opt>
         <opt ans="t">创新驱动发展</opt>
@@ -475,12 +468,6 @@
         <opt ans="f">道德建设</opt>
         <opt ans="t">诚信建设</opt>
         <opt ans="f">信用体系建设</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
-        <desc>发生火灾可以乘坐普通电梯逃生吗？（ ） </desc>
-        <opt ans="t">不可以</opt>
-        <opt ans="f">可以</opt>
-        <opt ans="f">不一定</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
         <desc>国家监察委员会主任由（ ）选举并有权罢免。 </desc>
@@ -766,13 +753,6 @@
         <opt ans="f">一年</opt>
     </qstn>
     <qstn type="s-choise" cust="0">
-        <desc>下列关于党员权利说法正确的是（ ）。 </desc>
-        <opt ans="f">党员对党的决议有不同意见，可以暂缓执行</opt>
-        <opt ans="f">在各种会议和报刊上，参加关于党的政策问题的讨论</opt>
-        <opt ans="t">党员可以对党的工作提出建议和倡议</opt>
-        <opt ans="f">党员可以随意批评任何组织和任何党员</opt>
-    </qstn>
-    <qstn type="s-choise" cust="0">
         <desc>党组成员一般设（ ）人，省部级以上单位、中管国有重要骨干企业和中管金融企业党组成员一般不超过9人。 </desc>
         <opt ans="t">3至7</opt>
         <opt ans="f">4至6</opt>
@@ -867,6 +847,155 @@
         <opt ans="t">周恩来</opt>
         <opt ans="f">朱德</opt>
         <opt ans="f">任弼时</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2019年要推动城镇化发展，抓好已经在城镇就业的农业转移人口的落户工作，督促落实（ ）年（ ）人落户目标，提高大城市精细化管理水平。</desc>
+        <opt ans="t">20201亿</opt>
+        <opt ans="f">20251亿</opt>
+        <opt ans="f">20201.3亿</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（ ）是全党统一意志、统一行动、步调一致前进的重要保障，是党内政治生活的重要内容。</desc>
+        <opt ans="t">纪律严明</opt>
+        <opt ans="f">作风优良</opt>
+        <opt ans="f">政治清明</opt>
+        <opt ans="f">制度规范</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十九大报告指出，要在中高端消费、创新引领、绿色低碳、共享经济、现代供应链、人力资本服务等领域培育（ ）、形成（ ）。</desc>
+        <opt ans="f">创新产业绿色经济</opt>
+        <opt ans="f">创新产业创新经济</opt>
+        <opt ans="f">新增长点新产能</opt>
+        <opt ans="t">新增长点新动能</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（ ）是党的根本政治立场。</desc>
+        <opt ans="t">人民立场</opt>
+        <opt ans="f">组织立场</opt>
+        <opt ans="f">国家立场</opt>
+        <opt ans="f">集体立场</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>发生火灾可以乘坐普通电梯逃生吗？（ ）</desc>
+        <opt ans="t">不可以</opt>
+        <opt ans="f">可以</opt>
+        <opt ans="f">不一定</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的各级领导干部，无论是由民主选举产生的，或是由领导机关任命的，他们的职务都不是终身的，都可以（ ）。</desc>
+        <opt ans="f">调整和撤换</opt>
+        <opt ans="f">调整或解除</opt>
+        <opt ans="f">变动和调整</opt>
+        <opt ans="t">变动或解除</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>十九大报告指出，要坚持正确舆论导向，高度重视传播手段建设和创新，提高新闻舆论传播力、引导力、影响力、（ ）。</desc>
+        <opt ans="f">判断力</opt>
+        <opt ans="t">公信力</opt>
+        <opt ans="f">凝聚力</opt>
+        <opt ans="f">号召力</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>人类可以利用自然，改造自然，但归根到底（ ），必须呵护自然，不能凌驾于自然之上。</desc>
+        <opt ans="t">是自然的一部分</opt>
+        <opt ans="f">是自然的主任</opt>
+        <opt ans="f">要无条件听从自然</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国经济已由高速增长阶段转向（ ）发展阶段，正处在转变发展方式、优化经济结构、转换增长动力的（ ）。</desc>
+        <opt ans="f">高水平攻坚期</opt>
+        <opt ans="f">中高速深水区</opt>
+        <opt ans="t">高质量攻关期</opt>
+        <opt ans="f">高效益转型期</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的十九大报告指出，力争到（ ）基本实现国防和军队现代化，到本世纪中叶把人民军队全面建成世界一流军队。</desc>
+        <opt ans="f">二〇二〇年</opt>
+        <opt ans="t">二〇三五年</opt>
+        <opt ans="f">二〇三〇年</opt>
+        <opt ans="f">二〇二五年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>刘禹锡诗“千淘万漉虽辛苦”的下一句是（ ）</desc>
+        <opt ans="f">莫言迁客似沙沉</opt>
+        <opt ans="t">吹尽狂沙始到金</opt>
+        <opt ans="f">黄沙百战穿金甲</opt>
+        <opt ans="f">一片孤城万仞山</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的（ ）是确保党的路线方针政策和决策部署贯彻落实的基础。</desc>
+        <opt ans="t">基层组织</opt>
+        <opt ans="f">地方组织</opt>
+        <opt ans="f">中央组织</opt>
+        <opt ans="f">各级组织</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平指出，我们要向周恩来同志学习，坚持立党为公、执政为民，自觉践行全心全意为人民服务的根本宗旨，把（ ）贯彻到治国理政全部活动之中，把人民对美好生活的向往作为奋斗目标，依靠人民创造历史伟业。</desc>
+        <opt ans="f">党的政治理念</opt>
+        <opt ans="t">党的群众路线</opt>
+        <opt ans="f">党的政治路线</opt>
+        <opt ans="f">人民的利益</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列关于党员权利说法正确的是（ ）。</desc>
+        <opt ans="f">党员对党的决议有不同意见，可以暂缓执行</opt>
+        <opt ans="f">在各种会议和报刊上，参加关于党的政策问题的讨论</opt>
+        <opt ans="t">党员可以对党的工作提出建议和倡议</opt>
+        <opt ans="f">党员可以随意批评任何组织和任何党员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>罢免不称职的工会主席、副主席，必须召开会员大会或会员代表大会讨论，并经全体代表无记名投票过（ ）通过，否则，不得罢免。</desc>
+        <opt ans="t">1/2</opt>
+        <opt ans="f">2/3</opt>
+        <opt ans="f">3/4</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的基层委员会、总支部委员会、支部委员会每届任期（ ）。</desc>
+        <opt ans="t">三年至五年</opt>
+        <opt ans="f">两年或三年</opt>
+        <opt ans="f">两年至三年</opt>
+        <opt ans="f">三年或五年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“亦余心之所善兮，虽九死其犹不悔。&quot;出自（ ）</desc>
+        <opt ans="t">离骚</opt>
+        <opt ans="f">楚辞</opt>
+        <opt ans="f">九歌</opt>
+        <opt ans="f">别赋</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>共产主义远大理想和中国特色社会主义共同理想，是中国共产党人的精神支柱和政治灵魂，也是保持党的团结统一的（ ）基础。</desc>
+        <opt ans="f">政治</opt>
+        <opt ans="f">道德</opt>
+        <opt ans="t">思想</opt>
+        <opt ans="f">理论</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（ ）是党内政治生活的重要内容和载体，是党组织对党员进行教育管理监督的重要形式。</desc>
+        <opt ans="f">批评和自我批评</opt>
+        <opt ans="f">党的政治纪律</opt>
+        <opt ans="f">党内法规制度</opt>
+        <opt ans="t">党的组织生活</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的各级代表大会的代表和委员会的产生，要体现（ ）的意志。</desc>
+        <opt ans="f">每一个党员</opt>
+        <opt ans="f">被选举人</opt>
+        <opt ans="t">选举人</opt>
+        <opt ans="f">领导人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>信念坚定、立场鲜明，艰苦奋斗、勇于奉献，胸怀大局、纪律严明，开拓创新、自强不息，这是对（ ）的全面而精辟的概括。</desc>
+        <opt ans="t">工人阶级伟大品格</opt>
+        <opt ans="f">劳模精神</opt>
+        <opt ans="f">劳动者职业道德</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业、农村、机关、学校、科研院所、街道社区、社会组织、人民解放军连队和其他基层单位，凡是有正式党员（ ）人以上的，都应当成立党的基层组织。</desc>
+        <opt ans="f">一</opt>
+        <opt ans="f">二</opt>
+        <opt ans="t">三</opt>
+        <opt ans="f">四</opt>
     </qstn>
     <qstn type="judge" cust="0">
         <desc>《中国共产党纪律处分条例》中明确党组织严重违纪的两种处理措施是改革和解散。</desc>
@@ -1206,6 +1335,30 @@
     </qstn>
     <qstn type="judge" cust="0">
         <desc>《企业民主管理规定》中职工代表的义务是：(一)遵守法律法规、企业规章制度，提高自身素质，积极参与企业民主管理;(二)依法履行职工代表职责，听取职工对企业生产经营管理等方面的意见和建议，以及涉及职工切身利益问题的意见和要求，并客观真实地向企业反映;(三)参加企业职工代表大会组织的各项活动，执行职工代表大会通过的决议，完成职工代表大会交办的工作;(四)向选举单位的职工报告参加职工代表大会活动和履行职责情况，接受职工的评议和监督;(五)保守企业的商业秘密和与知识产权相关的保密事项。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>职工代表大会的代表由 工人、技术人员、管理人员 、企业领导人员和其他方面的职工组成。其中，企业中层以上管理人员和领导人员一般不得超过职工代表总人数的百分之二十。有女职工和劳务派遣职工的企业，职工代表中应当有适当比例的女职工和劳务派遣职工代表。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业实行厂务公开应当遵循合法、及时、真实、有利于职工权益维护和企业发展的原则。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工会宣教工作中开展的“创争”活动是指“创建学习型组织，争做知识型职工”活动。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>“三会一课”的内容“三会”指：支部党员大会（一般为三个月召开一次）、支部委员会（一般每月召开一次，根据需要也可以随时召开）、党小组会（一般每月召开一至两次），“一课”指：上党课（一般情况下，每季度上一次党课）。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中国工人阶级的伟大品格是信念坚定、立场鲜明，艰苦奋斗、勇于奉献，胸怀大局、纪律严明，开拓创新、自强不息。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中国共产党廉洁自律准则》规定，全体党员和各级党员领导干部必须坚持全心全意为人民服务根本宗旨。</desc>
         <ans>t</ans>
     </qstn>
 </library>

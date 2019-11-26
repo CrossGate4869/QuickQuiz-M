@@ -6634,4 +6634,2170 @@
         <opt ans="f">刑法中有“非法集资罪”的罪名</opt>
         <opt ans="t">集资者不具备筹资主体资格</opt>
     </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>除向本人同行账户转账外，个人通过ATM机转账，在发卡行受理后【 】内，可以申请撤销转账。</desc>
+        <opt ans="f">1小时</opt>
+        <opt ans="f">12小时</opt>
+        <opt ans="t">24小时</opt>
+        <opt ans="f">8小时</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国个人所得税法》规定，居民个人取得综合所得，按【 】计个人所得税。</desc>
+        <opt ans="f">次</opt>
+        <opt ans="f">月</opt>
+        <opt ans="f">季</opt>
+        <opt ans="t">年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《国务院办公厅关于印发降低社会保险费率综合方案的通知》规定，由【 】建立工作协调机制，统筹协调降底社保费和社保征收体制改革相关工作。</desc>
+        <opt ans="t">国务院</opt>
+        <opt ans="f">各省人民政府</opt>
+        <opt ans="f">国家税务总局&#x0D;&#x0A;D人社部</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《财政部 税务总局关于实施小微企业普惠性税收减免政策的通知》规定，【 】可以享受地方税种和相关附加减征。</desc>
+        <opt ans="f">增值税一般纳税人</opt>
+        <opt ans="t">增值税小规模纳税人</opt>
+        <opt ans="f">事业单位</opt>
+        <opt ans="f">党政机关</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《国家税务总局关于建立小微企业涉税诉求和意见快速相应机制的通知》规定，税务机关收到小微企业的诉求和意见后，由【 】对诉求和意见进行登记。</desc>
+        <opt ans="f">主管税务机关</opt>
+        <opt ans="f">各级纳税服务主管部门</opt>
+        <opt ans="t">首次受理企业诉求的部门</opt>
+        <opt ans="f">12366纳税服务热线</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《个人所得税专项附加扣除暂行办法》规定纳税人的住房租金专项附加扣除标准有【 】档。</desc>
+        <opt ans="f">一</opt>
+        <opt ans="f">二</opt>
+        <opt ans="t">三</opt>
+        <opt ans="f">四</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国个人所得税法》规定，居民个人的利息、股息、红利所得和偶然所得，以每【 】收入为应纳税所得额。</desc>
+        <opt ans="t">次</opt>
+        <opt ans="f">月</opt>
+        <opt ans="f">季</opt>
+        <opt ans="f">年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>福建有地处海道下方的“下门”，最终被雅化为【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">龙岩</opt>
+        <opt ans="f">福建</opt>
+        <opt ans="t">厦门</opt>
+        <opt ans="f">泉州</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>武侯墓、蔡伦墓、张骞墓均位于【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">西安</opt>
+        <opt ans="f">宝鸡</opt>
+        <opt ans="f">成都</opt>
+        <opt ans="t">汉中</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以下城市中，因孙吴，东晋，南朝宋、齐、梁、陈先后在此建都，有“六朝古都”之称的是【 】。</desc>
+        <opt ans="t">南京</opt>
+        <opt ans="f">咸阳</opt>
+        <opt ans="f">汉中</opt>
+        <opt ans="f">西安</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>取义“宜于昌盛”的地方是【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">湖北宜都</opt>
+        <opt ans="f">湖北宜城</opt>
+        <opt ans="t">湖北宜昌</opt>
+        <opt ans="f">江西宜春</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>南宋林升的诗句“暖风熏得游人醉，直把杭州作汴州”，“汴州”是指【 】。</desc>
+        <opt ans="f">扬州</opt>
+        <opt ans="t">开封</opt>
+        <opt ans="f">苏州</opt>
+        <opt ans="f">洛阳</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>客家文化的代表性建筑“永定土楼”在【 】省。</desc>
+        <opt ans="f">江西</opt>
+        <opt ans="t">福建</opt>
+        <opt ans="f">台湾</opt>
+        <opt ans="f">广西</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>春秋时期的介子推以忠孝闻名，为纪念他而得名的地方是【 】。</desc>
+        <opt ans="t">山西介休</opt>
+        <opt ans="f">北京介山</opt>
+        <opt ans="f">河南尚介</opt>
+        <opt ans="f">云南介碑</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“天下九塞，雁门为首”的“雁门关”是在【 】。</desc>
+        <opt ans="f">陕西</opt>
+        <opt ans="t">山西</opt>
+        <opt ans="f">甘肃</opt>
+        <opt ans="f">宁夏</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>白居易《琵琶行》“江州司马青衫湿”中，“江州”是指今天的【 】。</desc>
+        <opt ans="f">宜春</opt>
+        <opt ans="t">九江</opt>
+        <opt ans="f">上饶</opt>
+        <opt ans="f">抚州</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>人民军队琼崖纵队诞生、战斗的地方是【 】。</desc>
+        <opt ans="f">白洋淀</opt>
+        <opt ans="f">微山湖</opt>
+        <opt ans="t">海南岛</opt>
+        <opt ans="f">珠江流域</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为纪念抗日英烈命名的左权县在【 】省。</desc>
+        <opt ans="t">山西</opt>
+        <opt ans="f">山东</opt>
+        <opt ans="f">安徽</opt>
+        <opt ans="f">陕西</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>西汉著名外交家、丝绸之路的开拓者张骞是【 】人。</desc>
+        <opt ans="f">山西</opt>
+        <opt ans="t">陕西</opt>
+        <opt ans="f">甘肃</opt>
+        <opt ans="f">湖北</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>湖州市的“湖”指的是【 】。</desc>
+        <opt ans="f">西湖</opt>
+        <opt ans="f">洞庭湖</opt>
+        <opt ans="t">太湖</opt>
+        <opt ans="f">鄱阳湖</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>河西走廊是中国内地通往西域的要道，它位于【 】以西。</desc>
+        <opt ans="t">黄河</opt>
+        <opt ans="f">汉江</opt>
+        <opt ans="f">渭河</opt>
+        <opt ans="f">泾河</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>三国时期，人们尊称左将军刘备为“左公”。因“左公”在当地安营扎寨而得名的是【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">石首</opt>
+        <opt ans="f">丹江口</opt>
+        <opt ans="f">当阳</opt>
+        <opt ans="t">公安</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“翰林多吉水”之说的“吉水”是在【 】省。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="t">江西</opt>
+        <opt ans="f">湖南</opt>
+        <opt ans="f">江苏</opt>
+        <opt ans="f">浙江</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“江南三大名楼”之一的黄鹤楼位于【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">江西南昌</opt>
+        <opt ans="f">湖南岳阳</opt>
+        <opt ans="f">山西永济</opt>
+        <opt ans="t">湖北武汉</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“天无三日晴，地无三尺平”指的是【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="t">贵州</opt>
+        <opt ans="f">新疆</opt>
+        <opt ans="f">云南</opt>
+        <opt ans="f">广西</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《乌衣巷》是唐代诗人刘禹锡的诗作，乌衣巷位于【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">广西桂林</opt>
+        <opt ans="f">安徽六安</opt>
+        <opt ans="f">浙江杭州</opt>
+        <opt ans="t">江苏南京</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>古称长安的地方是今天的【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="t">西安</opt>
+        <opt ans="f">宝鸡</opt>
+        <opt ans="f">咸阳</opt>
+        <opt ans="f">铜川</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列地名中，因著名文人得名的是【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">成都浣花溪</opt>
+        <opt ans="t">杭州苏公堤</opt>
+        <opt ans="f">南京桃叶渡</opt>
+        <opt ans="f">青岛琅琊台</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列选项中，因李世民胞姐平阳公主率军镇守而得名的是【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">公主坟</opt>
+        <opt ans="f">皇姑屯</opt>
+        <opt ans="t">娘子关</opt>
+        <opt ans="f">公主岭</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>泾河和渭水“泾渭分明”，是发生在【 】的奇特景观。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="t">陕西西安</opt>
+        <opt ans="f">山东潍坊</opt>
+        <opt ans="f">河南洛阳</opt>
+        <opt ans="f">河北秦皇岛</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>陕西省【 】是西周文化发祥地，被称为“青铜器之乡”。 出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">延安市</opt>
+        <opt ans="f">西安市</opt>
+        <opt ans="f">咸阳市</opt>
+        <opt ans="t">宝鸡市</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>地处河西走廊西部的“河西咽喉”隘口，并有“天下第一雄关”之称的是【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">山海关</opt>
+        <opt ans="f">潼关</opt>
+        <opt ans="t">嘉峪关</opt>
+        <opt ans="f">友谊关</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>因“蜀江至此分枝”得名的地方是【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">宜都</opt>
+        <opt ans="f">丹江口</opt>
+        <opt ans="f">当阳</opt>
+        <opt ans="t">枝江</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以下城市中属于“海上丝绸之路”途径之地的是【 】市。央视《中国地名大会》节目组</desc>
+        <opt ans="f">敦煌</opt>
+        <opt ans="f">西安</opt>
+        <opt ans="t">广州</opt>
+        <opt ans="f">洛阳</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《三国演义》中“吾乃常山赵子龙是也”的“常山”位于【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">山西运城</opt>
+        <opt ans="t">河北正定</opt>
+        <opt ans="f">河北涿州</opt>
+        <opt ans="f">陕西兴平</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《醉翁亭记》中的“醉翁亭”在【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">湖南</opt>
+        <opt ans="f">浙江</opt>
+        <opt ans="t">安徽</opt>
+        <opt ans="f">河南</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国第一艘航母是用【 】省的名称命名的。</desc>
+        <opt ans="f">浙江</opt>
+        <opt ans="f">山东</opt>
+        <opt ans="f">吉林</opt>
+        <opt ans="t">辽宁</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>加强和创新社会治理,关键在【 】创新，核心是人。只有人与人和谐相处，社会才会安定有序。来源:《习,近平新时代中国特色社会主义思想学习纲要》(学习出版社、人民出版:社2019年版)</desc>
+        <opt ans="t">体制</opt>
+        <opt ans="f">形式</opt>
+        <opt ans="f">手段</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列选项中，明代郑和七下西洋的“起锚地”是【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">辽宁大连</opt>
+        <opt ans="f">山东青岛</opt>
+        <opt ans="t">江苏太仓</opt>
+        <opt ans="f">天津塘沽</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>因“千里家书只为墙，让他三尺又何妨”这一故事得名的“六尺巷”位于【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">浙江桐庐</opt>
+        <opt ans="f">安徽六安</opt>
+        <opt ans="f">浙江嘉兴</opt>
+        <opt ans="t">安徽桐城</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《滕王阁序》中的“滕王阁”是在【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">广东</opt>
+        <opt ans="f">福建</opt>
+        <opt ans="f">湖南</opt>
+        <opt ans="t">江西</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>歌曲《共产儿童团歌》出自于1958年长春电影制片厂的电影【 】</desc>
+        <opt ans="f">《祖国的花朵》</opt>
+        <opt ans="f">《上甘岭》</opt>
+        <opt ans="t">《红孩子》</opt>
+        <opt ans="f">《英雄儿女》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>因既位于山南，又位于北水而得名的城市是【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">洛阳</opt>
+        <opt ans="t">咸阳</opt>
+        <opt ans="f">华阴</opt>
+        <opt ans="f">江阴</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>李白《梦游天姥吟留别》中的天姥山位于【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">浙江杭州</opt>
+        <opt ans="t">浙江绍兴</opt>
+        <opt ans="f">江西九江</opt>
+        <opt ans="f">四川广安</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>东北地区又称“关东”是指【 】以东。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">嘉峪关</opt>
+        <opt ans="t">山海关</opt>
+        <opt ans="f">太行关</opt>
+        <opt ans="f">井陉关</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>元代于1267年迁都于“中都”，元大都遗址位于现在的【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">广州</opt>
+        <opt ans="f">西安</opt>
+        <opt ans="t">北京</opt>
+        <opt ans="f">南京</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“几处早莺争暖树，谁家新燕啄春泥”是白居易《钱塘湖春行》中脍炙人口的名句。诗句描写的“钱塘湖”位于今天的【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">江苏苏州</opt>
+        <opt ans="f">云南昆明</opt>
+        <opt ans="f">广西桂林</opt>
+        <opt ans="t">浙江杭州</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>被誉为“瓷都”的景德镇位于【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="t">江西省</opt>
+        <opt ans="f">浙江省</opt>
+        <opt ans="f">江苏省</opt>
+        <opt ans="f">安徽省</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1936年考古发现的良渚遗址位于【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">沈阳市</opt>
+        <opt ans="f">大连市</opt>
+        <opt ans="t">杭州市</opt>
+        <opt ans="f">太原市</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>居古代四大书院之首的白鹿书院是在【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="t">江西</opt>
+        <opt ans="f">河南</opt>
+        <opt ans="f">湖北</opt>
+        <opt ans="f">河北</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>北宋张择端的《清明上河图》描绘的是【 】的生活场景。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">西安</opt>
+        <opt ans="f">洛阳</opt>
+        <opt ans="t">开封</opt>
+        <opt ans="f">安阳</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“为了胜利，向我开炮”这句经典台词出自于1964年长春电影制片厂出品的电影【 】。影片根据作家巴金的小说《团圆》改编，由武兆堤导演。出题：长影集团有限公司</desc>
+        <opt ans="t">《英雄儿女》</opt>
+        <opt ans="f">《风云儿女》</opt>
+        <opt ans="f">《党的儿女》</opt>
+        <opt ans="f">《甲午风云》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>清代著名的林则徐“虎门销烟”发生在【 】省。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="t">广东</opt>
+        <opt ans="f">广西</opt>
+        <opt ans="f">福建</opt>
+        <opt ans="f">浙江</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“淝水之战”的“淝水”，是【 】的支流。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">长江</opt>
+        <opt ans="f">黄河</opt>
+        <opt ans="t">淮河</opt>
+        <opt ans="f">济水</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>唐代诗人杜甫的诗句“会当凌绝顶，-览众山小”，写的是【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">华山</opt>
+        <opt ans="t">泰山</opt>
+        <opt ans="f">恒山</opt>
+        <opt ans="f">嵩山</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新中国第一-位在国际影坛上获奖的演员是影片【 】的主演石联星，该片由东北电影制片厂(今长影) 1950年出品。出题：长影集团有限责任公司</desc>
+        <opt ans="t">《赵一曼》</opt>
+        <opt ans="f">《刘胡兰》</opt>
+        <opt ans="f">《白毛女》</opt>
+        <opt ans="f">《高歌猛进》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列城市以花卉命名的是【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="t">攀枝花</opt>
+        <opt ans="f">菏泽</opt>
+        <opt ans="f">洛阳</opt>
+        <opt ans="f">广州</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>张家界地貌类型多样，其中最具特色的是【 】地貌。出题：中共张家界市委宣传部</desc>
+        <opt ans="f">山地</opt>
+        <opt ans="f">丘陵</opt>
+        <opt ans="f">岩溶</opt>
+        <opt ans="t">石英砂岩峰林</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>战国时期“孟母三迁” 的故事发生在【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="t">山东</opt>
+        <opt ans="f">山西</opt>
+        <opt ans="f">河南</opt>
+        <opt ans="f">江西</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以城区西北福山得名的城市是【 】。出题：央视《中国地名大会》节目组</desc>
+        <opt ans="f">龙岩</opt>
+        <opt ans="t">福州</opt>
+        <opt ans="f">泉州</opt>
+        <opt ans="f">厦门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>张家界地方传统音乐【 】，感情淳朴、真挚而口人心弦，曲调丰富多变，旋律优美动听，现存1万余首。2006年5月20日，经国务院批准列入第一批国家级非物质文化遗产名录。出题：中共张家界市委宣传部</desc>
+        <opt ans="t">桑植民歌</opt>
+        <opt ans="f">永定民歌</opt>
+        <opt ans="f">慈利民歌</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“愿将腰下剑，直为斩楼兰”出自唐代诗人李白的【 】。出题：南开大学文学院</desc>
+        <opt ans="f">《燕歌行》</opt>
+        <opt ans="f">《凉州词》</opt>
+        <opt ans="t">《塞下曲》</opt>
+        <opt ans="f">《阳关曲》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>张家界【 】是张家界市永定区地方传统戏剧，2011年5月，被国务院列入第三批国家级非物质文化遗产名录。出题：中共张家界市委宣传部</desc>
+        <opt ans="f">花鼓戏</opt>
+        <opt ans="t">阳戏</opt>
+        <opt ans="f">湘戏</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1982年12月，第一个被国务院命名为国家森林公园的是【 】国家森林公园。--I----I--出题：中共张家界市委宣传部</desc>
+        <opt ans="f">黄山</opt>
+        <opt ans="t">张家界</opt>
+        <opt ans="f">九寨沟</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家通用语言文字以【 】作为拼音和注音工具。出题：全国推广普通话宣传周领导小组办公室</desc>
+        <opt ans="t">《汉语拼音方案》</opt>
+        <opt ans="f">《汉语拼音正词法基本规则》</opt>
+        <opt ans="f">注音拼音</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国国家通用语言文字法》所称的国家语言文字是【 】。出题：全国推广普通话宣传周领导小组办公室</desc>
+        <opt ans="f">汉语和汉字</opt>
+        <opt ans="t">普通话和规范汉字</opt>
+        <opt ans="f">普通话和简体字</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>普通话以北京语言为标准音，以北方话为基础方言，以【 】为语法规范。出题：全国推广普通话宣传周领导小组办公室</desc>
+        <opt ans="t">典范的现代白话文著作</opt>
+        <opt ans="f">典范的白话文著作</opt>
+        <opt ans="f">典范的现代文学著作</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会.上提出48个字的“党的新闻舆论工作的职责和使命”。其中,【 】是新闻舆论工作服务性和促进作用的集中体现。</desc>
+        <opt ans="t">围绕中心、服务大局</opt>
+        <opt ans="f">成风化人、凝心聚力</opt>
+        <opt ans="f">澄清谬误、明辨是非</opt>
+        <opt ans="f">团结人民、鼓舞士气</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2019年第6期《求是》杂志发表习近平总书记的重要文章《加快推动媒体融合发展构建全媒体传播格局》。下列关于媒体融合发展的论述，错误的是【 】。</desc>
+        <opt ans="t">传统媒体和新兴媒体是取代关系，不是迭代关系</opt>
+        <opt ans="f">推动媒体融合发展，是要做大做强主流舆论</opt>
+        <opt ans="f">要坚持导向为魂、移动为先、内容为王、创新为要</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会上强调，【 】是新闻的生命。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">真实性</opt>
+        <opt ans="f">重要性</opt>
+        <opt ans="f">娱乐性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会上指出，必须牢牢坚持马克思主义新闻观。以下关于马克思主义新闻观的说法中，不正确的是【 】。</desc>
+        <opt ans="f">马克思主义新闻观是科学的、开放的理论体系</opt>
+        <opt ans="f">马克思主义新闻观经历了一个不断与时俱进的历史发展过程</opt>
+        <opt ans="t">马克思主义新闻观只适用于党报</opt>
+        <opt ans="f">马克思、恩格斯奠定了马克思主义新闻观的理论基础</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会.上提出48个字的“党的新闻舆论工作的职责和使命。要承担起这个职责和使命，必须把政治方向摆在第一位，做到“四个牢牢坚持”，即牢牢坚持党性原则，牢牢坚持马克思主义新闻观，牢牢坚持正确舆论导向，【 】。</desc>
+        <opt ans="f">牢牢坚持新闻真实</opt>
+        <opt ans="t">牢牢坚持正面宣传为主</opt>
+        <opt ans="f">牢牢坚持“三贴近”原则</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新闻宣传是否善于创新，是否能够做到常做常新，是其发展壮大、保持强大生命力的关键。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新闻舆论工作坚持党性原则，最根本的是坚持党对新闻舆论工作的领导。党和政府主办的媒体是党和政府的宣传阵地，必须姓党。”坚持党性原则，要在新闻工作中牢固树立“四个意识”，即政治意识、大局意识、核心意识、【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">看齐意识</opt>
+        <opt ans="f">责任意识</opt>
+        <opt ans="f">阵地意识</opt>
+        <opt ans="f">忧患意识</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会.上强调，要深入开展马克思主义新闻观教育。以下对马克思主义新闻观的理解中，错误的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">马克思主义新闻观与新闻实践是紧密结合的</opt>
+        <opt ans="f">马克思主义新闻观是进步的、发展的科学</opt>
+        <opt ans="f">马克思主义新闻观是新闻舆论工作的灵魂</opt>
+        <opt ans="t">马克思主义新闻观仅仅是一套学术体系，与新闻业务关系不大</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会的讲话中强调真实性是新闻的生命。下列有关新闻真实的表述中，说法不正确的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">新闻真实并非社会真实，媒体只是窗口并非镜子</opt>
+        <opt ans="f">新闻真实不等于哲学真实和文学真实</opt>
+        <opt ans="t">新闻真实在紧急事件中可以采用别人口头素材，无需进行核实</opt>
+        <opt ans="f">新闻真实必须是现实生活中存在的事</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2018年我国主要媒体集中开展了对科学家黄大年爱国报国、教书育人、敬业奉献先进事迹的报道，这种形式的宣传称为【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">主题宣传</opt>
+        <opt ans="f">成就宣传</opt>
+        <opt ans="t">典型宣传</opt>
+        <opt ans="f">形势宣传</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>客观地讲，国际舆论格局目前“西强我弱”的现象依然存在，我们要加强国际传播能力建设,增强国际话语权。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日,习近平总书记在党的新闻舆论工作座谈会上强调,党的新闻舆论工作坚持党性原则，最根本的是坚持【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">三贴近原则</opt>
+        <opt ans="f">以人民为中心</opt>
+        <opt ans="f">新闻传播规律</opt>
+        <opt ans="t">党对新闻舆论工作的领导</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会上指出，必须牢牢坚持马克思主义新闻观。下列关于马克思主义新闻观的表述中，错误的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">学习马克思主义新闻观要防止教条主义倾向</opt>
+        <opt ans="f">学习马克思主义新闻观要防止形式主义倾向</opt>
+        <opt ans="t">马克思主义新闻观是僵化的缺乏活力的“过时理论”</opt>
+        <opt ans="f">学习马克思主义新闻观要防止急功近利的实用主义做法</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>正面宣传如果满足于做些表面文章，即使动机再好也往往会事倍功半，甚至事与愿违，难以在群众中真正产生影响。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日,习近平总书记在党的新闻舆论工作座谈会的讲话上强调，要深入开展马克思主义新闻观教育。【 】是马克思主义新闻观的科学性和生命力之所在。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">指导实践</opt>
+        <opt ans="f">概念性</opt>
+        <opt ans="f">理论性</opt>
+        <opt ans="f">抽象性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>人民性高于党性，坚持党性会损害人民性。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>互联网已经成为舆论斗争的主战场。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“正面宣传”与“舆论监督”，一个是要作正面报道，一个是搞批评监督，是对立的。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日,习近平总书记在党的新闻舆论工作座谈会的讲话中强调，党的新闻舆论工作坚持党性原则。【 】既是中国共产党的优良传统，又是党性原则的一项重要内容。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">坚持群众路线</opt>
+        <opt ans="f">贴近生活</opt>
+        <opt ans="f">面向基层</opt>
+        <opt ans="f">深入实际</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会的讲话中论证了正面宣传和舆论监督的关系。下列关于正面宣传和舆论监督的说法，正确的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">一正一反，相互对立</opt>
+        <opt ans="f">有正面宣传就不能有舆论监督</opt>
+        <opt ans="f">正面宣传总是好的，舆论监督是一种负面宣传</opt>
+        <opt ans="t">两者有机统一，在开展正面宣传的同时也要搞好舆论监督</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会上强调，【 】是新闻舆论工作的灵魂。</desc>
+        <opt ans="f">信息观</opt>
+        <opt ans="f">言论观</opt>
+        <opt ans="t">新闻观</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在新闻工作中，党性原则即新闻事业的党性原则，人民性原则即新闻事业的人民性原则，它们都是社会主义新闻事业必须遵循的重要原则，习近平总书记2016年2月19日在党的新闻舆论工作座谈会上论证了两者的关系。关于党性和人民性的关系，以下说法正确的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">党性和人民性是对立的，谈党性则不能谈人民性</opt>
+        <opt ans="f">人民性高于党性</opt>
+        <opt ans="t">党性和人民性从来都是一致的、统一的</opt>
+        <opt ans="f">党性高于人民性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会上强调，【 】是党的新闻舆论工作必须遵循的基本方针。</desc>
+        <opt ans="t">团结稳定鼓劲、正面宣传为主</opt>
+        <opt ans="f">遵循市场规律.</opt>
+        <opt ans="f">以调查和负面报道为主</opt>
+        <opt ans="f">深化改革，与时俱进</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会的讲话中强调，范的新闻舆论工作坚持党性原则，最根本的是坚持党对新闻舆论工作的领导。党对新闻事业的领导主要体现在【 】方面的领导。</desc>
+        <opt ans="f">经济活动</opt>
+        <opt ans="f">业务工作</opt>
+        <opt ans="t">政治思想</opt>
+        <opt ans="f">社会活动</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>从本质上说，坚持党性就是坚持人民性，坚持人民性就是坚持党性。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>人才是媒体发展中最活跃最能动的因素，是最重要的优势资源。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2019年1月25日，习近平总书记在中共中央政治局第十二次集体学习时强调，全媒体不断发展，出现了全程媒体、全息媒体、全员媒体、全效媒体，信息无处不在、无所不及、无人不用。其中，【 】意味着突破了时空尺度，零时差、“五加二”、“白加黑”，传播随时随地都可以发生。</desc>
+        <opt ans="t">全程</opt>
+        <opt ans="f">全息</opt>
+        <opt ans="f">全员</opt>
+        <opt ans="f">全效</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2019年1月25日，习近平总书记在中共中央政治局第十二次集体学习时强调，全媒体不断发展，出现了全程媒体、全息媒体、全员媒体、全效媒体，信息无处不在、无所不及、无人不用。其中，【 】意味着从“我说你听”的一对多传播，变成了多对多传播,互动性也大大增强。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">全程</opt>
+        <opt ans="f">全息</opt>
+        <opt ans="t">全员</opt>
+        <opt ans="f">全效</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>读者在哪里，受众在哪里，宣传报道的触角就要伸向哪里。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会的讲话中指出，党的新闻舆论工作要抓住时机、把握节奏、讲究策略，从时度效着力，体现时度效要求。“时、度、效”作为新闻报道和舆论引导的一种策略和要求，处于关键和核心位置的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">时</opt>
+        <opt ans="t">度</opt>
+        <opt ans="f">效</opt>
+        <opt ans="f">策略</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2018年是中国改革开放40周年，人民网、新华网、光明网等主流网络媒体开展了改革开放40周年的宣传活动，这种形式的宣传称为【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">主题宣传</opt>
+        <opt ans="f">经济宣传</opt>
+        <opt ans="f">典型宣传</opt>
+        <opt ans="f">人物宣传</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>坚持党媒姓党，就是要摆正新闻媒体与党的关系，自觉自愿地接受党的领导，毫不动摇地听从党的指挥，一心一意地服务党的事业。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会上强调，真实性是新闻的生命  新闻报道既要做到微观真实，又要做到宏观真实，这是社会主义新闻事业对新闻真实的特殊要求。关于这两个层面的新闻真实间的关系，下列说法正确的是【 】。</desc>
+        <opt ans="f">做到了微观真实，就一定能达到宏观真实</opt>
+        <opt ans="f">宏观真实本质上是微观真实的简单叠加</opt>
+        <opt ans="f">微观真实和宏观真实存在一方即可</opt>
+        <opt ans="t">宏观真实只有以微观真实为基础才能建立起自己的“宏观大厦”</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>六访兰考、八下扶沟、四赴宁陵、八下辉县、两上红旗渠，与新华社同事共同采写了《县委书记的榜样--焦裕禄》等新闻名篇的记者是【 】。</desc>
+        <opt ans="f">范长江</opt>
+        <opt ans="f">范敬宜</opt>
+        <opt ans="f">邹韬奋</opt>
+        <opt ans="t">穆青</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会上强调，党的新闻舆论工作要坚持以人民为中心的工作导向。新闻工作要坚持以人民为中心的工作导向的原因在于，在我国，从根本上讲，新闻事业的主人、新闻工作的主体、新闻报道的主角都应是【 】。</desc>
+        <opt ans="f">领导干部</opt>
+        <opt ans="f">党和政府</opt>
+        <opt ans="t">人民</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>职工发生工伤，经治疗伤情相对稳定后存在残疾、影响劳动能力的，应当进行【 】。出题:人力资源和社会保障部</desc>
+        <opt ans="t">劳动能力鉴定</opt>
+        <opt ans="f">工作能力鉴定</opt>
+        <opt ans="f">劳动能力认定</opt>
+        <opt ans="f">工作能力认定</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>地方各级人民政府鼓励和支持开展就业培训，帮助失业人员提高职业技能，增强其就业能力和创业能力。失业人员参加就业培训的，按照有关规定【 】。出题:人力资源和社会保障部</desc>
+        <opt ans="t">享受政府培训补贴</opt>
+        <opt ans="f">获得一定数量的误工补贴</opt>
+        <opt ans="f">享受一定数量的政府特殊津贴</opt>
+        <opt ans="f">获得公益性岗位托底安置</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家把扩大就业放在经济社会发展的突出位置，实施【 】，坚持劳动者自主择业、市场调节就业、政府促进就业的方针,多渠道扩大就业。出题:人力资源和社会保障部</desc>
+        <opt ans="t">积极的就业政策</opt>
+        <opt ans="f">稳慎的就业政策</opt>
+        <opt ans="f">扩张性就业政策</opt>
+        <opt ans="f">激励性就业政策</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>政府投资开发的公益性岗位，应当优先安排符合岗位要求的就业困难人员。被安排在公益性岗位工作的，按照国家规定给予【 】。出题:人力资源和社会保障部</desc>
+        <opt ans="f">职业年金</opt>
+        <opt ans="f">劳动薪酬</opt>
+        <opt ans="f">岗位补助</opt>
+        <opt ans="t">岗位补贴</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>非全日制用工，是指以小时计酬为主，劳动者在同一用人单位一般平均每日工作时间不超过【 】小时，每周工作时间累计不超过【】小时的用工形式。</desc>
+        <opt ans="f">四 二十</opt>
+        <opt ans="t">四 二十四</opt>
+        <opt ans="f">六 二十四</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>劳动者依法享有自主择业的权利。劳动者年满【 】周岁，有劳动能力且有就业愿望的，可凭本人身份证件，通过公共就业服务机构、职业中介机构介绍或直接联系用人单位等渠道求职。</desc>
+        <opt ans="f">15</opt>
+        <opt ans="t">16</opt>
+        <opt ans="f">18</opt>
+        <opt ans="f">20</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党的性质、党的新闻舆论工作性质、党与媒体的关系决定了党媒姓党。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1848年，马克思和恩格斯共同创办的被列宁称为“革命无产阶级最好的机关报”是【 】。</desc>
+        <opt ans="f">《莱茵报》</opt>
+        <opt ans="f">《火星报》:</opt>
+        <opt ans="f">《新闻报》</opt>
+        <opt ans="t">《新莱茵报》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会的讲话中提出“推出有思想、有温度、有品质的作品”，为此,新闻工作者必须【 】。①改文风②俯下身③沉下心④察实情⑤说实话⑥动真情 出题:新闻记者证核发办公室</desc>
+        <opt ans="f">①②③④</opt>
+        <opt ans="t">①②③④⑤⑥</opt>
+        <opt ans="f">②③④⑤⑥</opt>
+        <opt ans="f">①③④⑤⑥</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>劳动行政部门自收到集体合同文本之日起【 】内未提出异议的，集体合同即行生效。出题:人力资源和社会保障部</desc>
+        <opt ans="f">十日</opt>
+        <opt ans="t">十五日</opt>
+        <opt ans="f">三十日</opt>
+        <opt ans="f">五日</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>劳动合同期限一年以上不满三年的，试用期不得超过【 】。出题:人力资源和社会保障部</desc>
+        <opt ans="f">一个月</opt>
+        <opt ans="t">二个月</opt>
+        <opt ans="f">三个月</opt>
+        <opt ans="f">六个月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家建立健全  依法确保失业人员的基本生活，并促进其实现就业【 】出题:人力资源和社会保障部</desc>
+        <opt ans="f">就业制度</opt>
+        <opt ans="f">失业制度</opt>
+        <opt ans="f">就业保险制度</opt>
+        <opt ans="t">失业保险制度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家实行有利于促进就业的金融政策，增加中小企业的融资渠道;鼓励金融机构改进金融服务，加大对中小企业的信贷支持，并对自主创业人员在一定期限内给予【 】等扶持。出题:人力资源和社会保障部</desc>
+        <opt ans="f">大额信贷</opt>
+        <opt ans="f">资金赞助</opt>
+        <opt ans="f">税收减免</opt>
+        <opt ans="t">小额信贷</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>李清照的《如梦令.昨夜雨疏风骤》“知否?知否?应是绿肥红瘦”，这里的“红瘦”指的是【 】花。出题:南开大学文学院</desc>
+        <opt ans="f">牡丹</opt>
+        <opt ans="f">芍药</opt>
+        <opt ans="t">海棠</opt>
+        <opt ans="f">月季</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>提出新闻是“新近发生的事实的报道”这一观点的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">李大钊</opt>
+        <opt ans="t">陆定一</opt>
+        <opt ans="f">王中</opt>
+        <opt ans="f">甘惜分</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家根据不同行业的工伤风险程度确定行业的【 】并根据使用工伤保险基金、工伤发生率等情况在每个行业内确定费率档次。</desc>
+        <opt ans="t">差别费率</opt>
+        <opt ans="f">差异费率</opt>
+        <opt ans="f">浮动费率</opt>
+        <opt ans="f">特定费率</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1975年5月27日，中国登山队再次登上素有地球“第三极”之称的珠穆朗玛峰。在拍摄9名队员登顶照片时，一位叫【 】的队员为了保证向全世界完整展示五星红旗的效果，宁让国旗挡住自己的脸。出题:北京市西城区军休办党委</desc>
+        <opt ans="t">罗则</opt>
+        <opt ans="f">侯生福</opt>
+        <opt ans="f">潘多</opt>
+        <opt ans="f">索南罗布</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>职工(包括非全日制从业人员)在两个或者两个以上用人单位同时就业的，各用人单位应当分别为职工缴纳工伤保险费。职工发生工伤，由职工【 】依法承担工伤保险责任。</desc>
+        <opt ans="f">先参保的单位</opt>
+        <opt ans="f">后参保的单位</opt>
+        <opt ans="t">受到伤害时工作的单位</opt>
+        <opt ans="f">选择一个单位</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工资应当以【 】支付给劳动者本人。不得克扣或者无故拖欠劳动者的工资。出题:人力资源和社会保障部</desc>
+        <opt ans="f">货币 季</opt>
+        <opt ans="f">实物 月</opt>
+        <opt ans="f">实物 季</opt>
+        <opt ans="t">货币 月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>人力资源和社会保障部、财政部印发的《关于建立城乡居民基本养老保险待遇确定和基础养老金正常调整机制的指导意见》指出，地方应当根据当地实际提高基础养老金标准，对【 】岁及以上参保城乡老年居民予以适当倾斜;对长期缴费、超过最低缴费年限的，应适当加发【】基础养老金。出题:人力资源和社会保障部</desc>
+        <opt ans="t">65年限</opt>
+        <opt ans="f">70老龄</opt>
+        <opt ans="f">75补充</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国务院印发的《关于建立统一的城乡居民基本养老保险制度的意见》指出，城乡居民养老保险待遇领取人员死亡的，从【 】起停止支付其养老金。出题:人力资源和社会保障部</desc>
+        <opt ans="f">当月</opt>
+        <opt ans="f">当年</opt>
+        <opt ans="t">次月</opt>
+        <opt ans="f">次年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>人力资源和社会保障部、财政部印发的《关于建立城乡居民基本养老保险待遇确定和基础养老金正常调整机制的指导意见》指出，各地要根据【 】情况，合理确定和调整城乡居民基本养老保险缴费档次标准，供城乡居民选择。出题:人力资源和社会保障部</desc>
+        <opt ans="t">城乡居民收入增长</opt>
+        <opt ans="f">物价变动</opt>
+        <opt ans="f">城乡居民消费支出</opt>
+        <opt ans="f">职工基本养老保险等其他社会保障标准调整情况</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用人单位不得因女职工【 】降低其工资、 予以辞退、与其解除劳动或者聘用合同。出题:人力资源和社会保障部</desc>
+        <opt ans="f">怀孕、生育、哺乳、经期</opt>
+        <opt ans="f">怀孕、生育、经期</opt>
+        <opt ans="f">怀孕、经期、哺乳</opt>
+        <opt ans="t">怀孕、生育、哺乳</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用人单位与劳动者建立劳动关系，【 】订立书面劳动合同。出题:人力资源和社会保障部</desc>
+        <opt ans="f">可以</opt>
+        <opt ans="t">应当</opt>
+        <opt ans="f">而文</opt>
+        <opt ans="f">无须</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2014年2月27日，习近平总书记在中央网络安全和信息化领导小组第一次会议的讲话中谈到了我国网络发展的成就与问题。下列关于我国网络发展现状的论述，正确的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">在自主创新方面处于国际领先</opt>
+        <opt ans="f">区域和城乡没有明显差异</opt>
+        <opt ans="f">人均带宽处于国际先进水平</opt>
+        <opt ans="t">国内互联网发展瓶颈仍然较为突出</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会上强调，真实性是新闻的生命。下列做法中，不符合新闻真实理念的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">努力寻找事实真相，不策划、制造事实</opt>
+        <opt ans="f">根据事实来描述事实，不能根据愿望来描述事实</opt>
+        <opt ans="t">以观点统领事实，搜集符合观点的实际素材</opt>
+        <opt ans="f">不仅准确报道个别事实，而且从宏观上把握和反映事件或事物的全貌</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>宣传思想部门工作要强起来，首先是领导干部要强起来，班子要强起来。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记2015年11月27日出席中央扶贫开发工作会议并发表重要讲话是指出，加强【 】扶贫，对贫困家庭的高中学生，要全部免除学杂费，扩大重点高校面向贫困地区定向招生计划。</desc>
+        <opt ans="t">教育</opt>
+        <opt ans="f">就业</opt>
+        <opt ans="f">搬迁</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会上强调，媒体优势核心是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">人才优势</opt>
+        <opt ans="f">资金优势</opt>
+        <opt ans="f">平台优势</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会上提出48个字的“党的新闻舆论工作的职责和使命”。其中，【 】是新闻舆论工作开放性和沟通作用的集中体现。</desc>
+        <opt ans="f">高举旗帜、引领导向</opt>
+        <opt ans="f">围绕中心、服务大局</opt>
+        <opt ans="f">澄清谬误、明辨是非</opt>
+        <opt ans="t">联接中外、沟通世界</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>习近平总书记在2016年8月19日至20日全国卫生与健康大会上的讲话强调，要坚持基本医疗卫生事业的【 】不断完善制度、扩展服务、提高质量，让广大人民群众享有公平可及、系统连续的预防、治疗、康复、健康促进等健康服务。</desc>
+        <opt ans="t">公益性</opt>
+        <opt ans="f">盈利性</opt>
+        <opt ans="f">服务性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国新闻传播没有什么规律可言，即使有规律也难以真正遵循。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2014年8月18日，习近平总书记在中央全面深化改革领导小组第四次会议上强调，推动传统媒体和新兴媒体融合发展，要遵循新闻传播规律和【 】规律。</desc>
+        <opt ans="t">新兴媒体发展</opt>
+        <opt ans="f">新闻传播选择</opt>
+        <opt ans="f">新闻传播效用</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会上提出48个字的“党的新闻舆论工作的职责和使命”。其中【 】是新闻舆论工作政治性和导向作用的集中体现。</desc>
+        <opt ans="t">高举旗帜、引领导向</opt>
+        <opt ans="f">成风化人、凝心聚力</opt>
+        <opt ans="f">澄清谬误、明辨是非</opt>
+        <opt ans="f">联接中外、沟通世界</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年2月19日，习近平总书记在党的新闻舆论工作座谈会上指出，党的新闻舆论工作“要抓住时机、把握节奏、讲究策略，从时度效着力，体现时度效要求”。“时度效”中的“度”是指【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">时机和节奏</opt>
+        <opt ans="t">力度和分寸</opt>
+        <opt ans="f">效果和策略</opt>
+        <opt ans="f">深度和高度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新型农村社会养老保险或城镇居民社会养老保险制度实施时,已年满【 】周岁，且在《关于建立统一的城乡居民基本养老保险制度的意见》印发之日前未领取国家规定的基本养老保障待遇的，不用缴费，自2014年2月起，可以按月领取城乡居民养老保险基础养老金。</desc>
+        <opt ans="f">50</opt>
+        <opt ans="f">55</opt>
+        <opt ans="t">60</opt>
+        <opt ans="f">65</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>劳动者依法享有【 】就业的权利。出题:人力资源和社会保障部</desc>
+        <opt ans="t">平等</opt>
+        <opt ans="f">公平</opt>
+        <opt ans="f">同等</opt>
+        <opt ans="f">安全</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中华人民共和国国旗设计者为【 】。出题:北京市西城区军休办党委</desc>
+        <opt ans="f">梁思成</opt>
+        <opt ans="t">曾联松</opt>
+        <opt ans="f">林徽因</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1949年10月2日，毛泽东接见从匈牙利赶回国参加开国大典的“中国青年代表团”时，为代表团成员王湘在毛泽东照片上签名题字，其题字为【 】。出题:北京市西城区军休办党委</desc>
+        <opt ans="t">庆祝中华人民共和国诞生</opt>
+        <opt ans="f">中华人民共和国万岁</opt>
+        <opt ans="f">世界人民大团结万岁</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>劳动能力鉴定是指劳动功能障碍程度和生活自理障碍程度的等级鉴定。劳动功能障碍分为个伤残等级。【 】出题:人力资源和社会保障部</desc>
+        <opt ans="t">十</opt>
+        <opt ans="f">十一</opt>
+        <opt ans="f">十二</opt>
+        <opt ans="f">十三</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>逃避海关监管将境外固体废物、液态废物和气态废物运输进境,情节特别严重的，将面临的刑罚是【 】出题:中国海关出版社</desc>
+        <opt ans="f">处五年以下有期徒刑，并处罚金</opt>
+        <opt ans="t">处五年以上有期徒刑，并处罚金</opt>
+        <opt ans="f">处五年以上十年以下有期徒刑，并处罚金</opt>
+        <opt ans="f">处十年以上有期徒刑，并处罚金</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>从1951年10月1日至1976年4月30日，北京市供电局职工【 】一人担任天安门广场“业余”升降国旗任务，升旗后去上班，下班后去降旗，成为天安门广场升降国旗时间最长的人。出题:北京市西城区军休办党委</desc>
+        <opt ans="f">陈红年</opt>
+        <opt ans="t">胡其俊</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>失业保险金由社会保险经办机构【 】发放。社会保险经办机构为失业人员开具领取失业保险金的单证，失业人员凭单证到指定银行领取失业保险金。出题:人力资源和社会保障部</desc>
+        <opt ans="f">按天</opt>
+        <opt ans="t">按月</opt>
+        <opt ans="f">按季度</opt>
+        <opt ans="f">按年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国务院印发的《关于建立统一-的城乡居民基本养老保险制度的意见》指出，地方人民政府应当对参保人缴费给予补贴，对选择500元及以上档次标准缴费的，补贴标准不低于每人每年【 】元。出题:人力资源和社会保障部</desc>
+        <opt ans="f">30元</opt>
+        <opt ans="t">60元</opt>
+        <opt ans="f">90元</opt>
+        <opt ans="f">120元</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>城乡居民养老保险待遇由基础养老金和个人账户养老金构成，支付终身。其中个人账户养老金的月计发标准，目前为个人账户全部储存额除以【 】。出题:人力资源和社会保障部</desc>
+        <opt ans="f">120</opt>
+        <opt ans="f">132</opt>
+        <opt ans="t">139</opt>
+        <opt ans="f">144</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>人力资源和社会保障部、财政部印发的《关于建立城乡居民基本养老保险待遇确定和基础养老金正常调整机制的指导意见》指出，城乡居民基本养老保险待遇由基础养老金和个人账户养老金构成。基础养老金由中央和地方确定标准并【 】支付给符合领取条件的参保人。</desc>
+        <opt ans="t">全额</opt>
+        <opt ans="f">按80%</opt>
+        <opt ans="f">部分或全额</opt>
+        <opt ans="f">按50%</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1949年10月1日新中国成立，还被国民党反动派囚禁在重庆歌乐山下白公馆监狱二室的共产党员陈然、刘国志、毛晓初、罗广斌、丁地平等获悉后，欢欣鼓舞，用一床红色的被面，旧衬衣制成五星，做了一面他们心中的五星红旗，并集体创作，由【 】执笔，写下一首诗篇《我们也有一面五星红旗》，深藏在牢房的墙壁缝里，现存于重庆红岩纪念馆。</desc>
+        <opt ans="f">陈然</opt>
+        <opt ans="f">刘国志</opt>
+        <opt ans="f">毛晓初</opt>
+        <opt ans="t">罗广斌</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家对进口废物原料的国外供货商、国内收货人实行【 】制度。供货商、收货人在签订对外贸易合同前，应当向我国海关办理相应登记手续。出题:中国海关出版社</desc>
+        <opt ans="f">备案登记</opt>
+        <opt ans="t">注册登记</opt>
+        <opt ans="f">申报登记</opt>
+        <opt ans="f">免予登记</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中华人民共和国国旗、国徽、国歌，是中华人民共和国的象征和标志，一切【 】都应当尊重和爱护国旗、国徽、国歌，维护国旗、国徽、国歌的尊严。出题:北京市西城区军休办党委</desc>
+        <opt ans="t">公民和组织</opt>
+        <opt ans="f">党员和单位</opt>
+        <opt ans="f">群众和单位</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>失业人员在领取失业保险金期间死亡的，参照当地对在职职工死亡的规定，对其遗属【 】发给丧葬补助金和抚恤金。出题:人力资源和社会保障部</desc>
+        <opt ans="f">按月</opt>
+        <opt ans="f">按季度</opt>
+        <opt ans="f">按年</opt>
+        <opt ans="t">一次性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>职工与用人单位发生工伤待遇方面的争议，按照处理【 】的有关规定处理。出题:人力资源和社会保障部</desc>
+        <opt ans="f">民事纠纷</opt>
+        <opt ans="t">劳动争议</opt>
+        <opt ans="f">行政诉讼</opt>
+        <opt ans="f">人事关系</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>失业人员符合下列条件的，从失业保险基金中领取失业保险金:(一)失业前用人单位和本人已经缴纳失业保险费满【 】年的;(二)非因本人意愿中断就业的;(三)已经进行失业登记，并有求职要求的。出题:人力资源和社会保障部</desc>
+        <opt ans="t">一</opt>
+        <opt ans="f">二</opt>
+        <opt ans="f">三</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>业病需要暂停工作接受工伤医疗的，在停工留薪期内，原工资福利待遇不变，由所在单位按月支付。停工留薪期一般不超过【 】个月。伤情严重或者情况特殊，经设区的市级劳动能力鉴定委员会确认，可以适当延长，但延长不得超过12个月。出题.人力咨源和社会保障部</desc>
+        <opt ans="f">6</opt>
+        <opt ans="f">9</opt>
+        <opt ans="f">10</opt>
+        <opt ans="t">12</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>职工因工致残被鉴定为一-级至四级伤残的，对于其劳动关系处理说法正确的是【 】</desc>
+        <opt ans="f">用人单位解除与工伤职工的劳动关系</opt>
+        <opt ans="t">保留劳动关系，退出工作岗位</opt>
+        <opt ans="f">保留与用人单位的劳动关系，由用人单位安排适当工作</opt>
+        <opt ans="f">经工伤职工本人提出，可以与用人单位解除或者终止劳动关系</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>职工连续工作满【 】个月以上的，享受带薪年休假。出题:人力资源和社会保障部</desc>
+        <opt ans="f">6</opt>
+        <opt ans="t">12</opt>
+        <opt ans="f">18</opt>
+        <opt ans="f">24</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>武汉军运会军事五项的比赛项目包括【 】 、障碍跑、障碍游泳、投弹、越野跑。推荐:武汉市委宣传部 出题:第七届世界军人运动会执行委员会</desc>
+        <opt ans="t">射击</opt>
+        <opt ans="f">长跑</opt>
+        <opt ans="f">短跑</opt>
+        <opt ans="f">游泳</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>职工因工致残被鉴定为【 】级伤残的，由用人单位和职工个人以伤残津贴为基数，缴纳基本医疗保险费。出题:人力资源和社会保障部</desc>
+        <opt ans="f">三</opt>
+        <opt ans="t">四</opt>
+        <opt ans="f">五</opt>
+        <opt ans="f">六</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《歌唱祖国》词曲作者【 】是第一位为五星红旗谱写歌曲的人。1951年10月29日， 在全国政协会议上，毛泽东主席得知作者列席会,议，对他说，这首歌好!并特地将刚刚出版的《毛泽东选集》送给他，并亲笔签名。出题:北京市西城区军休办党委</desc>
+        <opt ans="t">王莘</opt>
+        <opt ans="f">贺绿汀</opt>
+        <opt ans="f">李涣之</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>保险待遇确定和基础养老金正常调整机制的指导意见》指出，各地要根据城乡居民收入增长情况，合理确定和调整城乡居民基本养老保险缴费档次标准，供城乡居民选择。最高缴费档次标准原则上不超过当地【 】参加职工基本养老保险的年缴费额。</desc>
+        <opt ans="f">企业职工</opt>
+        <opt ans="f">机关事业单位人员</opt>
+        <opt ans="t">灵活就业人员</opt>
+        <opt ans="f">新业态从业人员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>职工应当参加工伤保险，由【 】缴纳工伤保险费。出题:人力资源和社会保障部</desc>
+        <opt ans="t">用人单位</opt>
+        <opt ans="f">用人单位和个人</opt>
+        <opt ans="f">个人</opt>
+        <opt ans="f">用人单位或个人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>失业保险金的标准，由省、自治区、直辖市人民政府确定，不得低于【 】。出题:人力资源和社会保障部</desc>
+        <opt ans="t">城市居民最低生活保障标准</opt>
+        <opt ans="f">上年度社会平均工资水平</opt>
+        <opt ans="f">参保职工在职期间平均工资水平</opt>
+        <opt ans="f">参保所在地平均社会保险缴费基数</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2014年，国务院决定将新型农村社会养老保险和城镇居民社会养老保险两项制度合并实施，在全国范围内建立了统一的【 】。出题:人力资源和社会保障部</desc>
+        <opt ans="f">基本养老保险制度</opt>
+        <opt ans="t">城乡居民基本养老保险制度</opt>
+        <opt ans="f">社会养老保险制度</opt>
+        <opt ans="f">城镇职工基本养老保险制度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>人力资源和社会保障部、财政部印发的《关于建立城乡居民基本养老保险待遇确定和基础养老金正常调整机制的指导意见》指出，引导激励符合条件的城乡居民早参保、多缴费，增加【 】资金积累，优化养:老保险待遇结构，提高待遇水平。</desc>
+        <opt ans="f">统筹账户</opt>
+        <opt ans="f">年金账户</opt>
+        <opt ans="f">基本账户</opt>
+        <opt ans="t">个人账户</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国务院印发的《关于建立统一的城乡居民基本养老保险制度的意见》指出，中央确定基础养老金【 】标准，建立基础养老金最低标准正常调整机制，根据经济发展和物价变动等情况，适时调整全国基础养老金最低标准。</desc>
+        <opt ans="f">最高</opt>
+        <opt ans="t">最低</opt>
+        <opt ans="f">基本</opt>
+        <opt ans="f">浮动</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家实行【 】的就业政策，建立健全城乡劳动者平等就业的制度,引导农业富余劳动力有序转移就业。出题:人力资源和社会保障部</desc>
+        <opt ans="f">城乡分割</opt>
+        <opt ans="t">城乡统筹</opt>
+        <opt ans="f">城市优先</opt>
+        <opt ans="f">农村优先</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>党和人民关系相统一决定了新闻舆论工作党性和人民性相统一。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《国务院办公厅关于印发降低社会保险费率综合方案的通知》规定，由【 】建立工作协调机制，统筹协调降低社保费率和社保费征收体制改革相关工作。</desc>
+        <opt ans="t">国务院</opt>
+        <opt ans="f">各省人民政府</opt>
+        <opt ans="f">国家税务总局</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>目前世界上最长的海底沉管隧道是: 【 】。出题:交通运输部</desc>
+        <opt ans="f">摩川隧道</opt>
+        <opt ans="f">川崎航道隧道</opt>
+        <opt ans="t">港珠澳大桥海底隧道</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>长江上第一座由中国自行设计和建造的双层式铁路、公路两用桥梁【 】在中国桥梁史和世界桥梁史上具有重要意义，是中国经济建设的重要成就、中国桥梁建设的重要里程碑，具有极大的经济意义、政治意义和战略意义，有“争气桥”之称。出题:交通运输部</desc>
+        <opt ans="f">九江长江大桥</opt>
+        <opt ans="t">南京长江大桥</opt>
+        <opt ans="f">武汉长江大桥</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>高速公路ETC是指【 】系统。出题:交通运输部</desc>
+        <opt ans="f">电子停车收费</opt>
+        <opt ans="t">电子不停车收费</opt>
+        <opt ans="f">电子收费</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>从咣咣响的绿皮车到世界上运营时速最高的“【 】”高铁列车，中国铁路不断提速,高铁网越织越密，中国高铁里程也已占世界高铁里程的2/3.出题:交通运输部</desc>
+        <opt ans="t">复兴号</opt>
+        <opt ans="f">和谐号</opt>
+        <opt ans="f">解放号</opt>
+        <opt ans="f">辽宁号</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>钱塘江大桥，又名钱江一桥，是杭州市的一座跨钱塘江双层桁架梁桥，由中国桥梁专家【 】主持设计，是中国自行设计、建造的第一座双层铁路公路两用桥。出题:交通运输部</desc>
+        <opt ans="f">贝聿铭</opt>
+        <opt ans="t">茅以升</opt>
+        <opt ans="f">林元培</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2008年5月，全长36公里的【 】建成通车，是当时世界上最长的跨海大桥。该桥建设条件复杂:台风多、潮差大、流速急、滩涂长、腐蚀作用严重、浅层气富集,完全由中国自行设计、建造和管理，是世界建桥史上的一项伟大创举,被誉为“不可能完成的奇迹”。出题:交通运输部</desc>
+        <opt ans="f">星海湾大桥</opt>
+        <opt ans="f">胶州湾大桥</opt>
+        <opt ans="t">杭州湾跨海大桥</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1954年10月1日，在国庆5周年阅兵式上，第一次出现了【】方队。</desc>
+        <opt ans="f">炮兵</opt>
+        <opt ans="f">骑兵</opt>
+        <opt ans="t">伞兵</opt>
+        <opt ans="f">特种兵</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2018年1月，中共中央、国务院印发的《关于全面深化新时代教师队伍建设改革的意见》指出，适当提高中小学中级、高级教师岗位比例，畅通教师职业发展通道。完善符合中小学特点的岗位管理制度，实现职称与教师聘用衔接。将中小学教师到乡村学校、薄弱学校任教【 】以上的经历作为申报高级教师职称和特级教师的必要条件。</desc>
+        <opt ans="t">1年</opt>
+        <opt ans="f">2年</opt>
+        <opt ans="f">3年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2009年，在国庆60周年阅兵式上，有一支神秘方队首次亮相，即【 】方队。这也是我国组建此兵种以来第一次向世人揭开神秘面纱。</desc>
+        <opt ans="t">特种兵</opt>
+        <opt ans="f">高射炮兵</opt>
+        <opt ans="f">航空兵</opt>
+        <opt ans="f">装甲兵</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1952年10月1日，在国庆3周年阅兵式上，高举“八一”军旗的【 】首次出现在徒步方队前面，军乐团高奏进行曲最后走过检阅台。</desc>
+        <opt ans="t">仪仗兵</opt>
+        <opt ans="f">民兵方队:</opt>
+        <opt ans="f">骑兵方队</opt>
+        <opt ans="f">坦克方队</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1959年10月1日，在国庆10周年阅兵式上,“【 】”检阅车也首次亮相国庆阅兵式。</desc>
+        <opt ans="f">解放牌</opt>
+        <opt ans="f">东风牌</opt>
+        <opt ans="t">红旗牌</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1950年10月1日，在国庆1周年阅兵式上，受阅部队首次拥有统一【 】。</desc>
+        <opt ans="f">徽章</opt>
+        <opt ans="f">肩章</opt>
+        <opt ans="t">军服</opt>
+        <opt ans="f">队形</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1953年10月1日，在国庆4周年阅兵式上, 【 】方队首次受阅。</desc>
+        <opt ans="f">仪仗兵</opt>
+        <opt ans="t">火箭炮兵</opt>
+        <opt ans="f">特种兵</opt>
+        <opt ans="f">骑兵</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>想一睹“东方金字塔”的风采，就应该买一张去【 】的车票。出题：人民日报全媒体新闻平台碰碰词儿工作室</desc>
+        <opt ans="t">宁夏银川</opt>
+        <opt ans="f">陕西西安</opt>
+        <opt ans="f">黑龙江哈尔滨</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以下地方戏曲中，【 】因为唱腔软糯细腻、神似汤圆而被称为“水磨调”。 出题：人民日报全媒体新闻平台碰碰词儿工作室</desc>
+        <opt ans="f">歌仔戏</opt>
+        <opt ans="f">越剧</opt>
+        <opt ans="t">昆曲</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>宋朝皇帝宋真宗曾因对一种瓷器亲睐有假而吧自己的年号赐给该瓷器的原产地，这种瓷器是【 】。出题：人民日报全媒体新闻平台碰碰词儿工作室</desc>
+        <opt ans="t">景德镇瓷器</opt>
+        <opt ans="f">珐琅瓷</opt>
+        <opt ans="f">邢窑瓷</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>农历三月三，【 】会为其民族山歌设立假期，期间举办山歌盛会。出题：人民日报全媒体新闻平台碰碰词儿工作室</desc>
+        <opt ans="t">广西壮族自治区</opt>
+        <opt ans="f">宁夏回族自治区</opt>
+        <opt ans="f">内蒙古自治区</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>秦始皇陵兵马俑常被称作是“世界第八大奇迹”，兵马俑本来的颜色是【 】。出题：人民日报全媒体新闻平台碰碰词儿工作室</desc>
+        <opt ans="t">彩色</opt>
+        <opt ans="f">土灰色</opt>
+        <opt ans="f">白色</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国佛教禅宗祖庭，被誉为“天下第一名刹”的是【 】。出题：人民日报全媒体新闻平台碰碰词儿工作室</desc>
+        <opt ans="f">白马寺</opt>
+        <opt ans="t">少林寺</opt>
+        <opt ans="f">法门寺</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“ 欲把西湖比西子，淡妆浓抹总相宜”，西湖是个盛产美景的地方，下列不属于“西湖十景”的是【 】。出题:人民日报全媒体新闻平台碰碰词儿工作室</desc>
+        <opt ans="f">南屏晚钟</opt>
+        <opt ans="f">曲院风荷</opt>
+        <opt ans="t">二泉映月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>宣纸在制浆时加入某种“神奇调料”，可使制浆均匀、出产更高，这种“调料”是【 】。出题:人民日报全媒体新闻平台碰碰词儿工作室</desc>
+        <opt ans="f">椰汁</opt>
+        <opt ans="t">杨桃藤汁</opt>
+        <opt ans="f">甘蔗汁</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>背诵古诗《早发白帝城》时，用【 】最能读出古音古味。出题:人民日报全媒体新闻平台碰碰词儿工作室</desc>
+        <opt ans="t">粤语</opt>
+        <opt ans="f">四川话</opt>
+        <opt ans="f">河南话</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1950年6月23日，全国政协一届二次全体会议通过了由张仃等人完成主体创意，集体设计的国徽图案。梁思成力荐清华大学建筑系的【 】制作国徽的立体浮雕模型，1950年国庆前夕，庄严美丽的国徽悬挂，上天安门城楼。（出题:北京市西城区军休办党委）</desc>
+        <opt ans="f">林徽因</opt>
+        <opt ans="t">高庄</opt>
+        <opt ans="f">张仃</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>莎士比亚著名的喜剧作品《威尼斯商人》描绘了鲍西娅的爱情、智慧与美德，同时借高利贷者【 】强索一磅肉的情节，展现他的贪婪、吝啬、狠毒。这个成功的人物形象因此列入世界文学名著的“四大吝啬鬼&quot;之中。出题:中央戏剧学院</desc>
+        <opt ans="t">夏洛克</opt>
+        <opt ans="f">阿巴贡</opt>
+        <opt ans="f">葛朗台</opt>
+        <opt ans="f">泼留希金</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>美国剧作家阿瑟.米勒创作的两幕剧【 】刻画了一个小人物悲剧性的一生。有三十余年推销经历的威利，一直被美国商业文化虚幻的光晕所笼罩，幻想通过商品推销得到名望以及并不现实的美好前景，最后却以自身的毁灭换取保险赔偿才能获得价值和尊严，该剧获得了包括普利策奖在内的三大奖项。</desc>
+        <opt ans="f">《萨勒姆的女巫》</opt>
+        <opt ans="t">《推销员之死》</opt>
+        <opt ans="f">《玻璃动物园》</opt>
+        <opt ans="f">《热铁皮屋顶上的猫》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>词作为一种音乐文学，是伴随着【 】而兴起的。出题:南开大学文学院</desc>
+        <opt ans="f">雅乐</opt>
+        <opt ans="f">清乐</opt>
+        <opt ans="t">燕乐</opt>
+        <opt ans="f">宫廷乐</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>堪称典范。其主要代表作品【 】，通过女主人公娜拉和丈夫海尔茂的家庭生活，揭露和批判了资产阶级婚姻及其伦理道德观念的虚伪性，当娜拉认识到自已的地位时，毫不犹豫地离家出走了。</desc>
+        <opt ans="f">《社会支柱》</opt>
+        <opt ans="t">《玩偶之家》</opt>
+        <opt ans="f">《群鬼》</opt>
+        <opt ans="f">《人民公敌》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>元杂剧中，女性形象是一道鲜艳夺目的风景,冲破封建礼教束缚、追求理想与幸福、平等而独立的尊严意识在瑰丽隽永的唱词中展现得淋漓尽致。下列元杂剧和剧中女性角色对应错误的是【 】。出题:中央戏剧学院</desc>
+        <opt ans="f">《西厢记》崔莺莺</opt>
+        <opt ans="f">《梧桐雨》杨玉环:</opt>
+        <opt ans="t">《汉宫秋》文成公主</opt>
+        <opt ans="f">《拜月亭》王瑞兰</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>鲁迅艺术学院是中国共产党于1938年在延安创办的一所培养文学艺术干部和文艺工作者的综合性艺术院校，【 】出席成立大会并题写了校名和校训。1940年改称鲁迅艺术文学院，简称“鲁艺”。出题:中央戏剧学院</desc>
+        <opt ans="f">周恩来</opt>
+        <opt ans="t">毛泽东</opt>
+        <opt ans="f">张闻天</opt>
+        <opt ans="f">徐特立</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“原来姹紫嫣红开遍，似这般都付与断井颓垣。良辰美景奈何天，赏心乐事谁家院?”这是古今评论家公认的名句，出自于明代剧作家汤显祖的名作【 】。出题:中央戏剧学院</desc>
+        <opt ans="t">《牡丹亭》</opt>
+        <opt ans="f">《紫钗记》</opt>
+        <opt ans="f">《汉宫秋》</opt>
+        <opt ans="f">《长生殿》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列文艺作品中，不属于抗日战争时期,创作的是【 】。出题:中央戏剧学院</desc>
+        <opt ans="f">秧歌剧《兄妹开荒》</opt>
+        <opt ans="f">歌剧《白毛女》</opt>
+        <opt ans="t">话剧《龙须沟》</opt>
+        <opt ans="f">话剧《抓壮丁》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国现代遗传学奠基人之一、国际遗传学家【 】建立了中国第一个遗传学专业、第一个遗传学研究所和第一个生命科学学院，为中国遗传学发展做出了巨大贡献。推荐:浙江学习平台  出题.中共宁波市委官传部中共宁波击委统</desc>
+        <opt ans="f">童第周</opt>
+        <opt ans="t">谈家桢</opt>
+        <opt ans="f">方液仙</opt>
+        <opt ans="f">董浩云</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1897年，中国人自办的第一家商办银行，也是上海最早开设的华资银行【 】在.上海成立。推荐:浙江学习平台 出题:中共宁波市委宣传部、中共宁波市委统战部</desc>
+        <opt ans="t">中国通商银行</opt>
+        <opt ans="f">四明银行</opt>
+        <opt ans="f">中国银行</opt>
+        <opt ans="f">浙江兴业银行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>唐代的参军戏在俳优表演的基础上兴起，通常为两个演员相互问答,以滑稽讽刺为主，在科白、动作之外还加进了歌唱及管弦伴奏。参军，即被讽刺的对象，比较愚笨迟钝，相当于后世戏曲中的净角;戏弄参军的叫苍鹘，比较伶俐机敏,相当于【 】角。出题:中央戏剧学院</desc>
+        <opt ans="f">生</opt>
+        <opt ans="f">旦</opt>
+        <opt ans="f">未</opt>
+        <opt ans="t">丑</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>第二次世界大战以后，西方戏剧界最有影响力的戏剧流派之一是“荒诞派戏剧”。它兴起于50年代，其哲学基础是存在主义，否认人类存在的意义，认为人与人根本无法沟通。荒诞派剧作中最具典型性之一的是贝克特的【 】。出题:中央戏剧学院</desc>
+        <opt ans="t">《等待戈多》</opt>
+        <opt ans="f">《阳台》</opt>
+        <opt ans="f">《秃头歌女》</opt>
+        <opt ans="f">《椅子》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>由曹禺创作，根据巴金的同名小说改编，以觉新、瑞珏、梅表姐、鸣凤为主角，描写了旧礼教对青春爱情的摧毁的话剧是【 】。出题:中央戏剧学院</desc>
+        <opt ans="f">《北京人》</opt>
+        <opt ans="f">《雷雨》</opt>
+        <opt ans="t">《家》</opt>
+        <opt ans="f">《龙须沟》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列关于中国戏曲的说法当中，错误的是【 】。出题:中央戏剧学院</desc>
+        <opt ans="f">中国传统戏曲美术中，化妆用的假须被称为髯口</opt>
+        <opt ans="t">检场是指负责提词的人</opt>
+        <opt ans="f">&quot;生旦净丑”是京剧的行当，其中净”是指花脸</opt>
+        <opt ans="f">戏曲表演中“四功”指的是唱、念、做、打</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>由曹禺创作，1938年首演，将表现主义与现实主义相结合，生动刻画了仇虎复仇的曲折故事，展现了农民从反抗到觉醒的心路历程的话剧是【 】。 出题:中央戏剧学院</desc>
+        <opt ans="f">《日出》</opt>
+        <opt ans="t">《原野》</opt>
+        <opt ans="f">《家》</opt>
+        <opt ans="f">《北京人》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1907年6月,“春柳社”公演了一部根据美国斯托夫人小说《汤姆叔叔的小屋》改编的大型剧目【 】,该剧被欧阳予倩称之为“可以看作中国话剧第一个创作的剧本”。出题:中央戏剧学院</desc>
+        <opt ans="f">《雷雨》</opt>
+        <opt ans="t">《黑奴吁天录》</opt>
+        <opt ans="f">《茶花女》</opt>
+        <opt ans="f">《迦茵小传》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>把信息的内容、数量、发布时间和频率，以及表现形式和互动设计作为产品设计重点的媒体是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">纸质媒介</opt>
+        <opt ans="t">社交网络媒介</opt>
+        <opt ans="f">广播媒介</opt>
+        <opt ans="f">印刷媒介</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在广播电视采访中，脱机采访更多地承担的是外围性信息的收集任务，而关键性信息的采访则交由【 】来完成。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">前期采访</opt>
+        <opt ans="f">后期采访</opt>
+        <opt ans="t">带机采访</opt>
+        <opt ans="f">外围采访</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在灾难新闻的现场采访中，面对刚刚失去亲人的采访对象，提问不宜涉及失去亲人的感受或对亲人的思念。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新闻产品的设计要针对具体的服务对象，因此，编辑方针首先要规定媒介的【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">广告客户</opt>
+        <opt ans="t">目标受众</opt>
+        <opt ans="f">控制者</opt>
+        <opt ans="f">竞争者</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>著作权自作品正式发表之日起产生。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新闻产品的整体结构、传播内容、传播方式和外在形象等所综合表现出的格调和特点，共同构成了媒体的【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">新闻传播的内容</opt>
+        <opt ans="t">风格特色</opt>
+        <opt ans="f">受众对象</opt>
+        <opt ans="f">传播的水准</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>构成电视新闻作品的三大要素不包括【 】。出题;新闻记者证核发办公室</desc>
+        <opt ans="f">同期声</opt>
+        <opt ans="f">画面</opt>
+        <opt ans="f">文字解说</opt>
+        <opt ans="t">音乐</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>只要是已经发表的报道均可转载，是否违反科学和生活常识，是否可信应由受众做出判断。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以下关于“六度分隔理论”的描述，错误的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">该理论是由日本学者提出的</opt>
+        <opt ans="f">该理论也被称为“六度空间理论”</opt>
+        <opt ans="f">该理论诠释了“小世界效应”</opt>
+        <opt ans="f">该理论表达了一个重要的概念:任何两个素不相识的人之间，通过一-定的联系方式，总能产生必然联系或关系</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>违反法律规定，滥用言论、出版自由，损害国家的、社会的、集体的利益或他人合法权益的，应当承担相应的法律责任。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以下关于“信息茧房”的说法，不正确的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">信息茧房是美国学者提出的概念</opt>
+        <opt ans="t">信息茧房是新媒体时代独有的现象</opt>
+        <opt ans="f">信息茧房效应会使用户越来越:失去对外界环境的全面感知</opt>
+        <opt ans="f">个性化的算法推送新闻可能带来信息茧房效应</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新闻单位根据国家机关依职权制作的公开的文书和实施的公开的职权行为所作的报道，其报道客观准确的，不应当认定为侵害他人名誉权。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新闻事业只能是以广大人民为服务对象，而不能以少数人、个别利益集团和特权阶层为服务对象。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列消息来源中，可信度最低的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">记者看到</opt>
+        <opt ans="f">外交部官微</opt>
+        <opt ans="t">一名中年男士</opt>
+        <opt ans="f">邻居张一元</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>1995年，我国第一家在国际互联网. 上发行的日报是【 】，由此拉开国内媒介大批上网的序幕。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">《中国贸易报》</opt>
+        <opt ans="f">《神州学人》</opt>
+        <opt ans="f">《杭州日报》</opt>
+        <opt ans="f">《浙江曰报》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家秘密知悉范围以外的人员，因工作需要知悉国家秘密的，向其告知保密内容与保密义务即可，无须经过机关、单位负责人批准。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>媒介定位所借鉴的“市场定位”理论来自于【 】学科。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">广告学</opt>
+        <opt ans="f">公共关系学</opt>
+        <opt ans="f">心理学</opt>
+        <opt ans="t">市场营销学</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在电视消息的一开头即出现画面、出现镜头，具有可视可感的效果。这是【 】的特点。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">概述型导语</opt>
+        <opt ans="t">描述型导语</opt>
+        <opt ans="f">说明型导语</opt>
+        <opt ans="f">评述型导语</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以讨论各种话题为主的BBS被称作【 】，它是利用网络手段开展的多对多交流方式，也是网络中最早的社交媒体。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">网络论坛</opt>
+        <opt ans="f">博客</opt>
+        <opt ans="f">微信</opt>
+        <opt ans="f">微博</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家秘密是关系国家安全和利益，依照法定程序确定，在一定时间内.只限一定范围的人员知悉的事项。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列提问属于开放式提问的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">“辞职是因为收入的原因吗?”</opt>
+        <opt ans="f">“你是辞职下海的，对吗?”</opt>
+        <opt ans="f">“你辞职是自发的还是被迫的?”</opt>
+        <opt ans="t">“是什么原因促使你辞职下海?”</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在电视新闻报道的拍摄中，一般用来表现新闻事件发生的环境的镜头景别是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">近景</opt>
+        <opt ans="f">中景</opt>
+        <opt ans="t">全景</opt>
+        <opt ans="f">特写</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对我国记者的角色定位，表述错误的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">党和人民的耳目喉舌</opt>
+        <opt ans="t">无冕之王</opt>
+        <opt ans="f">反映人民群众创造的业绩与呼声</opt>
+        <opt ans="f">舆论监督，捍卫公共利益</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>报刊单位与互联网媒体、互联网媒体之间相互转载已经发表的作品，可以不经著作权人许可。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>未经有关主管部门批准，携带、传递国家秘密载体出境，属于泄露国家秘密的行为【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>访问中，遇到采访对象答非所问，记者要进行话题引导。下列记者的引导，效果不佳的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">“你说的和我问的没有一点关系，你能不能回答....”</opt>
+        <opt ans="f">“你说的这些我也遇到过，确实令人生气，......</opt>
+        <opt ans="f">“你说的这些确实令人印象深刻，但是……”</opt>
+        <opt ans="f">“我理解你的感受，不过....”</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中华人民共和国境内新闻机构使用统一样式的新闻记者证。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>出版单位不得向任何单位或者个人出租本单位的名称、刊号。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于记者的受众意识，表述不正确的是【 】。</desc>
+        <opt ans="f">满足受众信息需求</opt>
+        <opt ans="t">迎合受众</opt>
+        <opt ans="f">对受众负责</opt>
+        <opt ans="f">关注、了解、研究受众</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新闻记者只要注册个人账号，无论其职务身份是否可被公众识别，都可以通过微博、博客等发布其在工作中获取的新闻信息。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于网络新闻管理的第一个法规是国务院新闻办公室和信息产业部于2000年11月6日颁布的。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">《互联网站从事登载新闻业务管理暂行规定》</opt>
+        <opt ans="f">《互联网新闻信息服务管理规定》</opt>
+        <opt ans="f">《互联网直播服务管理规定》</opt>
+        <opt ans="f">《互联网信息传播管理规定》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以下哪--项能解释网络新闻时间观的发展历史【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">定时一实时一及时一全时</opt>
+        <opt ans="f">及时一实时一定时一全时</opt>
+        <opt ans="f">及时一实时一全时一定时</opt>
+        <opt ans="t">定时一及时一实时一全时</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>报纸的新闻编辑最早主要是从事【 】编辑加工的。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">版面</opt>
+        <opt ans="f">图片</opt>
+        <opt ans="f">背景资料</opt>
+        <opt ans="t">文字稿件</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在电视画面拍摄当中，能够使观众无法看到画面中人物的面部表情,具有某种不确定性和一定悬念的拍摄角度是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">侧面方向</opt>
+        <opt ans="t">背面方向</opt>
+        <opt ans="f">仰角度</opt>
+        <opt ans="f">俯角度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新闻机构撤销，其原已申领的新闻记者证同时注销。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在选择采访对象时，不需要考虑的因素是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">与事件的相关度</opt>
+        <opt ans="f">身份的权威性</opt>
+        <opt ans="t">五官端正形象好</opt>
+        <opt ans="f">要规避利益冲突</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>大众媒介产品通常是以【 】结构出现的。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">树状</opt>
+        <opt ans="f">网状</opt>
+        <opt ans="f">球状</opt>
+        <opt ans="f">环状</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在影视作品的创作中，将多个镜头根据一定的规律和逻辑关系组接在一起，通过形象之间相辅相成的关系，产生连贯、对比、呼应、联想等效果，形成一个含义相对完整的表意整体。这指的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">同轴效应,</opt>
+        <opt ans="t">蒙太奇手法</opt>
+        <opt ans="f">轴线规律</opt>
+        <opt ans="f">前侧角度拍摄规律</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>记者采访要有一定的礼仪规范，以下礼仪不合适的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">浓妆艳抹</opt>
+        <opt ans="f">着装得体</opt>
+        <opt ans="f">仪表整洁</opt>
+        <opt ans="f">文明懂礼:</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2018年3月，根据《深化党和国家机构改革方案》，由中央电视台(中国国际电视台)、中央人民广播电台、中国国际广播电台三台整合组建新机构，该机构名为【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">中国广播电视台</opt>
+        <opt ans="f">中国广播电视总台</opt>
+        <opt ans="f">中央广播电视台</opt>
+        <opt ans="t">中央广播电视总台</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>报道新闻不夸大不缩小不歪曲事实，不摆布采访报道对象，禁止虚构或制造新闻。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列各项语句表达中，符合新闻语言要求的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">“现场响起山呼海啸般的掌声”</opt>
+        <opt ans="t">“刚刚，某某王储被废了”</opt>
+        <opt ans="f">“罪犯当庭表示上诉”</opt>
+        <opt ans="f">“群众一致表示赞同”</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以下关于技术发展对于新闻业的影响描述中，错误的是【 】。</desc>
+        <opt ans="f">信息技术对于新闻业的影响巨大</opt>
+        <opt ans="t">人工智能将取代记者</opt>
+        <opt ans="f">信息技术可以促使新闻生产效率的提升</opt>
+        <opt ans="f">新闻业对新技术的使用需要严谨的考量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>严禁在标题中使用“网曝”“网传”等不确定性词汇组织报道或者表述新闻基本要素。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中华人民共和国公民对于任何国家机关和国家工作人员，有提出【 】的权利。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">表扬和鼓励</opt>
+        <opt ans="f">侮辱和诽谤</opt>
+        <opt ans="f">监督和检查</opt>
+        <opt ans="t">批评和建议</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新闻记者因违法活动被吊销新闻记者证的，【 】不得重新申领新闻记者证，被追究刑事责任的，终身不得申领新闻记者证。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">5年内</opt>
+        <opt ans="f">3年内</opt>
+        <opt ans="f">2年内</opt>
+        <opt ans="f">8年内</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于新闻网站收集、使用个人信息，下列说法中正确的是【 】</desc>
+        <opt ans="t">应当遵循合法、正当、必要的原则</opt>
+        <opt ans="f">用户使用网站服务即同意其个人信息被收集，网站运营者不必专门征求用户同意</opt>
+        <opt ans="f">不必向用户明示收集、使用信息的目的、方式和范围</opt>
+        <opt ans="f">网站运营者可以将用户个人信息出售或向他人提供，不必经用户同意</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>确定新闻网站发现用户在评论区发布了法律、行政法规禁止发布的信息，应当采取的措施是【 】</desc>
+        <opt ans="f">联系该用户并要求其解释发布信息的理由</opt>
+        <opt ans="f">在新闻网站相应页面发布声明，指出该信息不代表该网站观点</opt>
+        <opt ans="f">在评论区发布新评论，质疑该用户发布信息的真实性</opt>
+        <opt ans="t">立即停止传输该信息，采取消除等处置措施，防止信息扩散，保存有关记录，并向有关主管部门报告</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>依照著作权法规定，下列各项中不受著作权法保护的是【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">时事新闻</opt>
+        <opt ans="f">《新闻学》教材</opt>
+        <opt ans="f">新闻评论</opt>
+        <opt ans="f">《新闻调查》栏目</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列行为中属于侵犯著作权的是【 】</desc>
+        <opt ans="f">某电视台为了报道油画展览的盛况，在电视新闻中播放了展览的油画</opt>
+        <opt ans="f">在未声明不许刊播的情况下，某教授在世纪论坛上的演讲词被电台全文报道</opt>
+        <opt ans="f">法院为了查证将记者发表的新闻作品复制了三份</opt>
+        <opt ans="t">某网站未经著作权人同意，将某报上蒙文发表的新闻作品翻译成汉文发布在网站上</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>确定关于大众媒体的保密责任，下列相关说法中错误的是【】</desc>
+        <opt ans="f">报刊、图书、音像制品、电子出版物的编辑、出版、印制、发行，应当遵守有关保密规定</opt>
+        <opt ans="f">广播节目、电视节目、电影的制作和播放，应当遵守有关保密规定</opt>
+        <opt ans="f">互联网、移动通信网等公共信息网络及其他传媒的信息编辑、发布，应当遵守有关保密规定</opt>
+        <opt ans="t">微信朋友圈不属于公开的信息网络，可以随意发布国家秘密</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新闻传播活动是群体活动，下列新闻作品属于合作作品的是【】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">新闻单位总编辑承担政治或事实方面责任的作品</opt>
+        <opt ans="f">经过责任编辑简单修改的作品</opt>
+        <opt ans="t">不同记者站的记者共同策划、采写完成的作品</opt>
+        <opt ans="f">不同记者对同一新闻事实创作的多篇作品</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列行为属于著作权法中的创作的是【】</desc>
+        <opt ans="f">为他人创作进行组织工作</opt>
+        <opt ans="f">为他人创作提供咨询意见</opt>
+        <opt ans="f">为他人创作提供物质条件</opt>
+        <opt ans="t">直接产生文学作品的智力活动</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新闻记者证每【 】统一换发一次。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">五年</opt>
+        <opt ans="f">三年</opt>
+        <opt ans="f">十年</opt>
+        <opt ans="f">一年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>负责统筹协调网络安全工作和相关监督管理工作的是【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">国家网信部门</opt>
+        <opt ans="f">国务院公安部门</opt>
+        <opt ans="f">国务院文化部门</opt>
+        <opt ans="f">最高人民检察院</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>确定关于广播电台、电视台播放他人作品，下列说法中正确的是【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">对于未发表的作品，应当取得著作权人许可；对于已发表的作品，应当取得著作权人许可</opt>
+        <opt ans="t">对于未发表的作品，应当取得著作权人许可；对于已发表的作品，可以不经著作权人许可</opt>
+        <opt ans="f">对于未发表的作品，可以不经著作权人许可；对于已发表的作品，应当取得著作权人许可</opt>
+        <opt ans="f">对于未发表的作品，可以不经著作权人许可；对于已发表的作品，可以不经著作权人许可</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>确定关于获取案件信息，下列做法中错误的是【 】</desc>
+        <opt ans="f">主动出示采访证件，表明采访意图，尊重司法机关的合理要求</opt>
+        <opt ans="f">在突发案件的现场采访要服从办案人员的指挥</opt>
+        <opt ans="f">对政策性强的敏感案件、社会关注度高的热点案件的采访报道，要保持适度克制，必要时应征求办案部门的意见</opt>
+        <opt ans="t">以“钓鱼”等引诱犯罪的方式进行采访，以假扮犯罪嫌疑人、窃取或泄露侦查秘密等涉嫌违法犯罪的方式揭露违法犯罪</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于媒体从业人员的证据意识，下列说法中错误的是【 】</desc>
+        <opt ans="f">收集和保存证据是加强自我保护的重要方面</opt>
+        <opt ans="f">应当保存采访对象提交的原始材料</opt>
+        <opt ans="t">在新闻报道引发的名誉权纠纷诉讼中，报道真伪性的举证责任由原告承担，因此记者不必收存证据</opt>
+        <opt ans="f">在法律法规允许的范围内，采访中可尽量使用录音、录像手段</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于刑事案件采访报道，下列做法中错误的是【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">超越刑事诉讼程序，进行预先定罪式的报道和评论</opt>
+        <opt ans="f">根据案件诉讼进程，及时、动态、连续跟进报道</opt>
+        <opt ans="f">针对案件事实就事论事</opt>
+        <opt ans="f">判决后，根据公开的裁判文书进行报道和评论，尊重司法权威</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>确定关于刑事案件的新闻报道，下列说法中错误的是【 】</desc>
+        <opt ans="f">媒体在案件宣判前对其进行报道时，应加上“被指控”“涉嫌”等</opt>
+        <opt ans="t">媒体对正在审理的案件可以发表评论，而且评论的内容和范围不受任何限制，包括可以评论法官本人</opt>
+        <opt ans="f">媒体可以对公开审理的刑事案件做全程报道</opt>
+        <opt ans="f">一审判决后刑事案件被告人提出上诉或检察院提出抗诉期间，媒体应该谨慎报道一审的判决结果，注意措辞，以免公众误认为这是最后判决结果</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>进行图片报道时，关于尊重被拍摄者的人格，下列说法中正确的是【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">未经被拍摄者允许，对处于私人场所的个人进行拍摄</opt>
+        <opt ans="f">未经被拍摄者允许，刊发处于私人场所的个人私生活照片</opt>
+        <opt ans="t">拍摄遭遇灾难或不幸的人及犯罪受害者时，保持同情与谨慎</opt>
+        <opt ans="f">随意发表犯罪嫌疑人的照片</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在进行绑架事件报道时，下列做法中错误的是【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">不泄露警方部署</opt>
+        <opt ans="f">非经警方允许不进入劫持事件现场，不进行现场同步报道</opt>
+        <opt ans="t">自告奋勇与劫持者展开面对面谈判</opt>
+        <opt ans="f">在确保人质安全、不妨害警方部署、不传播恐慌情绪的前提下，满足公众的知情权</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>著作权权利人要求删除其认为侵权的内容，向网络服务提供者提交的书面通知不必包含【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">权利人的姓名（名称）、联系方式和地址</opt>
+        <opt ans="f">要求删除或者断开链接的侵权作品、表演、录音录像制品的名称和网络地址</opt>
+        <opt ans="f">构成侵权的初步证明材料</opt>
+        <opt ans="t">侵权人的姓名（名称）、联系方式和地址</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>确定在进行财经报道时，下列做法中错误的是【 】</desc>
+        <opt ans="f">新闻工作者不应谋取和获得任何同报道对象有关的个人利益</opt>
+        <opt ans="f">坚持财经信息传播的真实、准确、全面、客观，尊重公众的公共经济权利，也尊重经济活动中各方当事人的合法权益</opt>
+        <opt ans="f">严格遵守财经报道的法律规范，不得违反证券期货市场“公开、公平、公正”的信息披露原则</opt>
+        <opt ans="t">编造并传播有关证券期货交易的虚假信息，泄露内幕信息</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>保障公民使用网络的权利，就是保护用户上传的一切言论均不受阻碍和侵犯。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家加强国家安全新闻宣传和舆论引导，增强全民国家安全意识。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家安全是指国家政权、主权、统一和领土完整、人民福祉、经济社会可持续发展和国家其他重大利益相对处于没有危险和不受内外威胁的状态，以及保障持续安全状态的能力。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>借新闻单位或新闻工作者名义，向被报道对象敲诈勒索财物，数额较大或多次敲诈勒索的，构成敲诈勒索罪。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在刑事案件的新闻报道中，可以对肉体痛苦进行详细描写，使用刺激性较强的血腥、暴力、恐怖的画面和语言。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新闻材料提供者对新闻作品作出重要贡献，应作为合作作者分享新闻作品的著作权。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>职务作品的著作权完全由法人或非法人组织享有。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国媒体最早的“互动”是【 】与互联网共同进行的新闻传播活动。出题:新闻记者证核发办公室</desc>
+        <opt ans="t">报纸</opt>
+        <opt ans="f">广播</opt>
+        <opt ans="f">电视</opt>
+        <opt ans="f">网络</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>每张报纸、每本期刊都是一件完整的汇编作品，整体著作权归报刊社所有。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以下关于我国新闻舆论监督的说法，错误的是【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">新闻舆论监督必须在中国共产党领导下开展和进行</opt>
+        <opt ans="f">新闻媒体应当对典型案例进行剖析，发挥警示作用</opt>
+        <opt ans="f">新闻媒体应当坚持党性和人民性相统一，坚持正确导向</opt>
+        <opt ans="t">对于群众提供的舆论监督线索，应当立即全部刊播</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列不属于评估消息来源可信度指标的是【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">消息来源提供信息的意愿和能力</opt>
+        <opt ans="f">消息来源接近真实信息的距离</opt>
+        <opt ans="t">消息来源是否要求收取采访费用</opt>
+        <opt ans="f">消息来源提供的信息的精细程度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>应当承担民事责任的侵犯著作权行为不包括【 】</desc>
+        <opt ans="f">未经著作权人许可，发表其作品</opt>
+        <opt ans="f">没有参加创作，为谋取个人名利，在他人作品上署名</opt>
+        <opt ans="t">未声明禁止转载的情况下，未经著作权人许可，报刊间转载并支付报酬</opt>
+        <opt ans="f">未经合作作者许可，将与他人合作创作的作品当作自己单独创作的作品发表</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在进行健康领域报道时，下列做法中错误的是【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="t">涉及自杀的报道，不顾及对社会不良的示范效应</opt>
+        <opt ans="f">对某些疾患的报道，避免对病人的污名化效果</opt>
+        <opt ans="f">描绘或展示病体及疾患，避免刺激受众的感官</opt>
+        <opt ans="f">疾病与医疗领域报道，格外尊重病患者的隐私权</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>媒体刊登或播放学术活动上发表的学术演讲，属于合理使用，不需征得演讲者的同意。【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>记者对于当场无法拒绝的礼物，下列事后处理方式中不当的是【 】。</desc>
+        <opt ans="f">出题:新闻记者证核发办公室</opt>
+        <opt ans="t">退还给报道对象</opt>
+        <opt ans="f">以自己的名义卖给慈善机构</opt>
+        <opt ans="f">交由所在单位处理</opt>
+        <opt ans="f">自己出钱购买</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>以下关于“算法”的表述，正确的是【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">算法一经推出就无法更改</opt>
+        <opt ans="f">算法是机器自主设计的，与人类无关</opt>
+        <opt ans="f">要完成某个特定的任务只能通过一种算法来实现</opt>
+        <opt ans="t">算法歧视现象说明算法也可能存在缺陷，需要改进和完善</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在对媒介市场进行分析的基础上，确定媒介产品的服务对象，这些举措指的是新闻媒介的【 】</desc>
+        <opt ans="t">受众定位</opt>
+        <opt ans="f">功能定位</opt>
+        <opt ans="f">市场定位</opt>
+        <opt ans="f">广告定位</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>广播电视中围绕同一新闻主题从不同侧面、不同角度所作的多次、成组的报道指的是【 】出题:新闻记者证核发办公室</desc>
+        <opt ans="f">连续报道</opt>
+        <opt ans="t">系列报道</opt>
+        <opt ans="f">发散式报道</opt>
+        <opt ans="f">现场报道</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年9月3日，习近平总书记在二十国集团工商峰会开幕式上的主旨演讲指出，共同构建绿色低碳的全球能源治理格局，推动全球绿色发展合作;共同构建包容联动的全球发展治理格局，以落实联合国【 】可持续发展议程为目标，共同增进全人类福祉!</desc>
+        <opt ans="f">2020年</opt>
+        <opt ans="t">2030年</opt>
+        <opt ans="f">2035年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>关于新闻事实，表述不正确的是【 】</desc>
+        <opt ans="f">新闻事实是事实的一种</opt>
+        <opt ans="f">新闻事实是新近(或正在)发生、发现的事实</opt>
+        <opt ans="f">新闻事实是合乎新闻传播要求的事实</opt>
+        <opt ans="t">新闻事实是有戏剧性的事实</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“山重水复疑无路，柳暗花明又一村”是宋代诗人【 】的诗句。出题:南开大学文学院</desc>
+        <opt ans="f">苏轼</opt>
+        <opt ans="t">陆游</opt>
+        <opt ans="f">杨万里</opt>
+        <opt ans="f">范成大</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当摄像机逐渐远离被摄主体，或变动镜头焦距，使画框由近而远，与主体脱离的-种拍摄方法被称为【 】。出题:新闻记者证核发办公室</desc>
+        <opt ans="f">推镜头</opt>
+        <opt ans="t">拉镜头</opt>
+        <opt ans="f">摇镜头</opt>
+        <opt ans="f">移动镜头</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《国务院关 于推行终身职业技能培训制度的意见》第十三条提出，支持劳动者凭【 】提升待遇，建立健全技能人才培养、评价、使用、待遇相统一的激励机制。出题:人力资源和社会保障部</desc>
+        <opt ans="f">经验</opt>
+        <opt ans="t">技能</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>长时间暴露于寒冷环境或淹溺于冷水之中容易患上低温症，可能会出现头晕、恶心、呼吸困难、失去意识等症状。下列关于应对低温症的做法错误的是【 】。</desc>
+        <opt ans="f">如果有人出现低温症的症状，应立即拨打120，用衣服帮患者取暖</opt>
+        <opt ans="f">如果患者身上有湿衣服，应轻柔地帮患者脱掉或剪掉</opt>
+        <opt ans="t">如果患者手脚冰凉，可用热水袋给患者的四肢加热</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《事业单位人事管理条例》第二十条规定，事业单位应当根据聘用合同规定的岗位职责任务，全面考核工作人员的表现,重点考核【 】。出题:人力资源和社会保障部</desc>
+        <opt ans="f">道德品质</opt>
+        <opt ans="f">工作态度</opt>
+        <opt ans="t">工作绩效</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《国务院关于推行终身职业技能培训制度的意见》第十一条提出，健全以职业能力为导向、以工作业绩为重点注重工匠精神培育和职业道德养成【 】体系。出题:人力资源和社会保障部</desc>
+        <opt ans="f">职业技能竞赛</opt>
+        <opt ans="f">职业技能等级</opt>
+        <opt ans="t">技能人才评价</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>东汉末年“官渡之战”的“官渡”位于今【 】省。出题:央视《中国地名大会》节目组</desc>
+        <opt ans="t">河南</opt>
+        <opt ans="f">河北</opt>
+        <opt ans="f">山西</opt>
+        <opt ans="f">陕西.</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《 中华人民共和国社会保险法》第十四条规定，养老保险个人账户不得提前支取，记账利率不得低于银行定期存款利率，免征利息税。个人死亡的，个人账户余额【 】。出题:人力资源和社会保障部</desc>
+        <opt ans="f">纳入养老保险基金</opt>
+        <opt ans="t">可以继承</opt>
+        <opt ans="f">自动归零</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>宋代晏殊的《浣溪沙.--曲新词酒-杯》，,“无可奈何花落去”的下一句是【 】出题:南开大学文学院</desc>
+        <opt ans="t">似曾相识燕归来</opt>
+        <opt ans="f">门前流水尚能西</opt>
+        <opt ans="f">落梅横笛已三更</opt>
+        <opt ans="f">无边丝雨细如愁</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《工伤保险条例》第十九条规定，职工或者其近亲属认为是工伤，用人单位不认为是工伤的，由【 】承担举证责任。</desc>
+        <opt ans="f">职工或者其直系亲属</opt>
+        <opt ans="f">劳动保障部门</opt>
+        <opt ans="t">用人单位</opt>
+        <opt ans="f">医疗机构</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“两情若是久长时，又岂在朝朝暮暮&quot;是宋代词人秦观的佳句,请问这首词是针对哪个传统节日而作?【 】</desc>
+        <opt ans="f">元宵节</opt>
+        <opt ans="t">七夕节</opt>
+        <opt ans="f">中秋节</opt>
+        <opt ans="f">重阳节</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>每年春运，机场、车站等公共交通枢纽都会迎来大规模客流，这时应格外注意防止随身物品丢失，以下做法错误的是【 】。出题.国家应急广播</desc>
+        <opt ans="f">将背包背在身上或将背带跨过手腕，确保包不离身</opt>
+        <opt ans="f">如果必须将包放在地上，可以用脚穿过背带</opt>
+        <opt ans="t">在候车厅看手机或睡觉时，可把背包搁在身旁</opt>
+        <opt ans="f">购物付款时不要将背包随手放在支付柜台上</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中国对外援助从帮助周边友好国家开始起步。1950年，中国开始向【 】两国提供物资援助，从此开启了中国对外援助的序幕。出题:国家国际发展合作署</desc>
+        <opt ans="f">坦桑尼亚和赞比亚</opt>
+        <opt ans="t">朝鲜和越南</opt>
+        <opt ans="f">斐济和马尔代夫</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国面积最大的淡水湖鄱阳湖位于【 】省。出题:央视《中国地名大会》节目</desc>
+        <opt ans="f">江苏.</opt>
+        <opt ans="f">浙江</opt>
+        <opt ans="f">安徽</opt>
+        <opt ans="t">江西.</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国社会保险法》第五十二条规定，职工跨统筹地区就业的，其失业保险关系随本人转移，缴费年限【 】。出题:人力资源和社会保障部</desc>
+        <opt ans="f">中止计算</opt>
+        <opt ans="f">分段计算</opt>
+        <opt ans="t">累计计算</opt>
+        <opt ans="f">重新计算</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《黄鹤楼送孟浩然之广陵》中的&quot;广陵”指今江苏省【 】市。出题:央视《中国地名大会》节目组</desc>
+        <opt ans="t">扬州</opt>
+        <opt ans="f">南京</opt>
+        <opt ans="f">无锡</opt>
+        <opt ans="f">常州</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>儿童乘扶梯时，家长应认真看护。下列说法错误的是【 】。出题:国家应急广播</desc>
+        <opt ans="f">孩子和成人应站在同一梯级,或让站在成人的前一级梯级</opt>
+        <opt ans="t">如果孩子太小，站立不稳，家长应一手抱着孩子,一手握紧扶手</opt>
+        <opt ans="f">家长应提醒儿童不要跑上跑下、逆行、攀爬、倚靠扶梯</opt>
+        <opt ans="f">家长应提醒儿童不要随便触碰红色紧急制动按钮</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国社会保险法》第十二条第一款规定， 用人单位应当按照国家规定的本单位【 】的比例缴纳基本养老保险费，记入基本养老保险统筹基金。</desc>
+        <opt ans="f">缴费职工工资总额</opt>
+        <opt ans="f">营业额总额</opt>
+        <opt ans="f">所有收入总额</opt>
+        <opt ans="t">职工工资总额</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>世界文化遗产“平遥古城”位于【 】省。出题:央视《中国地名大会》节目组</desc>
+        <opt ans="f">陕西</opt>
+        <opt ans="f">安徽</opt>
+        <opt ans="t">山西</opt>
+        <opt ans="f">甘肃</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“水光潋艳晴方好，山色空蒙雨亦奇”指的是何处名胜?【 】出题:南开大学文学院</desc>
+        <opt ans="t">西湖</opt>
+        <opt ans="f">洞庭湖</opt>
+        <opt ans="f">庐山</opt>
+        <opt ans="f">泰山</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>山区道路行车风险大，应格外注意安全。下列说法错误的是【 】。</desc>
+        <opt ans="f">遇到危险路段应停车察看清楚，在确保安全的前提下慢速通过</opt>
+        <opt ans="t">会车时，临崖一侧的车辆视野较开阔，应让靠山一侧车辆先行</opt>
+        <opt ans="f">驾车时不要探视悬崖、深涧等,防止产生眩晕或紧张感</opt>
+        <opt ans="f">山路行驶切忌空档滑行，手动挡车辆不要在转弯过程中换档</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国社会保险法》第九条规定，【 】依法维护职工的合法权益,有权参.与社会保险重大事项的研究，参加社会保险监督委员会，对与职工社会保险权益有关的事项进行监督。出题:人力资源和</desc>
+        <opt ans="f">行政部门</opt>
+        <opt ans="f">人事部门</opt>
+        <opt ans="t">工会</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国著名的石拱桥赵州桥位于【 】省。 出题:央视《中国地名大会》节目组</desc>
+        <opt ans="f">山东</opt>
+        <opt ans="f">山西</opt>
+        <opt ans="t">河北</opt>
+        <opt ans="f">河南</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在高速路上驾驶需要司机保持高度专注，并根据路况及时采取安全预防措施。下列行为错误的是【 】。</desc>
+        <opt ans="f">从匝道进入高速公路时严禁超车掉头、停车和倒车</opt>
+        <opt ans="f">和前车保持必要的安全距离</opt>
+        <opt ans="f">不要在汽车中控台，上放 置挂件和饰品</opt>
+        <opt ans="t">遇到障碍物时应猛打方向盘，以绕过障碍物</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列关于火山喷发的避难方法和注意事项，说法错误的是【 】。</desc>
+        <opt ans="f">在登山前，应自行调查自己准备攀登的火山是否有火山活动</opt>
+        <opt ans="f">当在登山过程中遭遇火山喷发时，可以躲在大岩石的凹陷处、山间小屋或是避难棚</opt>
+        <opt ans="f">火山喷发时若发现附近无处可躲应立即用背包遮挡并保护好头部</opt>
+        <opt ans="t">处于长期未见活动的火山是不存在突然喷发危险的</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当代著名水利工程“红旗渠”位于【 】省。出题:央视《中国地名大会》节目组</desc>
+        <opt ans="f">河北</opt>
+        <opt ans="t">河南</opt>
+        <opt ans="f">山西</opt>
+        <opt ans="f">甘肃</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“朝辞白帝彩云间”中提到的白帝城位【 】市奉节县。出题:央视《中国地名大会》节目组</desc>
+        <opt ans="f">南京</opt>
+        <opt ans="f">成都.</opt>
+        <opt ans="f">洛阳</opt>
+        <opt ans="t">重庆</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据《人力资源社会保障部关于支持和鼓励事业单位专业技术人员创新创业的指导意见》，应当依法为离岗创业人员缴纳工伤保险费用的是【 】。 出题:人力资源和社会保障部</desc>
+        <opt ans="f">离岗单位</opt>
+        <opt ans="t">创业企业或所工作企业</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>文房四宝中徽墨、歙(she)砚的主产地歙县在【 】省。 出题:央视《中国地名大会》节目组</desc>
+        <opt ans="f">浙江</opt>
+        <opt ans="f">河南</opt>
+        <opt ans="t">安徽</opt>
+        <opt ans="f">广东</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>发生燃气泄漏事故时，下列做法中错误的是【 】。 出题:国家应急广播</desc>
+        <opt ans="f">立即关闭燃气阀门，阻断气源</opt>
+        <opt ans="f">迅速打开门窗通风换气</opt>
+        <opt ans="t">在燃气泄漏现场打电话报警</opt>
+        <opt ans="f">尽快离开泄漏现场</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>螨虫易在高温潮湿的环境中繁殖，是可以用肉眼识别的。这种说法是【 】。出题:国家应急广播</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国社会保险法》第三十五条规定，用人单位应当按照【 】,根据社会保险经办机构确定的费率缴纳工伤保险费。出题:人力资源和社会保障部</desc>
+        <opt ans="f">城镇居民人均可支配收入</opt>
+        <opt ans="t">本单位职工工资总额</opt>
+        <opt ans="f">本单位职工人均工资</opt>
+        <opt ans="f">当地职工平均工资</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国社会保险法》 第十一条第一 款规定，基本养老保险实行社会统筹与【 】相结合。</desc>
+        <opt ans="t">个人账户.</opt>
+        <opt ans="f">家庭账尸</opt>
+        <opt ans="f">政府补贴</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>使用冰箱冷冻室要注意，【 】不能 放进冰箱冷冻室，否则可能发生爆裂事故，存在一定安全隐患。出题:国家应急广播</desc>
+        <opt ans="t">易拉罐装的碳酸饮料</opt>
+        <opt ans="f">矿泉水</opt>
+        <opt ans="f">核桃.</opt>
+        <opt ans="f">苹果</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年1月18日，习近平总书记在省部级主要领导干部学习贯彻党的十八届五中全会精神专题研讨班上的讲话强调,在对待自然问题上, 【 】深刻指出:&quot;我们不要过分陶醉于我们人类对自然界的胜利。对于每一次这样的胜利，自然界都对我们进行报复。每次胜利，起初确实取得了我们预期的结果，但是往后和再往后却发生完全不同的、出乎预料的影响，常常把最初的结果又消除了。”</desc>
+        <opt ans="f">马克思</opt>
+        <opt ans="t">恩格斯</opt>
+        <opt ans="f">列宁</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2016年1月18日，习近平总书记在省部级主要领导干部学习贯彻党的十八届五中全会精神专题研讨班上的讲话指出, 【 】实质就是坚持以人民为中心的发展思想，体现的是逐步实现共同富裕的要求。共同富裕，是马克思主义的一个基本目标，也是自古以来我国人民的一个基本理想。</desc>
+        <opt ans="f">创新理念</opt>
+        <opt ans="f">开放理分</opt>
+        <opt ans="t">共享理念</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>毛泽东诗词&quot;雄关漫道真如铁，而今迈步从头越”中的&quot;雄关&apos;是指【 】。 出题:决视《中国地名大会》节目组</desc>
+        <opt ans="f">山海关</opt>
+        <opt ans="t">娄山关</opt>
+        <opt ans="f">嘉峪关</opt>
+        <opt ans="f">居庸关.</opt>
+    </qstn>
 </library>

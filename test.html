@@ -126,11 +126,11 @@
 	</div>
 	<div id = "qstnGo" style = "display : none;">
 		<p>
-				跳转至：<input type = "text" id = "goTo" maxlength = "5" style = "width : 30%"></input>
+				跳转至：<input type = "text" id = "goTo" maxlength = "5" style = "width : 30%" onfocus = "this.select()"></input>
 				<button type = "button" onclick = "goToQstn()">前往</button>
 		</p>
 		<p>
-			关键字查找（10字符以内）：<input type = "text" id = "search" maxlength = "10" style = "width : 75%"></input>
+			关键字查找（10字符以内）：<input type = "text" id = "search" maxlength = "10" style = "width : 75%" onfocus = "this.select()"></input>
 		</p>
 		<p>
 			<button type = "button" onclick = "searchQstn()">查找</button>
