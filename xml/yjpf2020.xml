@@ -1,0 +1,3218 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <key>QuickQuiz</key>
+    <title>全国应急管理普法竞赛</title>
+    <qstn type="m-choise" cust="0">
+        <desc>（）周岁以上的自然入为成年人。</desc>
+        <opt ans="f">十六</opt>
+        <opt ans="t">十八</opt>
+        <opt ans="f">二十</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》，燃放烟花爆竹，应当按照燃放说明燃放，不得以危害（）和人身、财产安全的方式燃放烟花爆竹。</desc>
+        <opt ans="f">生态环境</opt>
+        <opt ans="f">公共利益</opt>
+        <opt ans="t">社会安全</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>甲省乙市丙县发生一起非法生产爆竹爆炸事故，造成5人死亡，10人受伤，直接经济损失200万元。根据《生产安全事故拫告和调查处理条例》，该事故调查应当由（）负责调查。</desc>
+        <opt ans="f">甲省人民政府</opt>
+        <opt ans="t">乙市人民政府</opt>
+        <opt ans="f">丙县人民政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政处罚法》，违法行为在（）年内未被发现的，不再给予行政处罚。</desc>
+        <opt ans="t">2</opt>
+        <opt ans="f">3</opt>
+        <opt ans="f">5</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我国制定《防震减灾法》是为了（）地震灾害，保护人民生命和财产安全，促进经济社会的可持续发展。</desc>
+        <opt ans="t">防御和减轻</opt>
+        <opt ans="f">杜绝</opt>
+        <opt ans="f">预报</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>父母对子女负有抚养、教育和保护的义务。子女对父母负有赡养、扶助和保护的义务。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，机关、团体、企业、事业等单位应当对建筑消防设施()至少进行一次全面检测，确保完好有效，检测记录应当完整准确，存档备查。</desc>
+        <opt ans="t">每年</opt>
+        <opt ans="f">每季度</opt>
+        <opt ans="f">每月</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产、储存、使用、经营、运输危险化学品的单位的主要负责人对本单位的危险化学品安全管理工作全面负责。{)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，安全生产监督管理部门和负有安全生产监督管理职责的有关部门逐级上报事故情况，每级上报的时间不得超过（）小时。</desc>
+        <opt ans="t">2</opt>
+        <opt ans="f">5</opt>
+        <opt ans="f">8</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>重大责任事故罪的犯罪主体包括对生产、作业负有组织、指挥或者管理职责的负责人、管理人员、实际控制人、投资人等人员，以及直接从事生产、作业的人员。（&gt;</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>建设工程的消防设计、施工必须符合国家工程建设消防技术标准。（)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某市应急管理局执法人员在检查中发现某企业违法经营危险物品，遂作出予以扣押的执法处理决定。关于扣押应遵守的程序.下列说法正确的有（）。（不定项}</desc>
+        <opt ans="f">由一名应急管理局行政执法人员实施扣押</opt>
+        <opt ans="t">当场告知企业负责人实施扣押的理由</opt>
+        <opt ans="f">拒绝听取企业负责人作出陈述</opt>
+        <opt ans="t">制作现场检查笔录</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，甲省乙市人民政府制定生产安全事故应急救援预案的依据包括（）。（不定项）</desc>
+        <opt ans="t">国务院制定的行政法规</opt>
+        <opt ans="t">应急管理部制定的标准</opt>
+        <opt ans="t">甲省政府制定的规章</opt>
+        <opt ans="t">甲省人大常委会颁布的地方法规</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>单位的主要负责人是本单位的消防安全责任人。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，生产经营单位进行爆破作业的，应当安排（）进行现场安全管理，确保操作规程的遵守和安全措施的落实。</desc>
+        <opt ans="f">安全管理人员</opt>
+        <opt ans="f">负责人</opt>
+        <opt ans="t">专门人员</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>建设项目的安全设施必须与主体工程同时设计、同时施工、同时投入生产和使用。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，任何公民，非经人民检察院批准或者决定，或者人民法院决定，并由（）执行，不受逮捕。</desc>
+        <opt ans="t">公安机关</opt>
+        <opt ans="f">人民检察院</opt>
+        <opt ans="f">人民法院</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>地震局开展地震烈度、发震构造、地震宏观异常现象、工程结构震害特征、地震社会影响和各种地霖地质灾害调查等。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>习近平总书记在党的十九大报告中指出，“要树立安全发展理念，弘扬生命至上、（）的思想，健全公共安全体系，完善安全生产责任制，坚决遏制重特大安全事故，提升防灾减灾救灾能力”。</desc>
+        <opt ans="f">财产第一</opt>
+        <opt ans="t">安全第一</opt>
+        <opt ans="f">效率第一</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国家机关对建筑消防设施每2年至少进行一次全面检测，确保完好有效。（)</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，下列情形属于较大生产安全事故的有（）。（多选题）</desc>
+        <opt ans="t">某化工企业发生的造成15人重伤的事故</opt>
+        <opt ans="f">某煤矿发生的造成10人死亡的事故</opt>
+        <opt ans="t">某日化公司发生的造成3人死亡的事故</opt>
+        <opt ans="t">某农药公司发生的造成10人急性工业中毒的事故</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，村民委员会、居民委员会应当确定（），组织制定防火安全公约，进行防火安全检查。</desc>
+        <opt ans="f">消防救援机构</opt>
+        <opt ans="f">治安联络员</opt>
+        <opt ans="t">消防安全管理人</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，安全生产管理人员的任免应当告知主管的负有安全生产监督管理职责的部门的生产经营单位有（）。（多选题）</desc>
+        <opt ans="t">危险物品的生产</opt>
+        <opt ans="t">危险物品的储存单位</opt>
+        <opt ans="t">矿山企业</opt>
+        <opt ans="t">金属冶炼单位</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国务院应急管理部领导全国的消防工作。{)</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某研究机构的研究员王某主要从事地震的成因、活动趋势等科学研究工作.最近其所在团队得出川滇地区中长期地震活动趋势的研究成果，王某本人也因成果丰硕受邀参加该地区地靥预报意见的评审。根据《防震减灾法》，王某的下列行为符合法律规定的有（）。（多选题）</desc>
+        <opt ans="t">公开发表地震活动研究成果</opt>
+        <opt ans="t">参加国际地震大会交流研究成果</opt>
+        <opt ans="f">向社会散布地震预测意见</opt>
+        <opt ans="t">向地震部门提交研究成果</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，（）指导、协调本级人民政府其他负有安全生产监督管理职责的部门和下级人民政府的生产安全事故应急工作。</desc>
+        <opt ans="f">县级以上地方人民政府</opt>
+        <opt ans="f">应急管理部</opt>
+        <opt ans="t">县级以上人民政府应急管理部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，应急救援人员经（）合格后，方可参加应急救援工作。</desc>
+        <opt ans="f">演练</opt>
+        <opt ans="t">培训</opt>
+        <opt ans="f">教育</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>地方各级党委和政府（）是本地区安全生产第一责任入，班子其他成员对分管范围内的安全生产工作负领导责任。</desc>
+        <opt ans="t">主要负责人</opt>
+        <opt ans="f">负责人</opt>
+        <opt ans="f">直接负责人</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>从事烟花爆竹生产危险工序的作业人员经设区的市人民政府应急管理部门考核合格，方可上岗作业。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《民法典》规定，向人民法院请求保护民事权利的诉讼时效期间为二年。</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某市防震减灾规划因震情形势变化和经济社会发展确需修改的，应当按照（）报送审批。</desc>
+        <opt ans="t">原审批程序</opt>
+        <opt ans="f">简易程序</opt>
+        <opt ans="f">备案程序</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>安全生产许可证颁发管理机关应当定期向社会公布企业取得安全生产许可证的情況。（)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>行政机关实施行政许可.可以向申请人提出购买指定商品、接受有偿服务等要求。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，国家监察委员会领导地方各级监察委员会的工作，上级监察委员会（）下级监察委员会的工作。</desc>
+        <opt ans="f">支持</opt>
+        <opt ans="f">指导</opt>
+        <opt ans="t">领导</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，消防队接到火警后，应当（）。（多选题}</desc>
+        <opt ans="t">立即赶赴火灾现场</opt>
+        <opt ans="t">救助遇险人员</opt>
+        <opt ans="t">排除险情</opt>
+        <opt ans="t">扑灭火灾</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，国家通过各种途径，创造劳动就业条件，加强（改善劳动条件，并在发展生产的基础上，提高劳动报酬和福利待遇。</desc>
+        <opt ans="f">监督管理</opt>
+        <opt ans="f">劳动纪律</opt>
+        <opt ans="t">劳动保护</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>尚未制定法律、行政法规的，对违反安全生产管理秩序的行为.应急管理部可以制定规章设定警告或者一定数量罚款的行政处罚。（}</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《生产安全事故报告和调查处理条例》规定，事故发生单位主要负责人受到刑事处罚或者撤职处分的，自刑罚执行完毕或者受处分之曰起（）年内不得担任任何生产经营单位的主要负责人。</desc>
+        <opt ans="t">5</opt>
+        <opt ans="f">3</opt>
+        <opt ans="f">1</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>应急管理局可以将行政强制措施委托依法成立的管理公共事务的事业组织行使。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>在同一化工园区内的甲乙丙三家危险化学品生产企业可以联合建立应急救援队伍。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>存在多种类型事故风险的生产经营单位，应当单独编制相应的专项应急预案。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《煤矿安全监察条例》，国家对（）实行篮察制度。</desc>
+        <opt ans="t">煤矿安全</opt>
+        <opt ans="f">危化品安全</opt>
+        <opt ans="f">交通安全</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>安全生产监督管理部门依法对本行政区域内安全生产工作实施综合监督管理I所以安全生产监督簀理是安全生产监督管理部门的职责，与其他部门没有关系。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>突发事件发生后，发生地县级人民政府应当组织开展应急救援和处置工作，并立即向上一级人民政府报告，不得越级上报。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产安全事故中，直接从事生产、作业的人员违反安全管理规定，发生重大生产安全事故的，要综合考虑行为人的从业资格、从业时间、接受安全生产教育培训情)兄、现场条件、以及是否受到他人强令作业等因素，对于直接导致事故发生的直接责任人应当直接认定主要责任。（&gt;</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《国务院关于预防煤矿生产安全事故的特别规定》，煤矿企业应当建立健全安全生产隐患排查、治理和（）制度。</desc>
+        <opt ans="t">报告</opt>
+        <opt ans="f">登记</opt>
+        <opt ans="f">督办</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，安全生产工作的方针有（）。（多选题）</desc>
+        <opt ans="t">安全第一</opt>
+        <opt ans="t">预防为主</opt>
+        <opt ans="t">综合治理</opt>
+        <opt ans="f">单位负责</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我们可以携带烟花爆竹搭乘地铁。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>金属冶炼建设项目竣工投入生产或者使用前，应当由建设单位负责组织对安全设施进行验收。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>因特殊情况需要在火灾、爆炸危险的场所使用明火作业的，根据《消防法》，应当按照规定事先办理（）手续。</desc>
+        <opt ans="f">备案</opt>
+        <opt ans="f">认证</opt>
+        <opt ans="t">审批</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《突发事件应对法》中的突发事件包括自然灾害、事故灾难、公共卫生事件和社会安全事件四类。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中共中央国务院关于推进安全生产领域改革发展的意见》是新中国成立以来第一个以党中央、国务院名义出台的安全生产工作的纲领性文件。</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>建设工程的消防设计、施工必须符合国家工程建设消防技术标准。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，特别重大事故以下等级事故，事故发生地与事故发生单位不在同一个县级以上行政区域的，由（）人民政府负责调查。</desc>
+        <opt ans="f">事故发生单位所在地</opt>
+        <opt ans="t">事故发生地</opt>
+        <opt ans="f">损害结果发生地</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>老王经营一家鞋厂，未按照国家标准为临时用电的电气设备安装漏电保护装置，导致一名工人作业时触电死亡。根据《刑法》的规定，老王的行为构成（）。</desc>
+        <opt ans="f">失职渎职罪</opt>
+        <opt ans="t">重大劳动安全事故罪</opt>
+        <opt ans="f">强令违章冒险作业罪</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>李某作为注册安全工程师，由于违反职责导致发生重大安全事故，判处刑罚时同时宣布禁止令，可以禁止终身从事与安全生产技术相关特定活动。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>裉据《安全生产法》，关于工会对本单位安全生产工作的权利、义务的说法，错误的是（）。</desc>
+        <opt ans="f">生产经营单位制定有关安全生产的规章制度，应当听取工会的意见</opt>
+        <opt ans="f">工会有权对建设项目的安全设施与主体工程的“三同时”情况进行监督</opt>
+        <opt ans="t">经有关部门邀请后，工会才有权参加事故调查，提出处理意见</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位均应当建立应急救援队伍。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危脸化学品安全管理条例》，危险化学品应当储存在专用仓库、专用场地或者专用储存室内，并甶专人负责管理；剧毒化学品以及储存数量构成重大危险源的其他危险化学品，应当在专用仓库内单独存放，并实夺子双人收发、（）保管制度。</desc>
+        <opt ans="t">双入</opt>
+        <opt ans="f">单人</opt>
+        <opt ans="f">独立</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我国实行安全生产许可制度，大型粮油加工企业未取得安全生产许可证的，不得从事生产活动。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>张某是某大型化工企业的法定代表人，企业发生爆炸，3人被困，正准备上报。张某饔子打来电话，劝告张某：千万不要上报。张某与妻子合谋如何隐瞒的具体计划并付诸实施，最终导致3人全部死亡。本案中，张某的妻子并不是现场指挥人员等，不具有报告职责，因此不构成不报、谎报安全事故罪。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>地方各级人民政府应急管理部门编制部门应急预案时，必须召开听证会，听取社会有关方面的意见。（}</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某地发生地震灾害，造成50人死亡，属于特别重大地震灾害。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某长途货运公司注册地在某省甲市乙县，其驾驶员武某驾驶大型拖挂车行驶至临省丙市丁县境内时，因武某长时间疲劳驾驶发生道路交通事故，造成3人死亡。根据《生产安全事故报告和调査处理条例》，依法负责该起事故调查处理工作的是（）。</desc>
+        <opt ans="f">甲市人民政府</opt>
+        <opt ans="f">丁县人民政府</opt>
+        <opt ans="t">丙市人民政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>应急管理部门在依法开展安全生产行政执法工作，对生产经营单位执行有关安全生产的法律、法规和国家标准或者行业标准的情况进行监督检查时，应急管理部门不能（）。</desc>
+        <opt ans="f">进入生产经营单位进行检查，向有关单位和人员了解情況</opt>
+        <opt ans="f">对检查中发现的事故隐患，应当责令立即排除</opt>
+        <opt ans="t">责令生产经营单位暂时停止作业，接受检查</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某烟花爆竹企业发生烟花爆炸事故，造成30多人死亡，该企业的法定代表人黄某担心被追究责任，谎称事故造成5人死亡。根据《安全生产法》，应急管理部门对黄某可处其上一年年收入（）的罚款。</desc>
+        <opt ans="f">0.3</opt>
+        <opt ans="t">0.8</opt>
+        <opt ans="f">0.5</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>张某是某国有化工企业的法定代表人，张某对企业发生的一起重大事故负有责任。根据《安全生产法》，应急管理部门应对张某处（）的罚款。</desc>
+        <opt ans="f">上一年年收入百分之三十</opt>
+        <opt ans="f">上一年年收入百分之四十</opt>
+        <opt ans="t">上一年年收入百分之六十</opt>
+        <opt ans="f">上一年年收入百分之八十</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某供电企业为扩大宣传，将在路边安装的变压器设备上的安全警示标志替换成企业宣传标语。（}</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故拫告和调查处理条例》，事故调查组（）聘请有关专家参与调查。</desc>
+        <opt ans="f">应该</opt>
+        <opt ans="t">可以</opt>
+        <opt ans="f">不得</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>张某雇佣本村赵某、李某v王某、马某等入，非法运输硫酸，因操作不当导致泄漏，造成李某、王某、马某三人不同程度烧伤，赵某因烧伤致死的严重后果。关于张某构成何种罪名的说法，正确的是（）。</desc>
+        <opt ans="t">构成危险物品肇事罪</opt>
+        <opt ans="f">构成过失致人死亡罪</opt>
+        <opt ans="f">构成交通肇事罪</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>甲市乙县货运公司大型运输工程车在丙市丁县辖区的高速公路上与一辆大型客车相撞，造成7人死亡，直接经济损失500万元、事故调查报告认定”货运公司对事故发生负有责任&quot;。根据《安全生产法》，有权对该货运公司进行事故罚款的是（）。</desc>
+        <opt ans="f">甲市应急局</opt>
+        <opt ans="t">丙市应急局</opt>
+        <opt ans="f">甲市交管局</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某地方要新建国家重点工程，无法避免对地震监测设施和地震观测环境造成危害。此种情况下，应甶县级以上地方人民政府新建地震监测设施。()</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>一切国家机关和武装力量、各政党和各社会团体、各企业事业组织都必须遵守宪法和法律。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》不仅适用于生产经营单位的生产经营活动，同时也适用于社会治安活动。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》，生产、储存剧毒化学品、易制爆危险化学品的单位，应当设置（）,配备专职治安保卫人员。</desc>
+        <opt ans="f">安全生产管理机构</opt>
+        <opt ans="t">治安保卫机构</opt>
+        <opt ans="f">应急救援队伍</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某煤业公司在未取得安全生产许可证的情况下，擅自生产煤炭20万吨，销售10万吨得款3000万元，尚有10万吨未售出。煤矿安全监察机构应该没收未出售的10万吨煤和3000万元的销售收入。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《关于全面加强危险化学品安全生产工作的意见》，推动危险化学品企业建立安全生产内审机制和（）制度，完善风险分级管控和隐患排查治理预防机制。</desc>
+        <opt ans="f">内控</opt>
+        <opt ans="f">外控</opt>
+        <opt ans="t">承诺</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>对被责令停产整顿的煤矿，在停产整顿期间，由有关地方人民政府采取有效措施进行监督检查。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>人民法院、入民检察院和公安机关办理刑事案件，应当分工负责，互相配合，互相制约，以保证准确有效地执行法律。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>安全生产许可证的有效期为（）年。</desc>
+        <opt ans="f">1</opt>
+        <opt ans="t">3</opt>
+        <opt ans="f">5</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>2020年第十九个安全生产月主题是（I。</desc>
+        <opt ans="t">消除事故隐患、筑牢安全防线</opt>
+        <opt ans="f">防风险、除隐患、遏事故</opt>
+        <opt ans="f">生命至上，安全发展</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>凡在我国发生的水旱灾害达到启动条件的，适钼《国家自然灾害救助应急预案》。（)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>依法设立的危险化学品生产企业在其厂区范围内销售本企业生产的危险化学品，也需要取得危险化学品经营许可。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>法人是具有民事权利能力和民事行为能力，依法独立享有民事权利和承担民事义务的组织。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政强制法》，以下不属于行政强制执行方式的是（）。</desc>
+        <opt ans="f">划拨存款、汇款</opt>
+        <opt ans="t">罚款</opt>
+        <opt ans="f">加处罚款</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>事故调查组应当自事故发生之曰起60曰内提交事故调查报告。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》，需要取得许可的有（）。（多选题）</desc>
+        <opt ans="t">烟花爆竹的生产</opt>
+        <opt ans="t">烟花爆竹的经营</opt>
+        <opt ans="t">烟花爆竹的运输</opt>
+        <opt ans="t">举办焰火晚会</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>有独立经费的机关和承担行政职能的法定机构从登记之日起，具有机关法人资格。（}</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某县因发生泥石流，当地人民政府立即组织力量进行救援，某消防中队参与到抢险救援中。根据《消防法》，统一领导该消防中队抢险救援的是()</desc>
+        <opt ans="f">消防中队的上级管理部门</opt>
+        <opt ans="f">县应急局</opt>
+        <opt ans="t">县人民政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>充分利用公园、广场、学校等公共服务设施，因地制宜建设、改造和提升成应急避难场所，增加避难场所数僵，为受灾群众提供就近就便的安置服务。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，下列关于可以预警的自然灾害、事故灾难和公共卫生事件的预骛级别的说法，正确的有（）。（多选题）</desc>
+        <opt ans="t">预警级别按突发事件紧急程度、发展势态和可能造成的危害程度确定</opt>
+        <opt ans="t">分一级、二级、三级和四级预警，一级为最高级别</opt>
+        <opt ans="f">分一级、二级、三级和四级预膂，四级为最高级别</opt>
+        <opt ans="t">一级、二级、三级和四级，分别用红色、橙色、黄色和蓝色标示</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>按照管行业必须管安全、管业务必须管安全、管生产经营必须管安全和谁主管谁负责的原则，明确各有关部门安全生产工作职责。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，下列既是我国公民基本权利，同时也是公民基本义务的有（）。（多选题）</desc>
+        <opt ans="t">劳动权</opt>
+        <opt ans="f">监督权</opt>
+        <opt ans="t">受教育权</opt>
+        <opt ans="f">休息权</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>对违法行为当事人拒不执行安全生产行政执法决定的，负有安全生产监督管理职责的部门应依法申请公安机关强制执行。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某化工厂员工宿舍可以与生产危险化学品的车间相毗邻。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>以取得利润并分配给股东等出资人为目的成立的法人，为（）。</desc>
+        <opt ans="f">社团法人</opt>
+        <opt ans="t">营利法人</opt>
+        <opt ans="f">财团法人</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>按照社会危害程度、影响范围等因素，地震灾害分为一般、较大、重大和特别重大四级。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>应急管理部负责全国应急预案的综合协调管理工作。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>中国地震局负责收集和管理全国各类地震观测数据，提出地震重点监视防御区和年度防震减灾工作意见。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>工头王某强令李某等人冒险作业，发生事故，造成4人死亡，经调查王某负事故主要责任，对王某可以处五年以上有期徒刑。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政许可法》，无权设定行政许可的是（）。</desc>
+        <opt ans="f">国务院</opt>
+        <opt ans="f">重庆市人大常委会</opt>
+        <opt ans="t">成都市人民政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>县级以上地方各级政府其他领导干部应当指导分管行业、部门把安全生产工作纳入相关发展规划和年度工作计划，从行业规划、科技创新、产业政策、法规标准、行政许可、资产管理等方面加强和支持安全生产工作。（)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>建筑施工企业的安全生产许可证的有效期为5年。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>全国人民代表大会常务委员会每届任期同全国人民代表大会每届任期相同。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》，负责烟花爆竹的质量监督和进出口检验的是（）</desc>
+        <opt ans="f">应急管理部门</opt>
+        <opt ans="f">公安部门</opt>
+        <opt ans="t">质量监督检验部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《国家地震应急预案》，特别重大地震灾害是指造成（）人以上死亡（含失踪），或者直接经济损失占地震发生地省（区、市）上年国内生产总值1°/。以上的地震灾害。</desc>
+        <opt ans="f">100</opt>
+        <opt ans="f">200</opt>
+        <opt ans="t">300</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>因生产安全事故受到损害的从业人员，除依法享有工伤保险外，依照有关民事法律尚有获得赔偿的权利的，（）向本单位提出赔偿要求。</desc>
+        <opt ans="f">无权</opt>
+        <opt ans="t">有权</opt>
+        <opt ans="f">经协商可以</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>个人不得购买属于剧毒化学品的农药和易制爆危险化学品。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》最重要的作用是惩罚各种安全生产违法行为。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我国人民行使国家权力的机关是全国人民代表大会和地方各级人民代表大会。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>使用危险化学品从事生产并且使用量达到规定数量的化工企业，应当取得危险化学品安全使用许可证。根据《危险化学品安全管理条例》，负责确定危险化学品使用量的数量标准的部门有（）。（多选题）</desc>
+        <opt ans="f">环境保护主管部门</opt>
+        <opt ans="t">公安部门</opt>
+        <opt ans="t">农业主管部门</opt>
+        <opt ans="t">应急管理部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>有关单位应当为专业应急救援人员购买人身意外伤害保脸，配备必要的防护装备和器材。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《关于推进防灾减灾救灾体制机制改革的意见》，建立健全应急救援期社会物资、运输工具、设施装备等的征用和补偿机制。探索建立重大救灾装备（）保障机制。</desc>
+        <opt ans="t">租赁</opt>
+        <opt ans="f">买卖</opt>
+        <opt ans="f">征用</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《中共中央国务院关于推进安全生产领域改革发展的意见》，建立健全安全生产法律法规立改废释工作协调机制。加强涉及安全生产相关法规（）审查，增强安全生产法制建设的系统性、可操作性。</desc>
+        <opt ans="f">合法性</opt>
+        <opt ans="f">合宪性</opt>
+        <opt ans="t">一致性</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，下列关于应急救援队伍的说法.正确的是。()</desc>
+        <opt ans="f">乡镇和街道办事处均应当建立综合性应急救援队伍</opt>
+        <opt ans="f">县级政府有关部门均应当设立专业应急救援队伍</opt>
+        <opt ans="t">单位应当为专职应急救援入员购买人身意外伤害保险</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>民法调整平等主体的自然人、法人和非法人组织之间的人身关系和财产关系。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>新闻媒体开展突发事件预防与应急、自救与互救知识的公益宣传可以适当收取相关费用。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>煤矿建设工程竣工后或者投产前，应当经煤矿安全监察机构对其安全设施和条件进行验收;未经验收或者验收不合格的.不得投入生产。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列属于行政许可证件的有（）。&lt;不定项）</desc>
+        <opt ans="t">教师资格证</opt>
+        <opt ans="t">烟花爆竹生产许可证</opt>
+        <opt ans="f">不动产登记证</opt>
+        <opt ans="t">机动车驾驶证</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》.负责危险化学品的公共安全管理，核发剧毒化学品购买许可证、剧毒化学品道路运输通行证，并负责危险化学品运输车辆的道路交通安全管理的是（）。</desc>
+        <opt ans="f">应急管理部门</opt>
+        <opt ans="t">公安机关</opt>
+        <opt ans="f">生态环境部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》.县级以上地方各级人民政府负有安全生产监督管理职责的部门应当建立健全重大事故隐患治理（）制度，督促生产经营单位消除重大事故隐患。</desc>
+        <opt ans="f">销号</opt>
+        <opt ans="t">督办</opt>
+        <opt ans="f">报告</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位各分管负责人不承担应急预案落实工作。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>烟花爆竹的经营分为批发和零售，烟花爆竹的零售无须取得许可。()</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政处罚法》，行政机关应当告知当事人有权要求举行听证的有（）。（不定项}</desc>
+        <opt ans="f">警告</opt>
+        <opt ans="f">责令限期整改</opt>
+        <opt ans="t">责令停产停业</opt>
+        <opt ans="t">吊销安全生产许可证</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>地方各级党委要定期研究决定安全生产重大问题。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《民法典》，下列说法正确的有《）。（不定项）</desc>
+        <opt ans="t">高度危险作业致害责任原则上适用无过错责任原则</opt>
+        <opt ans="t">有些高度危险作业致害责任有最高赔偿限额的规定</opt>
+        <opt ans="t">受害人故意是高度危险作业致害责任免责事由之一</opt>
+        <opt ans="f">机动车道路交通事故适用高度危险致害责任的规定</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>事故调查组在事故调查中发现涉嫌犯罪的，事故调查结束后再将有关材料或者其复印件移交司法机关处理。{)</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定，生产经营单位必须建立、健全安全生产责任制度和安全生产规章制度，改善安全生产条件，推进（&gt;,提高安全生产水平。</desc>
+        <opt ans="f">企业安全文化建设</opt>
+        <opt ans="t">安全生产标准化建设</opt>
+        <opt ans="f">事故预防体系建设</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《关于全面加强危险化学品安全生产工作的意见》，危险化学品生产企业新招一线岗位从业人员除应接受危险化学品安全培训外，下列选项中符合条件的有（）。（不定项）</desc>
+        <opt ans="t">化工职业教肓背景</opt>
+        <opt ans="t">普通高中毕业</opt>
+        <opt ans="t">大学法学本科毕业</opt>
+        <opt ans="t">大学化工专业毕业</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>拘留属于我国法定的行政处罚。（)</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某县应急管理局执法人员执法检查时，发现某公司特种作业入员违反安全管理规定作业，执法人员对其当场处以罚款两千元。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》，危险化学品生产企业发现其生产的危险化学品有新的危险特性的，应当立即公告，并及时修订其（）。(多选题）</desc>
+        <opt ans="f">化学危险品通用编号</opt>
+        <opt ans="t">化学品安全技术说明书</opt>
+        <opt ans="f">化学品海关HS编码</opt>
+        <opt ans="t">化学品安全标签</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>地方各级人民政府应当建立健全地震应急管理培训制度。{)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>煤矿不再具备安全生产许可证取证条件的，煤矿安全监察分局有权决定吊销其安全生产许可证。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，中华人民共和国年满（）周岁的公民，不分民族、种族、性别、职业、家庭出身、宗教信仰、教育程度、财产状况、居住期限，都有选举权和被选举权。</desc>
+        <opt ans="f">二十</opt>
+        <opt ans="t">十六</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>建立完善地方各级党委和政府安全生产巡查工作制度，加强对下级党委和政府的安全生产巡查，推动安全生产责任措施落实。（}</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定生产危险化学品的，在包装上加贴或者栓挂与包装内危险化学品完全一致的化学品（}。</desc>
+        <opt ans="f">质量证书</opt>
+        <opt ans="t">安全标签</opt>
+        <opt ans="f">使用说明书</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，消防救援机构在消防监督检查中发现城乡消防安全布局、公共消防设施不符合消防安全要求，或者发现本地区存在影响公共安全的重大火灾隐患的，应当由（）书面报告本级人民政府。</desc>
+        <opt ans="f">公安机关</opt>
+        <opt ans="f">消防救援机构</opt>
+        <opt ans="t">应急管理部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>任何单位或者个人都可以购买黑火药、烟火药、引火线。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，下列属于重大事故的是()</desc>
+        <opt ans="f">某采石场爆破作业致40人重伤</opt>
+        <opt ans="f">某化工厂爆炸造成30人死亡</opt>
+        <opt ans="t">某食品加工厂火灾造成15人死亡</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>从业人员发现事故隐患或者其他不安全因素，应当立即向现场安全生产管理人员或者本单位负责人报告，接到报告的人员应当及时予以处理。()</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》，已建的危险化学品生产装置或者储存数蜃构成重大危险源的危险化学品储存设施不符合规定的.由所在地设区的市级人民政府安全生产监督管理部门会同有关部门监督其所属单位在规定期限内进行整改；需要转产、停产、搬迁、关闭的，由（）决定并组织实施。</desc>
+        <opt ans="f">本级应急管理部门</opt>
+        <opt ans="t">本级人民政府</opt>
+        <opt ans="f">本级环境保护主管部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产、储存危险化学品的单位，应当在其作业场所设置通信、报警装S,并保证处于适用状态。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，应当设置安全生产管理机构或者配备专职安全生产管理人员的有（）。（多选题}</desc>
+        <opt ans="t">矿山企业</opt>
+        <opt ans="t">金属冶炼单位</opt>
+        <opt ans="t">建筑施工企业</opt>
+        <opt ans="f">建设单位</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>违法行为情节显著轻微或者没有明显社会危害的，可以不采取行政强制措施。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《地方党政领导干部安全生产责任制规定》，实行安全生产责任考核情况公开制度，（）采取适当方式公布或者通报地方党政领导干部安全生产工作考核结果。</desc>
+        <opt ans="t">定期</opt>
+        <opt ans="f">不定期</opt>
+        <opt ans="f">可以</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>非政府组织没有突发事件信息报吿义务。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某企业计划举行大型灯会活动，根据《消防法》，主办单位应当制定(),明确消防安全责任分工，确定消防安全管理人员，保持消防设施和消防器材配置齐全、完好有效，保证疏散通道、安全出口、疏散指示标志、应急照明和消防车通道符合消防技术标准和管理规定。</desc>
+        <opt ans="t">灭火和应急疏散预案并组织演练</opt>
+        <opt ans="f">消防演练计划</opt>
+        <opt ans="f">事故应急救援预案</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全筐理条例》，对发生交通事故负有全部责任或者主要责任的危险化学品道路运输企业，由（&gt;责令消除安全隐患，未消除安全隐患的危险化学品运输车辆，禁止上道路行驶。</desc>
+        <opt ans="f">应急管理部门</opt>
+        <opt ans="f">交通运输主管部门</opt>
+        <opt ans="t">公安机关</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>对当事人的同一个违法行为，不得给予两次以上的行政处罚。{)</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某化工企业生产剧毒化学品，因违法行为需要关闭。根据《安全生产法》，该企业关闭的行政处罚由（）决定。</desc>
+        <opt ans="t">县级以上入民政府</opt>
+        <opt ans="f">县级以上人民政府应急管理部门</opt>
+        <opt ans="f">县级以上入民政府公安机关</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某地发生了重大疫情，有关人民政府决定采取停工、停产措施，应当报上级政府应急管理部门备案。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，凡具有中华人民共和国国籍的人都是中华人民共和国()</desc>
+        <opt ans="t">公民</opt>
+        <opt ans="f">人民</opt>
+        <opt ans="f">主人</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华人民共和国宪法》规定了国家的根本制度和根本任务，是国家的根本法，具有最高的法律效力。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>不满（）周岁的未成年人为无民事行为能力人，由其法定代理人代理实施民事法律行为。</desc>
+        <opt ans="f">六</opt>
+        <opt ans="t">八</opt>
+        <opt ans="f">十</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《民法典》，因同一侵权行为造成多人死亡的，{)以相同数额确定死亡赔偿金。</desc>
+        <opt ans="f">应当</opt>
+        <opt ans="t">可以</opt>
+        <opt ans="f">必须</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》i下列建设项目需要进行安全评价的是（）。</desc>
+        <opt ans="f">面粉加工厂</opt>
+        <opt ans="f">自来水公司</opt>
+        <opt ans="t">炼钢厂</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>高度重视减轻灾害风险，切实采取综合防范措施，将常态减灾作为基础性工作，坚持防灾抗灾救灾过程有机统一，前后衔接，未雨绸缪，常抓不懈，增强全社会抵御和应对灾害能力。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>甲省乙市丙县某建筑公司发生脚手架坍塌事故，造成7人死亡，该公司法定代表人是张某。根据《生产安全事故报告和调查处理条例》，下列关于该事故报告的说法，正确的是（}。</desc>
+        <opt ans="f">该起事故应逐级上报至应急部</opt>
+        <opt ans="t">丙县应急局在向乙市应急局拫告的同时向丙县人民政府拫告</opt>
+        <opt ans="f">丙县应急局在接到报告后不得越级上报甲省应急厅</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某企业为氨纶纤维制造单位.该单位使用危险化学品从事生产并且使用量达到规定数量.应当依照《危险化学品安全管理条例》的规定取得()</desc>
+        <opt ans="f">危险化学品经营许可证</opt>
+        <opt ans="f">危险化学品安全生产许可证</opt>
+        <opt ans="t">危险化学品安全使用许可证</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政处罚法》，没有法定依据或者不遵守法定程序的行政处罚()</desc>
+        <opt ans="t">无效</opt>
+        <opt ans="f">可撤销</opt>
+        <opt ans="f">效力待定</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《民法典》，下列属于高度危险物的是（）。（多选题）</desc>
+        <opt ans="t">易燃物</opt>
+        <opt ans="t">易爆物</opt>
+        <opt ans="t">高放射性物</opt>
+        <opt ans="t">剧毒物</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某采石场边坡不稳定，遇连日暴雨，有随时滑坡的可能，工头张某明知该隐患，但与工人协商，许诺给予2倍工资，并对工人隐瞒滑坡隐患。后边坡滑坡，造成2名工人被埋死亡。张某没有威逼恐吓行为，不构成强令违章冒险作业罪。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>危险物品的生产、储存单位以及矿山、金属冶炼单位的（）的任免，应当告知主管的负有安全生产监督管理职责的部门。</desc>
+        <opt ans="f">主要负责入</opt>
+        <opt ans="t">安全生产管理人员</opt>
+        <opt ans="f">特种作业入员</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>地震局承担国务院抗震救灾指挥部日常工作。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，下列由人民代表大会产生，对它负责，受它监督的机关有（）。（多选题）</desc>
+        <opt ans="t">国家行政机关</opt>
+        <opt ans="t">检察机关</opt>
+        <opt ans="t">监察机关</opt>
+        <opt ans="t">审判机关</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《中华人民共和国安全生产法》，生产经营单位必须为从业人员提供符合（）的劳动防护用品，并监督、教育从业人员按照使用规则佩戴、使用。</desc>
+        <opt ans="f">国际标准</opt>
+        <opt ans="f">地方标准</opt>
+        <opt ans="t">国家标准或者行业标准</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>从业人员超过一百人的生产经营单位，应当设置安全生产管理机构或者配备专职安全生产管理人员。（}</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>应急管理部门采取扣押行政强制措施的，保管费用由应急管理部门</desc>
+        <opt ans="t">承担。（)</opt>
+        <opt ans="f">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>申请安全生产许可证.在递交申请材料中，审查人员发现企业尚未制定重大危险源应急预案。为方便企业，决定先颁发许可证，并要求其随后补交应急预案。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产许可证条例》，（）负责中央管理的煤矿企业安全生产许可证的颁发和管理。</desc>
+        <opt ans="t">国家煤矿安全监察机构</opt>
+        <opt ans="f">国家能源局</opt>
+        <opt ans="f">自然资源部</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>劳务派遣单位和生产经营单位都应当对被派遣劳动者进行安全生产教育和培训。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《民法典》，自然人可以依法立遗瞩处分个人财产，并可以指定()</desc>
+        <opt ans="t">遗瞩执行人</opt>
+        <opt ans="f">财产管理人</opt>
+        <opt ans="f">财产代管人</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，{)公安机关根据事故的情况，对涉嫌犯罪的，应当依法立案侦查，采取强制措施和侦查措施。</desc>
+        <opt ans="t">事故发生地</opt>
+        <opt ans="f">违法行为地</opt>
+        <opt ans="f">事故单位注册地</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某化工厂发生重大危险化学品燃爆责任事故，造成46人死亡，直接经济损失8000万元。按照规定，可以对该化工厂主要负责人处上一年年收入30%的罚款。（)</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定，生产、储存危险化学品的单位，应当在其作业场所设置（）装置，并保证处于适用状态。</desc>
+        <opt ans="t">通信、报警</opt>
+        <opt ans="f">通风、防爆</opt>
+        <opt ans="f">通风、报警</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国家对煤矿安全实行监察制度，国家煤矿安全监察机构实行垂直管理。()</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国家对建筑施工企业实行安全生产许可制度。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例在禁止燃放烟花爆竹的时间、地点燃放烟花爆竹，或者以危害公共安全和人身、财产安全的方式燃放烟花爆竹的，由（）责令停止燃放。</desc>
+        <opt ans="t">公安部门</opt>
+        <opt ans="f">应急部门</opt>
+        <opt ans="f">城市管理部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，（）建立全国统一的突发事件信息系统。</desc>
+        <opt ans="t">国务院</opt>
+        <opt ans="f">应急管理部</opt>
+        <opt ans="f">公安部</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>甲安全评价机构为乙化工企业某构成重大危险源的仓库进行评价，甲安全评价机构明知仓库存在安全隐患，但碍于乙化工企业是本单位的重要客户，遂出具虚假安全评价报告。一个月后，该仓库因甲机构评价时发现的安全隐患引发生产安全事故，造成一名员工重伤。根据《安全生产法》,该员工的损害（）。</desc>
+        <opt ans="f">只能由甲安全评价机构承担</opt>
+        <opt ans="f">只有由乙化工企业承担</opt>
+        <opt ans="t">甲安全评价机构和乙化工企业承担连带赔偿责任</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，事故调查组组长由（）事故调查组组长主持事故调查组的工作。</desc>
+        <opt ans="f">负责事故调查的应急管理部门负责人担任</opt>
+        <opt ans="t">负责事故调查的人民政府指定</opt>
+        <opt ans="f">事故发生单位与负责事故调查的人民政府协商确定</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，下列属于特别重大事故的是（I。</desc>
+        <opt ans="f">某食品加工厂60人发生急性工业中毒的事故</opt>
+        <opt ans="f">某大型客车与私家车相撞造成20人死亡的事故</opt>
+        <opt ans="t">某化学品仓库爆炸造成30人死亡的事故</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《防震减灾法》，国务院地震工作主管部门会同国务院有关部门组织编制国家防藤减灾规划，报（）批准后组织实施。</desc>
+        <opt ans="f">应急管理部</opt>
+        <opt ans="t">国务院</opt>
+        <opt ans="f">减灾委</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>人民法院（）主动适用诉讼时效的规定。</desc>
+        <opt ans="f">应当</opt>
+        <opt ans="f">可以</opt>
+        <opt ans="t">不得</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产安全事故处理的情况甶负责事故调查的人民政府或者其授权的有关部门、机构毫无保留地向社会公布。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位可以与从业人员订立协议，减轻其对从业人员因生产安全事故伤亡依法应承担的责任。（}</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某县某小区住宅楼发生火灾事故，火灾扑灭后，根据《消防法》，有权根据需要封闭火灾现场，负责调查火灾原因，统计火灾损失的是（}。</desc>
+        <opt ans="f">地方人民政府</opt>
+        <opt ans="f">住房和城乡建设主管部门</opt>
+        <opt ans="t">消防救援机构</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>企业负责人和实际控制人同为安全生产第一责任人。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国务院有关部委制定的部门规章规定的罚款数额可以超过法律、行政法规的规定。（&gt;</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《民法典》，结婚年龄，男不得早于二十二周岁，女不得早于（）周岁。</desc>
+        <opt ans="f">18</opt>
+        <opt ans="t">20</opt>
+        <opt ans="f">22</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>适用《国家自然灾害救助应急预案》的有（）。（多选题）</desc>
+        <opt ans="t">水旱灾害</opt>
+        <opt ans="t">气象灾害</opt>
+        <opt ans="t">自然灾害</opt>
+        <opt ans="t">地质灾害</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急预案管理办法》，编制应急预案前，编制单位应当进行事故风险辨识、评估和（）。</desc>
+        <opt ans="f">排查隐患</opt>
+        <opt ans="f">监控</opt>
+        <opt ans="t">应急资源调查</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>自然人的民事权利能力是不平等的。（}</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>安全生产许可证颁发管理机关审查后认为不予颁发安全生产许可证的，应书面通知企业并说明理由。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>新建、改建、扩建储存、装卸危险化学品的港口建设项目，甶应急管理部门进行安全条件审查。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某单位长期研究地震活动趋势，该单位不得发表其关于长期、中期地震活动趋势的研究成果。（&gt;</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政强制法》，行政强制措施权（）委托。</desc>
+        <opt ans="f">特殊情形下可以</opt>
+        <opt ans="f">可以</opt>
+        <opt ans="t">不得</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>自然灾害指给人类生存带来危害或损害人类生活环境的自然现象，包括洪涝、干旱灾害，森林草原火灾和重大生物灾害等自然灾害。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国务院实行总理负责制。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>因紧急避险造成损害的，由（）承担民事责任。</desc>
+        <opt ans="f">国家</opt>
+        <opt ans="f">受害人</opt>
+        <opt ans="t">引起险情发生的人</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某县公安局依法对安全生产违法行为的行政相对人赵某实施行政拘留措施。这里所依的&quot;法&quot;是指（）。</desc>
+        <opt ans="t">法律</opt>
+        <opt ans="f">行政法规</opt>
+        <opt ans="f">地方性法规</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《关于全面加强危险化学品安全生产工作的意见》，涉及“两重点一重大”(重点监管的危险化工工艺、重点监管的危险化学品和危险化学品重大危脸源）的危险化学品建设项目由（）以上政府相关部门联合建立安全风险防控机制。</desc>
+        <opt ans="f">省级政府</opt>
+        <opt ans="t">设区的市级</opt>
+        <opt ans="f">县级政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位编制应急预案时应成立编制工作小组，必须由本单位法定代表人任组长。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《民法典》，因抢险、救灾等紧急需要，依照法律规定的权限和程序可以征用组织、个人的不动产或者动产。被征用的不动产或者动产使</desc>
+        <opt ans="f">用后，应当</opt>
+        <opt ans="f">折价归国家所有</opt>
+        <opt ans="t">赔偿被征用人</opt>
+        <opt ans="f">返还被征用人</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，生产经营单位的（），对本单位的安全生产工作全面负责。</desc>
+        <opt ans="t">主要负责人</opt>
+        <opt ans="f">安全管理人员</opt>
+        <opt ans="f">技术总监</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国家减灾委员会为国家自然灾害救助应急综合协调机构，负责研究制定国家减灾工作的方针、政策和规划，协调开展重大减灾活动，指导地方开展减灾工作，推进减灾国际交流与合作，组织、协调全国抗灾救灾工作。（)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，下列关于生产安全事故应急救援预案备案的规定，说法正确的是（）。</desc>
+        <opt ans="f">县交通局制定的预案应当报送县应急局备案</opt>
+        <opt ans="f">县应急局制定的预案应当报送市应急局备案</opt>
+        <opt ans="t">市应急局制定的预案应当报送市人民政府备案</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>负有安全生产监督管理职责的部门对检查中发现的事故隐患，应当责令立即排除。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我国《民法典》规定，无民事行为能力人的监护人是其法定代理人。()</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急预案管理办法》，生产经营单位编制的各类应急预案之间应当相互衔接，并与相关人民政府及其部门、应急救援队伍和涉及的其他单位的应急预案相（）。</desc>
+        <opt ans="f">一致</opt>
+        <opt ans="t">衔接</opt>
+        <opt ans="f">补充</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，生产、储存、运输、销售、使用、销毀易燃易爆危险品，必须执行（）和管理规定。</desc>
+        <opt ans="f">防护技术标准</opt>
+        <opt ans="t">消防技术标准</opt>
+        <opt ans="f">操作规程</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急预案管理办法》，事故风险单一、危险性小的生产经营单位，可以只编制（）。</desc>
+        <opt ans="f">综合应急预案</opt>
+        <opt ans="t">现场处置方案</opt>
+        <opt ans="f">专顼应急预案</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，（）可以负责日常消防监督检查、开展消防宣传教育，具体办法由国务院公安部门规定。</desc>
+        <opt ans="f">建设行政主管部门</opt>
+        <opt ans="f">消防救援机构</opt>
+        <opt ans="t">公安派出所</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>防震减灾事关人民生命和财产安全，国家鼓励、引导志愿者参加防震减灾活动。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》.下列属于生产经营单位的主要负责人对本单位安全生产工作所负职责的有（）。（多选题）</desc>
+        <opt ans="t">组织制定本单位安全生产规章制度和操作规程</opt>
+        <opt ans="t">建立、健全本单位安全生产责任制</opt>
+        <opt ans="t">及时、如实报告生产安全事故</opt>
+        <opt ans="t">保证本单位安全生产投入的有效实施</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据地震灾害分级情况，将地震灾害应急响应分为I级、II级、III级和IV级。()</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>劳务派遣单位和生产经营单位都应当对被派遣劳动者进行安全生产教育和培训。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》规定，下列地点禁止燃放烟花爆竹的是（）。（多选题）</desc>
+        <opt ans="t">某市高铁站</opt>
+        <opt ans="t">某私立幼儿园</opt>
+        <opt ans="t">某社区敬老院</opt>
+        <opt ans="t">某古代碑林</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国家对剧毒化学品的交易实行严格管控制度，某公司因生产需要，需购买剧毒化学品。根据《危险化学品安全管理条例》，该企业应当向所在地县级公安机关提交的材料包括（）。（多选题）</desc>
+        <opt ans="t">营业执照或者法人证书的复印件</opt>
+        <opt ans="t">拟购买的剧毒化学品品种、数_的说明</opt>
+        <opt ans="t">经办人的身份证明</opt>
+        <opt ans="t">购买剧毒化学品用途的说明</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政强制法》，因查封、扣押发生的保管费用甶（）承担。</desc>
+        <opt ans="f">行政相对人</opt>
+        <opt ans="f">保管人</opt>
+        <opt ans="t">行政机关</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我国要建立&quot;天-空-地&quot;—体应急通信网络。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某危险化学品生产单位编制的应急预案于4月3日通过0A系统发布实施。根据《生产安全事故应急预案管理办法》，该单位应当在应急预案公布之日起（&gt;个工作日内，向县级以上人民政府应急管理部门进行备案，并依法向社会公布。</desc>
+        <opt ans="f">10</opt>
+        <opt ans="t">20</opt>
+        <opt ans="f">30</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产许可证条例》，国务院安全生产监督管理部门负责()的非煤矿矿山企业和危险化学品、烟花爆竹生产企业安全生产许可证的颁发和管理。</desc>
+        <opt ans="t">中央管理</opt>
+        <opt ans="f">省级以上人民政府管理</opt>
+        <opt ans="f">大型</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>各级人民政府应当加强对地震灾后恢复重建工作的领导、组织和协调。()</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产烟花爆竹的企业，应当按照国家标准的规定，在烟花爆竹产品上标注燃放说明，并在烟花爆竹包装物上印制易燃易爆危险物品贅示标志。()</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>未成年人也有参与灭火义务。{)</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>张某为瓦斯发电厂安全总监，李某为安全检查员，在李某向张某报告发现存在甲烷传感器滞后、断线、位置不当等安全问题后，张某仍然强令工人在现场作业，并故意破坏甲烷储存设施.张某构成的罪名是（）。</desc>
+        <opt ans="f">故意杀人罪</opt>
+        <opt ans="f">重大劳动安全事故罪</opt>
+        <opt ans="t">以危险方法危害公共安全罪</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>陈某在作业过程中发现事故隐患，根据《中华人民共和国安全生产法》，陈某应当（）向现场安全生产管理人员或者本单位负责人报告；接到报告的人员应当及时予以处理。</desc>
+        <opt ans="t">立即</opt>
+        <opt ans="f">1小时内</opt>
+        <opt ans="f">半小时内</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，生产经营单位新建、改建、扩建工程项目（以</desc>
+        <opt ans="t">下统称建设项目）的安全设施，必须与主体工程（）。（多选题）</opt>
+        <opt ans="t">同时设计</opt>
+        <opt ans="t">同时施工</opt>
+        <opt ans="t">同时投入生产</opt>
+        <opt ans="f">同时投入使用</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，下列关于矿山建设项目安全设施设计的说法，正确的是（）。</desc>
+        <opt ans="f">安全设施设计审查部门对安全设施设计负责</opt>
+        <opt ans="t">建设单位要对安全设施设计承担主体责任</opt>
+        <opt ans="f">施工单位在施工中可根据实际情况对安全设施设计进行修改</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>使用剧毒化学品的单位不得转让但可以出借其购买的剧毒化学品。</desc>
+        <opt ans="f">()</opt>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>人员密集场所的门窗不得设置影响逃生和灭火救援的障碍物。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>公安部门应当加强对危险等级较高的焰火晚会以及其他大型焰火燃放活动的监督检查。{)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>一辆油罐车在A省境内发生交通事故，引发油罐车爆燃，造成10人死亡。该油罐车中所载汽油是自B省发往C省某加油站。依据《生产安全事故报告和调查处理条例》的规定，负责该起事故调查的主体是（）。</desc>
+        <opt ans="t">A省人民政府</opt>
+        <opt ans="f">B省人民政府</opt>
+        <opt ans="f">C省人民政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，下列关于生产经营单位对重大危险源管理的说法，正确的是（）。（多选题）</desc>
+        <opt ans="t">登记建档</opt>
+        <opt ans="t">定期进行检测</opt>
+        <opt ans="t">定期进行评估</opt>
+        <opt ans="t">制定专项应急预案</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>2020年全国防灾减灾日主题是（）。</desc>
+        <opt ans="f">提高灾害防治能力，构筑生命安全防线</opt>
+        <opt ans="f">行动起来，减轻身边的灾害风险</opt>
+        <opt ans="t">提升基层应急能力.筑牢防灾减灾救灾的人民防线</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>违法行为在二年内未被发现的，不再给予行政处罚。（}</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《关于全面加强危险化学品安全生产工作的意见》，建立完善危险废物由产生到处置各环节联单制度。建立（）制度，形成覆盖危险废物产生、收集、贮存、转移、运输、利用、处置等全过程的监管体系，加大打击故意隐瞒、偷放偷排或违法违规处置危险废物违法犯罪行为力度。(多选题）</desc>
+        <opt ans="f">权责清晰</opt>
+        <opt ans="t">部门联动</opt>
+        <opt ans="t">重大案件会商督办</opt>
+        <opt ans="t">区域协作</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》,下列表述不正确的是（）。</desc>
+        <opt ans="f">乡政府应当组织开展应急知识的宣传普及活动</opt>
+        <opt ans="f">街道办事处应当组织开展必要的应急演练</opt>
+        <opt ans="t">新闻媒体开展突发事件应急宣传可适当收取费用</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>法人以（）承担民事责任。</desc>
+        <opt ans="t">法人的全部财产</opt>
+        <opt ans="f">股东的财产</opt>
+        <opt ans="f">股东的财产和法人的财产</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>甲省乙市丙县某烟花爆竹生产企业发生爆炸事故，造成6人死亡。乙市人民政府授权乙市应急管理局组织事故调查组进行调查，张某被指定为事故调查组组长。事故调查组在充分收集证据的基础上出具了事故调查拫告。根据《生产安全事故报告和调查处理条例》，有权批复该报告的是</desc>
+        <opt ans="f">()</opt>
+        <opt ans="t">事故调查组</opt>
+        <opt ans="f">乙市人民政府</opt>
+        <opt ans="f">甲省人民政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《防震减灾法》，下列关于过渡14安置点的说法，正确的是（）。</desc>
+        <opt ans="t">过渡性安置点应当避开地震活动断层区域并且配套建设必要的基础设施</opt>
+        <opt ans="f">过渡性安置点越大越好，并采取相应的防灾、防疫措施</opt>
+        <opt ans="f">过渡性安置点用地应按照临时用地安排，事前办理用地手续</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据中共中央办公厅国务院办公厅印发的《关于全面加强危险化学品安全生产工作的意见》，完善监管执法入员培训制度，入职培训不少于</desc>
+        <opt ans="f">()个月，每年参加为期不少于2周的复训</opt>
+        <opt ans="t">1</opt>
+        <opt ans="f">3</opt>
+        <opt ans="f">5</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定，生产经营单位的主要负责人对生产安全事故隐瞒不报、谎拫或者迟报的，给予降级、撤职的处分，对逃匿的处（）日以下拘留。</desc>
+        <opt ans="f">20</opt>
+        <opt ans="t">15</opt>
+        <opt ans="f">10</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>P县发生重大气象灾害。根据《突发事件应对法》，下列关于P县事后恢复与重建的做法，不正确的是（）。</desc>
+        <opt ans="f">停止执行采取的应急处置措施</opt>
+        <opt ans="f">组织对灾害造成的损失进行评估</opt>
+        <opt ans="t">其他地区应当向P县无偿提供支援</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调査处理条例》，下列关于事故报告的说法，正确的有（）。（多选题）</desc>
+        <opt ans="t">事故报告应当及时</opt>
+        <opt ans="t">事故报告应当准确</opt>
+        <opt ans="f">国有企业不可能存在对事故的迟报、漏报、谎拫或者瞒报</opt>
+        <opt ans="t">个人对事故不得迟报、漏报、谎报或者瞒报</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某煤矿发生瓦斯爆炸，5人当场死亡，尚有3人在井下作业等待救援，矿长张某与副矿长李某商议如果有人死亡责任重大，谎称只有1人受伤。李某不同意，按照实际情况及时报告，井下3人获救，事故得以及时控制。张某构成不报、谎报安全事故罪的未遂犯。（}</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，旅游景区等人员密集场所经营单位，应当至少每（）年组织1次生产安全事故应急救援预案演练，并将演练情况报送所在地县级以上地方人民政府负有安全生产监督管理职责的部门。</desc>
+        <opt ans="t">半</opt>
+        <opt ans="f">1</opt>
+        <opt ans="f">2</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，事故发生地（）根据事故的情况，对涉嫌犯罪的，应当依法立案侦査，采取强制措施和侦查措施。</desc>
+        <opt ans="f">应急部门</opt>
+        <opt ans="t">公安机关</opt>
+        <opt ans="f">人民政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>突发事件发生地的村民应当服从当地村民委员会的指挥和安排，协助维护社会秩序。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》，从事烟花爆竹批发的企业，（）向从事烟花爆竹零售的经营者供应按照国家标准规定应甶专业燃放人员燃放的烟花爆竹。</desc>
+        <opt ans="f">可以</opt>
+        <opt ans="t">不得</opt>
+        <opt ans="f">应当</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>民事主体的人身权利、财产权利以及其他合法权益受法律保护，任何组织或者个人不得侵犯。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，下列各地关于应急预案的做法，正确的是</desc>
+        <opt ans="f">()。（多选题）</opt>
+        <opt ans="t">甲市为缓解经济压力，规定应急预案能不演练、就不演练</opt>
+        <opt ans="f">乙区要求区政府有关部门每半年演练一次专项应急预案</opt>
+        <opt ans="t">丙县照搬照抄外省P县应急预案</opt>
+        <opt ans="f">丁区开展应急预案演练后对预案暴露的问题进行修订完善</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>法人以其主要办事机构所在地为住所。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国家行政机关甶人民代表大会产生.对它负责，受它监督。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《民法典》，为了（）的需要，依照法律规定的权限和程序征收、征用不动产或者动产的，应当给予公平、合理的补偿。</desc>
+        <opt ans="t">公共利益</opt>
+        <opt ans="f">集体利益</opt>
+        <opt ans="f">个人利益</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>市民薛某发现一家化工厂存在重大事故隐患，他应该拨打的举报电话是（）。</desc>
+        <opt ans="f">12369</opt>
+        <opt ans="f">12122</opt>
+        <opt ans="t">12350</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>特别重大自然灾害灾后恢复重建坚持中央统筹指导、单位作为主体、灾区群众广泛参与的新机制，中央与地方各负其责，协同推进灾后恢复重建。()</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》,下列关于我国基本经济制度的说法，不正确的是（）。</desc>
+        <opt ans="f">我国实行社会主义市场经济</opt>
+        <opt ans="t">国有企业在法律规定范围内和政府统一安排下开展管理经营</opt>
+        <opt ans="f">集体经济组织实行民主管理，有独立进行经济活动的自主权</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>建设单位负责组织对金属冶炼建设项目安全设施进行验收，所以建设单位可以不组织验收即可将安全设施投入生产和使用。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《中共中央国务院关于推进安全生产领域改革发展的意见》，实行党政领导干部任期安全生产责任制，日常工作依责尽职、发生事故依责追究。依法依规制定各有关部门安全生产权力和责任清单，尽职照单免责、失职照单问责。建立企业生产经营&lt;)安全责任追溯制度。</desc>
+        <opt ans="t">全过程</opt>
+        <opt ans="f">全领域</opt>
+        <opt ans="f">全方位</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>安全生产监管部门不得越级上报生产安全事故情况。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>个体工商户应当配备专职安全生产管理人员。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，安全生产监督管理部门和对有关行业、领域的安全生产工作实施监督管理的部门，统称（</desc>
+        <opt ans="t">负有安全生产监督管理职责的部门</opt>
+        <opt ans="f">地方人民政府有关部门</opt>
+        <opt ans="f">国务院有关部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>编制应急预案前，编制单位应当进行事故风险辨识、评估和应急资源调查。（)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>行政许可的被许可人不再具备行政许可条件，为了公共利益的需要,行政机关可以依法变更或者撤回该行政许可。（}</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政许可法》，给公民、法人或者其他组织造成财产损失时，</desc>
+        <opt ans="f">行政机关应当予以补偿的是（）</opt>
+        <opt ans="t">赵某违反规定运输危险化学品，吊销赵某的运输许可证</opt>
+        <opt ans="f">钱某依法取得了在某处开矿的许可，后为了保护环境，行政机关撤回了该许可</opt>
+        <opt ans="f">孙某申请烟花爆竹生产许可证是不符合条件的，行政机关依法撤销了该许可</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，下列说法正确的有（）。（多选题）</desc>
+        <opt ans="t">突发事件应对措施，应当与其可能造成的社会危害的性质、程度和范围相适应</opt>
+        <opt ans="t">有多种措施可供选择的，应当选择有利于最大程度地保护公民权益的措施</opt>
+        <opt ans="t">公民、法人和其他组织有义务参与突发事件应对工作</opt>
+        <opt ans="t">突发事件应急处置工作结束后|应当向本级人大常委会作出专项工作报告</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，生产经营单位的主要负责人在本单位发生生产安全事故时，不立即组织抢救的，给予降级、撤职的处分，并由（）处上一年年收入百分之六十至百分之一百的罚款。</desc>
+        <opt ans="t">县级以上人民政府应急管理部门</opt>
+        <opt ans="f">县级以上人民政府公安机关</opt>
+        <opt ans="f">县级以上人民政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某省甲市乙县应急管理局和丙市丁县应急管理局对一起安全生产违法行为的行政处罚管辖权发生争议，应甶（）。</desc>
+        <opt ans="f">最先发现安全生产违法行为的应急管理局管辖</opt>
+        <opt ans="f">最先作出行政处罚决定的应急管理局管辖</opt>
+        <opt ans="t">某省应急管理厅指定该案管辖</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，安全生产工作的方针有（）。（多选题）</desc>
+        <opt ans="t">安全第一</opt>
+        <opt ans="t">预防为主</opt>
+        <opt ans="t">综合治理</opt>
+        <opt ans="f">单位负责</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，在中华人民共和国领域内从事（）的单位的安全生产，适用本法。</desc>
+        <opt ans="t">生产经营活动</opt>
+        <opt ans="f">公益性活动</opt>
+        <opt ans="f">社会服务</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>煤矿发生伤亡事故的.甶煤矿安全监察机构负责组织调查处理。（)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>2020年第十三届全国人民代表大会第三次会议审议通过的民法典共7编，下列属于这7编的有（）。（多选题）</desc>
+        <opt ans="t">物权编</opt>
+        <opt ans="t">合同编</opt>
+        <opt ans="t">人格权编</opt>
+        <opt ans="f">知识产权编</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《生产安全事故应急条例》适用于（）应急工作。</desc>
+        <opt ans="t">生产安全事故</opt>
+        <opt ans="f">公共卫生事件</opt>
+        <opt ans="f">公共安全事件</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《国家地震应急预案》适用于我国发生地震及火山灾害和国外发生造成重大影响地震及火山灾害的应对工作。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政处罚法》，违法行为构成犯罪的，行政机关（）将案件移送司法机关，依法追究刑事责任。</desc>
+        <opt ans="t">必须</opt>
+        <opt ans="f">可以</opt>
+        <opt ans="f">有权</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，自事故发生之日起30日内（道路交通事故、火灾事故自发生之日起7日内），因事故伤亡人数变化导致事故等级发生变化，应当甶上级人民政府负责调查的，上级人民政府（）另行组织事故调查组进行调查。</desc>
+        <opt ans="f">应当</opt>
+        <opt ans="t">可以</opt>
+        <opt ans="f">不再</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》，申请从事烟花爆竹批发的企业，应当向所在地（）提出申请。</desc>
+        <opt ans="f">县级人民政府应急管理部门</opt>
+        <opt ans="t">设区的市人民政府应急管理部门</opt>
+        <opt ans="f">省级人民政府应急管理部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>法定代表人是指依照法律或者法人章程的规定，代表法人从事民事活动的负责人，法定代表人可以由多人同时担任。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>甲公司是生产液化气体的单位，根据《危险化学品安全管理条例》，甲公司按照规定应当在其（）上设置明显的安全骛示标志。（多选题}</desc>
+        <opt ans="t">生产场所</opt>
+        <opt ans="t">安全设施</opt>
+        <opt ans="t">储存场所</opt>
+        <opt ans="t">设备</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，安全生产工作应当以人为本，坚持（）的方针。</desc>
+        <opt ans="f">企业负责、政府监管、职工参与</opt>
+        <opt ans="f">职工参与、行业自律、社会监督</opt>
+        <opt ans="t">安全第一、预防为主、综合治理</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《防震减灾法》，地震灾区的县级以上地方入民政府应当及时将地震震情和灾情等信息向上一级人民政府报告，不得（）。（多选题）</desc>
+        <opt ans="t">虚假上报</opt>
+        <opt ans="t">延迟上报</opt>
+        <opt ans="f">越级上报</opt>
+        <opt ans="t">隐瞒上报</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>消防救援机构、公安派出所的工作人员进行消防监督检查，可以出示证件。（)</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，下列关于应急管理体制的说法，正确的是()</desc>
+        <opt ans="f">打防结合、预防为主、专群结合、依靠群众</opt>
+        <opt ans="f">统一领导、依法监管、行业自律、公民参与</opt>
+        <opt ans="t">统一领导、综合协调、分类管理、分级负责、属地管理</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《关于推进防灾减灾救灾体制机制改革的意见》&gt;,完善统筹协调、分工负责的自然灾害管理体制，充分发挥（）对防灾减灾救灾工作的统筹指导和综合协调作用.强化国家减灾委员会办公室在灾情信息管理、综合风险防范、群众生活救助、科普宣传教育、国际交流合作等方面的工作职能和能力建设。</desc>
+        <opt ans="f">应急管理部</opt>
+        <opt ans="t">国家减灾委员会</opt>
+        <opt ans="f">突发事件应急救援指挥部</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我国突发事件应对实行预防为主、预防与应急相结合的原则。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，任何人发现火灾都应当立即报警。（）谎报火警。</desc>
+        <opt ans="f">有权</opt>
+        <opt ans="f">可以</opt>
+        <opt ans="t">严禁</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，宾馆、商场、娱乐场所、旅游景区等人员密集场所经营单位，（）建立应急救援队伍。</desc>
+        <opt ans="t">应当</opt>
+        <opt ans="f">可以</opt>
+        <opt ans="f">无需</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》，负有危险化学品安全监督管理职责的部门依法进行监督检查，监督检查人员不得少于（1人，并应当出示执法证件。</desc>
+        <opt ans="f">1</opt>
+        <opt ans="t">2</opt>
+        <opt ans="f">3</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>2020年6月是第（&gt;个全国&quot;安全生产月％</desc>
+        <opt ans="f">20</opt>
+        <opt ans="t">19</opt>
+        <opt ans="f">18</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某化工厂仓库发生火灾事故。根据《生产安全事故应急条例》，该化工厂有权采取的应急救援措施有（）。（多选题）</desc>
+        <opt ans="t">迅速控制危险源，组织抢救遇险人员</opt>
+        <opt ans="t">组织现场入员采取应急措施后有序撤离</opt>
+        <opt ans="t">通知临近的食品厂及周边人员注意防范</opt>
+        <opt ans="t">采取必要措施，防止次生灾害发生</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>按照社会危害程度、影响范围等因素，自然灾害、事故灾难、公共卫生事件分为重大、较大和一般三级。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，负责本行政区域内的消防工作的是（）。</desc>
+        <opt ans="f">消防救援机构</opt>
+        <opt ans="f">地方各级人民政府应急管理部门</opt>
+        <opt ans="t">地方各级人民政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《国家自然灾害救助应急预案》，整合各部门现有救灾储备物资和储备库规划，分级、分类管理（）救灾物资和储备库。</desc>
+        <opt ans="f">临时</opt>
+        <opt ans="t">储备</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某煤矿企业安排矿工自行购买安全帽，但费用甶单位拫销，该企业已经尽到为从业人员提供安全帽这一劳动防护用品的义务。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>县应急管理局执法人员张某、王某到某煤矿企业检查，发现某工作面瓦斯超限作业，张某、王某与企业负责人关系甚好，对瓦斯超限作业未进行处理。两天后，煤矿该工作面瓦斯超限爆炸，造成5人死亡。张某、王某涉嫌构成的罪名是（）。</desc>
+        <opt ans="f">过失致人死亡罪</opt>
+        <opt ans="f">滥钼职权罪</opt>
+        <opt ans="t">玩忽职守罪</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>储存危险化学品的企业，可以对本企业的安全生产条件每4年进行一次安全评价，提出安全评价报告。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我国各行各业都强制实施安全生产责任保险制度。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，下列属于消防设施的有（）。（多选题）</desc>
+        <opt ans="t">应急照明</opt>
+        <opt ans="t">应急广播</opt>
+        <opt ans="t">消火栓系统</opt>
+        <opt ans="f">防火服</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>有关人民政府及其部门采取应对突发事件的措施，应当与突发事件可能造成的社会危害的性质、程度和范围相适应。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《地方党政领导干部安全生产责任制规定》|建立完善地方各级党委和政府（）考核制度，对下级党委和政府安全生产工作情况进行全面评价，将考核结果与有关地方党政领导干部履职评定挂钩。</desc>
+        <opt ans="t">安全生产责任</opt>
+        <opt ans="f">领导力</opt>
+        <opt ans="f">执行力</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，关于财产的表述，不正确的是（1。</desc>
+        <opt ans="f">社会主义的公共财产神圣不可侵犯</opt>
+        <opt ans="t">公民的私有财产神圣不可侵犯</opt>
+        <opt ans="f">禁止任何个人用任何手段侵占集体财产</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，规模较大、危险性较高的易燃易爆物品、危险化学品等危险物品的生产、经营、储存、运输单位应当成立（），实行24小时应急值班。</desc>
+        <opt ans="f">售后服务组</opt>
+        <opt ans="t">应急处置技术组</opt>
+        <opt ans="f">轮流值班组</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，当发生火灾时，火灾现场总指挥有权决定（1。(多选题）</desc>
+        <opt ans="t">截断火灾现场一定范围内的电力输送</opt>
+        <opt ans="t">划定警戒区，实行局部交通管制</opt>
+        <opt ans="t">利用临近建筑物和有关设施</opt>
+        <opt ans="t">拆除或者破损毗邻火灾现场的建筑物、构筑物或者设施</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，国家建立重大突发事件风险（1体系，对可能发生的突发事件进行综合性评估，减少重大突发事件的发生，最大限度地减轻重大突发事件的影响。</desc>
+        <opt ans="f">监控</opt>
+        <opt ans="t">评估</opt>
+        <opt ans="f">排查</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>甲、乙两家建筑公司在同一作业区域内进行作业活动，可能危及对方生产安全。根据《安全生产法》,关于在同一作业区域内安全管理的说法，正确的是（）。</desc>
+        <opt ans="f">甲、乙公司应当签订合作经营协议，各指定一名人员负责各自的安全管理</opt>
+        <opt ans="f">所在地安全监管部门应当派专人，负责甲、乙公司交叉作业的安全管理</opt>
+        <opt ans="t">甲、乙公司应当签订安全生产管理协议，指定专职安全生产管理人员&#x0D;&#x0A;进行安全检查与协调</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>公民与自然人是同一个概念。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某市甲公司举办跨年夜活动，法定代表人马某决定在人民广场举行公益表演活动，很多市民聚集人民广场观看，因预防准备不足、现场管理不力、应对处置不当引发拥挤踩踏，造成36人死亡，49人受伤。经调查，马某对该事故负有主要责任。马某构成的罪名是（）。</desc>
+        <opt ans="f">重大责任事故罪</opt>
+        <opt ans="f">重大劳动安全事故罪</opt>
+        <opt ans="t">大型群众性活动重大安全事故罪</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>事故调查报告由应急管理部门负责批复。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>乡镇人民政府应当制定本地区的突发事件应对预案。{)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某小型采石场应当设置安全生产管理机构或者配备专职安全生产管理人员。{)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，住宅区的（）应当对管理区域内的共用消防设施进行维护管理，提供消防安全防范服务。</desc>
+        <opt ans="f">居民委员会</opt>
+        <opt ans="f">业主委员会</opt>
+        <opt ans="t">物业服务企业</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《国家自然灾害救助应急预案》，按照“条块结合，以块为主”的原则.灾害救助工作以{)为主。</desc>
+        <opt ans="f">居委会或村委会</opt>
+        <opt ans="f">中央政府</opt>
+        <opt ans="t">地方政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某化工企业发生爆炸事故，造成20人死亡，张某是该化工企业的法定代表人，在事故调查处理期间张某听说自己将被追究刑事责任，遂即逃匿。根据《安全生产法》，应急管理部门对张某可处其上一年年收入（）的罚款D</desc>
+        <opt ans="f">30%</opt>
+        <opt ans="f">50%</opt>
+        <opt ans="t">80%</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《国务院关于预防煤矿生产安全事故的特别规定》，煤矿因违法行为应当关闭的，有权做出关闭决定的是（）。</desc>
+        <opt ans="f">煤矿安全生产监督管理的部门</opt>
+        <opt ans="f">煤矿资翮机构</opt>
+        <opt ans="t">地方人_输</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《防震减灾法》，（）对建设工程程的抗震设计、施工的全过程负责。</desc>
+        <opt ans="f">建设行政主管部门</opt>
+        <opt ans="f">监理单位</opt>
+        <opt ans="t">建设单位</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位应当将制定的生产安全事故应急救援预案向社会公布。()</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，下列属于突发事件的有（）。《多选题）</desc>
+        <opt ans="t">甲镇发生的火灾</opt>
+        <opt ans="t">乙县发生的火车站恐怖袭击</opt>
+        <opt ans="t">丙市发生的不知名传染病</opt>
+        <opt ans="t">丁省发生的蝗灾</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>中华人民共和国公民对于任何国家机关和国家工作人员，有提出批评和建议的权利。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，属于我国安全生产工作机制的有（）。（多选题）</desc>
+        <opt ans="t">行业自律</opt>
+        <opt ans="t">政府监管</opt>
+        <opt ans="t">职工参与</opt>
+        <opt ans="t">单位负责</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>中国共产党领导是中国特色社会主义最本质的特征。（}</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，县级以上人民政府应当依照本条例的规定，严格履行职责，《）地完成事故调查处理工作。（多选题）</desc>
+        <opt ans="t">及时</opt>
+        <opt ans="t">准确</opt>
+        <opt ans="f">公平</opt>
+        <opt ans="f">公正</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>在生产安全事故应急救援过程中发现可能直接危及应急救援人员生命安全的紧急情况，必要时可以暂时撤离应急救援人员。（&gt;</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位委托为安全生产提供技术、管理服务的机构提供安全生产技术、管理服务的.保证安全生产的责任仍由（）负责。</desc>
+        <opt ans="t">本单位</opt>
+        <opt ans="f">受托单位</opt>
+        <opt ans="f">应急部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，下列关于突发事件信息系统的说法，正确的是（）。</desc>
+        <opt ans="f">应急管理部建立全国统一的突发事件信息系统</opt>
+        <opt ans="t">突发事件信息系统应加强跨部门、跨地区的信息交流与情报合作，实现互联互通</opt>
+        <opt ans="f">突发事件信患系统仅能用来汇集、储存有关突发事件信息，不具备其他功能</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定，生产经营单位必须为从业人员提供符合国家标准或者（）标准的劳动防护用品。</desc>
+        <opt ans="f">本单位</opt>
+        <opt ans="f">当地</opt>
+        <opt ans="t">行业</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>县级以上地方各级入民政府应当将依法登记的危险源及时向社会公布。()</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>依托消防机构、大型企业、工业园区等应急救援力量，加强矿山和危险化学品等应急救援基地和队伍建设。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>教育主管部门应当指导、监督各级各类学校把应急知识教肓纳入教学内容，对学生进行应急知识教育，培养学生的安全意识和自救与互救能力。()</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据扑救火灾的需要，消防救援机构可以调动指挥专职消防队参加火灾扑救工作。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某职业技术学院要建设新的教学楼。根据《防藤减灾法》，该教学楼应按照（）当地房屋建筑的抗震设防要求进行设计和施工。</desc>
+        <opt ans="f">等于</opt>
+        <opt ans="t">高于</opt>
+        <opt ans="f">低于</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>地震预报意见发布后，有关省、自治区、直辖市人民政府根据预报的震情可以宣布有关区域进入（）期;有关地方人民政府应当按照地震应急预案，组织有关部门做好应急防范和抗震救灾准备工作。</desc>
+        <opt ans="f">物资保障</opt>
+        <opt ans="t">临震应急</opt>
+        <opt ans="f">应急状态</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》，负责废弃危险化学品处置监督管理的是（）。</desc>
+        <opt ans="f">应急管理部门</opt>
+        <opt ans="f">公安机关</opt>
+        <opt ans="t">生态环境部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，依法负责生产安全事故调查处理工作的是（）。</desc>
+        <opt ans="t">县级以上人民政府</opt>
+        <opt ans="f">县级以上人民政府应急管理部门</opt>
+        <opt ans="f">事故发生单位的主管部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>应急管理部门没有行政强制执行权。</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>M县发生了一起火灾事故。根据《突发事件应对法》，下列说法正确的是（）。</desc>
+        <opt ans="f">火灾发生后，M县只能逐级上报</opt>
+        <opt ans="f">只要有利于控制火灾，M县可以采取任何应对措施</opt>
+        <opt ans="t">根据灭火工作需要，M县征用了一酒店</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>张某与李某为同村，一日，张某为了生活需要到李某家买柴油，因屋内光线昏暗，张某欲点燃打火机看油量。李某担心引起火灾，上前阻止。张某坚持打燃，结果引起油桶燃烧，造成火灾，李某被火烧伤抢救无效死亡。后经检测.李某储存的柴油闪点不符合标准。张某构成的罪名是（1。</desc>
+        <opt ans="f">危险物品肇事罪</opt>
+        <opt ans="t">失火罪</opt>
+        <opt ans="f">重大责任事故罪</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>安全生产许可证有效期满需要延期的，企业应当于期满前（）个月向原安全生产许可证颁发管理机关办理延期手续。</desc>
+        <opt ans="f">1</opt>
+        <opt ans="t">3</opt>
+        <opt ans="f">6</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某餐饮企业有员工150人，应当设置安全生产管理机构或者配备专职安全生产管理人员。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》，负责依法查处寄递危险化学品的行为的是（）。</desc>
+        <opt ans="t">邮政管理部门</opt>
+        <opt ans="f">交通运输主管部门</opt>
+        <opt ans="f">市场监督管理部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>幼儿园发生火灾后，应当立即组织本校老师扑救。（}</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>除国有建设单位外，其他单位和个人不得侵占、毁损、拆除或者擅自移动地震监测设施。（1</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>煤矿未依法取榑安全生产许可证擅自从事生产的，属非法煤矿。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位不具备法律、行政法规和国家标准或者行业标准规定的安全生产条件的，不得从事生产经营活动。{}</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>对于实施危害生产安全犯罪适用缓刑的犯罪分子，可以禁止其在缓刑考验期限内从事与安全生产相关联的特定活动。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，全国人民代表大会和全国人民代表大会常务委员会行使国家H。</desc>
+        <opt ans="f">司法权</opt>
+        <opt ans="t">立法权</opt>
+        <opt ans="f">行政权</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>核电站所在地地方政府应建设核电站专用地震监测台网或强震动监测设施，并承担其运行经费，做好核电站防震减灾工作。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>负有安全生产监督管理职责的部门对检查中发现的安全生产违法行为，有权依照《安全生产法》和其他有关法律、行政法规的规定作出行政处罚决定。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国务院住房和城乡建设主管部门规定的特殊建设工程，建设单位应当依法自行组织审查并对审查结果负责。{&gt;</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>公司、企业、事业单位的工作人员不会构成玩忽职守罪。（}</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>明知是有关突发事件事态发展或者应急处置工作的虚假信息而进行传播的，应当受到行政处罚。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>应急管理局可以委托依法成立的安全监管执法大队实施行政处罚。（&gt;</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《国务院关于预防煤矿生产安全事故的特别规定》，（）是预防煤矿生产安全事故的责任主体。</desc>
+        <opt ans="f">采煤班组</opt>
+        <opt ans="f">生产矿井</opt>
+        <opt ans="t">煤矿企业</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>（）是新中国成立以来第_部以1•法典••命名的法律，是新时代我国社会主义法治建设的重大成果。</desc>
+        <opt ans="t">《中华人民共和国民法典》</opt>
+        <opt ans="f">《中华人民共和国刑法》</opt>
+        <opt ans="f">《中华人民共和国民法通则》</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国家地震灾害紧急救援队是一支达到联合国重型救援队标准的专业地震灾害紧急救援队。根据《防震减灾法》，这支救援队在实施救援时，首先应当进行紧急救援的是（）。</desc>
+        <opt ans="f">重要资料</opt>
+        <opt ans="f">核心机密</opt>
+        <opt ans="t">压埋人员</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>在我国，公安机关有依法执行逮捕公民的权力。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政处罚法》，对当事人的同一个违法行为，不得给予两次以上（）的行政处罚。</desc>
+        <opt ans="f">责令停产停业</opt>
+        <opt ans="t">罚款</opt>
+        <opt ans="f">彆告</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>非政府组织没有突发事件信息报告义务。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>实行地方党政领导干部安全生产责任制，必须以习近平新时代中国特色社会主义思想为指导，加强组织领导，强化属地管理，完善体制机制，有效防范安全生产风险，坚决遏制（）。</desc>
+        <opt ans="f">重大生产安全事故</opt>
+        <opt ans="f">特别重大生产安全事故</opt>
+        <opt ans="t">重特大生产安全事故</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定，工会依法组织职工参加本单位()工作的民主管理和民主监督，维护职工在安全生产方面的合法权益。</desc>
+        <opt ans="f">职工权益</opt>
+        <opt ans="f">劳动保护</opt>
+        <opt ans="t">安全生产</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》，对发生交通事故负有全部责任或者主要责任的危险化学品道路运输企业，由（）责令消除安全隐患，未消除安全隐患的危险化学品运输车辆，禁止上道路行驶。</desc>
+        <opt ans="f">应急管理部门</opt>
+        <opt ans="f">交通运输主管部门</opt>
+        <opt ans="t">公安机关</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>S省发生重大突发传染病疫情。根据《突发事件应对法》，下列关于应急物资储备的做法，不正确的是（}。</desc>
+        <opt ans="f">S省与某大型连锁超市合作为疫情影响小区配送生活必需品</opt>
+        <opt ans="f">S省与本地一制药企业签订协议紧急订购一批口罩</opt>
+        <opt ans="t">S省L市临时征用了途径本地D市人民政府订购的防护服</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>A县甲公司为本地丁公司向B县乙公司订购了一定数菫的剧毒化学品，乙公司委托丙公司进行托运,选择通过道路运输所购剧毒化学品,（)应当向A县或者B县公安机关申请剧毒化学品道路运输通行证。</desc>
+        <opt ans="f">甲公司</opt>
+        <opt ans="f">乙公司</opt>
+        <opt ans="t">丙公司</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>从业人员应当接受安全生产教育和培训，掌握本职工作所需的安全生产知识，提高安全生产技能，增强事故预防和应急处理能力。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《关于推进防灾减灾救灾体制机制改革的意见》，牢固树立灾害风险管理理念，转变重救灾轻减灾思想，将（）纳入各级国民经济和社会发展总体规划，作为国家公共安全体系建设的重要内容。</desc>
+        <opt ans="f">事故救援</opt>
+        <opt ans="f">灾害预防</opt>
+        <opt ans="t">防灾减灾救灾</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位根据不同生产安全事故类型，针对具体场所、装置或者设施所制定的应急处置措施的方案是专项应急预案。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《生产安全事故报告和调查处理条例》规定的罚款的行政处罚，由应急管理部门决定。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>对主动采取补救措施，减少生产安全事故损失或者挽回社会不良影响的地方党政领导干部，应该免于追究责任。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《关于全面加强危险化学品安全生产工作的意见》.推动危险化学品企业建立安全生产内审机制和（）制度，完善风险分级管控和隐患排查治理预防机制。</desc>
+        <opt ans="f">内控</opt>
+        <opt ans="f">外控</opt>
+        <opt ans="t">承诺</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>（）周岁以上的自然人为成年人。</desc>
+        <opt ans="f">十六</opt>
+        <opt ans="t">十八</opt>
+        <opt ans="f">二十</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>安全生产违法行为举报电话是（&gt;。</desc>
+        <opt ans="f">12119</opt>
+        <opt ans="t">12350</opt>
+        <opt ans="f">12315</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某电影院在投入使用、营业前，应当向当地消防救援机构申请消防安全检查。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政强制法》，行政强制措施，是指行政机关在行政管理过程中，为制止违法行为、防止证据损毀、避免危害发生、控制危险扩大等情形，依法对公民的人身自甶实施（）限制，或者对公民、法人或者其他组织的财物实施暂时性控制的行为。</desc>
+        <opt ans="t">暂时性</opt>
+        <opt ans="f">永久性</opt>
+        <opt ans="f">长期性</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>重大、较大、一般地震灾害发生后，灾区省级人民政府根据实际工作需要组织编制地震灾后恢复重建规划。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>法律、法规授权的具有管理公共事务职能的组织能以自己的名义实施行政许可。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位必须对安全设备进行经常性维护、保养，并定期检测，保证正常运转，但对维护、保养、检测是否需要记录，由生产经营单位规章制度规定。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列做法符合《突发事件应对法》的有（）。（多选题）</desc>
+        <opt ans="f">某歌舞厅为便于管理将安全撤离通道予以封闭</opt>
+        <opt ans="t">某客运公司为下属营运公交车配备了安全锤等工具</opt>
+        <opt ans="f">某旅馆为节约成本将安全撤离通道改为储物间</opt>
+        <opt ans="t">某火车站在候车厅安装了火灾在线监测和报警装置</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政强制法》，当事人在法定期限内不申请行政复议或者提起行政诉讼，又不履行行政决定的，没有行政强制执行权的行政机关可以自期限届满之日起（）个月内，依法申请人民法院强制执行。</desc>
+        <opt ans="f">6</opt>
+        <opt ans="t">3</opt>
+        <opt ans="f">1</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>安全生产监督管理部门和对有关行业、领域的安全生产工作实施监督管理的部门，统称负有安全生产监督管理职责的部门。（}</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>任何生产经营单位有权在其内部随时使用明火作业。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>在我国发生台风、冰雹、雪、沙尘暴等气象灾害达到启动条件的，适用（）。</desc>
+        <opt ans="t">国家自然灾害救助应急预案</opt>
+        <opt ans="f">国家防汛抗旱应急预案</opt>
+        <opt ans="f">国家地震应急预案</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>申请举办焰火晚会以及其他大型焰火燃放活动，主办单位应当向有关人民政府公安部门提出申请。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》，烟花爆竹零售经营者实行专店或者专柜销售，设（）负责安全管理。</desc>
+        <opt ans="t">专人</opt>
+        <opt ans="f">兼职人员</opt>
+        <opt ans="f">专职或兼职人员</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，地方各级人民代表大会每届任期（）年。</desc>
+        <opt ans="f">三</opt>
+        <opt ans="f">四</opt>
+        <opt ans="t">五</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>经负责事故调查的人民政府同意，事故调查组才能组织专家进行技术鉴定。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>较大事故甶事故发生地的市级人民政府负责调查，且不得授权或委托有关部门组织事故调查组进行调查。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列事故的报告和调查处理不适用《生产安全事故报告和调查处理条例》的是（）。</desc>
+        <opt ans="f">建筑施工过程中工人坠落身亡事故</opt>
+        <opt ans="f">煤矿瓦斯爆炸事故</opt>
+        <opt ans="t">核设施事故</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产许可证条例》，国家对矿山企业、建筑施工企业和危险化学品、烟花爆竹、民用爆炸物品生产企业实行（）制度。</desc>
+        <opt ans="t">安全生产许可</opt>
+        <opt ans="f">登记</opt>
+        <opt ans="f">风险监控</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，应急救援队伍接到有关人民政府及其部门的救援命令或者签有应急救援协议的生产经营单位的救援请求后，()参加生产安全事故应急救援。</desc>
+        <opt ans="f">根据事故情况决定</opt>
+        <opt ans="f">可以</opt>
+        <opt ans="t">应当立即</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>因突发事件被征用的财产在使用完毕或者突发事件应急处H工作结束后，无需再返还。（}</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华人民共和国宪法》不适用于定居国外的中华人民共和国公民。</desc>
+        <opt ans="f">()</opt>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《中共中央国务院关于推进安全生产领域改革发展的意见》,()统筹提出安全生产强制性国家标准立项计划，国务院标准化行政主管部门负责及时立项、编号、对外通报、批准并发布。</desc>
+        <opt ans="t">国务院安全生产监督管理部门</opt>
+        <opt ans="f">有关部门</opt>
+        <opt ans="f">国务院标准化行政主管部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，重大危险源，是指长期地或者临时地生产、搬</desc>
+        <opt ans="t">运、使用或者储存危险物品，且危险物品的数顯（&gt;临界鼷的单元</opt>
+        <opt ans="f">等于或者超过</opt>
+        <opt ans="f">大于</opt>
+        <opt ans="f">小于</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定，生产经营单位的主要负责人和安全管理人员必须具备与本单位所从事的生产经营活动相应的（）和管理能力。</desc>
+        <opt ans="f">安全技术</opt>
+        <opt ans="f">生产经营</opt>
+        <opt ans="t">安全生产知识</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>当从业人员发现事故隐患时，可以向现场安全生产管理人员报告，也可以不报告。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，商场营业期间发生严重火灾时，下列灭火救援的做法，错误的是（）。</desc>
+        <opt ans="t">商场组织火灾现场扑救时，优先抢救责重物品</opt>
+        <opt ans="f">商场工作人员应当立即组织、引导在场人员疏散</opt>
+        <opt ans="f">消防救援机构统_组织和指挥火灾现场扑救</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》，负责烟花爆竹的公共安全管理的是()</desc>
+        <opt ans="f">应急管理部门</opt>
+        <opt ans="t">公安部门</opt>
+        <opt ans="f">质量监督检验部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《民法典》，二人以上共同实施侵权行为.造成他人损害的，应当承担（}。</desc>
+        <opt ans="f">按份责任</opt>
+        <opt ans="t">连带责任</opt>
+        <opt ans="f">过错责任</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>对因发生地震灾害，可能造成巨大财产损失和严重人员伤亡的风险，可以通过建立巨灾保险制度分散风险。国家发展有财政支持的地震灾害保险事业，（）单位和个人参加地震灾害保险。</desc>
+        <opt ans="f">强制</opt>
+        <opt ans="f">帮助</opt>
+        <opt ans="t">鼓励</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位应急预案分为综合应急预案、专项应急预案和现场处置方案。（)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，未经（）允许，事故调查组成员不得擅自发布有关事故的信息。</desc>
+        <opt ans="t">事故调查组组长</opt>
+        <opt ans="f">组织事故调查的应急管理部门主要负责人</opt>
+        <opt ans="f">负责事故调查的人民政府负责人</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《民法典》，继承从（）时开始。</desc>
+        <opt ans="f">继承人分割财产</opt>
+        <opt ans="t">被继承人死亡</opt>
+        <opt ans="f">被继承人遗瞩生效</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某采砂厂司机甲在工地内醉酒驾车将值班人员乙撞伤，急忙将乙拉到偏僻角落掩埋，致使乙死亡。甲涉嫌构成的罪名是（）。</desc>
+        <opt ans="f">构成重大责任事故罪</opt>
+        <opt ans="f">构成危险驾驶罪</opt>
+        <opt ans="t">构成故意杀人罪</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>批发企业不得向零售经营者或者个人销售专业燃放类烟花爆竹产品。</desc>
+        <opt ans="t">()</opt>
+        <opt ans="f">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产许可证条例》，不属于企业取得安全生产许可证条件的是（）。</desc>
+        <opt ans="f">制定完备的安全生产规章制度和操作规程</opt>
+        <opt ans="f">主要负责人和安全生产管理人员经考核合格</opt>
+        <opt ans="t">参加安全生产责任保险</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位的主要负责入在本单位发生生产安全事故后逃匿的，由（）处十五日以下拘留。</desc>
+        <opt ans="f">应急管理部门</opt>
+        <opt ans="t">公安机关</opt>
+        <opt ans="f">人民政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，应急救援队伍根据救援命令参加生</desc>
+        <opt ans="f">产安全事故应急救援所耗费用，由（)承担</opt>
+        <opt ans="f">应急救援队伍</opt>
+        <opt ans="t">有关人民政府</opt>
+        <opt ans="f">事故责任单位</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>市民李某发现邻居家失火，他应该拔打的报警救援电话是（）。</desc>
+        <opt ans="f">114</opt>
+        <opt ans="t">119</opt>
+        <opt ans="f">120</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《生产安全事故报告和调查处理条例》规定，事故发生单位负责人接到事故报告后，应当（）或者采取有效措施，组织抢救，防止事故扩大，减少人员伤亡和财产损失。</desc>
+        <opt ans="f">立即拨打110</opt>
+        <opt ans="t">立即启动事故相应应急预案</opt>
+        <opt ans="f">立即拨打119</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，下列说法正确的是（）。（多选题）</desc>
+        <opt ans="t">甲市对本行政区域内容易引发自然灾害的危险区域进行全面排查</opt>
+        <opt ans="t">乙市责令有关单位对容易引发事故灾难的危险源采取安全防范措施</opt>
+        <opt ans="t">丙市组织对本行政区域内容易引发重大突发事件的危险源进行监控</opt>
+        <opt ans="f">丁市出于社会稳定考虑，规定登记的危险源、危险区域一律不对外公布</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》规定，我国公民应尽的义务包括：（）。（多选题）</desc>
+        <opt ans="t">维护国家统一的义务</opt>
+        <opt ans="t">实行计划生育的义务</opt>
+        <opt ans="t">维护祖国荣誉的义务</opt>
+        <opt ans="t">依法服兵役的义务</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>事故发生后，事故现场有关人员应当立即向本单位负责人报告：单位负责人接到报告后，应当于（）小时内向事故发生地县级以上人民政府安全生产监督管理部门和负有安全生产监督筐理职责的有关部门报告。</desc>
+        <opt ans="t">1</opt>
+        <opt ans="f">2</opt>
+        <opt ans="f">3</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国家煤矿安全监察机构负责中央管理的煤矿企业安全生产许可证的颁发和管理。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，中华人民共和国全国人民代表大会是最高国家（）。它的常设机关是全国人民代表大会常务委员会。</desc>
+        <opt ans="t">权力机关</opt>
+        <opt ans="f">司法机关</opt>
+        <opt ans="f">行政机关</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》，负责危险化学品水路运输的许可以及运输工具的安全管理，对危险化学品水路运输安全实施监督的是</desc>
+        <opt ans="f">()</opt>
+        <opt ans="t">公安机关</opt>
+        <opt ans="f">交通运输主管部门</opt>
+        <opt ans="f">生态环境部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政强制法》，行政强制执行由法律设定。法律没有规定行政机关强制执行的，作出行政决定的行政机关应当申请（）强制执行。</desc>
+        <opt ans="t">人民法院</opt>
+        <opt ans="f">公安机关</opt>
+        <opt ans="f">监察机关</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>危险化学品经营企业可以向未经许可从事危险化学品生产、经营活动的企业采购危险化学品。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>法人以其全部财产独立承担民事责任。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，销售国家明令淘汰的消防产品的买卖合同（）</desc>
+        <opt ans="f">有效</opt>
+        <opt ans="t">无效</opt>
+        <opt ans="f">可撤销</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>人格权不得转让或者继承，但是可以放弃。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>安全生产许可证颁发管理机关应当加强对取得安全生产许可证的企业的监督检查，发现其不再具备《安全生产许可证条例》规定的安全生产条件的，应当（）安全生产许可证。</desc>
+        <opt ans="t">暂扣或者吊销</opt>
+        <opt ans="f">撤销</opt>
+        <opt ans="f">注销</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，自发生之日起7日内，事故造成的伤亡人数发生变化的，应当及时补报的有（）。（多选题）</desc>
+        <opt ans="f">建筑施工事故</opt>
+        <opt ans="f">煤矿冲击地压事故</opt>
+        <opt ans="t">道路交通事故</opt>
+        <opt ans="t">火灾事故</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>有关人民政府及其部门为应对突发事件.可以征用单位和个入的财</desc>
+        <opt ans="t">产。()</opt>
+        <opt ans="f">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>煤矿瓦斯超限作业的，属于重大安全生产隐患。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>行政机关负责人认为不应当采取行政强制措施的，应当立即解除。</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《生产安全事故报告和调查处理条例》规定，一般事故是指造成（）死亡，或者10人以下重伤，或者1000万元以下直接经济损失的事故。</desc>
+        <opt ans="f">3人以上</opt>
+        <opt ans="t">3人以下</opt>
+        <opt ans="f">5人以下</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《国家地震应急预案》，（）负责统一领导、指挥和协调全国抗震救灾工作。</desc>
+        <opt ans="t">国务院抗震救灾指挥部</opt>
+        <opt ans="f">地震局</opt>
+        <opt ans="f">减灾委</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》，危险化学品的包装应当符合（</desc>
+        <opt ans="t">(多选题）</opt>
+        <opt ans="t">法律</opt>
+        <opt ans="t">行政法规</opt>
+        <opt ans="t">规章</opt>
+        <opt ans="f">国家标准</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《防震减灾法》.从事防震减灾活动，应当遵守国家有关（）标准。</desc>
+        <opt ans="f">应急救援</opt>
+        <opt ans="t">防震减灾</opt>
+        <opt ans="f">地宸预防</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某建筑公司发生坍塌事故，造成20人死亡，直接经济损失300万元。根据《安全生产法》，应急管理部门对该企业处（）的罚款。</desc>
+        <opt ans="f">二十万元以上五十万元以下</opt>
+        <opt ans="f">五十万元以上一百万元以下</opt>
+        <opt ans="t">一百万元以上五百万元以下</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产许可证条例》，必须取得安全生产许可证的是（）。</desc>
+        <opt ans="f">房地产开发公司</opt>
+        <opt ans="t">采石场</opt>
+        <opt ans="f">大型设备制造企业</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我国《宪法》规定母亲和儿聿受国家的保护.这说明有些人的权利超越法律。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>张某在担任某煤矿企业的法定代表人期间，下属煤矿发生较大安全生产事故，张某被依法追究刑事责任。根据《安全生产法》，关于张某从业资格的说法，正确的是（）。</desc>
+        <opt ans="f">张某自刑罚执行完毕之日起，终身不得在煤矿就职</opt>
+        <opt ans="t">张某自刑罚执行完毕之日起，五年内不得担任任何生产经营单位的主要负责人</opt>
+        <opt ans="f">张某终身不得担任煤矿企业的主要负责人</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>煤矿不得将井下监控系统维护工作委托第三方()</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>在事故现场救援过程中，为防止事故扩大需要移动事故现场物件的，应当做出标志，绘制现场简图并做出书面记录。</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某市大型粮油加工企业发生生产安全事故，企业主要负责入立即向所在地应急管理部门报告。根据《生产安全事故报告和调查处理条例》，企业主要负贵人应当报告（）等。（多选题）</desc>
+        <opt ans="t">该企业概况</opt>
+        <opt ans="t">下落不明的人数</opt>
+        <opt ans="t">事故发生的简要经过</opt>
+        <opt ans="t">初步估计的直接经济损失</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>自然人甲依法成立了乙个人独资企业，为了获得更多收益，甲不依法保证安全生产所必需的资金投入。应急管理部门对乙个人独资企业进行检查发现这一违法行为后，责令甲限期改正，但甲迟迟不予在安全方面进行投入，导致安全生产事故的发生，造成1人死亡。根据《安全生产法»,对甲可以处（）的罚款。</desc>
+        <opt ans="t">二万元以上二十万元以下</opt>
+        <opt ans="f">上一年年收入百分之三十</opt>
+        <opt ans="f">上一年年收入百分之四十</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>负有安全生产监督管理职责的部门对涉及安全生产的事项进行审查、验收，可以收费。</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>事故发生单位为了抢救人员可以对事故现场进行适当破坏。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>县级以上地方人民政府公安机关对本行政区域内的消防工作实施监督管理。</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政处罚法》，不属于行政处罚的是（}。</desc>
+        <opt ans="f">罚款</opt>
+        <opt ans="f">没收违法所得</opt>
+        <opt ans="t">责令赔偿损失</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政许可法》，设定和实行政许可.应当遵循公开、公平、公正和（）的原则。</desc>
+        <opt ans="t">非歧视</opt>
+        <opt ans="f">歧视</opt>
+        <opt ans="f">区别对待</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>非法人组织包括个人独资企此、合伙企业和专业服务机构等。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《煤矿安全监察条例》，煤矿及其有关人员必须接受并配合煤矿安全监察机构依法实施的安全（)，不得拒绝、阻挠。</desc>
+        <opt ans="f">监督</opt>
+        <opt ans="f">监管</opt>
+        <opt ans="t">监察</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>发生突发事件，严重影响国民经济正常运行时，县级人民政府可以采取保障、控制等必要的应急措施。（}</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>企业取得安全生产许可证后，应当持续具备取得安全生产许可证的条件。（)</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>施行《危险化学品安全管理条例》的目的是为了加强（）的安全管理，预防和减少危险化学品事故，保护人民群众生命财产安全，保护环境。</desc>
+        <opt ans="f">危险化学物品</opt>
+        <opt ans="f">化学危险品</opt>
+        <opt ans="t">危险化学品</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急预案管理办法》，应急预案编制单位应当建立应急预案（）制度，对预案内容的针对性和实用性进行分析，并对应急预案是否需要修订作出结论。</desc>
+        <opt ans="t">定期评估</opt>
+        <opt ans="f">不定期评估</opt>
+        <opt ans="f">会审评价</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，下列关于生产安全事故应急救援现场指挥部的说法，正确的是（）。（多选题）</desc>
+        <opt ans="t">现场指挥部实行总指挥负责制</opt>
+        <opt ans="t">现场救援人员应当服从现场指挥部统一指挥</opt>
+        <opt ans="t">现场指挥部职权来自本级人民政府的授权</opt>
+        <opt ans="t">现场指挥部有权决定暂时撤离应急救援</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>未经许可，任何单位和个人不得经营危险化学品。（}</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>企业在安全生产许可证有效期内，严格遵守有关安全生产的法律法规，未发生死亡事故的，安全生产许可证有效期届满时，经（）同意，不再审查，安全生产许可证有效期延期3年。</desc>
+        <opt ans="f">地方人民政府负责人</opt>
+        <opt ans="f">应急管理局</opt>
+        <opt ans="t">原安全生产许可证颁发管理机关</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我国消防工作的方针是预防为主、防消结合，实行消防安全责任制。()</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某地发生一起煤矿透水事故，经多方救援，4名被困人员全部安全升井，身体状况良好。根据《生产安全事故应急条例》，负责对该透水事故救援工作进行评估的是（）。</desc>
+        <opt ans="f">当地应急局</opt>
+        <opt ans="t">事故调查组</opt>
+        <opt ans="f">现场指挥部</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>编制防震减灾规划，应当遵循统筹安排、突出重点、合理布局、全面预防的原则，以震情和震害预测结果为依据，无需考虑经济社会发展、资源环境保护。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华人民共和国民法典》已由中华人民共和国第十三届全国人民代表大会第三次会议于2020年5月28曰通过，自{)起施行。</desc>
+        <opt ans="f">2020年5月28曰</opt>
+        <opt ans="f">2020年10月1日</opt>
+        <opt ans="t">2021年1月1日</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>任何个人不得生产、经营、使用危险化学品。（)</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某矿山发生安全事故后.老板张某为逃避法律追究，不仅不组织抢救和向相关部门拫告，反而故意隐匿、遗弃事故受伤人员，掩盖事故真相，导致被困人员和被隐匿、遗弃人员死亡。根据《刑法》及其相关司法解释，张某故意隐匿、遗弃事故受伤人员造成其死亡的行为构成的罪名是（）。</desc>
+        <opt ans="f">不报安全事故罪</opt>
+        <opt ans="f">重大责任事故罪</opt>
+        <opt ans="t">故意杀人罪</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>甲市乙县的丙房地产公司在施工过程中，因起重物品脱落造成2人死亡，甲市人民政府不能调查该起事故。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中共中央国务院关于推进安全生产领域改革发展的意见》指出，到2030年，（）,全民安全文明素质全面提升，安全生产保障能力显著增强，为实现中华民族伟大复兴的中国梦奠定稳固可靠的安全生产基础。</desc>
+        <opt ans="f">安全生产监管体制机制基本成熟</opt>
+        <opt ans="t">实现安全生产治理体系和治理能力现代化</opt>
+        <opt ans="f">法律制度基本完善</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，应当建立应急值班制度，配备应急值班人员的单位是（）。</desc>
+        <opt ans="f">食品加工企业</opt>
+        <opt ans="f">街道办事处</opt>
+        <opt ans="t">建筑施工单位</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国家地震应急预案包括（）。（多选题）</desc>
+        <opt ans="t">组织体系</opt>
+        <opt ans="t">应急响应</opt>
+        <opt ans="t">指挥与协调</opt>
+        <opt ans="t">恢复重建</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《国家自然灾害救助应急预案》，（）为国家自然灾害救助应急综合协调机构I负责研究制定国家减灾工作的方针、政策和规划，协调开展重大减灾活动，指导地方开展减灾工作，推进减灾国际交流与合作，组织、协调全国抗灾救灾工作。</desc>
+        <opt ans="f">国家地震局</opt>
+        <opt ans="f">应急管理部</opt>
+        <opt ans="t">减灾委</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>加处罚款或者滞纳金的数额不得超出金钱给付义务的数额。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《刑法》一百三十四条第二款，强令他人违章冒险作业，因而发生重大伤亡事故或者造成其他严重后果，处（）以下有期徒刑或者拘役。</desc>
+        <opt ans="f">—年</opt>
+        <opt ans="f">三年</opt>
+        <opt ans="t">五年</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《行政许可法》，行政许可是指行政机关根据公民、法人或者其他组织的申请，经依法审查，（）其从事特定活动的行为。</desc>
+        <opt ans="t">准予</opt>
+        <opt ans="f">禁止</opt>
+        <opt ans="f">拒绝</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>在重大责任事故罪中，犯罪嫌疑人在安全事故发生后积、极组织、参与事故抢救，或者积极配合调查、主动赔偿损失的，可以酌情从轻处罚。()</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急预案簀理办法》，生产经营单位应当在编制应急预案的基础上，针对工作场所、岗位的特点，编制简明、实用、有效的（）。</desc>
+        <opt ans="f">操作规程</opt>
+        <opt ans="f">应急预案</opt>
+        <opt ans="t">应急处置卡</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产烟花爆竹的企业为扩大生产能力进行基本建设或者技术改造的，不用再申请办理安全生产许可证。（}</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《中共中央国务院关于推进安全生产领域改革发展的意见》，党政主要负责人是本地区安全生产第一责任人，班子其他成员对分管范围内的安全生产工作负（）责任。</desc>
+        <opt ans="f">直接</opt>
+        <opt ans="f">次要</opt>
+        <opt ans="t">领导</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中共中央国务院关于推进安全生产领域改革发展的意见》指出，到()年，安全生产监管体制机制基本成熟，法律制度碁本完善，全国生产安全事故总置明显减少，重特大生产安全事故频发努头得到有效遏制，安全生产整体水平与全面建成小康社会目标相适应。</desc>
+        <opt ans="f">2025</opt>
+        <opt ans="f">2030</opt>
+        <opt ans="t">2020</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>矿井的消防工作.由其主管单位监督管理。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>使用危险化学品的研究机构应该参照《生产安全事故应急条例》的规定执行安全事故应急工作。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《民法典》，因抢险、救灾等紧急需要.依照法律规定的权限和程序可以{)组织、个人的不动产或者动产。</desc>
+        <opt ans="f">占用</opt>
+        <opt ans="t">征用</opt>
+        <opt ans="f">征收</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》.金属冶炼单位应当将其制定的（）按照国家有关规定报送县级以上人民政府负有安全生产监督管理瓦R责的部门备案，并依法向社会公布。</desc>
+        <opt ans="f">风险防控制度</opt>
+        <opt ans="f">安全生产责任制</opt>
+        <opt ans="t">生产安全事故应急救援预案</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列事故的报告和调查处理适用《生产安全事故报告和调查处理条例》的是（}。</desc>
+        <opt ans="t">某高校食堂火灾事故</opt>
+        <opt ans="f">某化工厂甲苯大规模泄漏引发环境污染事故</opt>
+        <opt ans="f">某国防科研机构实验过程中发生的事故</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》.生产经营单位的安全生产管理人员未履行安全生产管理职责的，责令限期改正；导致发生一般生产安全事故的，应当()</desc>
+        <opt ans="t">暂停或者撤销其与安全生产有关的资格</opt>
+        <opt ans="f">对其进行事故罚款</opt>
+        <opt ans="f">追究刑事责任</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急预案管理办法》，生产经营单位应急预案不包括（）。</desc>
+        <opt ans="f">综合应急预案</opt>
+        <opt ans="f">专项应急预案</opt>
+        <opt ans="t">年度应急预案</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》，经由道路运输烟花爆竹的，应当经()许可。</desc>
+        <opt ans="t">公安部门</opt>
+        <opt ans="f">应急部门</opt>
+        <opt ans="f">交通部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>我国《民法典》规定.禁止家庭成员间的虐待和遗弃。（&gt;</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某县发生罕见自然灾窖。根据《突发事件应对法》，该县政府可以采取的应急处置措施包括（）。（多选题）</desc>
+        <opt ans="f">宣布本地区进入紧急状态</opt>
+        <opt ans="t">疏散并妥善安置受到威胁的人员</opt>
+        <opt ans="t">禁止使用有关设备、设施</opt>
+        <opt ans="t">关闭或者限制使用有关场所</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>发生生产安全事故后，有关人民政府应当立即设立应急救援现场指挥部，并指定现场指挥部总指挥9()</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产许可证条例》.国务院安全生产监督管理部门负责()的非煤矿矿山企业和危险化学品、烟花爆竹生产企业安全生产许可证的颁发和管理。</desc>
+        <opt ans="t">中央筐理</opt>
+        <opt ans="f">省级以上人民政府管理</opt>
+        <opt ans="f">大型</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>接受安全生产教肓和培训是从业人员的权利，从业人员有权拒绝安全生产教育和培训。（&gt;</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，下列应该建立专职消防队的是（）。</desc>
+        <opt ans="f">生产甲烷的中型企业</opt>
+        <opt ans="f">大豆仓储企业</opt>
+        <opt ans="t">小型民用机场</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，应当有注册安全工程师从事安全生产管理工作的生产经营单位有（）。（多选题）</desc>
+        <opt ans="t">危险物品的生产单位</opt>
+        <opt ans="t">危险物品的储存单位</opt>
+        <opt ans="t">矿山企业</opt>
+        <opt ans="t">金属冶炼单位</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，现场指挥部实行（）负责制，按照本级人民政府的授权组织制定并实施生产安全事故现场应急救援方案,协调、指挥有关单位和个人参加现场应急救援。</desc>
+        <opt ans="f">党委</opt>
+        <opt ans="f">行政首长</opt>
+        <opt ans="t">总指挥</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，电力公司应当在其高压电设施上设置明显的()</desc>
+        <opt ans="f">安全说明</opt>
+        <opt ans="t">安全警示标志</opt>
+        <opt ans="f">安全使用须知</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>应急管理部可以根据国务院的决定，在本部门的权限内，发布命令、指示和规章。（}</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，监察委员会依照法律规定独立行使（），不受行政机关、社会团体和个人的干涉。</desc>
+        <opt ans="f">侦查权</opt>
+        <opt ans="f">监督权</opt>
+        <opt ans="t">监察权</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华入民共和国安全生产法》规定，危险物品的生产、储存单位以及矿山、金属冶炼单位应当有（）从事安全生产管理工作。</desc>
+        <opt ans="f">安全咨询师</opt>
+        <opt ans="t">注册安全工程师</opt>
+        <opt ans="f">安全工程师</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某自来水公司的安全设施不符合国家规定，造成2名工人在进行管道维修作业时死亡。根据《刑法》及相关司法解释，关于犯罪主体及其罪名的说法，正确的是（）。</desc>
+        <opt ans="f">公司直接责任人员涉嫌构成重大责任事故罪</opt>
+        <opt ans="t">公司直接负责的主管人员涉嫌构成重大劳动安全事故罪</opt>
+        <opt ans="f">公司负责人涉嫌构成强令违章冒险作业罪</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>张某是甲化工企业的法定代表人，李某是该企业的安全总监，王某是该企业的小股东。根据《安全生产法》，要对甲化工企业的安全生产工作全面负责是（）。</desc>
+        <opt ans="f">李某</opt>
+        <opt ans="f">王某</opt>
+        <opt ans="t">张某</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>安全生产监督管理部门负责危险化学品登记工作。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>中共中央政治局2020年5月29日下午举行第二十次集体学习|习近平总书记在主持学习时发表了重要讲话I指出：“各级政府要以保证民法典有效实施为重要抓手推进法治政府建设I把（）作为行政决策、行政管理、行政监督的重要标尺，不得违背法律法规随意作出减损公民、法人和其他组织合法权益或增加其义务的决定。”</desc>
+        <opt ans="t">民法典</opt>
+        <opt ans="f">行政法</opt>
+        <opt ans="f">刑法</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，宪法的修改，由全国人民代表大会常务委员会或者五分之一以上的全国人民代表大会代表提议，并由全国人民代表大会以全体代表的（）以上的多数通过。</desc>
+        <opt ans="f">二分之一</opt>
+        <opt ans="t">三分之二</opt>
+        <opt ans="f">五分之三</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《关于全面加强危险化学品安全生产工作的意见》，新建化工园区由（）组织开展安全风险评估、论证并完善和落实管控措施。</desc>
+        <opt ans="f">国务院</opt>
+        <opt ans="t">省级政府</opt>
+        <opt ans="f">设区的市级政府</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>国家综合性消防救援队、专职消防队扑救火灾、应急救援，根据《消防法》，关于是否收费的说法，正确的是（）。</desc>
+        <opt ans="t">不得收取任何费用</opt>
+        <opt ans="f">适当收取费用</opt>
+        <opt ans="f">仅收取材料费</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>灾情和救灾工作稳定后，由减灾委副主任决定终止II级响应。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华入民共和国安全生产法》规定，下列选项中，不属于生产经营单位主要负责人的安全生产工作主要职责的是（）。</desc>
+        <opt ans="t">组织搞好本单位从业人员的文化娱乐</opt>
+        <opt ans="f">保证本单位安全生产投入的有效实施</opt>
+        <opt ans="f">及时、如实报告生产安全事故</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》.下列说法不正确的是（)</desc>
+        <opt ans="f">所有的矿藏、水流都属于全民所有</opt>
+        <opt ans="f">为了公共利益的需要，国家可以对土地实行征收或征用</opt>
+        <opt ans="t">土地所有权可以依照法律的规定买卖</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>下列选项属于行政处罚的有（）。（多选题）</desc>
+        <opt ans="t">责令停产停业</opt>
+        <opt ans="t">没收违法所得</opt>
+        <opt ans="f">查封场所</opt>
+        <opt ans="t">行政拘留</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急预案管理办法》，应急培训的时间、地点、内容、师资、参加人员和考核结果等情况应当如实记入本单位的（）档案。</desc>
+        <opt ans="f">技术教育培训</opt>
+        <opt ans="t">安全生产教育和培训</opt>
+        <opt ans="f">专业教育和培训</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》，负责核发危险化学品安全生产许可证、危险化学品安全使用许可证、危险化学品经营许可证和危险化学品登记工作的是（）。</desc>
+        <opt ans="t">应急管理部门</opt>
+        <opt ans="f">公安机关</opt>
+        <opt ans="f">生态环境部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《消防法》，禁止在具有火灾、爆炸危险的场所吸烟、使用明火。因施工等特殊情况；要使用明火作业的，应当按照规定事先（），采取相应的消防安全措施；作业人员应当遵守消防安全规定。</desc>
+        <opt ans="t">办理审批手续</opt>
+        <opt ans="f">向领导报告</opt>
+        <opt ans="f">做好准备工作</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某人口密集地区发生5.5级地震，初判为重大地震灾害，启动相应级别的应急响应。根据《国家地震应急预案》，领导灾区地震应急工作的应当是（）。</desc>
+        <opt ans="f">国务院抗震救灾指挥部</opt>
+        <opt ans="t">灾区所在省级抗震救灾指挥部</opt>
+        <opt ans="f">灾区所在市级抗震救灾指挥部</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>自然人的（）一律平等。</desc>
+        <opt ans="t">民事权利能力</opt>
+        <opt ans="f">民事行为能力</opt>
+        <opt ans="f">民事责任能力</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>应急管理部门应当按照分类分级监督管理的要求，制定安全生产年度监督检查计划，并按照年度监督检查计划进行监督检查()</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>消防车前往执行火灾扑救任务通过收费公路免缴车辆通行费。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定，生产经营单位的特种作业人员必须按照国家有关规定，经专门的安全作业培训，取得（），方可上岗作业。</desc>
+        <opt ans="f">合格证</opt>
+        <opt ans="t">特种作业操作资格证书</opt>
+        <opt ans="f">职业技能等级证书</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某石料加工厂已经为从业人员购买了人身意外伤害险的，可以不再参加工伤保险。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产安全事故调查组应当对应急救援工作进行评估，并在事故调查拫告中作出评估结论。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产、储存危险化学品的单位铺设的危险化学品管道如果在地下，可以不设置明显标志。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位编制应急预案时应成立编制工作小组，必须甶本单位法定代表人任组长。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>应急管理部门依法查封不符合国家标准的场所的行为属于行政强制执行。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，乡、镇人民政府以及街道办事处等地方人民政府派出机关，应当至少每（）年组织1次生产安全事故应急救援预案演练。</desc>
+        <opt ans="f">半</opt>
+        <opt ans="f">1</opt>
+        <opt ans="t">2</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>未成年人为限制民事行为能力人，但可以独立实施纯获利益的民事法律行为或者与其年龄、智力相适应的民事法律行为。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《防震减灾法》，{)应当加强对地震应急救援、地震灾后过渡性安置和恢复重建的资金、物资的筹集、分配、拨付、使用的审计，并及时公布审计结果。</desc>
+        <opt ans="f">国家地震行政主管部门</opt>
+        <opt ans="t">审计机关</opt>
+        <opt ans="f">民政部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《安全生产法》，两个以上生产经营单位在同一作业区域内进行生产经营活动，可能危及对方生产安全的，应当签订安全生产管理协议，明确各自的安全生产管理职责和应当采取的安全措施，并（）进行安全检查与协调。</desc>
+        <opt ans="t">指定专职安全生产管理人员</opt>
+        <opt ans="f">委托专职安全生产管理人员</opt>
+        <opt ans="f">委托兼职安全管理人员</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>依法取得行政许可的，可以转让该许可。（I</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，事故调查中需要进行技术鉴定的，技术鉴定所需时间{)事故调查期限。</desc>
+        <opt ans="t">不计入</opt>
+        <opt ans="f">计入</opt>
+        <opt ans="f">甶调查组确定是否计入</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《中华人民共和国民法典》被称为“社会生活百科全书”是（）的宣言书和保障书。</desc>
+        <opt ans="t">民事权利</opt>
+        <opt ans="f">民事义务</opt>
+        <opt ans="f">社会责任</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>对没收的非法烟花爆竹以及生产、经营企业弃置的废旧烟花爆竹，应当就地封存，并甶应急管理部门组织销毀、处置。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，生产安全事故应急救援预案制定单位应当及时修订相关预案的情形有（）（多选题）</desc>
+        <opt ans="t">安全生产面临的风险发生重大变化</opt>
+        <opt ans="t">在应急救援中发现预案存在重大问题</opt>
+        <opt ans="t">应急指挥机构及其职责发生调整</opt>
+        <opt ans="t">重要应急资源发生重大变化</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>中华人民共和国公民在年老、疾病或者丧失劳动能力的情况下，有从国家和社会获得物质帮助的权利。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>县级人民政府应当对本行政区域内化工园区进行风险评估。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>某石棉瓦生产企业在生产过程中，因设备故障造成5人死亡，该起事故的事故调查组可以聘请有关专家参与调查。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《煤矿安全监察条例》，煤矿建设工程安全设施设计必须经（）审查同意；未经审查同意的，不得施工。</desc>
+        <opt ans="f">国家能源局</opt>
+        <opt ans="t">煤矿安全监察机构</opt>
+        <opt ans="f">应急管理局</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》，()统一领导本行政区域内的生产安全事故应急工作。</desc>
+        <opt ans="t">县级以上地方人民政府</opt>
+        <opt ans="f">应急管理部</opt>
+        <opt ans="f">县级以上人民政府应急管理部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>甲煤矿企业可以与矿工签订协议，约定&quot;工伤概不负责”()</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>应急管理局可以委托国有大型企业实施行政处罚。{)</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》，（）应当加强对危险等级较高的焰火晚会以及其他大型焰火燃放活动的监督检查。</desc>
+        <opt ans="f">应急部门</opt>
+        <opt ans="t">公安部门</opt>
+        <opt ans="f">环境部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>行政处罚由违法行为发生地的县级以上地方人民政府具有行政处罚权的行政机关管辖。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹管理条例》，下列属于烟花爆竹的有（）。（多选题）</desc>
+        <opt ans="t">黑火药</opt>
+        <opt ans="f">雷管</opt>
+        <opt ans="t">烟火药</opt>
+        <opt ans="t">引火线</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》，需要取得许可的有（）。（多选题）</desc>
+        <opt ans="t">烟花爆竹的生产</opt>
+        <opt ans="t">烟花爆竹的经营</opt>
+        <opt ans="t">烟花爆竹的运输</opt>
+        <opt ans="t">举办焰火晚会</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营单位的安全生产管理人员对本单位的安全生产工作全面负责。（)</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>应急救援队伍根据救援命令参加生产安全事故应急救援所耗费用，由有关人民政府承担。</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》，任何单位和个人对违反本条例规定的行为，有权向（）的部门举报。</desc>
+        <opt ans="t">负有危险化学品安全监督管理职责</opt>
+        <opt ans="f">本单位负责安全管理职责</opt>
+        <opt ans="f">本单位负责危险化学品安全保卫职责</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>煤矿企业负责人和生产经营管理人员应当按照国家规定轮流带班下井，并建立下井登记档案。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，（）应当建立或者确定本地区统一的突发事件信息系统，汇集、储存、分析、传输有关突发事件的信息。</desc>
+        <opt ans="t">县级以上地方各级人民政府</opt>
+        <opt ans="f">各地应急管理部门</opt>
+        <opt ans="f">各地公安部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>行政机关不得因当事人申辩而加重处罚。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，突发事件的特征有（）。（多选题）</desc>
+        <opt ans="t">突发性</opt>
+        <opt ans="t">危险性</opt>
+        <opt ans="t">不确定性</opt>
+        <opt ans="t">紧迫性</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>地方各级党委和政府主要负责人是本地区安全生产第一责任人，班子其他成员对分管范围内的安全生产工作负领导责任。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故应急条例》下列关于生产安全事故应急救援预案演练的做法，正确的是（）。（多选题）</desc>
+        <opt ans="t">某街道办事处每2年组织1次预案演练</opt>
+        <opt ans="f">某滇政府每3年组织1次预案演练</opt>
+        <opt ans="f">某宾馆每年组织1次预案演练</opt>
+        <opt ans="t">某购物中心每半年组织1次预案演练</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>全国防灾减灾日是经中华人民共和国国务院批准而设立，自2009年起，每年（）为全国防灾减灾日。</desc>
+        <opt ans="f">8月12日</opt>
+        <opt ans="t">5月12日</opt>
+        <opt ans="f">3月12日</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>地方党政主要负责人是本地区安全生产第一责任人。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>甲县一化工厂发生火灾事故，造成1人死亡，直接经济损失20万元。根据《消防法》，负责火灾现场勘验、调査情况和有关的检验、鉴定意见，及时制作火灾事故认定书的是（）</desc>
+        <opt ans="f">火灾事故调查组</opt>
+        <opt ans="f">甲县人民政府</opt>
+        <opt ans="t">消防救援机构</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>生产经营项目、场所发包或者出租给其他单位的，生产经营单位可以与其他承包单位约定不再承担安全生产责任。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》，负责烟花爆竹安全生产监督管理的是（）。</desc>
+        <opt ans="t">应急管理部门</opt>
+        <opt ans="f">公安部门</opt>
+        <opt ans="f">质量监督检验部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>《生产安全事故报告和调查处理条例》规定，根据事故的具体情况，事故调查组由（）等派人组成。</desc>
+        <opt ans="t">有关人民政府</opt>
+        <opt ans="t">应急管理部门</opt>
+        <opt ans="t">公安机关</opt>
+        <opt ans="t">工会</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《防震减灾法》，（&gt;和省、自治区、直辖市人民政府负责管理地震工作的部门或者机构，负责审定建设工程的地震安全性评价报告.确定抗震设防要求。</desc>
+        <opt ans="t">国务院地震工作主管部门</opt>
+        <opt ans="f">国务院</opt>
+        <opt ans="f">减灾委</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《宪法》，中华人民共和国公民的（）不受侵犯。禁止用任何方法对公民进行侮辱、诽谤和诬告陷害。</desc>
+        <opt ans="f">财产</opt>
+        <opt ans="t">人格尊严</opt>
+        <opt ans="f">经济利益</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>非法人组织是不同于法人的但具有法人资格的组织。</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>具有管理公共事务职能的组织不可能有行政处罚权。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>法律面前人人平等，因此对人大代表的逮捕程序和普通公民适用的程序相同。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《生产安全事故报告和调查处理条例》，道路交通事故、火灾事故自发生之日起（）日内，事故造成的伤亡人数发生变化的，应当及时补报。</desc>
+        <opt ans="t">7</opt>
+        <opt ans="f">10</opt>
+        <opt ans="f">30</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>法律、行政法规可以设定各种行政处罚。（）</desc>
+        <opt ans="f">正确</opt>
+        <opt ans="t">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>消防救援机构应当对各类机关遵守消防法律、法规的情况依法进行监督检查。</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》，负责核发危险化学品及其包装物、容器生产企业的工业产品生产许可证的是（）。</desc>
+        <opt ans="f">应急管理部门</opt>
+        <opt ans="t">质量监督检验检疫部门</opt>
+        <opt ans="f">生态环境部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《烟花爆竹安全管理条例》，负责颁发《焰火燃放许可证》的是()</desc>
+        <opt ans="f">应急部门</opt>
+        <opt ans="t">公安部门</opt>
+        <opt ans="f">环境部门</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>对查封的场所、设施或者财物，应急管理部门可以委托第三人保管。()</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>根据《突发事件应对法》，突发事件应对工作实行（）为主、预防与应急相结合的原则。</desc>
+        <opt ans="f">应急</opt>
+        <opt ans="t">预防</opt>
+        <opt ans="f">救援</opt>
+    </qstn>
+    <qstn type="m-choise" cust="0">
+        <desc>未成年人也有依法参加防震减灾活动的义务。（）</desc>
+        <opt ans="t">正确</opt>
+        <opt ans="f">错误</opt>
+    </qstn>
+</library>
