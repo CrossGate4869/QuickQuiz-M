@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <key>QuickQuiz</key>
+    <title>安全合格证题库</title>
+    <qstn type="s-choise" cust="0">
+        <desc>各市党委每(   )、县（市、区）党委每季度由其主要负责人带队至少调研1次安全生产工作；各级负有安全监管职责的部门和各市政府每半年、县（市、区）政府每季度由其主要负责人带队至少检查1次安全生产工作；乡镇（街道）党政主要负责人每月至少带队检查1次安全生产工作。</desc>
+        <opt ans="f">月</opt>
+        <opt ans="f">季度</opt>
+        <opt ans="t">半年</opt>
+        <opt ans="f">年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国有企业要切实发挥示范引领作用，主动接受(  )监管。</desc>
+        <opt ans="f">安监部门</opt>
+        <opt ans="t">属地</opt>
+        <opt ans="f">公安机关</opt>
+        <opt ans="f">国资委</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>矿山等高危生产经营单位之外的其他生产经营单位，从业人员超过100人的，应独立设立专门安全生产管理机构，按照不低于从业人员数量( )、不少于3人配备专职安全生产管理人员；从业人员30至100人的，应配备不少于2人的专职安全生产管理人员；从业人员30人以下的，应配备兼职安全生产管理人员，或者委托服务机构参与安全管理。</desc>
+        <opt ans="t">1%</opt>
+        <opt ans="f">2%</opt>
+        <opt ans="f">3%</opt>
+        <opt ans="f">4%</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>严格(  )挂牌督办和安全生产整改令制度，向社会公布重大隐患整改措施、期限、责任单位和督办部门。</desc>
+        <opt ans="f">重大安全风险</opt>
+        <opt ans="t">重大隐患</opt>
+        <opt ans="f">风险预警控制</opt>
+        <opt ans="f">风险分级管控</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业应建立全过程安全生产和职业健康管理制度，做到安全责任、管理、投入、培训和应急救援“五到位”，实行(  )，严格落实主体责任。</desc>
+        <opt ans="f">全员安全生产责任制度</opt>
+        <opt ans="t">安全风险和隐患双清单管理</opt>
+        <opt ans="f">安全风险分级管控管理</opt>
+        <opt ans="f">安全生产责任保险制度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为了加强（     ）工作，防止和减少生产安全事故,保障人民群众生命和财产安全，促进经济社会持续健康发展，根据《中华人民共和国安全生产法》等有关法律、行政法规的规定，结合河北省实际，制定河北省安全生产条例。</desc>
+        <opt ans="t">安全生产</opt>
+        <opt ans="f">环境卫生</opt>
+        <opt ans="f">节能减排</opt>
+        <opt ans="f">安全防护</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：（     ）级以上人民政府应当将安全生产纳入本地区国民经济和社会发展规划，制定实施安全生产规划。安全生产规划应当与城乡规划相衔接。</desc>
+        <opt ans="f">省</opt>
+        <opt ans="f">市</opt>
+        <opt ans="t">县</opt>
+        <opt ans="f">乡</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：(     ）是安全生产的责任主体，对本单位安全生产工作全面负责。</desc>
+        <opt ans="f">主要负责人</opt>
+        <opt ans="t">生产经营单位</opt>
+        <opt ans="f">董事长</opt>
+        <opt ans="f">实际控制人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位的（     ）是本单位安全生产第一责任人。</desc>
+        <opt ans="t">主要负责人</opt>
+        <opt ans="f">董事长</opt>
+        <opt ans="f">工会主席</opt>
+        <opt ans="f">总经理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位的其他负责人对其分管工作范围内的安全生产承担（     ）责任。</desc>
+        <opt ans="f">综合领导</opt>
+        <opt ans="f">全面领导</opt>
+        <opt ans="t">直接领导</opt>
+        <opt ans="f">相应领导</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位制定或者修改有关安全生产的规章制度，应听取（     ）意见。</desc>
+        <opt ans="f">职工代表大会</opt>
+        <opt ans="t">工会</opt>
+        <opt ans="f">安全管理部门</opt>
+        <opt ans="f">上级主管部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位应当建立健全全员安全生产（     ）。</desc>
+        <opt ans="f">保障制度</opt>
+        <opt ans="f">主体责任</opt>
+        <opt ans="t">责任制度</opt>
+        <opt ans="f">投入制度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位安全生产教育培训应当遵守下列规定：每年至少进行（     ）次全员教育培训。</desc>
+        <opt ans="t">1</opt>
+        <opt ans="f">2</opt>
+        <opt ans="f">3</opt>
+        <opt ans="f">4</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位的主要负责人每年至少组织并参与（     ）次生产安全事故应急救援演练。</desc>
+        <opt ans="t">1</opt>
+        <opt ans="f">2</opt>
+        <opt ans="f">3</opt>
+        <opt ans="f">4</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位的主要负责人每（     ）向职工大会或者职工代表大会报告安全生产工作和个人履行安全生产管理职责的情况。</desc>
+        <opt ans="t">年</opt>
+        <opt ans="f">季</opt>
+        <opt ans="f">月</opt>
+        <opt ans="f">周</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位的从业人员应当在每次上岗前进行岗位（     ），确认安全后方可进行操作。</desc>
+        <opt ans="f">安全巡视</opt>
+        <opt ans="t">安全检查</opt>
+        <opt ans="f">安全交底</opt>
+        <opt ans="f">安全交接</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：矿山、金属冶炼单位以及危险物品的生产、储存单位，应当按照一定（     ）配备注册安全工程师从事安全生产管理工作；</desc>
+        <opt ans="f">规定</opt>
+        <opt ans="f">要求</opt>
+        <opt ans="t">比例</opt>
+        <opt ans="f">标准</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：本省推行安全生产责任保险制度。在矿山、金属冶炼、建筑施工、交通运输、危险化学品、烟花爆竹、民用爆炸物品、渔业生产等高危行业领域（     ）实施投保安全生产责任险；</desc>
+        <opt ans="f">鼓励</opt>
+        <opt ans="t">强制</opt>
+        <opt ans="f">必须</opt>
+        <opt ans="f">推行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：（     ）的待遇不得低于同级同职其他岗位管理人员，并享受国家和本省规定的有关待遇。</desc>
+        <opt ans="f">安全管理人员</opt>
+        <opt ans="t">专职安全生产管理人员</opt>
+        <opt ans="f">主管安全负责人</opt>
+        <opt ans="f">主要负责人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位的主要负责人和安全生产管理人员应当接受有关安全生产的教育和培训，具备相应的（     ）和管理能力。</desc>
+        <opt ans="t">安全生产知识</opt>
+        <opt ans="f">环保知识</opt>
+        <opt ans="f">安全知识</opt>
+        <opt ans="f">管理知识</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：矿山、金属冶炼、建筑施工、道路运输和危险物品的生产、经营、储存、装卸单位，其主要负责人和安全生产管理人员，自任职之日起（     ）内，应当由主管的负有安全生产监督管理职责的部门对其安全生产知识和管理能力考核合格。</desc>
+        <opt ans="f">一年</opt>
+        <opt ans="t">六个月</opt>
+        <opt ans="f">三个月</opt>
+        <opt ans="f">一个月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：储存和堆放危险物品的港口、码头、仓库或者物流中心等场所的设计、建设应当符合国家设计规范和（     ）。 </desc>
+        <opt ans="f">安全距离</opt>
+        <opt ans="t">安全防护距离</opt>
+        <opt ans="f">一定距离</opt>
+        <opt ans="f">安全间距</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：涉氨涉氯等有毒有害作业场所的生产经营单位除应当符合前款规定外，还应当（     ）检验储存装置，在储存、使用区域设置泄露收集处理装置和事故排水系统，在操作岗位设置洗眼器、淋洗器，配备空气呼吸器、防毒面具以及相关急救药品。</desc>
+        <opt ans="f">严格</opt>
+        <opt ans="f">不定期</opt>
+        <opt ans="t">定期</opt>
+        <opt ans="f">随机</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：承保安全生产责任险的（     ）应当参与生产经营单位的风险评估管控，为投保安全生产责任险的生产经营单位提供生产安全事故预防、安全生产宣传教育培训等服务。</desc>
+        <opt ans="t">保险公司</opt>
+        <opt ans="f">主管部门</opt>
+        <opt ans="f">生产单位</opt>
+        <opt ans="f">负有安全监督职责部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：（     ）应当依法参加工伤保险，为从业人员缴纳保险费。</desc>
+        <opt ans="f">有关部门</opt>
+        <opt ans="t">生产经营单位</opt>
+        <opt ans="f">高危岗位人员</opt>
+        <opt ans="f">特种作业人员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位应当落实重大危险源监测监控管理责任，制定重大危险源应急预案，每（     ）至少组织一次演练。</desc>
+        <opt ans="f">年</opt>
+        <opt ans="t">半年</opt>
+        <opt ans="f">季</opt>
+        <opt ans="f">月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：学校、科研院所、医疗机构等自办工厂、公司、商场（     ）进行监督管理。</desc>
+        <opt ans="f">有关法律规定</opt>
+        <opt ans="t">生产经营单位</opt>
+        <opt ans="f">有关条例</opt>
+        <opt ans="f">有关有求</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：车站、地铁站、码头、机场、歌舞厅、影剧院、体育场（     ）擅自改变场所建筑的主体和承重结构。</desc>
+        <opt ans="t">不得</opt>
+        <opt ans="f">经负责人批准可以</opt>
+        <opt ans="f">经主管部门批准可以</opt>
+        <opt ans="f">经中介机构批准可以</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：学校、幼儿园、科研院所、医疗机构、养老机构应当制定和完善应急救援预案，并每年至少组织（     ）次应急演练。</desc>
+        <opt ans="f">1</opt>
+        <opt ans="t">2</opt>
+        <opt ans="f">3</opt>
+        <opt ans="f">4</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：（     ）应当在经营范围内对服务区域的服务对象进行安全宣传、组织应急演练。41</desc>
+        <opt ans="t">物业服务企业</opt>
+        <opt ans="f">居委会</opt>
+        <opt ans="f">社区</opt>
+        <opt ans="f">街道办事处</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位应当建立生产安全事故评估制度。发生生产安全事故后，生产经营单位应当立即结合事故调查自行或者委托组织安全生产状况评估。发生一般生产安全事故的，应当对发生事故的（     ）进行安全生产状况评估。</desc>
+        <opt ans="f">单位</opt>
+        <opt ans="t">单元</opt>
+        <opt ans="f">车间</opt>
+        <opt ans="f">场所</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位应当建立生产安全事故评估制度。发生生产安全事故后，生产经营单位应当立即结合事故调查自行或者委托组织安全生产状况评估。发生较大以上生产安全事故的，应当对（     ）进行安全生产状况评估。</desc>
+        <opt ans="f">现场</opt>
+        <opt ans="f">事故现场</opt>
+        <opt ans="t">本单位</opt>
+        <opt ans="f">重大危险源</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>到（     ）年，构建形成点、线、面有机结合、无缝对接的安全风险分级管控和隐患排查治理双重预防性工作体系。</desc>
+        <opt ans="f">2017</opt>
+        <opt ans="t">2018</opt>
+        <opt ans="f">2019</opt>
+        <opt ans="f">2020</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>建立完善安全（     ）公告制度，并加强风险教育和技能培训，确保管理层和每名员工都掌握安全风险的基本情况及防范、应急措施。</desc>
+        <opt ans="t">风险</opt>
+        <opt ans="f">培训</opt>
+        <opt ans="f">技术</opt>
+        <opt ans="f">管理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对存在重大安全风险的工作场所和岗位，要设置明显（     ）标志，并强化危险源监测和预警。</desc>
+        <opt ans="f">提示</opt>
+        <opt ans="t">警示</opt>
+        <opt ans="f">说明</opt>
+        <opt ans="f">文化</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>加强（     ）运行安全风险辨识、评估和预警，建立完善覆盖城市运行各环节的城市安全风险分级管控体系。</desc>
+        <opt ans="t">城市</opt>
+        <opt ans="f">企业</opt>
+        <opt ans="f">小学</opt>
+        <opt ans="f">车站</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>要加强（     ）能力建设，健全完善应急响应体制机制，优化应急资源配备，完善应急预案，提高城市运行应急保障水平。</desc>
+        <opt ans="t">应急</opt>
+        <opt ans="f">学习</opt>
+        <opt ans="f">节能</opt>
+        <opt ans="f">规划</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>把（     ）纳入地方经济社会和城镇发展总体规划，在城乡规划建设管理中，充分考虑安全因素，特别是城市地下公用基础设施如石油天然气管道、城镇燃气管线等安全问题。</desc>
+        <opt ans="t">安全生产</opt>
+        <opt ans="f">环境保护</opt>
+        <opt ans="f">计划生育</opt>
+        <opt ans="f">节能降耗</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>彻底排查整治安全隐患，企事业单位对安全隐患的排查覆盖率和整治到位率均要达到（     ）</desc>
+        <opt ans="t">100%</opt>
+        <opt ans="f">90%</opt>
+        <opt ans="f">80%</opt>
+        <opt ans="f">50%</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（     ）工作内在规律与特点，要求构建双重预防性工作机制。</desc>
+        <opt ans="t">安全生产</opt>
+        <opt ans="f">环境保护</opt>
+        <opt ans="f">节能降耗</opt>
+        <opt ans="f">技术创新</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对不同类别的安全风险，采用相应的（     ）评估方法确定安全风险等级。</desc>
+        <opt ans="t">风险</opt>
+        <opt ans="f">质量</opt>
+        <opt ans="f">技术</opt>
+        <opt ans="f">规划</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>重大安全风险应填写清单、汇总造册，按照职责范围报告属地负有（     ）职责的部门</desc>
+        <opt ans="f">环境保护</opt>
+        <opt ans="t">安全生产监督管理</opt>
+        <opt ans="f">规划</opt>
+        <opt ans="f">消防</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》生产经营单位应当按照国家有关规定将本单位重大危险源及有关安全措施、应急措施报有关地方人民政府负责安全生产监督的部门和有关部门（    ）。</desc>
+        <opt ans="t">备案</opt>
+        <opt ans="f">审批</opt>
+        <opt ans="f">许可</opt>
+        <opt ans="f">备查</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》县级以上各级人民政府应当根据本行政区域内安全生产状况，组织有关部门按照职责分工，对本行政区内容易发生重大事故的生产经营单位进行（    ）。</desc>
+        <opt ans="f">定期检查</opt>
+        <opt ans="t">严格检查</opt>
+        <opt ans="f">不定期检查</opt>
+        <opt ans="f">评价</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》生产经营单位必须（     ）依法制定的保障安全生产的国家标准和行业标准。</desc>
+        <opt ans="f">参考</opt>
+        <opt ans="f">参照</opt>
+        <opt ans="f">遵守</opt>
+        <opt ans="t">执行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》生产经营单位应当具备安全生产条件所必需的（     ），由生产经营单位的决策机构、主要负责人或者个人经营的投资人予以保证，并对由于安全生产所必需的资金投入不足导致的后果承担责任。</desc>
+        <opt ans="f">人力</opt>
+        <opt ans="f">技术</opt>
+        <opt ans="f">安全管理机构</opt>
+        <opt ans="t">资金投入</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》生产经营单位应当按照规定提取和使用安全生产费用，专门用于改善 （   ）。安全生产费用在成本中据实列支。</desc>
+        <opt ans="t">安全生产条件</opt>
+        <opt ans="f">作业环境条件</opt>
+        <opt ans="f">劳动保护</opt>
+        <opt ans="f">防尘防毒等</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》生产经营单位应当建立安全生产（     ）档案，如实记录安全生产教育和培训的时间、内容、参加人员以及考核结果等情况。</desc>
+        <opt ans="f">安全检查</opt>
+        <opt ans="f">隐患治理</opt>
+        <opt ans="t">教育和培训</opt>
+        <opt ans="f">基础</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》生产经营单位对重大危险源应当（     ），进行定期检测、评估、</desc>
+        <opt ans="f">监督检查</opt>
+        <opt ans="t">登记建档</opt>
+        <opt ans="f">备案</opt>
+        <opt ans="f">审批</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>依据《安全生产法》的规定，生产经营单位（    ）工程项目的安全设施，必须与主体工程同时设计、同时施工、同时投入生产和使用。</desc>
+        <opt ans="f">新建、扩建、引进</opt>
+        <opt ans="t">新建、扩建、改建</opt>
+        <opt ans="f">扩建、改建、翻修</opt>
+        <opt ans="f">新建、改建、装修</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位场所和员工宿舍应当设有符合紧急疏散要求、标志明显、保持畅通的（     ）。</desc>
+        <opt ans="f">走廊</opt>
+        <opt ans="f">通道</opt>
+        <opt ans="f">隔离间</opt>
+        <opt ans="t">出口</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位管理人员在检查中发现（      ），依照前款规定向本单位有关负责人报告，有关负责人不及时处理的，安全管理人员可以向主管的负有安全生煎监督管理职责的部门报告，接到报告后的部门应当依法及时处理。</desc>
+        <opt ans="f">重大问题</opt>
+        <opt ans="t">重大事故隐患</opt>
+        <opt ans="f">重大危险</opt>
+        <opt ans="f">事故隐患</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位应当安排用于配备劳动防护用品、进行安全生产培训的（      ）。</desc>
+        <opt ans="t">经费</opt>
+        <opt ans="f">机构</opt>
+        <opt ans="f">人员</opt>
+        <opt ans="f">预案</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位发生安全生产事故时，单位主要负责人应当立即组织抢救，并不得在事故调查处理期间（      ）。</desc>
+        <opt ans="f">出国考察</opt>
+        <opt ans="f">休假</opt>
+        <opt ans="t">擅离职守</opt>
+        <opt ans="f">出差</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>到（     ）年，安全生产监管体制机制基本成熟，法律制度基本完善，全国生产安全事故总量明显减少，职业病危害防治取得积极进展，重特大生产安全事故频发势头得到有效遏制，安全生产整体水平与全面建成小康社会目标相适应。</desc>
+        <opt ans="t">2020</opt>
+        <opt ans="f">2025</opt>
+        <opt ans="f">2030</opt>
+        <opt ans="f">2049</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（     ）对本单位安全生产和职业健康工作负全面责任。</desc>
+        <opt ans="t">企业</opt>
+        <opt ans="f">总经理</opt>
+        <opt ans="f">安全部长</opt>
+        <opt ans="f">工会</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业实行全员安全生产责任制度，法定代表人和实际控制人同为安全生产（     ）责任人。</desc>
+        <opt ans="t">第一</opt>
+        <opt ans="f">第二</opt>
+        <opt ans="f">第三</opt>
+        <opt ans="f">第四</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（     ）负有安全生产技术决策和指挥权，强化部门安全生产职责，落实一岗双责。</desc>
+        <opt ans="t">主要技术负责人</opt>
+        <opt ans="f">班长</opt>
+        <opt ans="f">安全员</opt>
+        <opt ans="f">生产科长</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>健全省、市、（     ）三级安全生产应急救援管理工作机制，建设联动互通的应急救援指挥平台。</desc>
+        <opt ans="f">乡</opt>
+        <opt ans="t">县</opt>
+        <opt ans="f">村</opt>
+        <opt ans="f">户</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>依托公安消防、（     ）、工业园区等应急救援力量，加强矿山和危险化学品等应急救援基地和队伍建设，实行区域化应急救援资源共享。</desc>
+        <opt ans="t">大型企业</opt>
+        <opt ans="f">超市</opt>
+        <opt ans="f">小学校</opt>
+        <opt ans="f">影剧院</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>高危项目审批必须把安全生产作为前置条件，城乡规划布局、设计、建设、管理等各项工作必须以（     ）为前提，实行重大安全风险“一票否决”。</desc>
+        <opt ans="t">安全</opt>
+        <opt ans="f">节能</opt>
+        <opt ans="f">成本</opt>
+        <opt ans="f">效益</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>树立隐患就是事故的观念，建立健全隐患排查治理制度、重大隐患治理情况向负有安全生产监督管理职责的部门和企业（     ） “双报告”制度。</desc>
+        <opt ans="f">工会</opt>
+        <opt ans="t">职代会</opt>
+        <opt ans="f">市场部</opt>
+        <opt ans="f">规划部</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中共中央国务院关于推进安全生产领域改革意见》要求：健全社会化服务体系。将（     ）专业技术服务纳入现代服务业发展规划，培育多元化服务主体。</desc>
+        <opt ans="t">安全生产</opt>
+        <opt ans="f">环境保护</opt>
+        <opt ans="f">节能降耗</opt>
+        <opt ans="f">计划生育</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>发挥市场机制推动作用。取消安全生产风险抵押金制度，建立健全（     ）责任保险制度</desc>
+        <opt ans="f">技术创新</opt>
+        <opt ans="f">标准化</opt>
+        <opt ans="f">定额</opt>
+        <opt ans="t">安全生产</opt>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>加强外委施工以及危险性较高临时作业的安全管理，严禁将生产经营项目、场所、设备发包、出租给不具备安全生产条件或相应资质的单位和个人。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>鼓励企业订单式、协作式购买运用安全生产管理和技术服务。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>坚持问责与整改并重，充分发挥事故查处对加强和改进安全生产工作的促进作用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>高危项目审批必须严把安全生产入口关，城乡规划布局、设计、建设、管理等各项工作必须以安全为前提，实行重大安全事故隐患 “一票否决”。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>实行隐患自查自改自报管理，落实重大隐患治理情况向负有安全监管职责的部门和企业职工代表大会“双报告”制度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>河北省十二届人大五次会议通过的《河北省安全生产条例》将于3月1日起施行。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位的主要负责人是指有限责任公司、股份有限公司的董事长和总经理，其他生产经营单位的厂长、经理、矿长，以及对生产经营活动有决策权的实际控制人。（     ）。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：在本省行政区域内从事生产经营活动的单位</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：安全生产工作坚持分级负责、属地管理，遵循管行业、管业务、管生产经营可以管安全和谁主管谁负责的原则；</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位应当将重大危险源存在的危险因素和应急措施及时如实告知从业人员和相关人员，在醒目位置设置警示标志，并按照有关规定将重大危险源及其有关安全措施、应急预案报安全生产监督管理部门备案。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：县级以上人民政府应当将安全生产纳入本地区国民经济和社会发展规划，制定实施安全生产规划。安全生产规划不必与城乡规划相衔接。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位应当在易燃烧、易爆炸、中毒、腐蚀、窒息、灼伤、高温、噪声、粉尘、泄漏、触电、倾覆、撞击、坠落、坠物、碾轧、滑坡、坍塌等有较大危险、危害因素的生产经营场所进出口以及关键部位和有关设施、设备上，设置明显的标志。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：矿山、金属冶炼单位以及危险物品的生产、储存单位，应当配备注册安全工程师从事安全生产管理工作；鼓励其他生产经营单位聘用注册安全工程师从事安全生产管理工作。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位应当为从业人员提供符合国家标准或者行业标准的劳动防护用品，并监督、教育从业人员按照规定佩戴、使用。特殊情况下可以用货币或者其他物品代替劳动防护用品。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：学校、幼儿园、科研院所、医疗机构、养老机构可以将闲置房屋、场地用于危险物品的生产、经营、储存、装卸活动。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位的主要负责人定期主持召开安全生产例会，听取工作汇报，协调解决重大问题，形成会议纪要。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：要建立覆盖省、市、县、乡四级的安全生产责任体系，按照职责分工加强安全生产监督管理规范化建设，实行安全生产网格化管理。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位委托安全生产协会组织和中介服务机构提供安全生产技术、管理服务的，保证安全生产的责任由提供服务单位负责。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位应当加强班组建设，强化以岗位为核心的安全生产管理，建立班组和岗位人员交接班安全交底、班前会提示讲解、班后会评点分析等安全管理制度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：矿山、建筑施工单位以及危险化学品、烟花爆竹、民用爆炸物品生产单位应当依法向有关部门申请办理安全生产许可证。未依法取得安全生产许可证或者其他安全生产行政许可的生产经营单位，可以在保证安全的情况下从事生产经营活动。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：县级以上人民政府应当建立完善安全生产应急救援管理工作机制，建设联动互通的应急救援指挥平台，依托公安消防、大型企业、工业园区、社会服务机构等应急救援力量，加强应急救援基地和队伍建设。鼓励和支持生产经营单位和其他社会力量建立应急救援队伍，提高应急救援的专业化水平，实现区域应急救援资源共享。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：矿山、金属冶炼、建筑施工、城市轨道交通、客运索道运营等单位和危险物品的生产、经营、储存单位应当建立应急救援组织，配备相应的应急救援器材、设备和物资，并定期进行演练；规模较小的单位，不具备应急救援人员的，可与邻近的应急救援组织签订应急救援协议。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：本省推行安全生产责任保险制度。在矿山、金属冶炼、建筑施工、交通运输、危险化学品、烟花爆竹、民用爆炸物品、渔业生产等高危行业领域实行投保安全生产责任险；鼓励和推动其他生产经营单位投保安全生产责任险。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：任何单位和个人不得为未取得安全生产许可证或者其他安全生产行政许可而非法从事该项生产经营活动的生产经营单位提供原辅材料、生产经营场所、运输、保管、仓储等条件。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：矿山、金属冶炼建设项目和用于生产、储存、装卸危险物品的建设项目竣工后，其试运行时间应当不少于三十日，但不超过二百八十日。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：微小企业的操作岗位和安全生产事故隐患排查治理方面的安全生产标准化内容，由县级以上人民政府制定。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位应当对发现的风险因素和事故隐患及时管控、整改。隐患整改应当制定方案，落实责任、措施、时限和预案；对因限于物质、技术等条件不能及时整改的事故隐患，应当采取必要的安全防范措施。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位应当按照一人一档的要求建立安全生产教育培训档案，如实记录教育培训时间、内容、考核结果等。培训考核结果应当由生产经营单位主要负责人和从业人员本人签名。安全生产教育培训考核不合格的，不得上岗作业。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：县级以上人民政府应当完善生产安全事故调查处理机制，建立生产安全事故调查组组长负责制，对典型生产安全事故可以提级调查、跨地区协同调查和工作督导。非特殊情况下任何单位和个人不得阻挠和干涉对生产安全事故的依法调查处理。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：微小企业，是指从业人员超过十人且营业面积不超过三百平方米的非高危行业生产经营单位。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：违反本条例规定，生产经营单位未按照安全技术标准和管理规范要求，进行高空作业、地下受限空间作业或者易燃易爆场所动火作业的，责令立即停止作业，限期改正，并可以处五万元以下的罚款，对其直接负责的主管人员和其他直接责任人员可以处一万元以下的罚款：</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位应当建立风险因素辨识管控和事故隐患排查治理制度，针对高危工艺、设备、物品、场所和岗位实施集中管控，制定落实安全操作规程，建立台账，如实记录辨识的风险因素、排查出的问题、事故隐患和整改信息，并及时以适当的方式向从业人员公示或者通报。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：微小企业应当每日进行岗位检查和安全排查，查找作业岗位的危险因素，及时消除发现的问题和事故隐患；不能消除的，应当立即报告负有安全职责的有关部门。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位新建、改建、扩建工程项目的，安全设施应当与主体工程同时设计、同时施工、同时投入生产和使用，安全设施投资应当和建设项目主体工程分别计算成本。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定：生产经营单位应当加强特种设备和其他危险性较大的设备的安全管理，编制设备目录，强化操作人员的安全培训考核。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>“双控“机制是指在安全生产管理中，将安全风险分级管控与隐患排查治理两项工作结合而建立起的双重预防机制。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>“双控机制建设”是主动适应安全生产发展形势和规律的要求，将安全工作由事故管理提升至安全风险管理的重大举措，是安全生产领域的创新和发展</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全风险等级从高到低划分为重大风险、较大风险、一般风险和低风险，分别用红、黄、蓝、绿四种颜色标示。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对安全风险分级、分层、分类、分专业进行管理，逐一落实企业、车间、班组和岗位的管控责任</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业落实主体责任，认真开展安全风险分级管控和隐患排查治理双重预防工作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对不同等级安全风险,要采取有针对性管控措施，不必实行差异化管理。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>创建一批无非法生产经营县、乡、村，今年确定的省、市、县三级驻村工作队帮扶的7366个村必须100%做到无非法生产经营。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产双控要求的“一表”：即“安全风险分级管控一览表”。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产双控要求的“一账”：即事故隐患排查治理工作台账。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产双控要求的“一平台”，即安全风险管控和事故隐患排查治理信息平台。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位应当依法保护从业人员的生命安全，严禁强迫从业人员超强度劳动或者冒险作业。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在重大危险源、高压输电线路和输油、输气管道等场所和设施的安全距离范围内，任何单位和个人不得新建建筑物、构筑物。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位发生生产安全事故，经调查确定为责任事故的，除应当查明事故单位的责任并依法予以追究外，还应当查明对安全生产的有关事项负有审查批准和监督职责的行政部门的责任，对有失职、渎职行为的，依法追究法律责任。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>因抢救人员、防止事故扩大以及疏通交通等原因，需要移动事故现场物件的，应当做出标志，绘制现场简图并做出书面记录，妥善保存现场重要痕迹、物证。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>事故发生单位负责人接到事故报告后，应当立即启动事故相应应急预案，或者采取有效措施，组织抢救，防止事故扩大，减少人员伤亡和财产损失。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>从业人员可以上岗后再进行安全生产教育培训。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位可以与从业人员订立协议，免除或者减轻其对从业人员因生产安全事故伤亡依法应承担的责任。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>从业人员发现直接危及人身安全的紧急情况时，可以边作业边报告本单位负责人。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位与从业人员订立劳动合同时，应当将工作过程中可能产生的职业危害及其后果、职业危害防护措施和待遇等如实告知从业人员，但可以不在劳动合同中写明。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>从业人员在履行劳动合同期间因工作岗位或者工作内容变更，从事与所订立劳动合同中未告知的存在职业危害的作业的，生产经营单位只需向从业人员如实告知，并不需要变更原劳动合同相关条款。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位可以先安排未经上岗前职业健康检查的从业人员从事接触职业危害的作业，然后根据具体情况再安排职业健康检查。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>从业人员离开生产经营单位时，有权索取本人职业健康监护档案复印件，生产经营单位应当如实、无偿提供，并在所提供的复印件上签章。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>消防工作实行单位全面负责责任制，建立健全社会化的消防工作网络。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>国务院公安消防部门对全国的消防工作实施监督管理。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何单位和个人都有维护消防安全、保护消防设施、预防火灾、报告火警的义务。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何单位和公民都有参加有组织的灭火工作的义务。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险物品的生产、经营、储存单位以及矿山、建筑施工单位的主要负责人和安全生产管理人员，应当由有关主管部门对其安全生产知识和管理能力考核合格后方可任职，考核可以收取一定的考务费。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定，未经安全生产教育和培训毕业的从业人员，不得上岗作业。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位应当按照国家有关规定将本单位重大危险源及有关安全措施、应急措施报有关地方人民政府负责安全生产监督管理的部门和有关部门批准。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产是关系人民群众生命财产安全的大事，是经济社会协调健康发展的标志，是党和政府对人民利益高度负责的要求。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>坚持安全发展。贯彻以人民为中心的发展思想，始终把人的生命安全放在首位，正确处理安全与发展的关系，大力实施安全发展战略，为经济社会发展提供强有力的安全保障。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>坚持源头防范。严格安全生产市场准入，经济社会发展要以安全为前提，把安全生产贯穿城乡规划布局、设计、建设、管理和企业生产经营活动全过程。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>构建风险分级管控和隐患排查治理双重预防工作机制，严防风险演变、隐患升级导致生产安全事故发生。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>坚持系统治理。严密层级治理和行业治理、政府治理、社会治理相结合的安全生产治理体系，组织动员各方面力量实施社会共治。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>健全责任考核机制。建立与全面建成小康社会相适应和体现安全发展水平的考核评价体系。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>严格责任追究制度。实行党政领导干部任期安全生产责任制，日常工作依责尽职、发生事故不必依责追究。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>完善标准体系。加快安全生产标准制定修订和整合，建立以强制性国家标准为主体的安全生产标准体系。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>严格安全准入制度。不必严格高危行业领域安全准入条件。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>完善事故调查处理机制。坚持问责与整改并重，充分发挥事故查处对加强和改进安全生产工作的促进作用。</desc>
+        <ans>t</ans>
+    </qstn>
+</library>

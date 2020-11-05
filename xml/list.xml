@@ -20,28 +20,12 @@
 	<group>
 		<tag>生产技术</tag>
 		<item>
-			<desc>热控基础题库</desc>
-			<href>xml/rkjctk.xml</href>
-		</item>
-		<item>
-			<desc>热控自动专业试题</desc>
-			<href>xml/rkzdzy.xml</href>
-		</item>
-		<item>
-			<desc>热控OC6000e题库</desc>
-			<href>xml/oc6000e.xml</href>
-		</item>
-		<item>
 			<desc>2019热控在线答题</desc>
 			<href>xml/rkzx2019.xml</href>
 		</item>
 		<item>
 			<desc>热工自动控制中级工</desc>
 			<href>xml/zhongji.xml</href>
-		</item>
-		<item>
-			<desc>热控程控专业试题</desc>
-			<href>xml/rkckzy.xml</href>
 		</item>
 	</group>
 	<group>
@@ -69,11 +53,10 @@
 		</item>
 	</group>
 	<group>
-		<tag>应急管理</tag>
+		<tag>安全环保</tag>
 		<item>
-			<desc>第二届全国应急管理普法知识竞赛</desc>
-			<href>xml/yjpf2020.xml</href>
-			<password>a8b7d1b3cc5541456f3cd7af3a1b6ffd</password>
+			<desc>安全合格证题库</desc>
+			<href>xml/aqhgz.xml</href>
 		</item>
 	</group>
 </root>
