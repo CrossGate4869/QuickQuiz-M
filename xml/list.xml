@@ -58,5 +58,13 @@
 			<desc>安全合格证题库</desc>
 			<href>xml/aqhgz.xml</href>
 		</item>
+		<item>
+			<desc>危化品取证题库</desc>
+			<href>xml/whpqz.xml</href>
+		</item>
+		<item>
+			<desc>危化品复审题库</desc>
+			<href>xml/whpfs.xml</href>
+		</item>
 	</group>
 </root>

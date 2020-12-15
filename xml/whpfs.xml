@@ -1,0 +1,5030 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <key>QuickQuiz</key>
+    <title>危化品复审</title>
+    <qstn type="judge" cust="0">
+        <desc>“安全第一”要求从事生产经营活动必须把安全放在首位,不能以牺牲人的生命、健康为代价换取发展和效益。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>“双控“机制是指在安全生产管理中,将安全风险分级管控与隐患排查治理两项工作结合而建立起的双重预防机制。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>“双控机制建设”是主动适应安全生产发展形势和规律的要求,将安全工作由事故管理提升至安全风险管理的重大举措,是安全生产领域的创新和发展。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产“十三五”规划》推动企业安全生产标准化达标升级,实现安全管理、操作行为、设备设施、作业环境标准化。鼓励企业建立与国际接轨的安全管理体系。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,承担安全评价、认证、检测、检验的机构应当具备省级规定的资质条件,并对其作出的安全评价、认证、检测、检验的结果负责。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,从业人员必须购买符合国家标准或者行业标准的劳动防护用品,并按照使用规则佩戴、使用。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,从业人员发现直接危及人身安全的紧急情况时,可以在领导批准后,停止作业或者在采取可能的应急措施后撤离作业场所。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,非高危行业的生产经营单位,从业人员超过三百人的,应当设置安全生产管理机构或者配备专职安全生产管理人员。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,负有安全生产监督管理职责的部门接到事故报告后,根据事故的等级,有权决定是否向上一级报告。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,负有安全生产监督管理职责的部门依法对存在重大事故隐患的生产经营单位作出停产停业、停止施工、停止使用相关设施或者设备的决定,生产经营单位应当依法执行,及时消除事故隐患。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,负有安全生产监督管理职责的部门依照规定采取停止供电措施,除有危及生产安全的紧急情形外,应当提前四十八小时通知生产经营单位。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,工会有权依法参加事故调查,向有关部门提出处理意见,并要求追究有关人员的责任。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,工会在发现危及从业人员生命安全的情况时,有权向生产经营单位建议组织从业人员撤离危险场所,生产经营单位必须立即作出处理。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,国家对严重危及生产安全的工艺、设备实行淘汰制度,生产经营单位不得使用应当淘汰的危及生产安全的工艺、设备。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,国家实行生产安全事故责任追究制度,依照本法和有关法律、法规的规定,追究生产安全事故单位负责人的法律责任。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,居民委员会、村民委员会发现其所在区域内的生产经营单位存在事故隐患或者安全生产违法行为时,应当向当地公安机关或者有关部门报告。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,矿山、金属冶炼、建筑施工、道路运输单位和危险物品的生产、经营、储存单位,无论规模大小,都应当设置安全生产管理机构或者配备专职安全生产管理人员。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,矿山、金属冶炼建设项目和用于生产、储存、装卸危险物品的建设项目,应当按照国家有关规定进行申报。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,矿山、金属冶炼建设项目和用于生产、储存、装卸危险物品的建设项目的安全设施设计应当按照国家有关规定报经有关部门审查,安全生产监督管理部门对审查结果负责。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,两个以上生产经营单位在同一作业区域内进行生产经营活动,可能危及对方生产安全的,应当签订安全生产管理协议,明确对方的安全生产管理职责和应当采取的安全措施,并指定专职安全生产管理人员进行安全检查与协调。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,任何单位或者个人对事故隐患或者安全生产违法行为,均有权向负有安全生产监督管理职责的部门报告或者举报。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,生产经营单位必须要求从业人员依法参加工伤保险。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,生产经营单位必须执行依法制定的保障安全生产的国家标准或者行业标准。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,生产经营单位的安全生产管理人员在检查中发现重大事故隐患,依照规定向本单位有关负责人报告,有关负责人不及时处理的,安全生产管理人员可以向主管的负有安全生产监督管理职责的部门报告,接到报告的部门应当依法及时处理。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,生产经营单位的安全生产责任制主要是针对各层领导干部,一般从业人员的安全重点是遵规守纪,杜绝“三违”。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,生产经营单位发生生产安全事故时,单位的主要负责人应当立即组织抢救,并不得在事故调查处理期间擅离职守。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,生产经营单位进行爆破、吊装以及国务院安全生产监督管理部门会同国务院有关部门规定的其他危险作业,应当安排安全生产管理人员进行现场安全管理,确保操作规程的遵守和安全措施的落实。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>&quot;《安全生产法》规定,生产经营单位使用被派遣劳动者的,应当由派遣劳动者单位负责对被派遣劳动者进行岗位安全操作规程和安全操作技能的教育和培训。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,生产经营单位委托法律规定的机构提供安全生产技术、管理服务的,保证安全生产的责任由受委托单位负责。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,生产经营单位作出涉及安全生产的经营决策,应当听取安全生产管理机构以及安全生产管理人员的建议。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,特种作业人员的范围由国务院安全生产监督管理部门确定。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,危险物品的生产、储存单位以及矿山、金属冶炼单位的安全生产管理人员的任免,应当告知当地政府的部门。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,危险物品的生产、经营、储存单位以及矿山、金属冶炼、建筑施工、道路运输单位的主要负责人和安全生产管理人员,应当由负有相关培训资质的机构对其安全生产知识和管理能力考核合格。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,县级人民政府应当组织有关部门制定本行政区域内生产安全事故应急救援预案,建立应急救援体系。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,有条件的生产经营单位应当制定本单位生产安全事故应急救援预案,与所在地县级以上地方人民政府组织制定的生产安全事故应急救援预案相衔接,并定期组织演练。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,注册安全工程师按专业分类管理,具体办法由国务院人力资源和国务院安全生产监督管理部门制定。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》是具有最高法律效力的国家根本大法。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》要求,生产、经营、储存、使用危险物品的车间、商店、仓库不得与员工宿舍在同一座建筑物内,并应当与员工宿舍保持50米的安全距离。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产许可证条例》规定的行政处罚,由安全生产许可证颁发管理机关决定。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《常用危险化学品的分类及标志》中此图形为爆炸品的安全标志。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《常用危险化学品的分类及标志》中此图形为不燃气体的安全标志。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《常用危险化学品分类标志》规定,爆炸品包括无整体爆炸危险,但具有燃烧、抛射及较小爆炸危险的物品。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《常用危险化学品分类标志》规定,遇湿易燃物品是指遇水或受潮时,发生剧烈化学反应,放出大量的易燃气体和热量的物品,有些不需明火,即能燃烧或爆炸。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:安全生产工作坚持分级负责、属地管理,遵循管行业、管业务、管生产经营可以管安全和谁主管谁负责的原则;</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:本省推行安全生产责任保险制度。在矿山、金属冶炼、建筑施工、交通运输、危险化学品、烟花爆竹、民用爆炸物品、渔业生产等高危行业领域实行投保安全生产责任险;鼓励和推动其他生产经营单位投保安全生产责任险。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:矿山、建筑施工单位以及危险化学品、烟花爆竹、民用爆炸物品生产单位应当依法向有关部门申请办理安全生产许可证。未依法取得安全生产许可证或者其他安全生产行政许可的生产经营单位,可以在保证安全的情况下从事生产经营活动。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:矿山、金属冶炼、建筑施工、城市轨道交通、客运索道运营等单位和危险物品的生产、经营、储存单位应当建立应急救援组织,配备相应的应急救援器材、设备和物资,并定期进行演练;规模较小的单位,不具备应急救援人员的,可与邻近的应急救援组织签订应急救援协议。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:矿山、金属冶炼建设项目和用于生产、储存、装卸危险物品的建设项目竣工后,其试运行时间应当不少于三十日,但不超过二百八十日。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:任何单位和个人不得为未取得安全生产许可证或者其他安全生产行政许可而非法从事该项生产经营活动的生产经营单位提供原辅材料、生产经营场所、运输、保管、仓储等条件。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位的主要负责人定期主持召开安全生产例会,听取工作汇报,协调解决重大问题,形成会议纪要。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位的主要负责人是指有限责任公司、股份有限公司的董事长和总经理,其他生产经营单位的厂长、经理、矿长,以及对生产经营活动有决策权的实际控制人。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位委托安全生产协会组织和中介服务机构提供安全生产技术、管理服务的,保证安全生产的责任由提供服务单位负责。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位应当加强班组建设,强化以岗位为核心的安全生产管理,建立班组和岗位人员交接班安全交底、班前会提示讲解、班后会评点分析等安全管理制度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位应当将重大危险源存在的危险因素和应急措施及时如实告知从业人员和相关人员,在醒目位置设置警示标志,并按照有关规定将重大危险源及其有关安全措施、应急预案报安全生产监督管理部门备案。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位应当为从业人员提供符合国家标准或者行业标准的劳动防护用品,并监督、教育从业人员按照规定佩戴、使用。特殊情况下可以用货币或者其他物品代替劳动防护用品。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位应当在易燃烧、易爆炸、中毒、腐蚀、窒息、灼伤、高温、噪声、粉尘、泄漏、触电、倾覆、撞击、坠落、坠物、碾轧、滑坡、坍塌等有较大危险、危害因素的生产经营场所进出口以及关键部位和有关设施、设备上,设置明显的标志。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:微小企业的操作岗位和安全生产事故隐患排查治理方面的安全生产标准化内容,由县级以上人民政府制定。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:县级以上人民政府应当建立完善安全生产应急救援管理工作机制,建设联动互通的应急救援指挥平台,依托公安消防、大型企业、工业园区、社会服务机构等应急救援力量,加强应急救援基地和队伍建设。鼓励和支持生产经营单位和其他社会力量建立应急救援队伍,提高应急救援的专业化水平,实现区域应急救援资源共享。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:县级以上人民政府应当将安全生产纳入本地区国民经济和社会发展规划,制定实施安全生产规划。安全生产规划不必与城乡规划相衔接。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:学校、幼儿园、科研院所、医疗机构、养老机构可以将闲置房屋、场地用于危险物品的生产、经营、储存、装卸活动。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:要建立覆盖省、市、县、乡四级的安全生产责任体系,按照职责分工加强安全生产监督管理规范化建设,实行安全生产网格化管理。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:在本省行政区域内从事生产经营活动的单位(以下统称生产经营单位)和重点行业的安全生产及其监督管理,适用本条例。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品安全管理条例》规定,安全生产监督管理部门负责危险化学品安全监督管理综合工作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品安全管理条例》规定,安全生产监督管理部门应当将其颁发危险化学品安全使用许可证的情况及时向同级环境保护主管部门和公安机关通报。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品安全管理条例》规定,储存危险化学品的单位应当根据本单位具体情况,决定是否建立危险化学品出入库核查、登记制度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品安全管理条例》规定,负有危险化学品安全监督管理职责的部门,对不符合法律、行政法规、规章规定或者国家标准、行业标准要求的设施、设备、装置、器材、运输工具,责令立即停止使用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品安全管理条例》规定,通过道路运输危险化学品的,应当按照运输车辆的核定载质量装载危险化学品,不得超载。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品安全管理条例》规定,危险化学品的装卸作业应当遵守安全作业标准、规程和制度,并在装卸管理人员的现场指挥或者监控下进行。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品安全管理条例》规定除运输工具加油站、加气站外,危险化学品的生产装置和储存设施,与河流、湖泊、风景名胜和自然保护区域距离必须符合国家标准或者国家有关规定。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品安全管理条例》规定除运输工具加油站、加气站外,危险化学品的生产装置和储存数量构成重大危险源的储存设施,与居民区域、商业中心、公园等人口密集场所、区域距离必须符合国家标准或者国家有关规定。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品安全生产许可证》有效期是三年。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品从业单位安全标准化通用规范》(AQ3013—2008)标准,于2008年11月19日发布,2009年1月1日实施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品从业单位安全标准化通用规范》要求:企业应制订文件化的安全生产方针和目标,应签订各级组织的安全目标责任书。不必对年度安全工作目标予以考核。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品重大危险源监督管理暂行规定》对危险化学品重大危险源的辨识、评估、登记建档、备案、核销及监督管理等做出了明确规定,所有危险化学品单位都要贯彻执行。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中共中央国务院关于推进安全生产领域改革发展的意见》要求:大力推进企业安全生产标准化建设,实现安全管理、操作行为、设备设施和作业环境的标准化。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,从业人员发现危及人身安全的紧急时,无权停止作业或者在采取可能的应急措施后撤离作业场所。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,国家实行生产安全事故责任追究制度,依照本法和有关法律、法规的规定,追究生产安全事故责任人员的法律责任。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,任何单位或者个人对事故隐患或者安全生产违法行为,均有权向负有安全生产监督管理职责的部门报告或者举报。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营单位必须投保安全生产责任保险。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营单位必须为从业人员提供符合国家标准或者行业标准的劳动防护用品,并监督、教育从业人员按照使用规则佩戴。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营单位必须依法参加工伤保险,为从业人员缴纳保险费。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营单位不得将生产经营项目、场所、设备,发包或者出租给不具备安全生产条件或者相应资质的单位和个人。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营单位对负有安全生产监督管理职责的部门的监督检查人员依法履行监督检查职责,应当予以配合,不得拒绝、阻挠。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营单位作出涉及安全生产的经营决策,应当听取安全生产管理机构以及安全生产管理人员的意见。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,危险物品的生产、经营、储存单位以及矿山、建筑施工单位的主要负责人和安全生产管理人员,应当由有关主管部门对其安全生产知识和管理能力考核合格后方可任职。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国突发事件应对法》所称突发事件,是指突然发生,造成社会危害,需要采取应急措施的事件。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国消防法》规定,单位的安全管理人员是本单位的消防安全责任人。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国消防法》规定,建设工程的消防设计、施工必须符合国家工程建设消防技术标准。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国消防法》规定,生产、储存、经营易燃易爆危险品的场所不得与居住场所设置在同一建筑物内,并应当与居住场所保持安全距离。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国消防法》规定,生产、储存、装卸易燃易爆危险品的工厂、仓库和专用车站、码头的设置,应当符合消防技术标准。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>2007年3月27日14时23分,京沈高速公路辽中段610km处,一辆高速行驶的黑色桑塔纳轿车,撞上前方正在行驶的一辆货运槽车尾部,车上装有24吨丙烯腈,大量的液体喷涌而出,不仅被困者随时都有生命危险,而且数百辆车经过出事路段,附近还有上百名农民正在劳动,情况十分危急。根据上述描述,请判断,事故发生后,有关单位和人员应当妥善保护事故现场以及相关证据,任何单位和个人不得破坏事故现场、毁灭相关证据。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>2008年6月,B炼油厂油罐区的2号汽油罐发生火灾爆炸事故,造成1人死亡、3人轻伤,直接经济损失420万元。该油罐为拱顶罐,容量200?。油罐进油管从罐顶接入罐内,但未伸到罐底。罐内原有液位计,因失灵已拆除。2008年5月,油罐完成了清罐检修。6月6日8时,开始给油罐输油,汽油从罐顶输油时进油管内流速为2.3~2.5m/s,导致汽油在罐内发生了剧烈喷溅,随即着火爆炸。爆炸把整个罐顶抛离油罐。根据上述事实,为防止静电放电火花引起的燃烧爆炸,可采取的措施有:控制流速、保持良好接地、采用静电消散技术等。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>2010年6月29日16时20分左右,某公司炼油厂原油输转站1个3万立方米的原油罐在清罐作业过程中,发生可燃气体爆燃事故,致使罐内作业人员3人死亡,7人受伤,造成直接经济损失150万元。根据上述情况,请判断,该起事故属于较大事故。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>2011年1月某公司1催化装置稳定单元发生闪爆事故,事故造成3人死亡、4人轻伤,事故未造成环境污染。事故的直接原因为重油催化装置稳定单元重沸器壳程下部入口管线上的低点排凝阀,因固定阀杆螺母压盖的焊点开裂,阀门闸板失去固定,阀门失效,脱乙烷汽油泄漏挥发,与空气形成爆炸性混合物,因喷射产生静电发生爆炸。根据上述事实,请判断,石油化工装置可能存在的点火源除了静电外,还包括明火、电火花、高温表面等。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>2011年3月25日上午,某公司分包商员工在常减压检修现场进行工程收尾。10时左右,管工刘某与辅助工许某到空冷器顶部平台更换阀门螺栓。刘某站在平台北侧作业,站位距平台边缘约0.6米。11时左右,刘某在作业过程中,扳手与螺母松脱,站立不稳,从平台上后仰、坠落至下层平台,落差5.64米,头部受伤,经医院抢救无效于下午15时死亡。根据上述描述,请判断,高处作业必须系挂安全带。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全标签由生产企业在货物出厂前粘贴、挂栓、喷印在包装或容器的明显位置;若改换包装,可由改换单位重新粘贴、挂栓、喷印。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全阀按其整体结构及加载机构的不同可以分为重锤杠杆式、弹簧式和脉冲式三种。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全阀经过调校后,在设计压力下不得有泄漏。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全阀与压力容器之间一般不宜装设截止阀门。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全风险等级从高到低划分为重大风险、较大风险、一般风险和低风险,分别用红、黄、蓝、绿四种颜色标示。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全技术措施是为了防止事故发生,采取约束、限制能量或危险物质,防止其意外释放的技术措施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全技术说明书规定的标题、编号和前后顺序在编写时可以进行随意变更。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全技术说明书由化学品的生产供应企业编印,在交付商品时提供给用户,作为为用户的一种服务,随商品在市场上流通。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全技术说明书中,混合物要填写有害性组分及其含量范围。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全技术说明书中,同类物、同系物的技术说明书可以相互替代。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全监管监察和有关部门是事故隐患排查治理和防控的责任主体。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产法律,是调整生产过程中所产生的同劳动者的安全和健康以及生产资料和社会财富安全保障有关的各种社会关系的法律规范总和。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产法律是国家法律体系的一部分,因此它不具有法律的一般特征。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产规章制度是生产经营单位搞好安全生产,实现科学管理的重要依据。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产监督检查人员应当将检查的时间、地点、内容、发现的问题及其处理情况,作出书面记录,并由检查人员签字。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产检查是安全管理工作的重要内容,是消除隐患、防止事故发生、改善劳动条件的重要手段。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产许可证颁发管理机关应当建立、健全安全生产许可证档案管理制度,并不定期向社会公布企业取得安全生产许可证的情况。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产责任制是生产经营单位保障安全生产的最基本、最重要的管理制度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全生产责任制是指建立和实施生产经营单位的全员、全过程、全方位的安全生产责任制度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>安全液封一般要安装在气体管线与生产设备或气柜间。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>按易燃液体闪点的高低分为低闪点液体、中闪点液体、高闪点液体。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>把作业场所和工作岗位存在的危险因素如实告知从业人员,会有负面影响,引起恐慌,增加思想负担,不利于安全生产。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>班组是生产经营单位搞好安全生产工作的关键。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>保护接地的作用是限制漏电设备的对地电压,使其不超出安全范围。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>爆破片不宜用于介质具有剧毒性的设备或压力急剧升高的设备。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>爆破片的爆破压力大于容器的设计压力。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>爆破片的爆破压力大于容器的最大工作压力。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>爆破片一般应与容器的液相空间相连。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>爆破片装置由爆破片和夹持器两部分组成。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>爆燃是火炸药或燃爆性气体混合物的快速燃烧。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>爆炸品与其他非爆炸品严禁混储混运,点火器材、起爆器材与炸药、爆炸性药品以及发射药、烟火等其他爆炸品可以共同储存和运输。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>爆炸品主要具有反应速度极快,放出大量的热,产生大量的气体等特性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>爆炸危险场所是指能够散发出可燃气体、蒸气和粉尘并易与空气混合形成爆炸性混合物的场所。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>被烷基化的物质大都具有着火爆炸危险。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>编制应急救援预案的目的是确保不发生事故。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>不同品种的氧化剂,应根据其性质及消防方法的不同,选择适当的库房分类存放及分类运输。有机过氧化物不得与无机氧化剂共储混运;亚硝酸盐类、亚氯酸盐类、次亚氯酸盐类均不得与其他氧化剂混储混运。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>不依法进行安全评价的企业,不能获得安全生产许可证。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>采样器内剩余的油样及洗刷采样器的油品必须倒回罐内。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>参加应急预案评审人员与所评审预案的生产经营单位有利害关系的,可以参加。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>产生静电最常见的方式是接触-分离起电。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>常压的容器是不能贮存压缩气体和加压液体的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>城镇燃气辅助的储存等建设项目,不适用《危险化学品建设项目安全许可实施办法》。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>抽加盲板允许带压进行。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>除有特殊需要外,有毒介质管道应采用焊接连接,不得采用法兰或螺纹连接。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>储存剧毒化学品、易制爆危险化学品的专用仓库,应当按照国家有关规定设置相应的技术防范设施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>储存数量构成重大危险源的危险化学品储存设施的选址,应当避开地震活动断层和容易发生洪灾、地质灾害的区域。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>储存危险化学品的仓库必须配备有专业知识的技术人员,其仓库及场所应设专人管理,管理人员必须配备可靠的个人安全防护用品。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>储存危险化学品的建筑必须安装通风设备,并注意设备的防护措施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>储存危险化学品的建筑必须安装通风设备,并注意设备的防护措施。通排风系统可不考虑导除静电的接地装置。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>储存危险化学品的建筑物、区域内严禁吸烟和使用明火。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>储存危险化学品建筑采暖的热媒温度不应过高,可采用蒸汽采暖。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>储存危险化学品建筑物内不宜增设采暖设施。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>创建一批无非法生产经营县、乡、村,今年确定的省、市、县三级驻村工作队帮扶的7366个村必须100%做到无非法生产经营。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>从业人员有权对本单位安全生产工作中存在的问题提出批评、检举、控告,但无权拒绝违章指挥和强令冒险作业。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>从业人员在工作过程中,应当服从管理,无权对本单位的安全生产工作提出建议。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>催化反应是在催化剂的作用下所进行的化学反应。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>催化剂对反应速度的影响很大,若有配比失误,多加了催化剂也有可能发生燃烧、爆炸危险。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>存放过放射性物品的地方,单位如果存放其他物品,单位应当指派专人负责进行彻底清洗。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>大中型危险化学品仓库应选址在远离市区和居民区的当地主导风向的上风方向和河流下游的区域。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>单位要根据需要,没有必要引进、采用先进适用的应急救援技术装备。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当不断加大向锅炉进水及采取其他措施,但水位仍继续下降时,必须紧急停炉。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>当发生危险化学品事故时,现场人员必须根据各自企业制定的事故预案采取积极有效的抑制措施,尽量减少事故蔓延,并向有关部门报告和报警。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>地方性法规。包括省、自治区、直辖市的地方性法规和较大的市的地方性法规。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>电火花就是指事故火花。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>电石(碳化钙)可以露天存放。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>电阻率越大,越容易产生和积累静电,造成危害。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>堆放各种爆炸品时,要求做到牢固、稳妥、整齐,防止倒垛,便于运输。爆炸品的包装箱宜直接在地面上放置,防止倒塌。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对安全风险分级、分层、分类、分专业进行管理,逐一落实企业、车间、班组和岗位的管控责任。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对不同等级安全风险,要采取有针对性管控措施,不必实行差异化管理。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对混合时产生静电的物料,应加入抗静电剂等。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于放热反应,投料速度不能过快。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于火灾爆炸危险场所,必须采用防爆电气设备。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于某一种类的风险,生产经营单位应当根据存在的重大危险源和可能发生的事故类型,制定相应的专项应急预案。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于盛装过易燃液体的桶或罐或其他容器,动火补焊前,必须用水蒸气或水将其中的残余的液体及沉淀物彻底清洗干净并分析合格。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于悬浮粉体和蒸气静电,任何抗静电添加剂都不起作用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对重大、特别重大事故负有责任的,二十年不得担任本行业生产经营单位的主要负责人。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>发生简单分解爆炸的爆炸性物质,爆炸时所需要的能量是由爆炸物本身分解产生的,爆炸时一定伴随着燃烧现象。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>发生危险化学品火灾时,灭火人员应个人单独灭火。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>发生危险化学品事故,事故单位主要负责人应当立即按照本单位危险化学品应急预案组织救援,并向当地安全生产监督管理部门和环境保护、公安、卫生主管部门报告。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>凡与大地有可靠接触的金属导体,均可作为自然接地体。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>防火防爆最理想、最重要的措施,是使可燃物、氧化剂与点火(起爆)源相分离,没有相互结合、作用的机会,从根本上杜绝发火引爆的可能性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>防火间距就是当一幢建筑物起火时,其它建筑物在热辐射的作用下,没有任何保护措施时,也不会起火的最小距离。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>防止反应釜的跑、冒、滴、漏,特别是防止有害、易燃介质的泄漏,选择合理的密封装置十分重要。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>腐蚀品类化学品其主要品类是酸类和碱类。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>负有安全生产监督管理职责的部门对企业执行有关安全生产的法律、法规和国家标准或者行业标准的情况进行监督检查时,生产经营单位可以以技术保密、业务保密等理由拒绝检查。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>负有危险化学品安全监督管理职责的部门和环境保护、公安、卫生等有关部门,应当按照当地应急救援预案组织实施救援,尽可能不拖延、推诿。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>各级人民政府应当组织开展经常性的消防宣传教育,提高公民的消防安全意识。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>各应急救援专职队伍平时就要组建落实并配备相应器材。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>根据《危险化学品安全管理条例》,危险化学品是指具有毒害、腐蚀、爆炸、燃烧、助燃等性质,对人体、设施、环境具有危害的剧毒化学品和其他化学品。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>根据《危险化学品安全管理条例》,有关单位和个人对依法进行的危险化学品安全监督检查应当予以配合,不得拒绝、阻碍。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>根据演练规模和观摩需要,可编制演练观摩手册。演练观摩手册通常包括应急演练时间、地点、情景描述、安全注意事项等。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工会无权对建设项目的安全设施与主体工程“三同时”进行监督,提出意见。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工会依法组织职工参加本单位安全生产工作的民主管理和民主监督,维护职工在安全生产方面的合法权益。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工业生产中,用惰性介质保护是防止形成爆炸性混合物的重要措施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工业生产中的安全阀,用得比较普遍的是脉冲式安全阀。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>工作时间前后在工作场所内,从事与工作有关的预备性或者收尾性工作受到事故伤害的,不应当认定为工伤。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>构建风险分级管控和隐患排查治理双重预防工作机制,严防风险演变、隐患升级导致生产安全事故发生。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>固定泡沫装置管线控制阀可设在防火堤内。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>固体粉碎和筛分,对于自反应性物质,可能因机械撞击、摩擦而发火,所以这类物质能否适用于筛分和粉碎必须十分慎重的考虑。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>固体粉碎和液体分离过程的起电一般属于接触起电。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>管道的腐蚀管道的腐蚀是石油储运管道发生事故的最主要原因之一。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>管道的最大工作压力是随着介质工作温度的升高而升高。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>管道系统进行吹扫时,不需要设置禁区。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>规章,包括部门规章和地方政府规章。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉包括两大部分:盛装水、汽的“锅”和进行燃烧加热的“炉”。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉水循环的停滞会造成受热面过热、鼓包、管子涨粗甚至爆管事故。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>锅炉与压力容器的设计,必须由具有相当专业技术水平并取得专业设计资质的单位负责,并应经过规定的审批手续。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>国家安全生产监督管理总局负责全国危险化学品登记的监督管理工作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>国家对严重危及生产安全的工艺、设备实行淘汰制度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>国务院安委办《关于建立安全隐患排查治理体系的通知》(安委办〔2012〕1号)明确安全隐患排查治理体系是以广泛开展安全教育培训为保障的一项系统工程。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>国务院安委办《关于建立安全隐患排查治理体系的通知》(安委办〔2012〕1号)明确安全隐患排查治理体系是以企业分级分类管理系统为基础。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>含量低于20%的过氧化氢属于氧化剂。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>河北省十二届人大五次会议通过的《河北省安全生产条例》将于3月1日起施行。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>很多化工生产离不开高温、高压设备,这些设备能量集中,假如在设计制造中,不按规范进行操作或在操纵中失误,不可能发生灾难性的事故。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化工生产中,所使用的原料多属于易燃、易爆、有腐蚀性的物质。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化工系统卸压要缓慢由高压降至低压,应注意压力不得降至零,更不能造成负压,一般要求系统内保持微弱正压。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化工装置大型化,加工能力显著增强,大量化学品都处在工艺过程中,增加了物料外泄的危险性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化合物或复杂物质的燃烧过程是受热时先分解成气态和液态产物然后燃烧。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化学品安全技术说明书(SDS)是化学品经营单位向用户提供基本危害信息的工具。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化学品安全技术说明书规定的内容,如果不存在的可以删除或合并,其顺序也可以变更。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化学品安全技术说明书简要说明了一种化学品对人类健康和环境的危害性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化学品安全技术说明书中“操作处置与储存”内容包括该化学品的危险类别以及操作处置作业中的安全注意事项。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化学品安全技术说明书中“废弃处理”指对被化学品污染的包装和无使用价值的化学品的安全处理方法。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化学品安全技术说明书中“理化特性”一栏主要描述的是化学品的理化性质以及化学品最重要的危害和效应。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化学品安全技术说明书中“稳定性和反应性”主要叙述化学品的稳定性和反应性以及理化性质。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化学品安全技术说明书中“消防措施”一项主要标识化学品物理和化学危险性,合适的灭火介质。不合适的灭火介质可不用说明。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化学品安全技术说明书中“泄漏应急处理”是指化学品泄漏后现场可采用的简单有效的应急措施,注意事项以及消除方法。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化学事故发生后,对一些现场难以急救的重伤员,救护组一边采取应急救护措施,一边组织转送到指定医院。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化学事故应急救援时对危险区不用控制,可以让人员、车辆等进入。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>化学危险品库、氢氧站、油料库应远离火源,布置在厂区边缘地区及最小频率风向的上风侧。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>混合物中可燃物浓度低于下限时因含有过量的空气,空气的冷却作用会阻止火焰的蔓延。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>火花放电释放的能量较小。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>火灾扑灭后,发生火灾的单位和相关人员应当按照公安机关消防机构的要求保护现场,接受事故调查,如实提供与火灾有关的情况。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>火灾是由失去控制的燃烧所引发的灾害现象,而爆炸则是火灾快速传播的极端情况。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>获悉突发事件信息的公民、法人或者其他组织,应当立即向所在地人民政府、有关主管部门或者指定的专业机构报告。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>机动车辆严禁在易燃易爆危险场所内行驶,必要时必须装火星熄灭器。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>计量、测温和取样作业完后,要盖好作业孔,用棉纱(布)擦净器具,禁止使用化纤物。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>计算液化气体气瓶的充装量,由于气瓶余气(余液)重量相对而言比较小,因此可以忽略不计。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>坚持安全发展。贯彻以人民为中心的发展思想,始终把人的生命安全放在首位,正确处理安全与发展的关系,大力实施安全发展战略,为经济社会发展提供强有力的安全保障。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>坚持系统治理。严密层级治理和行业治理、政府治理、社会治理相结合的安全生产治理体系,组织动员各方面力量实施社会共治。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>坚持源头防范。严格安全生产市场准入,经济社会发展要以安全为前提,把安全生产贯穿城乡规划布局、设计、建设、管理和企业生产经营活动全过程。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>建立安全隐患排查治理体系的重大意义在于其是安全生产管理理念、监管机制、监管手段的创新和发展,可以促进企业由被动接受安全监管向主动开展安全管理转变,</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>建设项目安全设施设计通过审查后,企业可以自主确定投入生产(使用),不申请竣工验收。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>建设项目未经安全审查和安全设施竣工验收的,不得开工建设或者投入生产(使用)。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>健全责任考核机制。建立与全面建成小康社会相适应和体现安全发展水平的考核评价体系。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>进行焊接时可以用沾有油污的手或带有油迹的手套去触碰氧气瓶或氧气设备。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>进入盛装过有毒有害物质的受限空间作业需要分析有毒有害物质含量。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>进入危险化学品库区的机动车辆应安装防火罩。机动车装卸货物后,不得在库内、库房、货场停放和修理。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>静电的消失主要有两种方式即中和和泄漏。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>救援过程中,救援人员在做好自身防护的基础上,应快速实施救援,控制事故发展。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>剧毒化学品以及储存数量构成重大危险源的其他危险化学品,应当在专用仓库内单独存放,并实行双人收发、双人保管制度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>剧毒品和爆炸品管理一样也应严格按照“五双管理制度”执行。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>开展风险分级管控是一项系统工作,解决地是长效机制,实现的地是事故纵深防御,企业应确保开展此项工作有组织、有方案、有考核、有论证。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>抗溶性泡沫不仅可以扑救一般液体烃类的火灾,还可以有效地扑救水溶性有机溶剂的火灾。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>可燃物质的爆炸极限是恒定的。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>可燃性气体或蒸气的浓度低于下限或高于上限时,都会发生爆炸。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>可以生产、销售或者使用不合格的消防产品以及国家明令淘汰的消防产品。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>可以使用塑料管输送易燃液体。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>可以在危险化学品储存区域内短期间堆积可燃废弃物品。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>落实安全生产责任制要从三个方面入手:提高认识、建立体系、严格考核机制。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>每种材料对不同的介质、甚至对同一介质在不同的使用条件下的耐腐蚀性是不一样的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>某厂生产一种有机产品,须在高压釜中进行反应,随着温度升高(外加热),釜内物料分解,气体要及时放空,保持一定压力,生产一直正常稳定。有一次,操作工没开启放空阀,班长未检查,投料升温后,釜内压力剧增,釜上的防爆设施失灵,一股有毒气体从高压釜法兰处冲出。当场有几人中毒晕倒,强大气流又将装有溶剂的储槽玻璃计量管冲坏,大量溶剂流出,引起火灾。临近几个储罐发生连环爆炸,一些溶剂从排水沟流入江河,造成严重水质污染。根据上述描述,请判断,该厂存在玻璃计量管没用金属套保护等缺陷。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>某厂生产一种有机产品,须在高压釜中进行反应,随着温度升高(外加热),釜内物料分解,气体要及时放空,保持一定压力,生产一直正常稳定。有一次,操作工没开启放空阀,班长未检查,投料升温后,釜内压力剧增,釜上的防爆设施失灵,一股有毒气体从高压釜法兰处冲出。当场有几人中毒晕倒,强大气流又将装有溶剂的储槽玻璃计量管冲坏,大量溶剂流出,引起火灾。临近几个储罐发生连环爆炸,一些溶剂从排水沟流入江河,造成严重水质污染。根据上述描述,请判断,该厂在工艺操作存在放空阀未开启,班长没检查等安全操作错误,间接导致该事故发生。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>某公司新建一个大型储罐,罐体内壁须涂刷耐腐涂料,为了节省,施工单位更换防腐漆稀料,用闪点低、易挥发有机溶剂替代。罐体内只有两个人工出口,无通风设施。使用普通的行灯和手持照明灯具,刷漆防腐作业接近尾声时,发生爆炸,造成多人伤亡。根据上述情况,请判断,在贮罐内进行涂装作业过程中,不能使用普通的行灯和手持照明灯具。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>某公司新建一个大型储罐,罐体内壁须涂刷耐腐涂料,为了节省,施工单位更换防腐漆稀料,用闪点低、易挥发有机溶剂替代。罐体内只有两个人工出口,无通风设施。使用普通的行灯和手持照明灯具,刷漆防腐作业接近尾声时,发生爆炸,造成多人伤亡。根据上述情况,请判断,在贮罐内进行涂装作业过程中,为了经济合理,可以使用闪点低、易挥发有机溶剂替代防腐漆稀料。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>某化工厂大检修前,由某单位安装处在装置东面17m外空地上对新制成的重叠式换热器进行气密性试验。换热器每台有40个螺孔,在试验时换热器B装了13个螺栓,换热器A装了17个螺栓。试压环比原封头法兰厚4.7cm,试压环装上后仍用原螺栓。螺栓与螺母装配时两头不均匀。试压过程中,换热器(B)试压环紧固螺栓拉断,螺母脱落,管束与壳体分离。重4t的管束向前冲出8m,把前方黄河牌载有空气压缩机的汽车大梁撞弯,冲入车底,整台汽车被横推移位2~3m;重2t的壳体向相反方向冲出,与管束分离后飞出38.5m,碰到地桩停止;换热器A、B连接支座螺栓剪断,连接法兰短管拉断,重6t的换热器A受壳体断开短管处喷出气体的反作用推力,整个向东南方向移位8m左右,并转向170°。现场共有9人,4人不幸死亡。根据上述情况,请判断,该厂操作人员严重违反《压力容器安全监察规程》关于“耐压试验和气密试验时,各部位的紧固螺栓必须装配齐全”的规定,导致事故发生。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>某化工厂准备开展一次应急响应功能演习,为增强演习的效果,演习前开展了培训。重新复习了工厂的应急预案,让所有人员了解在紧急情况下自身的责任,并且知道自己在演习过程中应该向谁汇报、对谁负责。此外还将演习的程序、内容和场景开展了全员培训。2005年3月某日进行演习,当天天气情况是晴,最高气温17℃,最低气温6℃,风向北风3至5级。根据上述描述,该厂演习有毒有害气体泄漏事故时,事故指挥中心应该设在事故现场的下风向。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>某化工厂准备开展一次应急响应功能演习,演习计划将盛有丙烯腈的储罐运到这片空地,但是为了防止演习发生意外事故,储罐只剩余约1/5体积的丙烯腈。根据上述描述,请判断,该厂演习有毒有害气体泄漏事故时,可以使用真正的有毒化学品。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>某火力发电厂有6台额定压力13.72MPa、额定蒸发量670t/h的电站锅炉。为保证锅炉启动和稳定燃烧,建有2个500?的轻柴油储罐。为发电机冷却,建有制氢站。制氢站装有1套制氢设备和4个氢罐,氢罐的工作压力3.2MPa、体积13.9?。锅炉燃用煤粉由磨煤机加工后,经输粉管道直接进入炉膛。因生产需要,该厂决定对磨煤输粉系统进行改造。改造工程包括:拆除部分距离地面6m高的破损输粉管道,更换新管道。在施工中,部分拆除和安装工作在脚手架上进行,使用额定起重量为5t的电动葫芦。拆除旧管道时,使用乙炔进行气割。新管道焊接前,使用角磨机进行抛光。拆除的旧管道和其他旧设备使用叉车运走。施工现场周围有正在使用的动力电缆和高温管道,还有部分未清除的煤粉。根据上述情况,请判断,该厂特种作业包括焊接、气割、厂内机动车(叉车)驾驶等。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>某炼化公司炼油三部裂化系列按停工网络开始降温降量,分馏系统也作相应调整,作为装置冲洗油的塔减二线量相应减少。班组按停工方案引外来低氮油(柴油组分)做冲洗油。14时左右,班长王某、外主操俞某、周某一起到装置边界处改流程,未按规定进行检查、确认就进行引油操作。在打开边界处两道阀门后,低氮油从第二、第三道阀门之间的放空阀喷出,遇附近高温蒸汽管线起火,王某被烧成重伤。根据上述事实,低氮油从处于开启状态的放空阀门喷出,遇附近裸露的蒸汽阀门、“8”字盲板等高温部位而起火不属于该起事故的间接原因。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>某生产企业为运输方便,自制一个油罐车,罐内用铁板隔开,前段存放汽油,后段存放柴油,在运油中,遇电闪雷鸣,引起储罐燃烧爆炸造成人员伤亡。根据上述描述,请判断,一个储罐可以同时存放两种危险化学品。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>浓硫酸、烧碱、液碱可用铁制品做容器储存,因此也可用镀锌铁桶储存。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>泡沫灭火器一般用于带电灭火。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>佩戴防毒面具作业完后需要转移至安全环境方可将防毒面具摘掉。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>扑灭金属火灾时禁止用水,可用干燥的砂子或特殊的灭火剂。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业不得转让、冒用安全生产许可证或者使用伪造的安全生产许可证。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业对应急设备、设施的管理方面应制定的主要制度包括:安全生产责任制度;安全生产教育培训制度;安全生产检查制度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业可结合实际,选择有效、可行的风险分析方法进行风险辨识和风险评价。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业落实主体责任,认真开展安全风险分级管控和隐患排查治理双重预防工作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业取得安全生产许可证后,不得降低安全生产条件,并应当加强日常安全生产管理,接受安全生产许可证颁发管理机关的监督检查。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业是隐患排查治理工作的主体,是隐患排查治理工作的直接实施者。企业隐患排查治理工作主要包括三个方面:自查隐患、治理隐患、自报隐患。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业要确定风险类别(泄漏、火灾、爆炸、中毒、坍塌、机械、高处坠落等危险因素),按照危险程度及可能造成后果的严重性,依据风险分级分色原则,将风险点所有风险逐一落实分级管控责任。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业一旦发生重大危险源事故,本企业抢险抢救力量不足,不必请求社会力量援助。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业依法进行安全评价,就能取得安全生产许可证。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业隐患排查与治理的范围应包括所有与生产经营相关的场所、环境、人员、设备设施和活动。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业应对应急救援设备、设施建立建全各种规章制度和岗位操作规程。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业应负责制定现场应急预案,并且定期检验和评估现场应急预案和程序的有效程度,并适时进行修订。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业主要负责人、分管安全负责人和安全生产管理人员必须具备与其从事的生产经营活动相适应的安全生产知识和管理能力,依法参加安全生产培训,并经考核合格,取得安全资格证书。不合格者可先上岗再补考。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>气炉、油炉、煤粉炉点燃时应先输入燃料再点火。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>气瓶实行固定单位充装制度,气瓶充装单位只充装自有气瓶和托管气瓶,不得为任何其它单位和个人充装气瓶。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>气瓶是一种贮运容器,它的最高压力决定于它的充装量和最高使用温度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>气体混合物的爆炸极限一般可用可燃气体或蒸气在混合物中的重量百分比来表示。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>汽车、拖拉机不准进入易燃易爆类物品库房。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>强度就是材料或结构元件所具有的承受外力而不被破坏的能力。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>氢氟酸可用玻璃及陶瓷容器储存。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>氢气放空管必须采用金属材料,不得使用塑料管或橡皮管。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>氢气系统运行时,不准敲击,不准带压修理和紧固,不得超压,严禁负压。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>人可以长期吸入氧气,而且氧气越纯越好。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何场所的防火通道内,都要设置防火标志。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何单位、个人不得损坏、挪用或者擅自拆除、停用消防设施、器材,</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何单位、个人都应当无偿为报警提供便利,不得阻拦报警。严禁谎报火警。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何单位和成年人都有参加有组织的灭火工作的义务。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何单位和个人不得生产、经营、使用国家禁止生产、经营、使用的危险化学品。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何单位和个人不得阻挠和干涉对事故的报告和依法调查处理。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何单位和个人对违反《危险化学品安全管理条例》的行为,无权向负有危险化学品安全监督管理职责的部门举报。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何单位或者个人对事故隐患或者安全生产违法行为,均有权向负有安全生产监督管理职责的部门报告或者举报。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>任何生产经营单位的从业人员,未经安全生产培训合格,均不得上岗作业。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>容器内的液体过热气化引起的爆炸现象为化学性爆炸。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>如果储存容器合适的情况下,硫酸、硝酸、盐酸及烧碱都可储存于一般货棚内。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>如果无限的资源投入也不能降低风险,就必须禁止工作,立即采取隐患治理措施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>散装储存是将物品装于小型容器或包件中储存;整装储存是物品不带外包装的净货储存。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>闪点是表示易燃易爆液体燃爆危险性的一个重要指标,闪点越高,爆炸危险性越大。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>上罐作业只能使用防爆灯具,并注意不可失落。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>上级单位应当指导、督促检查生产经营单位做好应急预案的备案登记工作,建立应急预案备案登记建档制度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产、储存、使用、经营、运输危险化学品单位的主要负责人对本单位的危险化学品安全管理工作全面负责。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产、储存危险化学品的单位,应当对其铺设的危险化学品管道设置明显标志,并对危险化学品管道不定期检查、检测。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产、储存危险化学品的单位,应当在其作业场所设置通信、报警装置,并保证处于适用状态。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位必须执行依法制定的保障安全生产的国家标准或者行业标准。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位不得使用应当淘汰的危及生产安全的工艺、设备。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位采用新工艺、新技术、新材料或者使用新设备时,应对从业人员进行专门的安全生产教育和培训。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位对承包单位、承租单位的安全生产工作统一协调、分头管理。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位对新录用的从业人员,要制定详实的教育培训计划,培训经费由从业人员支付。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位对应当淘汰的危及生产安全的工艺、设备,可采取加强管理和加强安全教育措施后继续使用。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位风险种类多、可能发生多种事故类型的,可以不用编制本单位的综合应急预案。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位将生产经营项目、场所、设备发包或者出租,是一种民事行为,生产经营单位可以自主确定发包或出租给任何单位和个人。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位应当对从业人员进行安全生产教育和培训,但在生产任务重时,从业人员可以先上岗,后培训。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位应当建立健全事故隐患排查治理制度。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位应在有较大危险因素的生产经营场所和有关设备设施上,设置明显的安全警示标志。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产企业的从业人员需经安全生产教育和培训合格后方能上岗作业。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产使用的机械设备必须建立健全安装、使用、检查、维修、保养制度,不准超温、超压、超负荷运行,在一般情况下可以超期服役。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>盛装危险化学品的容器或包装,确认危险品用完后即可撕下相应的安全标签。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>使用硝酸、高锰酸钾等氧化剂进行氧化反应时,不需严格控制加料速度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>室颤电流即最小致命电流,与电流持续时间关系密切。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>输送酸、碱等强腐蚀性化学物料泵的填料函或机械密封周围,宜设置安全护罩。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>输送易爆有毒的液化气体时应在压出管线上装有压力调节和超压切断泵的连锁装置、温控和超温信号等安全装置。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>所有生产经营单位都必须将本单位的重大危险源报当地人民政府安全生产监督管理部门和有关部门备案。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>碳化钙的储存库房,应当处于阴暗潮湿,并经常通风的库房内。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>特别重大事故,是指造成20人以上死亡,或者100人以上重伤(包括急性工业中毒),或者1亿元以上直接经济损失的事故。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>特殊情况下,气瓶允许长时间置于烈日的曝晒下。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>特种设备包括其所用的材料、附属的安全附件、安全保护装置和与安全保护装置相关的设施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>特种设备生产、使用单位的主要负责人应当对本单位特种设备的安全和节能全面负责。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>特种设备使用单位应当使用符合安全技术规范要求的特种设备。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>特种作业人员未经专门的安全作业培训,未取得相应资格,上岗作业导致事故的,应追究生产经营单位有关人员的责任。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>特种作业人员要经业务主管部门培训和考核才能上岗作业。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>铁路可以办理剧毒品的发送业务。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>同是氧化剂,特性基本相同,可以任意混储混运。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>同一企业生产、进口同一品种危险化学品的,按照生产企业进行一次登记,但应当提交进口危险化学品的有关信息。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>外力除去后构件恢复原有的形状,即变形随外力的除去而消失,这种变形称为塑性变形。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危害是可能造成人员伤害的根源。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危化主管部门要督促企业组织车间、班组、岗位全面排查、预判可能导致事故发生的风险点,对排查出来的风险点进行分级。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险、危害因素是指能使人造成伤亡,对物造成突发性损坏或影响人的身体健康导致疾病,对物造成慢性损坏的因素。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险废物的分类及储存是以安全性及相容性为准则。同时危险废物的卸载、传送及储存区必须配置适当的检测及安全措施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品包装修理过后如果符合危险货物运输包装性能试验的要求,可以重复使用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品仓库的建筑屋架可以根据所存危险化学品的类别和危险等级采用木结构、钢结构或装配式钢筋混凝土结构。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品单位必须委托具有相应资质的安全评价机构对本单位的重大危险源进行安全评估并确定其等级。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品单位应当对重大危险源的管理和操作岗位人员进行安全操作技能培训,使其了解危险化学品的危险特性,熟悉重大危险源安全管理规章制度和安全操作规程,掌握本岗位的安全操作技能和应急措施。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品单位主要负责人对本单位的重大危险源安全管理工作负责,并保证重大危险源安全生产所必需的安全投入。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品的包装应当符合法律、行政法规、规章的规定以及国家标准、行业标准的要求。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品的标志设主标志由表示危险化学品危险特性的图案、文字说明、底色和危险类别号四个部分组成的菱形标志。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品的标志设主标志由表示危险化学品危险特性的图案、文字说明、底色和危险类别号四个部分组成的菱形标志。副标志图形与主标志相同。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品的生产、储存、使用单位,应当在生产、储存和使用场所设置通讯、报警装置,并保证在任何情况下处于正常适用状态。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品的生产、储存实行审批制度;未经审批,任何单位和个人都不得生产、储存危险化学品。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品可以露天堆放,但应符合防火、防爆的安全要求。爆炸物品、一级易燃物品、遇湿燃烧物品、剧毒物品不得露天堆放。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品可以露天堆放。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品库房门应为木质门,采用外开式,设置高侧窗。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品库房门应为铁门或木质外包铁皮,采用内开式。设置高侧窗(剧毒物品仓库的窗户应加设铁护栏)。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品库房贴近地面应增设强制通风设施,定期置换仓库内的有毒气体。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品生产、储存、使用、经营和运输的安全管理,适用《危险化学品安全管理条例》。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品生产企业发现其生产的危险化学品有新的危害特性时,应当立即公告,安全技术说明书和安全标签可暂缓修订。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品生产企业根据需要确定是否设置安全生产管理机构或配备安全生产管理人员。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品事故应急救援是指危险化学品由于各种原因造成或可能造成众多人员伤亡及其他社会危害时,为及时控制危险源,抢救受害人员,指导群众防护和组织撤离,清除危害后果而组织的救援活动。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品事故应急救援预案是为了提高对突发事故的适应能力,根据实际情况预计未来可能发生的事故,事先制定的事故应急救援对策,它是为在事故中保护人员和设施的安全而制定的行动计划。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品性质或消防方法相互抵触,以及配装号或类项不同的危险化学品不能装在同一车、船内运输。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品重复使用的包装如果符合危险货物运输包装性能试验的要求,可以重复使用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品专用仓库应当符合国家标准、行业标准的要求,并设置明显的标志。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险品不得与禁忌物料混合储存,灭火方法不同的危险化学品可以同库储存。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险物品的生产、经营、储存单位以及矿山、金属冶炼、建筑施工、道路运输单位的主要负责人和安全生产管理人员,应当由主管的负有安全生产监督管理职责的部门对其安全生产知识和管理能力考核合格。考核可以收费。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>为保证爆炸品储存和运输的安全,必须根据各种爆炸品的性能或敏感程度严格分类,专库储存、专人保管、专车运输。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>为防止金属零件落入设备内发生撞击产生火花,应在设备上安装磁力吸附器,以清除混入物料中的铁器。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>为了方便装卸气瓶,瓶帽及防震圈可以拆掉。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>为使应急救援预案更有针对性和能迅速应用,一般要制定不同类型的应急预案。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>未造成人员伤亡的一般事故,县级人民政府可以委托事故发生单位组织事故调查组进行调查。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>无关人员可以搭乘装有易燃易爆化学物品的运输车辆。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>物质得以燃烧的唯一条件是可燃物与氧化剂作用并达到一定的数量比例。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>物质发生一种急剧的物理或化学变化,能在瞬间放出大量能量,同时产生巨大声响的现象称为爆炸。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>细水雾灭火系统灭火效率高,同时对环境无影响,它能够代替卤代烷等对环境有破坏的气体灭火系统及现有的会造成水渍损失的自动喷水灭火系统。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>县级以上地方各级人民政府负有安全生产监督管理职责的部门应当建立健全重大事故隐患治理督办制度,督促生产经营单位消除重大事故隐患。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>现场处置方案的应急组织与职责主要包括:基层单位应急自救组织形式及人员构成情况。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>限制火灾扩散与蔓延是防火防爆的主要原则之一。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>泄漏或渗漏危险化学品的包装容器应迅速移至安全区域。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>新安法明确了安全生产的重要地位、主体任务和实现安全生产的根本途径。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>新安法确立了“安全第一、预防为主、综合治理”的安全生产工作“十二字方针”。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>新安法中管安全的“三个必须”是指,即管效益必须管安全、管行业必须管安全、管生产经营必须管安全。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>新建的生产企业应当在竣工验收后办理危险化学品登记。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>压力保养适用于停炉时间不超过一年的锅炉。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>压力容器爆破时所能释放的能量与它的工作介质的物性状态没有关系。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>压力容器的特种设备作业人员,应当按照有关规定经本单位安全监督管理部门考核合格后,方可从事相应的作业或者管理工作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>压力容器全面检验就是内、外部检验的全部内容。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>压缩气体和液化气体仓库应阴凉通风,远离热源、火种,防止日光暴晒,严禁受热,库内照明应采用防爆照明灯,库房周围不得堆放任何可燃材料。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>严格责任追究制度。实行党政领导干部任期安全生产责任制,日常工作依责尽职、发生事故不必依责追究。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>严禁将有毒品与食品或食品添加剂混储混运。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>严禁在装有避雷针的构筑物上架设通信线、广播线或低压线。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>严重缺水时,如果立即上水就可能导致锅炉事故。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>盐酸发生泄漏时,应立即疏散泄漏污染区人员至安全区,禁止无关人员进入污染区。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>盐酸可用耐酸陶坛;硝酸应该用铝制容器;磷酸、冰醋酸、氢氟酸用塑料容器;浓硫酸、烧碱、液碱可用铁制容器,或镀锌铁桶储存。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>演练实施过程中出现特殊或意外情况,演练总指挥可决定中止演练。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>氧化剂应储存于清洁、阴凉、通风、干燥的厂房内。远离火种、热源,照明设备可以用非防爆的。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>氧化铝厂采用拜耳法生产氧化铝,生产工艺为:原料储运,石灰消化,原矿浆制备、高压溶出、赤泥沉降洗涤、分解与种子过滤、蒸发及排盐、氢氧化铝焙烧与包装等。f厂热力工程系统有:主厂房,堆煤场,燃煤破碎筛分输送系统,油泵房、除盐水站、点火泵房、灰渣库、熔盐加热站、除灰系统、热力管网、氨法脱硫系统等单元。工艺间物料采用管道或机动车辆输送。根据上述情况,请判断,该厂热力工程系统中危险因素有火灾、爆炸、高处坠落、冒顶、触电等。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>要切实加强安全生产管理,降低事故频发势头,实现安全生产形势的根本好转,</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>要实现危险化学品生产、使用等各个环节安全,防止事故发生,需要在管理和技术两个方面同时开展工作,并依靠从业人员素质的提高才能得以实现。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>液氯钢瓶搬运时要戴好钢瓶的安全帽及防震橡胶圈,轻装轻卸,防止钢瓶以及附件破损。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>液氯钢瓶与液氨钢瓶可以在同库存放。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>液氯生产所用的设备发生泄漏是氯碱企业常见的隐患之一。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一般可燃物质燃烧并非物质本身在燃烧,而是物质受热分解出的可燃气体在空气中燃烧。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一般应针对静态的设备设施采用安全检查表法(SCL)对风险进行辨识。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一般针对动态的作业活动不采用工作危害分析法(JHA)对风险进行辨识。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一次点燃未成功需要重新点燃时,一定要在点火前给炉膛烟道重新通风,待充分清除可燃物之后再进行点火操作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一级重大危险源所配备的采集和监测系统应具备信息远传、连续记录、异常状态报警、事故预警、信息储存和紧急停车等功能。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一切爆炸品严禁与氧化剂、自燃物品、酸、碱、盐类、易燃可燃物、金属粉末和钢铁材料器具等混储混运。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>移动式压力容器是指没有固定的安装和使用地点,主要用于盛装气体和液体的一种盛装压力容器。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>易燃、易爆品必须装在铁帮、铁底车、船内运输。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>因抢救人员、防止事故扩大以及疏通交通等原因,需要移动事故现场物件的,应当做出标志,但不需要绘制现场简图及做出书面记录。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>因缺水紧急停炉时,可视情况给锅炉上水,并开启空气阀及安全阀快速降压。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>因生产安全事故受到损害的从业人员,除依法享有工伤保险外,依照有关民事法律规定,有权向本单位提出赔偿要求。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>隐患排查治理体系建设是涉及到企业所有部门、所有人员以及所有环节的一项系统工程。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援队伍接到报警后,应立即根据事故情况,调集救援力量,携带专用器材,分配救援任务,下达救援指令,迅速赶赴事故现场。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援队伍要进行各方面的培训,并无必要制订培训记录和档案。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援过程中,救援人员首先应熟悉地形,明确撤离方向;准备好进入危险区应携带的标志物、扩音器以及强光手电等必要器材。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援过程中,为避免毒害物持续造成危害,应对化学事故现场的人员和物资及时进行洗消。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援过程中,应急救援人员撤离前应及时指导危险区的群众做好个人防护。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援过程中,应急救援人员应在事故地区的主要交通要道、路口设安全检查站,控制抢险救援的车辆通行。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援过程中社会援助队伍到达企业时,指挥部要派人员引导并告知安全注意事项。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援人员要通过培训考核证实能胜任所担任的应急任务,才能上岗。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援预案要有权威性,各级应急救援组织应职责明确,通力协作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急演练是针对事故情景,依据应急预案而模拟开展的预警行动、事故报告、指挥协调、现场处置等活动。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急预案的编制应该有明确、具体的事故预防措施和应急程序,并与其应急能力相适应。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急预案的要点和程序应当张贴在应急地点和应急指挥场所,并设有明显的标志。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急预案是针对可能发生的事故,为迅速、有序地开展应急行动而预先制定的管理规定。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急组织指挥体系或者职责已经调整的生产经营单位应急预案可三年后修订。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>用人单位必须依法参加工伤保险。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>由于在容器或管道中的可燃气体浓度在爆炸上限以上,虽然空气能补充或渗漏进去,也不能引起燃烧和爆炸。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>由于着火时烟气大多聚集在上部空间,如石油液化气或城市煤气火灾,具有向上蔓延快、横向蔓延慢的特点,因此在逃生时不要直立行走,应弯腰或匍匐前进。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有毒品必须储存在仓库,不得露天存放,应远离明火、热源,库房通风应良好。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有毒品经过皮肤破裂的地方侵入人体,会随血液蔓延全身,加快中毒速度。因此,在皮肤破裂时,应停止或避免对有毒品的作业。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有毒品在水中的溶解度越大,其危险性也越大。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有毒品在水中的溶解度越大,其危险性也越大。因为人体内含有大量水分,所以越易溶解于水的有毒品越易被人体吸收。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有关单位应当适时检测、维护其报警装置和应急救援设备、设施,使其处于良好状态,确保正常使用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有关人民政府及其部门为应对突发事件,可以征用单位和个人的财产。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有火灾爆炸危险的厂房内,通风气体可以循环使用。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有机过氧化物比无机氧化剂有更大的火灾爆炸危险。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有效的工程抢修抢险应以控制事故,减少损失,以达到更加安全为目的。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有压力或密封的容器可直接在其本体上焊割。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>遇湿易燃物品库房必须干燥,严防漏水或雨雪浸入,但可以在防水较好的露天存放。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>遇湿易燃物品灭火时可使用的灭火剂包括干粉、干黄土、干石粉和泡沫灭火。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>遇湿易燃物品灭火时严禁使用酸碱、泡沫灭火剂;但活泼的金属火灾时可以使用二氧化碳灭火。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>遇水燃烧物品及有毒物品禁止用小型机帆船、小木船和水泥船承运。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>运行电气设备操作必须由两个人执行,由工级较低的人担任监护,工级较高者进行操作。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>运输爆炸品时必须经交通管理部门批准,按规定的行车时间和路线方可起运。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>运输散装固体危险物品,应根据性质,采取防火、防爆、防水、防粉尘飞扬和遮阳措施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>运输危险化学品的槽罐以及其他容器必须封口严密,能够承受正常运输条件下下产生的内部压力和外部压力。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>运输压缩气体和液化气体钢瓶时,必须戴好钢瓶上的安全帽。钢瓶一般应平放,瓶口朝向没有严格要求,可以交叉放置。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>杂质对于爆炸品的敏感度也有很大影响,在一般情况下,固体杂质,特别是硬度高、有尖棱的杂质能够降低爆炸品的敏感度。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在爆炸危险场所,绝缘导线可以明敷设。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在采取措施的情况下,可以利用内河以及其他封闭水域等航运渠道运输剧毒化学品。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在封闭空间内实施焊接及切割时,气瓶及焊接电源可以放置在封闭的空间内。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在化工生产中,原料、成品的质量是保证防火安全的重要条件。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在化工生产中排放的各种废物料,可以不采取措施直排下水道。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在化学反应中,原料中的有害危险杂质的存在会导致副反应发生和过反应的发生。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在进行登高作业时,石棉瓦、玻璃钢瓦上应垫上脚手板。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在氧化反应设备系统中宜设置氮气、水蒸气灭火装置,以便能及时扑灭火灾。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在液氯生产过程中,对氯气尾气中氢含量控制的要求不高。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在易燃环境中不要穿化纤织物的工作服。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在应急救援过程中生产经营单位安全部门协助总指挥做好事故报警、情况通报及事故处置等工作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在正常停炉后,可立即全部放水。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在装卸和搬运爆炸品时,对于散落的粉末或粒状爆炸品,应立即用簸箕收集起来。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在综合应急演练前,演练组织单位或策划人员可按照演练方案或脚本组织桌面演练或合成预演,熟悉演练实施过程的各个环节。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>蒸汽吹扫气轮机入口管段时,气轮子必须处于盘车状态。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>只要具备燃烧三要素(可燃物、助燃物、点火源),即会引起燃烧。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>只要做好设备的保护接地或保护接零,就可以杜绝触电事故的发生。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>直射的太阳光通过凸透镜、圆形玻璃瓶、有气泡的平板玻璃等会聚集形成高温焦点,不可能点燃可燃性物质。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>职业安全健康管理体系是指为建立职业安全健康方针和目标以及实现这些目标所制定的一系列相互联系或补充作用的要素。企业为了实施职业安全管理所需的企业机构、程序、过程和资源。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>职业安全健康管理体系中检查与纠正措施是要求生产经营单位定期或及时地发现体系运行过程或体系自身所存在的问题,并确定问题产生的根源或存在持续改进的地方。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>制度是企业管理工作的基础,是企业管理的依据。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中小企业申办《危险化学品安全生产许可证》,不必进行安全评价。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>中小型危险化学品生产企业不必为从业人员缴纳保险费。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>重锤杠杆式安全阀是利用重锤和杠杆来平衡作用在阀瓣上的力,可以使用质量较小的重锤通过杠杆的增大作用获得较大的作用力,并通过移动重锤的位置来调整安全阀的开启压力。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>重大危险源,是指长期地或者临时地生产、搬运、使用或者储运危险化学品,且危险物品的数量等于或者超过临界量的单元(包括场所和设施)。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>重大危险源根据其危险程度,分为一级、二级、三级和四级,其中一级为最高级别。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>重大危险源引发的事故如可能威胁到企业外周边的居民,指挥部应立即上报有关部门,将居民迅速撤离到安全地点。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>贮罐收料时可以直接从贮罐上部注入。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>专项应急预案的事故类型和危害程度分析要在危险源评估的基础上,对其可能发生的事故类型和可能发生的季节及其严重程度进行确定。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>专项应急预案应当包括危险性分析、预防措施、应急处置程序和应急保障等内容。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>专项应急预案应制定明确的救援程序和具体的应急救援措施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>专项应急预案中处置措施应针对本单位事故类别和可能发生的事故特点、危险性,制定的应急处置措施(如:煤矿瓦斯爆炸、冒顶片帮、火灾、透水等事故应急处置措施,危险化学品火灾、爆炸、中毒等事故应急处置措施)。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>装卸、搬运危险化学品时应做到轻装、轻卸。严禁摔、碰、撞击、拖拉、倾倒和滚动。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>装卸对人体有害及腐蚀性物品时,操作人员应佩带相应的防护用品。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>装卸和搬运爆炸品时,必须轻装轻卸,严禁摔、滚、翻以及拖、拉、摩擦、撞击,以防引起爆炸。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>装卸和搬运易燃液体中,必须轻装轻卸,严禁滚动、摩擦、拖拉等危及安全的操作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>装卸易燃液体需穿防静电工作服,可以穿带铁钉鞋。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>装运危险货物的罐(槽)应配备泄压阀、防波板、遮阳物、压力表、液位计、导除静电等安全装置。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>装置有毒有害物质大量泄漏时,发现人员应立即向该装置当班人员报告。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>自治条例和单行条例。即民族自治地方的人民代表大会依照当地民族的政治、经济和文化特点制定的规范性文件。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>综合演练通常成立演练领导小组,下设策划组、执行组、保障组、评估组等专业工作组。根据演练规模大小,其组织机构可进行调整。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>足够能量和温度的点火源和物质接触是物质得以燃烧的唯一条件。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,非高位行业的生产经营单位,从业人员超过三百人的,应当设置安全生产管理机构或者配备专职安全生产管理人员。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,负有安全生产监督管理职责的部门对涉及安全生产的事项进行审查、验收,应当要求接受审查、验收的单位购买其指定品牌或者指定生产、销售单位的安全设备、器材或者其他产品。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,生产经营单位应当具备本法和有关法律、行政法规和国家标准或者行业标准规定的安全生产条件;不具备安全生产条件的,未经批准不得从事生产经营活动。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《安全生产法》规定,危险物品的生产、储存单位以及矿山、金属冶炼单位应当有注册安全工程师从事安全生产管理工作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《河北省安全生产条例》规定:矿山、金属冶炼单位以及危险物品的生产、储存单位,应当配备注册安全工程师从事安全生产管理工作;鼓励其他生产经营单位聘用注册安全工程师从事安全生产管理工作。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品安全管理条例》规定,国家鼓励对危险化学品实行专门储存、统一配送、集中销售。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品安全管理条例》规定,申请危险化学品安全使用许可证的化工企业不用进行安全评价。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品从业单位安全标准化通用规范》(AQ3013—2008)标准,于2008年11月19日发布,2009年1月1日实施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《危险化学品从业单位安全标准化通用规范》采用计划(Plan)、实施(Do)、检查(Check)和改进(Act)动态循环、持续改进的管理模式,持续改进企业的安全管理。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,两个以上生产经营单位在同一作业区域内进行可能危及对方安全生产的生产经营活动,未签订安全生产管理协议或者未指定专职安全生产管理人员进行安全检查与协调的,责令限期改正,可以处二万元以下的罚款。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>《中华人民共和国消防法》规定,企业对职工进行岗前消防安全培训,定期组织消防安全培训和消防演练。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>爆炸品仓库应为单层建筑,周围不宜装设避雷针。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>干粉灭火器的灭火原理是窒息。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>氯气对人体的眼、呼吸系统黏膜有刺激作用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>培训要素中应明确对本单位人员开展的应急培训计划、方式和要求。如果预案涉及到社区和居民,要做好宣传教育和告知等工作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>企业发生有害物大量外泄事故或火灾事故现场应设警戒线。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>三级重大危险源,根据可能引起火灾、爆炸及泄漏的部位、场所,设置必要的可燃气体、有毒气体检测和火灾报警装置。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位对职业安全健康管理方案应每年进行一次评审,以确保管理方案的实施,能够实现职业安全健康目标。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位内部一旦发生危险化学品事故,单位负责人必须立即按照上级制定的应急预案组织救援。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位为了企业利益,可以与从业人员订立协议,免除或者减轻其对从业人员因生产安全事故伤亡依法应承担的责任。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位未按照应急预案采取预防措施,导致事故救援不力或者造成严重后果的,由县级以上安全生产监督管理部门依照有关法律、法规和规章的规定,责令停产停业整顿,并依法给予行政处罚。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位应当与承租单位签订专门的安全生产管理协议。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产经营单位主管安全工作的领导对本单位事故隐患排查治理工作全面负责。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>水和二氧化碳在灭火过程中不参与燃烧过程中的化学反应,所起的是物理灭火作用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>虽然静电电压很高,但电量不大,所以危害不太大。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>缩合聚合是吸热反应,但由于温度过高,也会导致系统的压力增加,甚至引起爆裂,泄漏出易燃易爆的单体。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>烷基化剂一般比被烷基化物质的火灾危险性要小。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品单位重大危险源的安全评估可与本单位的安全评价一起进行,但不能以单位安全评价报告代替重大危险源安全评估报告。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品的标志使用原则:当一种危险化学品具有一种以上的危险性时,应该用主标表示主要危险性类别,并用副标表示重要的其他的危险类别。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品生产企业必须向用户提供化学事故应急咨询服务,为化学事故应急救援提供技术指导和必要的协助。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>危险化学品生产企业应当有相应的职业危害防护设施,并为从业人员配备符合有关国家标准或者行业标准规定的劳动防护用品。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>为了改善摩擦性能,使填料密封有足够的使用寿命,不允许介质有泄漏现象。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>为了降低对可能暴露人员的危险,机械应具有给出安全信号的手段,以提供适当的安全信息。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>未经定期检验或者检验不合格的特种设备,不得继续使用。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>未取得危险化学品安全生产许可证的,不得从事危险化学品生产活动。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>现场处置方案中重要物资装备的名录或清单应列出应急预案涉及的重要物资和装备名称、型号、存放地点等。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>消防设施、器材或者消防安全标志的配置、设置不符合国家标准、行业标准,或者未保持完好有效的,责令改正,处五千元以上五万元以下罚款。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>新安法把明确安全责任、发挥生产经营单位安全生产管理机构和安全生产管理人员作用作为一项重要内容。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>选用电气线路时,应注意到移动电气设备应采用橡皮套软线电缆或移动电缆。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>压力容器爆炸和锅炉爆炸属于物理爆炸。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>压缩气体如正丁烷、乙炔等发生着火时,应迅速灭火,然后切断气源。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>演练书面总结报告不必对应急演练准备、策划等工作进行简要总结分析。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>氧气瓶着火时可用雾状水或二氧化碳灭火器灭火。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>液化气罐区及贮罐的安全防火要求比汽油罐区及贮罐还严格。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>一次事故中死亡3~9人的是特大生产安全事故。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>乙炔压缩机中同乙炔接触的部件不允许用铜制成,因为可能产生具有爆炸危险的乙炔铜。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>易燃液体、遇湿易燃物品、易燃固体不得与氧化剂混合储存,具有还原性的氧化剂应单独存放。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>易燃易爆场所必须采用防爆型照明灯具。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援过程中,应急救援人员要在警戒区边界实施不间断的检测,以确保警戒区的有效性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援过程中,应急救援人员应加强对重要目标和地段的警戒和巡逻,防止人为破坏、制造事端。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援人员在控制事故发展的同时,应将伤员救出危险区域和组织群众撤离、疏散,消除危险化学品事故的各种隐患。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援指挥部由工会主席任总指挥;有关人员任副总指挥。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急救援组织机构应包括应急处置行动组、通信联络组、疏散引导组、安全防护救护组等。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急物资装备保障必须明确应急救援需要使用的应急物资和装备的类型、数量、性能、存放位置、管理责任人及其联系方式等内容。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急预案应提出详尽、实用、明确、有效的技术和组织措施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>应急预案中生产经营单位概况主要包括单位地址、从业人数、隶属关系、主要原材料、主要产品、产量等内容,以及周边重大危险源、重要设施、目标、场所和周边布局情况。必要时,可附平面图进行说明。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>油脂滴落于高温暖气片上发生燃烧的现象属于受热自燃。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>有毒品不溶于水时,人体的中毒可能性就很小。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在爆炸危险环境中,良好的通风装置能降低环境的危险等级。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在化工生产中,为了保证安全生产,一般都在爆炸极限之外的条件下选择安全操作的温度和压力。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在扑灭油品火灾时需要同时用水冷却贮罐。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在使用高压验电器时操作者应戴绝缘手套。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在易燃易爆等危险场所,动火作业都应办理动火审批手续。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>在应急救援过程中救援人员组织群众撤离危险区域时,可以横穿危险区域。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>政府主管部门必须派出经过培训的、考核合格的技术人员定期对重大危险源进行监察、调查、评估和咨询。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>职工发生工伤时,用人单位应当采取措施使工伤职工得到及时救治。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>职业安全健康管理体系的建立与保持,可以全面提高企业的安全管理水平,表现为全员参与,领导重视与不重视并不重要。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>职业安全健康管理体系管理评审是要求生产经营单位的最高管理者依据自己预定的时间间隔对职业安全健康管理体系进行评审,以确保体系的持续适宜性、充分性和有效性。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>职业安全健康管理体系应急预案与响应要求是确保生产经营单位主动评价其潜在事故与紧急情况发生的可能性及其应急响应的需要。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>职业安全健康管理体系中初始评审过程不包括法律、法规及其他要求内容。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>重锤杠杆式安全阀结构比较笨重,因而加载机构不易振动,且开启后易于关闭及保持严密。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>重大危险源的特点是储存物质一般为易燃、易爆、有毒、有害物质,且存储量较大。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>周围环境发生变化,形成新的重大危险源的应当及时修订应急预案。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>贮罐的检尺、测温盒、取样器应采用导电性良好且与罐体金属相碰不产生火花的材料制作。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>专项应急预案应按照综合应急预案的程序和要求组织制定,不作为综合应急预案的附件。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>专项应急预案中危险源监控就是明确本单位对危险源监测监控的方式、方法,以及采取的预防措施。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>专项应急预案中应明确应急救援指挥机构总指挥、副总指挥以及各成员单位或人员的具体职责。应急救援指挥机构不可以设置相应的应急救援工作小组,明确各小组的工作任务及主要负责人职责。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>阻火器的基本原理是由于液体封在气体进出之间,在液封两侧的任何一侧着火,火焰都将在液封底熄灭,从而阻止了火焰蔓延。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>醉酒导致伤亡的,也可以认定为工伤或者视同工伤。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>成年男性平均感知电流比女性大,因此男性比女性对电流更敏感。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于正常人体，感知阈值与时间因素无关，而摆脱阈值与时间有关。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于正常人体而言,感知阈值平均为0.5mA,并与时间因素相关。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>感知电流一般不会对人体造成伤害,但有可能导致二次事故。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>对于危险性较大的重点设备、重点岗位和重点场所,生产经营单位应当制定重点工作岗位的现场处置方案。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>生产企业的安全生产许可证有效期满后有效期可以延期3年。</desc>
+        <ans>f</ans>
+    </qstn>
+    <qstn type="judge" cust="0">
+        <desc>正常时中性点接地的电网比不接地的电网的单项触电的危险性要大。</desc>
+        <ans>t</ans>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）安全阀可用于移动式的压力容器上。  </desc>
+        <opt ans="t">弹簧式</opt>
+        <opt ans="f">脉冲式</opt>
+        <opt ans="f">重锤杠杆式</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）安全阀主要用于介质为有毒、易燃气体的容器。  </desc>
+        <opt ans="f">半封闭式</opt>
+        <opt ans="t">全封闭式</opt>
+        <opt ans="f">开放式</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）安全生产委员会负责安全预防控制体系建设的总体部署、宏观指导、统筹协调和督查考核,及时研究解决面临的问题。  </desc>
+        <opt ans="t">省</opt>
+        <opt ans="f">乡</opt>
+        <opt ans="f">县</opt>
+        <opt ans="f">市</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）不是安全生产相关法律。  </desc>
+        <opt ans="t">继承法</opt>
+        <opt ans="f">《中华人民共和国工会法》</opt>
+        <opt ans="f">《中华人民共和国建筑法》</opt>
+        <opt ans="f">《中华人民共和国劳动法》</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）对本岗位的安全生产负直接责任。  </desc>
+        <opt ans="f">基层技术人员</opt>
+        <opt ans="t">岗位工人</opt>
+        <opt ans="f">班组长</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）对危险化学品的生产、储存实行统筹规划、合理布局。  </desc>
+        <opt ans="t">国家</opt>
+        <opt ans="f">省</opt>
+        <opt ans="f">市</opt>
+        <opt ans="f">县</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）风险:1级风险,不可容许的,巨大风险,极其危险,必须立即整改,不能继续作业。  </desc>
+        <opt ans="f">蓝色</opt>
+        <opt ans="f">黄色</opt>
+        <opt ans="t">红色</opt>
+        <opt ans="f">橙色</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）风险:2级风险,高度危险,重大风险,必须制定措施进行控制管理。  </desc>
+        <opt ans="t">橙色</opt>
+        <opt ans="f">红色</opt>
+        <opt ans="f">黄色</opt>
+        <opt ans="f">蓝色</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）负有安全生产技术决策和指挥权,强化部门安全生产职责,落实一岗双责。  </desc>
+        <opt ans="t">主要技术负责人</opt>
+        <opt ans="f">安全员</opt>
+        <opt ans="f">生产科长</opt>
+        <opt ans="f">班长</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）管理是安全标准化的核心工作,企业应组织制定风险管理制度,明确风险评价的目的、范围和准则;  </desc>
+        <opt ans="f">财务</opt>
+        <opt ans="f">成本</opt>
+        <opt ans="t">风险</opt>
+        <opt ans="f">计划</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）年安全生产月主题为“全面落实企业安全生产主体责任” 。</desc>
+        <opt ans="t">2017</opt>
+        <opt ans="f">2014</opt>
+        <opt ans="f">2015</opt>
+        <opt ans="f">2016</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）是安全生产的责任主体。  </desc>
+        <opt ans="f">董事长</opt>
+        <opt ans="f">总经理</opt>
+        <opt ans="f">工会</opt>
+        <opt ans="t">生产经营单位</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）是本单位安全生产的第一责任人。  </desc>
+        <opt ans="t">企业主要负责人</opt>
+        <opt ans="f">安全部长</opt>
+        <opt ans="f">班长</opt>
+        <opt ans="f">安全员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）是高温物体不通过接触或流动,直接将热量向四周散发给低温物体的过程。  </desc>
+        <opt ans="t">辐射</opt>
+        <opt ans="f">传导</opt>
+        <opt ans="f">对流</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）是事故隐患排查治理和防控的责任主体。  </desc>
+        <opt ans="t">生产经营单位</opt>
+        <opt ans="f">安全监管监察部门</opt>
+        <opt ans="f">政府有关部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）是通过有计划、有组织、有目的的形式来实现的。  </desc>
+        <opt ans="t">定期安全生产检查</opt>
+        <opt ans="f">专业(项)安全生产检查</opt>
+        <opt ans="f">季节性及节假日前后安全生产检查</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）是运用工程技术手段消除物的不安全因素,实现生产工艺和机械设备等生产条件本质安全的措施。  </desc>
+        <opt ans="f">安全管理方案</opt>
+        <opt ans="f">安全保障方案</opt>
+        <opt ans="t">安全技术措施</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）无权制定地方政府规章。  </desc>
+        <opt ans="f">省</opt>
+        <opt ans="f">直辖市</opt>
+        <opt ans="f">自治区</opt>
+        <opt ans="t">乡</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）要从思想上真正认识企业实施隐患排查治理工作的必要性和现实性,为隐患排查治理工作提供各类资源保障,使隐患排查治理工作在企业得到有效和全面的实施。  </desc>
+        <opt ans="f">中层领导</opt>
+        <opt ans="f">化验员</opt>
+        <opt ans="t">企业管理层领导</opt>
+        <opt ans="f">班组长</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）应依法参加工伤社会保险,为从业人员缴纳工伤保险费。  </desc>
+        <opt ans="f">车间</opt>
+        <opt ans="f">政府</opt>
+        <opt ans="f">个人</opt>
+        <opt ans="t">企业</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）针对应急预案中多项或全部应急响应功能开展的演练活动。  </desc>
+        <opt ans="t">综合演练</opt>
+        <opt ans="f">单项演练</opt>
+        <opt ans="f">现场演练</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）主要是企业的一项基本管理制度和核心制度。  </desc>
+        <opt ans="t">安全生产责任制</opt>
+        <opt ans="f">操作规程</opt>
+        <opt ans="f">考勤制度</opt>
+        <opt ans="f">人事制度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）作为防止事故发生和减少事故损失的安全技术,是发现系统故障和异常的重要手段。  </desc>
+        <opt ans="f">安全技术措施</opt>
+        <opt ans="f">安全管理系统</opt>
+        <opt ans="t">安全监控系统</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“（  ）”要求把安全生产工作的重心放在预防上,强化隐患排查治理,打非治违,从源头上控制、预防和减少生产安全事故。  </desc>
+        <opt ans="f">安全第一</opt>
+        <opt ans="f">以人为本</opt>
+        <opt ans="t">预防为主</opt>
+        <opt ans="f">综合治理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>“（  ）”要求运用行政、经济、法治、科技等多种手段,充分发挥社会、职工、舆论监督各个方面的作用,抓好安全生产工作。  </desc>
+        <opt ans="t">综合治理</opt>
+        <opt ans="f">安全第一</opt>
+        <opt ans="f">违法必究</opt>
+        <opt ans="f">预防为主</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,安全生产工作（  ）生产经营单位的主体责任。  </desc>
+        <opt ans="f">坚持和强化</opt>
+        <opt ans="f">实行和强化</opt>
+        <opt ans="f">强化和坚持</opt>
+        <opt ans="t">强化和落实</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,从业人员发现事故隐患或者其他不安全因素,应当立即向现场安全生产管理人员或者本单位负责人报告,这是从业人员的（  ）。  </desc>
+        <opt ans="f">职责</opt>
+        <opt ans="f">责任</opt>
+        <opt ans="t">义务</opt>
+        <opt ans="f">权利</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,国家（  ）生产经营单位投保安全生产责任保险。  </desc>
+        <opt ans="f">动员</opt>
+        <opt ans="f">要求</opt>
+        <opt ans="t">鼓励</opt>
+        <opt ans="f">支持</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,国务院和县级以上地方各级人民政府应当根据国民经济和社会发展规划制定安全生产规划,并组织实施。安全生产规划应当与（  ）相衔接。  </desc>
+        <opt ans="f">社会发展规划</opt>
+        <opt ans="t">城乡规划</opt>
+        <opt ans="f">本地经济规划</opt>
+        <opt ans="f">本地发展规划</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,矿山、金属冶炼建设项目和用于生产、储存、装卸危险物品的建设项目的施工单位必须按照批准的安全设施设计施工,（  ）对安全设施的工程质量负责。  </desc>
+        <opt ans="f">安全生产监督管理部门</opt>
+        <opt ans="f">建设单位</opt>
+        <opt ans="t">施工单位</opt>
+        <opt ans="f">建设监理单位</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,生产经营单位必须对（  ）进行经常性维护、保养,并定期检测,保证正常运转。维护、保养、检测应当作好记录,并由有关人员签字。  </desc>
+        <opt ans="f">压力管道压力容器</opt>
+        <opt ans="f">关键性设备</opt>
+        <opt ans="f">大型设备</opt>
+        <opt ans="t">安全设备</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,生产经营单位采用新工艺、新技术、新材料或者使用新设备,必须了解、掌握其（  ）特性,采取有效的安全防护措施,并对从业人员进行专门的安全生产教育和培训。  </desc>
+        <opt ans="f">材料</opt>
+        <opt ans="t">安全技术</opt>
+        <opt ans="f">商品</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,生产经营单位的（  ）,对本单位的安全生产工作全面负责。  </desc>
+        <opt ans="f">分管安全负责人</opt>
+        <opt ans="f">总经理</opt>
+        <opt ans="t">主要负责人</opt>
+        <opt ans="f">投资人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,生产经营单位的安全生产管理人员应当根据本单位的生产经营特点,对安全生产状况进行经常性检查;对检查中发现的（  ）,应当立即处理;不能处理的,应当及时报告本单位有关负责人,有关负责人应当及时处理。检查及处理情况应当记录在案。  </desc>
+        <opt ans="t">安全问题</opt>
+        <opt ans="f">质量问题</opt>
+        <opt ans="f">工作问题</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,生产经营单位的从业人员有依法获得安全生产保障的权利,并应当依法履行安全生产方面的（  ）。  </desc>
+        <opt ans="t">义务</opt>
+        <opt ans="f">职务</opt>
+        <opt ans="f">职责</opt>
+        <opt ans="f">责任</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,生产经营单位的特种作业人员必须按照国家有关规定经专门的安全作业培训,取得（  ）,方可上岗作业。  </desc>
+        <opt ans="f">毕业证书</opt>
+        <opt ans="f">工作证</opt>
+        <opt ans="t">相应资格</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,生产经营单位应当建立健全生产安全事故隐患排查治理制度,采取技术、管理措施,及时发现并消除事故隐患。事故隐患排查治理情况应当如实记录,并（  ）。  </desc>
+        <opt ans="t">向从业人员通报</opt>
+        <opt ans="f">向行业主管部门报告</opt>
+        <opt ans="f">向当地安全生产监督管理部门报告</opt>
+        <opt ans="f">向企业相关管理人员通报</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,生产经营单位应当在有较大危险因素的生产经营场所和有关设施、设备上,设置明显的（  ）标志。  </desc>
+        <opt ans="f">有毒有害</opt>
+        <opt ans="f">禁止进入</opt>
+        <opt ans="t">安全警示</opt>
+        <opt ans="f">注意安全</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,生产经营单位用于生产、储存危险物品的建设项目竣工投入生产或者使用前,（  ）未经验收合格的,责令停止建设或者停产停业整顿,限期改正;逾期未改正的,处五十万元以上一百万元以下的罚款;构成犯罪的,依照刑法有关规定追究刑事责任。  </desc>
+        <opt ans="f">储存设施</opt>
+        <opt ans="f">生产设备</opt>
+        <opt ans="t">安全设施</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,县级以上地方各级人民政府安全生产监督管理部门依照本法,对本行政区域内安全生产工作实施（  ）监督管理。  </desc>
+        <opt ans="f">强化</opt>
+        <opt ans="t">综合</opt>
+        <opt ans="f">全面</opt>
+        <opt ans="f">具体</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,乡、镇人民政府以及街道办事处、开发区管理机构等地方人民政府的派出机关应当按照职责,加强对本行政区域内生产经营单位安全生产状况的监督检查,（  ）上级人民政府有关部门依法履行安全生产监督管理职责。  </desc>
+        <opt ans="f">支持</opt>
+        <opt ans="f">履行</opt>
+        <opt ans="f">帮助</opt>
+        <opt ans="t">协助</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,以下不属于生产经营单位的安全生产管理机构以及安全生产管理人员职责的是（  ）。  </desc>
+        <opt ans="t">保证本单位安全生产投入的有效实施</opt>
+        <opt ans="f">制止和纠正违章指挥、强令冒险作业、违反操作规程的行为</opt>
+        <opt ans="f">督促落实本单位安全生产整改措施</opt>
+        <opt ans="f">督促落实本单位重大危险源的安全管理措施</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,（  ）应当按照保障安全生产的要求,依法及时制定有关的国家标准或者行业标准,并根据科技进步和经济发展适时修订。  </desc>
+        <opt ans="f">A国务院各个行业管理机构</opt>
+        <opt ans="f">国务院标准化委员会</opt>
+        <opt ans="f">国家安监总局</opt>
+        <opt ans="t">国务院有关部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定了生产经营单位的主要负责人对本单位安全生产工作负有（  ）条的职责。  </desc>
+        <opt ans="t">7</opt>
+        <opt ans="f">5</opt>
+        <opt ans="f">6</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》由中华人民共和国第九届全国人民代表大会常务委员会第二十八次会议于2002年6月29日通过公布,自（  ）起施行。  </desc>
+        <opt ans="f">2002年7月1日</opt>
+        <opt ans="f">2002年10月1日</opt>
+        <opt ans="t">2002年11月1日</opt>
+        <opt ans="f">2002年12月1日</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》总则第一条:为了加强安全生产工作,防止和减少生产安全事故,保障人民群众生命和财产安全,（  ）经济社会持续健康发展,制定本法。  </desc>
+        <opt ans="f">保障</opt>
+        <opt ans="t">促进</opt>
+        <opt ans="f">坚持</opt>
+        <opt ans="f">实现</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产许可证条例》是一部（  ）。  </desc>
+        <opt ans="t">行政法规</opt>
+        <opt ans="f">规章</opt>
+        <opt ans="f">法律</opt>
+        <opt ans="f">地方法规</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《常用危险化学品分类及标志》定义腐蚀品系指能灼伤人体组织并对金属等物品造成损坏的固体或液体的化学品,腐蚀品与皮肤接触在（  ）h内出现可见坏死现象。</desc>
+        <opt ans="t">4</opt>
+        <opt ans="f">8</opt>
+        <opt ans="f">24</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《常用危险化学品分类及标志》规定:易燃液体的闭杯试验闪点应等于或低于（  ）℃。  </desc>
+        <opt ans="t">61</opt>
+        <opt ans="f">25</opt>
+        <opt ans="f">40</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《常用危险化学品分类及标志》中根据压缩气体和液化气体的理化性质,将压缩气体和液化气体分为三项即易燃气体、不燃气体、（  ）。  </desc>
+        <opt ans="f">助燃气体</opt>
+        <opt ans="t">有毒气体</opt>
+        <opt ans="f">窒息气体</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《非药品类易制毒化学品生产、经营许可办法》规定,国家对非药品类易制毒化学品的生产、经营实行（  ）制度。  </desc>
+        <opt ans="f">备案</opt>
+        <opt ans="t">许可</opt>
+        <opt ans="f">申请</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:（  ）的待遇不得低于同级同职其他岗位管理人员,并享受国家和本省规定的有关待遇。  </desc>
+        <opt ans="f">安全管理人员</opt>
+        <opt ans="f">主管安全负责人</opt>
+        <opt ans="t">专职安全生产管理人员</opt>
+        <opt ans="f">主要负责人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:（  ）级以上人民政府应当将安全生产纳入本地区国民经济和社会发展规划,制定实施安全生产规划。安全生产规划应当与城乡规划相衔接。  </desc>
+        <opt ans="f">乡</opt>
+        <opt ans="f">市</opt>
+        <opt ans="t">县</opt>
+        <opt ans="f">省</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:（  ）是安全生产的责任主体,对本单位安全生产工作全面负责。  </desc>
+        <opt ans="f">董事长</opt>
+        <opt ans="f">实际控制人</opt>
+        <opt ans="t">生产经营单位</opt>
+        <opt ans="f">主要负责人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:安全生产工作应当（  ）,坚持安全发展,坚持安全第一、预防为主、综合治理的方针。  </desc>
+        <opt ans="t">以人为本</opt>
+        <opt ans="f">效益为本</opt>
+        <opt ans="f">效率优先</opt>
+        <opt ans="f">生产为本</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:本省推行安全生产责任保险制度。在矿山、金属冶炼、建筑施工、交通运输、危险化学品、烟花爆竹、民用爆炸物品、渔业生产等高危行业领域（  ）实施投保安全生产责任险;  </desc>
+        <opt ans="f">鼓励</opt>
+        <opt ans="f">必须</opt>
+        <opt ans="f">推行</opt>
+        <opt ans="t">强制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:储存和堆放危险物品的港口、码头、仓库或者物流中心等场所的设计、建设应当符合国家设计规范和（  ）。  </desc>
+        <opt ans="f">安全距离</opt>
+        <opt ans="f">一定距离</opt>
+        <opt ans="f">安全间距</opt>
+        <opt ans="t">安全防护距离</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:矿山、金属冶炼、建筑施工、道路运输和危险物品的生产、经营、储存、装卸单位,其主要负责人和安全生产管理人员,自任职之日起（  ）内,应当由主管的负有安全生产监督管理职责的部门对其安全生产知识和管理能力考核合格。  </desc>
+        <opt ans="t">六个月</opt>
+        <opt ans="f">三个月</opt>
+        <opt ans="f">一个月</opt>
+        <opt ans="f">一年</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:矿山、金属冶炼单位以及危险物品的生产、储存单位,应当按照一定（  ）配备注册安全工程师从事安全生产管理工作;  </desc>
+        <opt ans="f">要求</opt>
+        <opt ans="t">比例</opt>
+        <opt ans="f">规定</opt>
+        <opt ans="f">标准</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:涉氨涉氯等有毒有害作业场所的生产经营单位除应当符合前款规定外,还应当（  ）检验储存装置,在储存、使用区域设置泄露收集处理装置和事故排水系统,在操作岗位设置洗眼器、淋洗器,配备空气呼吸器、防毒面具以及相关急救药品。  </desc>
+        <opt ans="t">定期</opt>
+        <opt ans="f">严格</opt>
+        <opt ans="f">随机</opt>
+        <opt ans="f">不定期</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位安全生产教育培训应当遵守下列规定:每年至少进行（  ）次全员教育培训。  </desc>
+        <opt ans="f">4</opt>
+        <opt ans="t">1</opt>
+        <opt ans="f">3</opt>
+        <opt ans="f">2</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位的（  ）是本单位安全生产第一责任人。  </desc>
+        <opt ans="f">董事长</opt>
+        <opt ans="t">主要负责人</opt>
+        <opt ans="f">工会主席</opt>
+        <opt ans="f">总经理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位的（  ）组织制定并实施本单位安全生产教育和培训计划。  </desc>
+        <opt ans="t">主要负责人</opt>
+        <opt ans="f">工会主席</opt>
+        <opt ans="f">安全生产管理人员</opt>
+        <opt ans="f">安全部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位的从业人员应当在每次上岗前进行岗位（  ）,确认安全后方可进行操作。  </desc>
+        <opt ans="t">安全检查</opt>
+        <opt ans="f">安全交接</opt>
+        <opt ans="f">安全交底</opt>
+        <opt ans="f">安全巡视</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位的其他负责人对其分管工作范围内的安全生产承担（  ）责任。  </desc>
+        <opt ans="f">综合领导</opt>
+        <opt ans="t">直接领导</opt>
+        <opt ans="f">相应领导</opt>
+        <opt ans="f">全面领导</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位的主要负责人和安全生产管理人员应当接受有关安全生产的教育和培训,具备相应的（  ）和管理能力。  </desc>
+        <opt ans="f">安全知识</opt>
+        <opt ans="f">管理知识</opt>
+        <opt ans="f">环保知识</opt>
+        <opt ans="t">安全生产知识</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位的主要负责人每（  ）向职工大会或者职工代表大会报告安全生产工作和个人履行安全生产管理职责的情况。  </desc>
+        <opt ans="f">周</opt>
+        <opt ans="t">年</opt>
+        <opt ans="f">月</opt>
+        <opt ans="f">季</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位的主要负责人每年至少组织并参与（  ）次生产安全事故应急救援演练。  </desc>
+        <opt ans="f">3</opt>
+        <opt ans="f">2</opt>
+        <opt ans="f">4</opt>
+        <opt ans="t">1</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位应当建立健全全员安全生产（  ）。  </desc>
+        <opt ans="f">主体责任</opt>
+        <opt ans="t">责任制度</opt>
+        <opt ans="f">投入制度</opt>
+        <opt ans="f">保障制度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位应当具备法律、法规和国家标准、行业标准或者地方标准规定的（  ）;不具备安全生产条件的,不得从事生产经营活动。  </desc>
+        <opt ans="f">安全条件</opt>
+        <opt ans="f">安全要求</opt>
+        <opt ans="f">基本条件</opt>
+        <opt ans="t">安全生产条件</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《河北省安全生产条例》规定:生产经营单位制定或者修改有关安全生产的规章制度,应听取（  ）意见。  </desc>
+        <opt ans="f">上级主管部门</opt>
+        <opt ans="t">工会</opt>
+        <opt ans="f">安全管理部门</opt>
+        <opt ans="f">职工代表大会</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《化学品安全标签编写规定》中规定标签必须包括（  ）方面内容。  </desc>
+        <opt ans="t">9</opt>
+        <opt ans="f">7</opt>
+        <opt ans="f">8</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《火灾分类》(GB4968—2008)标准把火灾分为（  ）类。  </desc>
+        <opt ans="f">5</opt>
+        <opt ans="f">4</opt>
+        <opt ans="t">6</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故报告和调查处理条例》规定,安全生产监督管理部门和负有安全生产监督管理职责的有关部门应当建立值班制度,并向社会公布值班电话,受理事故报告和（  ）。  </desc>
+        <opt ans="f">咨询</opt>
+        <opt ans="t">举报</opt>
+        <opt ans="f">上诉</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故报告和调查处理条例》规定的罚款的行政处罚,由（  ）决定。  </desc>
+        <opt ans="f">质监部门</opt>
+        <opt ans="f">公安部门</opt>
+        <opt ans="t">安监部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故报告和调查处理条例》中要求,事故报告应当及时、准确、（  ）。  </desc>
+        <opt ans="t">完整</opt>
+        <opt ans="f">全面</opt>
+        <opt ans="f">详细</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,（  ）负责废弃危险化学品处置的监督管理。  </desc>
+        <opt ans="f">公安机关</opt>
+        <opt ans="f">安全生产监督管理部门</opt>
+        <opt ans="t">环境保护主管部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,（  ）级以上人民政府应当建立危险化学品安全监督管理工作协调机制,支持、督促负有危险化学品安全监督管理职责的部门依法履行职责,协调、解决危险化学品安全监督管理工作中的重大问题。  </desc>
+        <opt ans="f">省</opt>
+        <opt ans="f">市</opt>
+        <opt ans="t">县</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,除运输工具加油站、加气站外,危险化学品生产装置或者储存数量构成（  ）的危险化学品储存设施,与居民区、商业中心、公园、人口密集区域等场所、区域的距离必须符合国家标准或者国家有关规定。  </desc>
+        <opt ans="f">一定规模</opt>
+        <opt ans="f">环境危害</opt>
+        <opt ans="t">重大危险源</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,国家对危险化学品生产实行（  ）制度。  </desc>
+        <opt ans="f">审批</opt>
+        <opt ans="t">许可</opt>
+        <opt ans="f">资质</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,剧毒化学品以及储存数量构成重大危险源的其他危险化学品,应当在专用仓库内单独存放,并实行双人收发、（  ）保管制度。  </desc>
+        <opt ans="t">双人</opt>
+        <opt ans="f">一人</opt>
+        <opt ans="f">三人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,申请（  ）道路运输通行证,托运人应当向县级人民政府公安机关提交拟运输的剧毒化学品品种、数量的说明、目的地、运输时间和运输路线的说明承运人取得危险货物道路运输许可等相关材料。  </desc>
+        <opt ans="t">剧毒化学品</opt>
+        <opt ans="f">危险化学品</opt>
+        <opt ans="f">化学品</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,生产、储存危险化学品的单位,应当在其作业场所设置（  ）装置,并保证处于适用状态。  </desc>
+        <opt ans="f">通风报警</opt>
+        <opt ans="f">通风防爆</opt>
+        <opt ans="t">通信报警</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,生产、储存危险化学品的单位未在作业场所和安全设施、设备上设置明显的安全警示标志,或者未在作业场所设置（  ）装置的,由安全生产监督管理部门责令改正,可以处5万元以下的罚款。  </desc>
+        <opt ans="t">通讯、报警</opt>
+        <opt ans="f">摄录</opt>
+        <opt ans="f">电器控制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,施行《危险化学品安全管理条例》的目的是:为了加强（  ）的安全管理,预防和减少危险化学品事故,保障人民群众生命财产安全,保护环境。  </desc>
+        <opt ans="f">化学危险品</opt>
+        <opt ans="f">危险化学物品</opt>
+        <opt ans="t">危险化学品</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,托运危险化学品的,（  ）应当向承运人说明所托运的危险化学品的种类、数量、危险特性以及发生危险情况的应急处置措施,  </desc>
+        <opt ans="f">托运单位</opt>
+        <opt ans="t">托运人</opt>
+        <opt ans="f">承运单位</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,危险化学品生产企业应当提供与其生产的危险化学品相符的化学品安全技术说明书,并在危险化学品包装(包括外包装件)上粘贴或者拴挂与包装内危险化学品相符的化学品（  ）。  </desc>
+        <opt ans="t">安全标签</opt>
+        <opt ans="f">运输标签</opt>
+        <opt ans="f">安全标志</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定生产危险化学品的,在包装上加贴或者栓挂与包装内危险化学品完全一致的化学品（  ）。  </desc>
+        <opt ans="f">使用说明书</opt>
+        <opt ans="f">质量证书</opt>
+        <opt ans="t">安全标签</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定危险化学品生产企业应当提供与其生产的危险化学品相符的化学品（ ）。  </desc>
+        <opt ans="f">质量证书</opt>
+        <opt ans="f">使用说明书</opt>
+        <opt ans="t">安全技术说明书</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品登记管理办法》规定,危险化学品（  ）企业应当设立由专职人员24小时值守的国内固定服务电话。  </desc>
+        <opt ans="f">运输</opt>
+        <opt ans="f">经营</opt>
+        <opt ans="t">生产</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品建设项目安全监督管理办法》规定,建设项目选址时,（  ）应当对建设项目设立的有关安全条件进行论证。  </desc>
+        <opt ans="t">建设单位</opt>
+        <opt ans="f">建设主管部门</opt>
+        <opt ans="f">安监部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品生产企业安全生产许可证实施办法》规定,企业安全生产许可证有效期届满后继续生产危险化学品的,应当在安全生产许可证有效期届满前（  ）个月提出延期申请,并提交延期申请书和本办法第二十五条规定的申请文件、资料。  </desc>
+        <opt ans="f">2</opt>
+        <opt ans="t">3</opt>
+        <opt ans="f">1</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品重大危险源监督管理暂行规定》明确重大危险源安全监督管理实行（  ）的原则。  </desc>
+        <opt ans="t">属地监管与分级管理相结合</opt>
+        <opt ans="f">单位负责、属地监管</opt>
+        <opt ans="f">综合协调、属地为主</opt>
+        <opt ans="f">分级负责、分类管理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《易制毒化学品购销和运输管理办法》规定,（  ）人违反规定运输易制毒化学品,与易制毒化学品运输许可证或者备案证明载明的品种、数量、运入地、货主及收货人、承运人等情况不符的;,公安机关应当责令停运整改,处五千元以上五万元以下罚款。  </desc>
+        <opt ans="f">发货</opt>
+        <opt ans="t">承运</opt>
+        <opt ans="f">购货</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《易制毒化学品购销和运输管理办法》规定,个人携带易制毒化学品不符合（  ）规定的,公安机关应当没收易制毒化学品,处一千元以上五千元以下罚款。  </desc>
+        <opt ans="f">规格、包装</opt>
+        <opt ans="f">质量、价格</opt>
+        <opt ans="t">品种、数量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《易制毒化学品购销和运输管理办法》规定,运输易制毒化学品,应当由（  ）向公安机关申请运输许可证或者进行备案。  </desc>
+        <opt ans="f">购货方</opt>
+        <opt ans="f">承运单位</opt>
+        <opt ans="t">货主</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《易制毒化学品管理条例》规定,易制毒化学品第一类指可以用于（  ）。  </desc>
+        <opt ans="f">制毒的化学配剂</opt>
+        <opt ans="f">制毒的辅助原料</opt>
+        <opt ans="t">制毒的主要原料</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,建设项目安全设施的设计人、设计单位应当对安全设施（  ）负责。  </desc>
+        <opt ans="t">设计</opt>
+        <opt ans="f">施工</opt>
+        <opt ans="f">使用</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,矿山、金属冶炼建设项目和用于生产、储存、装卸危险物品的建设项目,应当分别按照国家有关规定进行安全条件论证和（  ）。  </desc>
+        <opt ans="t">安全评价</opt>
+        <opt ans="f">审批</opt>
+        <opt ans="f">验收</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,任何单位或者（  ）对事故隐患或者安全生产违法行为,均有权向负有安全生产监督管理职责的部门报告或者举报。  </desc>
+        <opt ans="t">个人</opt>
+        <opt ans="f">职工</opt>
+        <opt ans="f">管理人员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营场所和员工宿舍应当设有符合（  ）要求、标志明显、保持畅通的出口。  </desc>
+        <opt ans="f">建筑规范</opt>
+        <opt ans="f">通风</opt>
+        <opt ans="t">紧急疏散</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营单位的从业人员不服从管理,违反安全生产规章制度或者操作规程的,由生产经营单位给予批评教育,依照有关规章制度给予（  ）。  </desc>
+        <opt ans="t">处分</opt>
+        <opt ans="f">追究刑事责任</opt>
+        <opt ans="f">行政处罚</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营单位的主要负责人和安全管理人员必须具备与本单位所从事的生产经营活动相应的（  ）和管理能力。  </desc>
+        <opt ans="f">安全技术</opt>
+        <opt ans="t">安全生产知识</opt>
+        <opt ans="f">生产经营</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营单位的主要负责人在本单位发生生产安全事故后逃匿的,由（  ）处15日以下拘留。  </desc>
+        <opt ans="f">安全生产监督管理部门</opt>
+        <opt ans="f">检察机关</opt>
+        <opt ans="t">公安机关</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》立法的目的是为了加强安全生产工作,防止和减少（  ）,保障人民群众生命和财产安全,促进经济发展。  </desc>
+        <opt ans="f">火灾、交通事故</opt>
+        <opt ans="f">重大、特大事故</opt>
+        <opt ans="t">生产安全事故</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》是我国安全生产领域的（  ）。  </desc>
+        <opt ans="f">法规</opt>
+        <opt ans="f">相关法</opt>
+        <opt ans="f">专门法</opt>
+        <opt ans="t">基本法</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国消防法》规定,建设工程的消防设计、施工必须符合（  ）工程建设消防技术标准。  </desc>
+        <opt ans="f">县级</opt>
+        <opt ans="f">省级</opt>
+        <opt ans="t">国家</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国消防法》规定,禁止在具有火灾、爆炸危险的场所吸烟、使用明火。因特殊情况需要使用明火作业的,应当按规定事先（  ）,采取相应的消防安全措施;作业人员应当遵守消防安全规定。  </desc>
+        <opt ans="t">办理审批手续</opt>
+        <opt ans="f">做好准备工作</opt>
+        <opt ans="f">向领导报告</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2004年4月15日下午,处于主城区的某市化工总厂氯气分厂工人操作中发现,2号氯冷凝器出现穿孔,有氯气泄漏。16日1时列管发生爆炸;凌晨4时左右,再次发生局部爆炸,大量氯气向周围弥漫;16日15时57分,5个装有液氯的氯罐突然发生爆炸,当场造成9人死亡、失踪,3人受伤。根据上述描述,使用氯气场所的卫生和环境卫生应符合GBZ1和GBZ2.1中的有关规定,作业场所空气中氯气含量最高允许浓度为（  ）mg/?。  </desc>
+        <opt ans="f">2</opt>
+        <opt ans="t">1</opt>
+        <opt ans="f">3</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>2014年8月31日第十二届全国人民代表大会常务委员会第十次会议通过全国人民代表大会常务委员会关于修改《中华人民共和国安全生产法》的决定,自（  ）起施行。  </desc>
+        <opt ans="f">2014年8月31日</opt>
+        <opt ans="f">2014年11月1日</opt>
+        <opt ans="f">2014年9月1日</opt>
+        <opt ans="t">2014年12月1日</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>C类火灾指的是（  ）火灾。  </desc>
+        <opt ans="f">液体物质</opt>
+        <opt ans="f">气体物质</opt>
+        <opt ans="t">固体物质</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全阀一般每年至少检验（  ）次。  </desc>
+        <opt ans="t">一</opt>
+        <opt ans="f">二</opt>
+        <opt ans="f">三</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全管理必须要有强大的动力,并且正确地应用动力,从而激发人们保障自身和集体安全的意识,自觉地、积极地搞好安全工作。这种管理原则就是人本原理中的（  ）原则。  </desc>
+        <opt ans="f">反馈</opt>
+        <opt ans="f">封闭</opt>
+        <opt ans="t">激励</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全管理的动态相关性原则说明如果系统要素处于（  ）状态,则事故就不会发生。  </desc>
+        <opt ans="t">静止的、无关的</opt>
+        <opt ans="f">发展的、变化的</opt>
+        <opt ans="f">动态的、相关的</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全管理制度是企业为了实现安全生产,依据国家有关法律法规和行业标准,结合（  ）,对企业各项安全管理工作所做的规定。  </desc>
+        <opt ans="f">目标、措施</opt>
+        <opt ans="f">政策、方针</opt>
+        <opt ans="t">生产、经营的安全生产实际</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全设备的设计、制造、安装、使用、检测、维修、改造和报废,应当符合国家标准或者（  ）。  </desc>
+        <opt ans="t">行业标准</opt>
+        <opt ans="f">企业标准</opt>
+        <opt ans="f">专业标准</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全生产管理工作应该做到预防为主,通过有效的管理和技术手段,减少和防止人的不安全行为和物的不安全状态,这就是（  ）。  </desc>
+        <opt ans="f">强制原理</opt>
+        <opt ans="f">人本原理</opt>
+        <opt ans="t">预防原理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全生产设施或者安全生产条件不符合国家规定,因而发生重大伤亡事故或者造成其他严重后果的,依（  ）论处。  </desc>
+        <opt ans="f">工程重大安全事故罪</opt>
+        <opt ans="f">危险物品肇事罪</opt>
+        <opt ans="t">重大劳动安全事故罪</opt>
+        <opt ans="f">重大责任事故罪</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全生产责任制是按照安全生产方针和“（  ）”的原则,将各级负责人员、各职能部门及其工作人员和各岗位生产人员在安全生产方面应做的事情和应负的责任加以明确规定的一种制度。  </desc>
+        <opt ans="f">安全生产、人人有责</opt>
+        <opt ans="f">三同时</opt>
+        <opt ans="t">管生产的同时必须管安全</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全泄放系统是由泄放路径和（  ）构成的。  </desc>
+        <opt ans="t">泄放装置</opt>
+        <opt ans="f">爆破片</opt>
+        <opt ans="f">泄放口</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全仪表系统又称（  ）。  </desc>
+        <opt ans="t">SIS</opt>
+        <opt ans="f">SOS</opt>
+        <opt ans="f">SYS</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全责任一经承诺,带有明显的（  ）,应该企业奖惩机制与责任制同步建立。  </desc>
+        <opt ans="t">强制性</opt>
+        <opt ans="f">随意性</opt>
+        <opt ans="f">适应性</opt>
+        <opt ans="f">自发性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>按安全生产绩效颁发奖金是对人本原理的（  ）的应用。  </desc>
+        <opt ans="f">动力原则和能级原则</opt>
+        <opt ans="t">动力原则和激励原则</opt>
+        <opt ans="f">激励原则和能级原则</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>按本规定《可容许风险标准》对居民区附近的重大危险源进行定量风险评价,个人风险值不得超过（  ）。  </desc>
+        <opt ans="f">3×10-6</opt>
+        <opt ans="f">1×10-7</opt>
+        <opt ans="f">&lt;3×10-7</opt>
+        <opt ans="t">1×10-6</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>按照《中华人民共和国安全生产法》的规定,国务院安全生产监督管理部门依照本法,对全国安全生产工作实施（  ）。  </desc>
+        <opt ans="t">综合管理</opt>
+        <opt ans="f">监督管理</opt>
+        <opt ans="f">综合监督管理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>按照系统安全工程的观点,安全是指系统中人员免遭（   ）的伤害。  </desc>
+        <opt ans="f">有害因素</opt>
+        <opt ans="t">不可承受风险</opt>
+        <opt ans="f">事故</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>把（   ）纳入地方经济社会和城镇发展总体规划,在城乡规划建设管理中,充分考虑安全因素,特别是城市地下公用基础设施如石油天然气管道、城镇燃气管线等安全问题。  </desc>
+        <opt ans="t">安全生产</opt>
+        <opt ans="f">环境保护</opt>
+        <opt ans="f">节能降耗</opt>
+        <opt ans="f">计划生育</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>爆破片是一种（   ）装置。  </desc>
+        <opt ans="t">安全泄压</opt>
+        <opt ans="f">连锁</opt>
+        <opt ans="f">警报</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>爆破片装置是一种（   ）安全附件。  </desc>
+        <opt ans="t">断裂型</opt>
+        <opt ans="f">熔化型</opt>
+        <opt ans="f">阀型</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>爆炸品仓库要阴凉通风,远离火种、热源,防止阳光直射,一般库温度控制在（   ）。 </desc>
+        <opt ans="f">35℃以下</opt>
+        <opt ans="f">10℃以下</opt>
+        <opt ans="t">15℃至30℃</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>爆炸品库房内部照明应采用防爆型灯具,开关应设在库房（   ）。  </desc>
+        <opt ans="t">外面</opt>
+        <opt ans="f">里面</opt>
+        <opt ans="f">里、外都行</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>比水轻的非水溶性可燃、易燃液体火灾,原则上不能用（   ）扑救。  </desc>
+        <opt ans="f">砂土</opt>
+        <opt ans="f">干粉</opt>
+        <opt ans="t">水</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>不能用于擦洗设备的是（   ）。  </desc>
+        <opt ans="t">汽油</opt>
+        <opt ans="f">洗衣粉</opt>
+        <opt ans="f">肥皂</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>不锈钢管道主要的腐蚀类型是（   ）。  </desc>
+        <opt ans="t">晶间腐蚀和点腐蚀</opt>
+        <opt ans="f">晶间腐蚀</opt>
+        <opt ans="f">点腐蚀</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>常用危险化学品的主标志和副标志的区别是:副标志中没有（  ）。  </desc>
+        <opt ans="f">文字说明</opt>
+        <opt ans="t">危险性类别号</opt>
+        <opt ans="f">图形</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>彻底排查整治安全隐患,企事业单位对安全隐患的排查覆盖率和整治到位率均要达到（   ）。</desc>
+        <opt ans="f">80%</opt>
+        <opt ans="f">50%</opt>
+        <opt ans="f">90%</opt>
+        <opt ans="t">100%</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>从工作介质这一方面来考虑划分压力容器的界限范围应该包括气体、液化气体和最高工作温度高于或等于其标准（   ）的液体。  </desc>
+        <opt ans="f">露点</opt>
+        <opt ans="t">沸点</opt>
+        <opt ans="f">冰点</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>从事防震减灾活动,应当遵守国家有关（  ）。  </desc>
+        <opt ans="t">防震减灾标准</opt>
+        <opt ans="f">法律法规标准</opt>
+        <opt ans="f">法规</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>从事易燃易爆作业的人员应穿（  ）以防静电。  </desc>
+        <opt ans="t">含金属纤维的棉布工作服</opt>
+        <opt ans="f">普通工作服</opt>
+        <opt ans="f">合成纤维工作服</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当操作人员的皮肤溅上烧碱,应（   ）。  </desc>
+        <opt ans="t">立即用硼酸溶液冲洗</opt>
+        <opt ans="f">立即用大量盐酸冲洗</opt>
+        <opt ans="f">无需处理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>当生产和其他工作与安全发生矛盾时,要以安全为主,生产和其他工作要服从安全,这就是（  ）原则。  </desc>
+        <opt ans="f">因果关系</opt>
+        <opt ans="t">安全第一</opt>
+        <opt ans="f">预防</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>到（   ）年,构建形成点、线、面有机结合、无缝对接的安全风险分级管控和隐患排查治理双重预防性工作体系。  </desc>
+        <opt ans="t">2018</opt>
+        <opt ans="f">2019</opt>
+        <opt ans="f">2017</opt>
+        <opt ans="f">2020</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>电石和石灰是（   ）。  </desc>
+        <opt ans="t">遇湿易燃物品</opt>
+        <opt ans="f">自燃物品</opt>
+        <opt ans="f">易燃固体</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>毒物被吸收速度较快的途径是（   ）。  </desc>
+        <opt ans="t">呼吸道</opt>
+        <opt ans="f">皮肤</opt>
+        <opt ans="f">消化道</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对存在重大安全风险的工作场所和岗位,要设置明显（  ）标志,并强化危险源监测和预警。  、</desc>
+        <opt ans="f">文化</opt>
+        <opt ans="t">警示</opt>
+        <opt ans="f">提示</opt>
+        <opt ans="f">说明</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对锅炉结构的要求:各部分在运行时应能按设计预定方向（   ）。  </desc>
+        <opt ans="t">自由膨胀</opt>
+        <opt ans="f">伸展</opt>
+        <opt ans="f">收缩</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对可能发生急性职业损伤的有毒、有害工作场所,用人单位应当设置报警装置,配置现场急救用品、冲洗设备、应急撤离通道和必要的（   ）。  </desc>
+        <opt ans="f">救护车</opt>
+        <opt ans="t">泄险区</opt>
+        <opt ans="f">医务室</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>对于金属钠的火灾不可以采用（   ）灭火。  </desc>
+        <opt ans="f">干粉</opt>
+        <opt ans="f">砂土</opt>
+        <opt ans="t">泡沫</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>惰性气体、雾化水、卤代烃等均能对可燃雾滴的燃烧产生（  ）作用。  </desc>
+        <opt ans="f">强化</opt>
+        <opt ans="t">抑制</opt>
+        <opt ans="f">加速</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>二级易燃固体、高闪点液体可储藏于耐火等级不低于（   ）级的库房内。  </desc>
+        <opt ans="t">二</opt>
+        <opt ans="f">三</opt>
+        <opt ans="f">一</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>二氧化碳灭火器灭火的原理描述正确的是（   ）。  </desc>
+        <opt ans="t">降低燃烧去温度</opt>
+        <opt ans="f">增加空气中的氧含量</opt>
+        <opt ans="f">促进空气流通</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>反复发生的同类事故,并不一定产生完全相同的后果,这就是事故损失的偶然性。（  ）原则告诉我们,无论事故损失大小,都必须做好预防工作。  </desc>
+        <opt ans="t">偶然损失</opt>
+        <opt ans="f">强制</opt>
+        <opt ans="f">预防</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>反应压力（  ）,设备可能会受大气压作用变形,外部空气也易渗入,与设备、系统内的可燃物料形成爆炸性混合物导致火灾爆炸事故。  </desc>
+        <opt ans="t">过低</opt>
+        <opt ans="f">升高</opt>
+        <opt ans="f">过高</opt>
+        <opt ans="f">降低</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>反映锅炉工作特性的基本参数,包括锅炉产生蒸汽的数量和（   ）。  </desc>
+        <opt ans="f">锅炉产生蒸汽的速率</opt>
+        <opt ans="f">锅炉的温度</opt>
+        <opt ans="t">锅炉产生蒸汽的质量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>防火防爆（   ）措施要求:一旦发生火灾事故,就需要采取有效措施,限制火灾蔓延、扩大。如安装阻火、泄压设备,设置防火墙等。  </desc>
+        <opt ans="t">限制性措施</opt>
+        <opt ans="f">预防性措施</opt>
+        <opt ans="f">疏散性措施</opt>
+        <opt ans="f">消防措施</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>高危项目审批必须把安全生产作为前置条件,城乡规划布局、设计、建设、管理等各项工作必须以（   ）为前提,实行重大安全风险“一票否决”。  </desc>
+        <opt ans="f">效益</opt>
+        <opt ans="f">节能</opt>
+        <opt ans="t">成本</opt>
+        <opt ans="f">安全</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>高效的现代安全生产管理必须在整体规划下明确分工,在分工基础上有效综合,这就是（   ）原则。运用此原则,要求企业管理者在制定整体目标和宏观决策时,必须将安全生产纳入其中。  </desc>
+        <opt ans="f">反馈</opt>
+        <opt ans="f">封闭</opt>
+        <opt ans="t">整分合</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>高压下存放的乙烯、乙炔发生的爆炸属于（   ）。  </desc>
+        <opt ans="t">简单分解爆炸</opt>
+        <opt ans="f">物理爆炸</opt>
+        <opt ans="f">气体混合爆炸</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>个灭火器的压力表的指针在红色区域。根据上述描述,危险化学品的储存方式、方法以及储存数量应当符合（   ）标准或者国家有关规定。  </desc>
+        <opt ans="f">行业</opt>
+        <opt ans="t">国家</opt>
+        <opt ans="f">企业</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>各（   ）政府要严格落实责任,加强对安全预防控制体系建设工作的组织协调和指导调度,推动工作落实。  </desc>
+        <opt ans="t">省市</opt>
+        <opt ans="f">市县</opt>
+        <opt ans="f">县乡</opt>
+        <opt ans="f">乡村</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>各级（  ）部门要根据各自实际,成立专门的组织领导机构,根据全省统一部署,研究制定本地区危险化学品行业企业具体工作方案,确定工作内容、工作步骤和保障措施,做好对企业的督促检查指导。  </desc>
+        <opt ans="f">税务</opt>
+        <opt ans="t">安全生产监督管理</opt>
+        <opt ans="f">工商</opt>
+        <opt ans="f">公安</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据《工伤保险条例》的规定,工伤保险费的缴纳,以下正确的是（  ）。  </desc>
+        <opt ans="f">按照国家、集体和个人三方负担的原则,由国家,用人单位和职工个人三方缴纳</opt>
+        <opt ans="f">国家承担主要部分,用人单位次之,个人再次之</opt>
+        <opt ans="t">由用人单位缴纳,职工个人不缴纳</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据国家标准《常用危险化学品分类及标志》,腐蚀品可分为酸性腐蚀品、碱性腐蚀品和（  ）腐蚀品三项。  </desc>
+        <opt ans="t">其它</opt>
+        <opt ans="f">有机</opt>
+        <opt ans="f">无机</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据国家标准《危险货物运输包装通用技术条件》规定了危险品包装的跌落、液压试验等（  ）种试验方法。  </desc>
+        <opt ans="f">3</opt>
+        <opt ans="t">4</opt>
+        <opt ans="f">5</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据国家规定,凡在坠落高度离基准面（  ）m以上,有可能坠落的高度进行的作业,均称为高处作业。  </desc>
+        <opt ans="t">2</opt>
+        <opt ans="f">1</opt>
+        <opt ans="f">2.5</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据能量转移理论的概念,事故的本质是（   ）。  </desc>
+        <opt ans="t">造成经济损失</opt>
+        <opt ans="f">能量的不正常作用</opt>
+        <opt ans="f">造成人员死伤    模拟题答案A</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据事故情景,对事故现场进行观察、分析或测定,确定事故严重程度、影响范围和变化趋势等。这在应急演练中属于（  ）。  </desc>
+        <opt ans="t">事故监测</opt>
+        <opt ans="f">测试</opt>
+        <opt ans="f">观测</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据突发环境事件的发生过程、性质和机理,突发环境事件分为:突发环境污染事件、（  ）和辐射环境污染事件。  </desc>
+        <opt ans="t">生物物种安全环境事件</opt>
+        <opt ans="f">危险化学品污染事件</opt>
+        <opt ans="f">光化学污染事件</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工伤职工在停工留薪期满后仍需要治疗的,继续享受（  ）待遇。  </desc>
+        <opt ans="f">养老保险</opt>
+        <opt ans="f">医疗保险</opt>
+        <opt ans="t">工伤医疗</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>管道油漆施工需有要防火、防冻、防雨措施,且适宜的的环境温度是（  ）。  </desc>
+        <opt ans="f">10℃-40℃</opt>
+        <opt ans="t">5℃-40℃</opt>
+        <opt ans="f">0℃-40℃</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉燃烧装置的调试包括燃烧状况的调整和（  ）。  </desc>
+        <opt ans="t">燃料的调节</opt>
+        <opt ans="f">水位控制装置的调试</opt>
+        <opt ans="f">温度控制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉是（  ）转换设备。  </desc>
+        <opt ans="f">质量</opt>
+        <opt ans="f">温度</opt>
+        <opt ans="t">能量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉严重缺水时可采取（ ）措施。  </desc>
+        <opt ans="f">缓慢进水</opt>
+        <opt ans="f">严禁向锅炉内上水,应该采取紧急停炉措施</opt>
+        <opt ans="t">开安全阀快速降压  &#x0D;&#x0A;模拟题答案C</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家标准《化学品安全技术说明书编写规定》中,SDS表示的意思是（  ）。  </desc>
+        <opt ans="t">化学品安全技术说明书</opt>
+        <opt ans="f">化学品安全标签</opt>
+        <opt ans="f">化学品质量证书</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国家对从事放射、高毒等作业实行（  ）管理。  </desc>
+        <opt ans="f">规划</opt>
+        <opt ans="t">特殊</opt>
+        <opt ans="f">计划</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国务院安委办《关于建立安全隐患排查治理体系的通知》(安委办〔2012〕1号)明确安全隐患排查治理体系是以企业安全隐患（  ）系统为核心。  </desc>
+        <opt ans="f">安全标准</opt>
+        <opt ans="f">安全责任</opt>
+        <opt ans="t">自查自报</opt>
+        <opt ans="f">安全培训</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国务院安委办《关于建立安全隐患排查治理体系的通知》(安委办〔2012〕1号)明确安全隐患排查治理体系是以制定（  ）体系为支撑。  </desc>
+        <opt ans="t">安全标准</opt>
+        <opt ans="f">自查自报</opt>
+        <opt ans="f">安全培训</opt>
+        <opt ans="f">安全责任</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>国务院地震工作主管部门和省、自治区、直辖市人民政府负责管理地震工作的部门或者机构,负责审定建设工程的（  ）,确定抗震设防要求。  </desc>
+        <opt ans="f">安全评价报告</opt>
+        <opt ans="t">地震安全性评价报告</opt>
+        <opt ans="f">地震安全专篇</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>化工检修中可以使用（  ）洗刷机具、配件、车辆。  </desc>
+        <opt ans="t">工业洗涤剂</opt>
+        <opt ans="f">汽油</opt>
+        <opt ans="f">挥发性溶剂</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>化工装置检修打开塔类等设备人孔时,应使其塔类等内部温度、压力降到符合安全要求后,（  ）依次打开。  </desc>
+        <opt ans="f">从中间</opt>
+        <opt ans="t">从上而下</opt>
+        <opt ans="f">从下而上</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>化学品安全标签内容中警示词有（  ）种分别进行危害程度的警示。  </desc>
+        <opt ans="f">5</opt>
+        <opt ans="t">3</opt>
+        <opt ans="f">4</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>换热器开车时要注意,必须先通入（  ）,当液体充满换热器时关闭放气阀;缓缓通入高温流体,以免由于温差大,流体急速通入而产生热冲击。</desc>
+        <opt ans="f">高温流体</opt>
+        <opt ans="t">低温流体</opt>
+        <opt ans="f">同时通入</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）风险:2级风险,高度危险,重大风险,必须制定措施进行控制管理。  </desc>
+        <opt ans="f">红色</opt>
+        <opt ans="f">蓝色</opt>
+        <opt ans="f">黄色</opt>
+        <opt ans="t">橙色</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>加强（  ）运行安全风险辨识、评估和预警,建立完善覆盖城市运行各环节的城市安全风险分级管控体系。  </desc>
+        <opt ans="f">车站</opt>
+        <opt ans="t">城市</opt>
+        <opt ans="f">企业</opt>
+        <opt ans="f">小学</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>钾、钠等活泼金属绝对不允许露置空气中,必须浸没在（  ）中保存,容器不得渗漏。  </desc>
+        <opt ans="t">煤油</opt>
+        <opt ans="f">溶液</opt>
+        <opt ans="f">水</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>建立完善安全（  ）公告制度,并加强风险教育和技能培训,确保管理层和每名员工都掌握安全风险的基本情况及防范、应急措施。  </desc>
+        <opt ans="t">风险</opt>
+        <opt ans="f">管理</opt>
+        <opt ans="f">技术</opt>
+        <opt ans="f">培训</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>健全省、市、（  ）三级安全生产应急救援管理工作机制,建设联动互通的应急救援指挥平台。  </desc>
+        <opt ans="t">县</opt>
+        <opt ans="f">乡</opt>
+        <opt ans="f">户</opt>
+        <opt ans="f">村</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>金属钠应储存于（  ）。  </desc>
+        <opt ans="f">水中</opt>
+        <opt ans="f">空气中</opt>
+        <opt ans="t">煤油中</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>警戒与管制就是根据事故情景,建立应急处置现场（  ）,实行交通管制,维护现场秩序  </desc>
+        <opt ans="t">警戒区域</opt>
+        <opt ans="f">戒严区域</opt>
+        <opt ans="f">管制区域</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>酒精燃烧火灾是（  ）类火灾。 </desc>
+        <opt ans="f">C</opt>
+        <opt ans="t">B</opt>
+        <opt ans="f">A</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>卷扬机钢丝绳应从卷筒（  ）卷入。  </desc>
+        <opt ans="f">上方</opt>
+        <opt ans="t">下方</opt>
+        <opt ans="f">左侧</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>可能造成重大事故的危险源称为（  ）。  </desc>
+        <opt ans="f">一级重大危险源</opt>
+        <opt ans="t">三级重大危险源</opt>
+        <opt ans="f">二级重大危险源</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>可燃气体的爆炸下限数值越低,爆炸极限范围越大,则爆炸危险性（   ）。  </desc>
+        <opt ans="t">越大</opt>
+        <opt ans="f">不变</opt>
+        <opt ans="f">越小</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>可燃液体在火源作用下（   ）进行燃烧。  </desc>
+        <opt ans="f">高温液体部分</opt>
+        <opt ans="f">本身直接</opt>
+        <opt ans="t">蒸发成蒸气氧化分解</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>没有建立专职应急救援队的危险化学品企业必须与邻近的具备相应能力的专业救援队签订（   ）。  </desc>
+        <opt ans="t">应急救援协议</opt>
+        <opt ans="f">应急合同</opt>
+        <opt ans="f">应急意向书</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>某电化厂液氯工段发生液氯钢瓶爆炸,造成该工段414㎡厂房全部摧毁,相邻的冷冻厂厂房部分倒塌,两个厂房内设备、管线全部损毁。并造成附近办公楼及厂区周围280余间民房不同程度损坏。液氯工段当班的8名工人当场死亡。更为严重的是爆炸后氯气扩散7km,由于电化厂设在市区,与周围居民区距离较近,事故共导致千余人氯气中毒,数人死亡。直接经济损失若干。经调查最初爆炸的1只液氯钢瓶是由用户送到电化厂来充装液氯的。该用户在生产设备与液氯钢瓶连接管路上没有安装止逆阀、缓冲罐或其他防倒罐装置,致使氯化石蜡倒灌入液氯钢瓶中,而且在送来此钢瓶时也未向充装单位声明情况。负责充装钢瓶的液氯工段工人在充装液氯前没有对欲充装的钢瓶进行检查和清理,就进行液氯充装。充装时,钢瓶内的氯化石蜡和液氯发生化学反应,温度、压力升高,致使钢瓶发生爆炸,并导致周围钢瓶相继爆炸。双方工人均未经特种作业人员培训和考核,没有事故应急预案。根据上述描述,该事故发生的间接原因是（   ）。  </desc>
+        <opt ans="t">双方工人均未经特种作业人员培训和考核</opt>
+        <opt ans="f">用户方违章造成液氯钢瓶内混入氯化石蜡</opt>
+        <opt ans="f">充装方工人违章操作</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>某火力发电厂有6台额定压力13.72MPa、额定蒸发量670t/h的电站锅炉。为保证锅炉启动和稳定燃烧,建有2个500?的轻柴油储罐。为发电机冷却,建有制氢站。制氢站装有1套制氢设备和4个氢罐,氢罐的工作压力3.2MPa、体积13.9?。锅炉燃用煤粉由磨煤机加工后,经输粉管道直接进入炉膛。因生产需要,该厂决定对磨煤输粉系统进行改造。改造工程包括:拆除部分距离地面6m高的破损输粉管道,更换新管道。在施工中,部分拆除和安装工作在脚手架上进行,使用额定起重量为5t的电动葫芦。拆除旧管道时,使用乙炔进行气割。新管道焊接前,使用角磨机进行抛光。拆除的旧管道和其他旧设备使用叉车运走。施工现场周围有正在使用的动力电缆和高温管道,还有部分未清除的煤粉。根据上述情况,该厂特种设备不包括（   ）。  </desc>
+        <opt ans="f">电动葫芦</opt>
+        <opt ans="t">发电机</opt>
+        <opt ans="f">锅炉</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>某焦化厂2009年发生生产安全事故2起、造成2人轻伤。该厂因精苯工业废水兑水稀释后外排,被环保部门责令整改。该厂采取的措施是将废水向煤场内煤堆喷洒,这样既抑制了扬尘,又避免了废水外排。为防止相关事故发生,该厂于2009年5月20日制订实施了《a焦化厂精苯污水喷洒防尘管理办法》。根据上述事实,该厂工人在工人在生产过程中不可能接触到的职业性有害因素有（   ）。  </desc>
+        <opt ans="f">苯废水</opt>
+        <opt ans="t">低温</opt>
+        <opt ans="f">煤尘</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>某炼化公司炼油三部裂化系列按停工网络开始降温降量,分馏系统也作相应调整,作为装置冲洗油的塔减二线量相应减少。班组按停工方案引外来低氮油(柴油组分)做冲洗油。14时左右,班长王某、外主操俞某、周某一起到装置边界处改流程,未按规定进行检查、确认就进行引油操作。在打开边界处两道阀门后,低氮油从第二、第三道阀门之间的放空阀喷出,遇附近高温蒸汽管线起火,王某被烧成重伤。根据上述事实,该起事故直接原因有（  ）。  </desc>
+        <opt ans="f">员工安全风险意识不强,责任心不到位</opt>
+        <opt ans="t">操作人员严重违章,在改流程过程中未按规定进行检查、确认就进行引油操作</opt>
+        <opt ans="f">企业安全管理存在薄弱环节</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>某农药厂发现储备的甲胺数量不足,便向外地某化工厂紧急求购,并派人到当地运输市场临时租用个体运输户连夜进行采购。个体户司机谢某驾驶着一辆日野牌货车,车厢上装载一卧式槽罐,内装2.4吨甲胺,从外地某化工厂返回本地,同车返回的还有农药厂押运员郑某和搭车的本地供销贸易中心职工余某及其小孩共4人。次日凌晨3时左右,汽车行经某县时,押车的郑某因其父母家住该县,便要司机将汽车开进人口密集的县城。在开往押运员郑某家途中,距街口28m处,发现马路右侧有一高0.5m,宽二分之一马路的石堆,司机谢某和押运员郑某未下车察看路情,强行偏左行驶,致使罐体上部液相管阀门与路边树叉相撞,导致阀门下部接管部位折断。顿时,大量剧毒的一甲胺液体迅速汽化,并由断口处喷出。车内4人闻到异味后,立即弃车逃离现场。根据上述描述,请选择,通过道路运输危险化学品的托运人应当委托依法取得危险货物道路运输许可的（   ）承运。  </desc>
+        <opt ans="f">个人</opt>
+        <opt ans="t">企业</opt>
+        <opt ans="f">企业或个人均可</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>能够作为人体防静电的措施之一是（   ）。  </desc>
+        <opt ans="t">应穿戴防静电工作服、鞋和手套</opt>
+        <opt ans="f">应注意远离水、金属等良导体</opt>
+        <opt ans="f">应定时检测静电</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业分管安全生产工作的负责人承担安全生产（   ）管理领导责任。  </desc>
+        <opt ans="f">全面</opt>
+        <opt ans="f">主体</opt>
+        <opt ans="f">直接</opt>
+        <opt ans="t">综合</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业其他负责人对其分管工作范围内的安全生产承担（   ）领导责任。  </desc>
+        <opt ans="f">主体</opt>
+        <opt ans="t">直接</opt>
+        <opt ans="f">全面</opt>
+        <opt ans="f">综合</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业实行全员安全生产责任制度,法定代表人和实际控制人同为安全生产（   ）责任人。  </desc>
+        <opt ans="f">第三</opt>
+        <opt ans="f">第二</opt>
+        <opt ans="f">第四</opt>
+        <opt ans="t">第一</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业要积极探索与当地政府相关部门和周边企业建立（   ）,切实提高协同应对事故灾难的能力。  </desc>
+        <opt ans="f">沟通机制</opt>
+        <opt ans="f">合作机制</opt>
+        <opt ans="t">应急联动机制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业要全面建立健全（   ）,做好安全生产事故防范和预报预警工作,做到早防御、早响应、早处置。  </desc>
+        <opt ans="f">安全生产动态监控</opt>
+        <opt ans="f">预报预警机制</opt>
+        <opt ans="t">安全生产动态监控及预报预警机制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业一般以（   ）为日常管理机构,对事故隐患排查治理工作实施监督管理。  </desc>
+        <opt ans="t">安全管理部门</opt>
+        <opt ans="f">保卫部门</opt>
+        <opt ans="f">环保部门</opt>
+        <opt ans="f">教育部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业隐患排查清单编写完毕,应经企业（   ）审核,以正式文件形式,将《安全生产隐患排查清单》在企业内部发布。  </desc>
+        <opt ans="t">主管领导</opt>
+        <opt ans="f">设备员</opt>
+        <opt ans="f">班长</opt>
+        <opt ans="f">安全员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业应成立（   ）担任组长,各车间各部门安全管理人员为主要成员的隐患排查治理领导小组。  </desc>
+        <opt ans="f">安全员</opt>
+        <opt ans="f">安全部长</opt>
+        <opt ans="t">主要负责人</opt>
+        <opt ans="f">安全总监</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业应建立起以基层（  ）为骨干,以全体员工为基础,形成从上至下的隐患排查治理工作网络,明确各个层级的隐患排查治理职责。  </desc>
+        <opt ans="f">卫生员</opt>
+        <opt ans="f">设备员</opt>
+        <opt ans="f">化验员</opt>
+        <opt ans="t">安全管理人员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业应制订文件化的安全生产方针和目标,应签订（   ）组织的安全目标责任书。并对年度安全工作目标予以考核。  </desc>
+        <opt ans="f">班组</opt>
+        <opt ans="f">岗位</opt>
+        <opt ans="t">各级</opt>
+        <opt ans="f">各部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>气焊(割)作业中,乙炔气瓶和氧气瓶之间应有足够的安全距离(≥5m),与明火点应保持（   ）m以上的距离。  </desc>
+        <opt ans="f">8</opt>
+        <opt ans="t">10</opt>
+        <opt ans="f">5</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>气瓶发生化学爆炸的主要原因是（   ）。  </desc>
+        <opt ans="t">气瓶中气体发生混装(可燃气体和氧气)</opt>
+        <opt ans="f">维护不当</opt>
+        <opt ans="f">气瓶充装过量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>气体或蒸气的（   ）范围越宽,其危险度值越大。  </desc>
+        <opt ans="f">混合比例</opt>
+        <opt ans="t">爆炸极限</opt>
+        <opt ans="f">泄漏</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>氢气泄漏时,易在空间（   ）聚集。  </desc>
+        <opt ans="f">底</opt>
+        <opt ans="t">顶</opt>
+        <opt ans="f">中</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>人们在从事管理工作时,运用系统观点、理论和方法,对管理活动进行充分的系统分析,以达到管理的优化目标,这是（   ）。  </desc>
+        <opt ans="f">人本原理</opt>
+        <opt ans="f">预防原理</opt>
+        <opt ans="t">系统原理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>认为新的技术发展会带来新的危险源,安全工作的目标就是控制危险源,努力把事故发生概率减到最低。这一观点是包括在（   ）理论中的。  </desc>
+        <opt ans="t">系统安全</opt>
+        <opt ans="f">事故频发倾向</opt>
+        <opt ans="f">海因里希因果连锁</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>如不能完全消除和预防坠落危害,应评估工作场所和作业过程的坠落危害,选择安装使用（   ）。  </desc>
+        <opt ans="f">升降机、吊篮等</opt>
+        <opt ans="t">安全带、安全绳、缓冲器、抓绳器、吊绳、锚固点、安全网等</opt>
+        <opt ans="f">脚手架、操作平台等</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>若系统内存在燃爆性气体爆破片的材料不应选用（   ）。  </desc>
+        <opt ans="f">塑料</opt>
+        <opt ans="f">橡胶</opt>
+        <opt ans="t">铁片</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>三级安全教育是指（   ）。 </desc>
+        <opt ans="t">厂、车间、班组</opt>
+        <opt ans="f">总厂、分厂、车间</opt>
+        <opt ans="f">集团公司、车间、班组</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>闪点低于23度的易燃液体,其仓库温度一般不得超过（   ）℃。  </desc>
+        <opt ans="f">40</opt>
+        <opt ans="t">30</opt>
+        <opt ans="f">20</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>设计单位应当按照抗震设防要求和工程建设（   ）进行抗震设计,并对抗震设计的质量以及出具的施工图设计文件的准确性负责。  </desc>
+        <opt ans="t">强制性标准</opt>
+        <opt ans="f">行业标准</opt>
+        <opt ans="f">推荐性标准</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位（   ）对本单位事故隐患排查治理工作全面负责。  </desc>
+        <opt ans="f">安全分管领导</opt>
+        <opt ans="f">高层领导</opt>
+        <opt ans="t">主要负责人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位安全生产责任制的范围,纵向到各级人员的安全生产责任制,（  ）到各职能部门的安全生产责任制。  </desc>
+        <opt ans="f">管理</opt>
+        <opt ans="t">横向</opt>
+        <opt ans="f">纵向</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位内部一旦发生危险化学品事故,单位负责人必须立即按照本单位制定的（  ）组织救援。  </desc>
+        <opt ans="f">控制措施</opt>
+        <opt ans="t">应急救援预案</opt>
+        <opt ans="f">工作计划</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位为了保证安全资金的有效投入,应编制安全技术措施计划,其核心是（  ）。  </desc>
+        <opt ans="t">安全技术手册</opt>
+        <opt ans="f">安全技术措施</opt>
+        <opt ans="f">安全技术预案</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>使用危险化学品从事生产并且使用量达到规定数量的化工企业,应当依照《危险化学品安全管理条例》的规定取得危险化学品安全（   ）许可证。  </desc>
+        <opt ans="f">生产</opt>
+        <opt ans="f">经营</opt>
+        <opt ans="t">使用</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>事故隐患排查治理过程中,对（   ）难以停产或停止使用的相关生产储存装置、设施、设备,应当加强保护和保养,防止事故发生。  </desc>
+        <opt ans="t">暂时</opt>
+        <opt ans="f">永远</opt>
+        <opt ans="f">长期</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>事先把系统加以剖析,列出各层次的不安全因素,确定检查项目,并把检查项目按系统的组成顺序编制成表,以便进行检查或评审。这种属于（   ）检查法。  </desc>
+        <opt ans="f">仪器检查法</opt>
+        <opt ans="t">安全检查表法</opt>
+        <opt ans="f">常规检查</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>属于化学爆炸的是（   ）。  </desc>
+        <opt ans="f">烟花爆竹爆炸</opt>
+        <opt ans="t">瓦斯爆炸</opt>
+        <opt ans="f">面粉爆炸</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>水压试验应该在（  ）和热处理以后进行。  </desc>
+        <opt ans="f">焊接试验</opt>
+        <opt ans="t">无损探伤合格</opt>
+        <opt ans="f">金相检查</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>水蒸气的灭火原理在于降低燃烧区的（   ）。  </desc>
+        <opt ans="t">含氧量</opt>
+        <opt ans="f">温度</opt>
+        <opt ans="f">湿度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>所有大中型危险化学品企业都要依法按照相关标准建立（  ）。  </desc>
+        <opt ans="f">兼职救援队</opt>
+        <opt ans="t">专业应急救援队</opt>
+        <opt ans="f">志愿救援队</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>通常情况下,液体的燃烧难易程度主要用（   ）的高低来衡量。  </desc>
+        <opt ans="f">最小点火能量</opt>
+        <opt ans="t">闪点</opt>
+        <opt ans="f">自燃点</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>突发事件发生后,发生地（   ）人民政府应当立即采取措施控制事态发展,组织开展应急救援和处置工作,并立即向上一级人民政府报告,必要时可以越级上报。 </desc>
+        <opt ans="f">乡级</opt>
+        <opt ans="f">省级</opt>
+        <opt ans="t">县级</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险、有害因素的识别是指识别危险、有害因素的存在并确定其（   ）的过程。  </desc>
+        <opt ans="t">数量</opt>
+        <opt ans="f">严重性</opt>
+        <opt ans="f">性质</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品（   ）的安全管理,适用《危险化学品安全管理条例》。  </desc>
+        <opt ans="f">生产、包装、经营、储存、运输</opt>
+        <opt ans="t">生产、储存、使用、经营和运输</opt>
+        <opt ans="f">经营、进口、储存、运输、使用</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品、烟花爆竹、民用爆炸物品生产企业没有生产安全事故应急预案不得颁发（   ）。  </desc>
+        <opt ans="f">危险化学品登记证</opt>
+        <opt ans="f">安全经营许可证</opt>
+        <opt ans="t">安全生产许可证</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品单位应当按照（   ）标准,对本单位的危险化学品生产、经营、储存和使用装置、设施或者场所进行重大危险源辨识,并记录辨识过程与结果。</desc>
+        <opt ans="f">《重大危险源辨识》(GB18218—2000)</opt>
+        <opt ans="t">《危险化学品重大危险源辨识》 (GB18218—2009)</opt>
+        <opt ans="f">《危险化学品安全管理条例》(国务院2011年591号令)</opt>
+        <opt ans="f">《职业健康安全管理体系要求》(GB28001—2011)</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品单位应当为重大危险源配备温度、压力、液位、流量、组份等不间断信息采集和监测系统及可燃、有毒有害气体泄漏检测报警装置。监测记录电子数据保存时间应不少于（   ）天。  </desc>
+        <opt ans="f">15</opt>
+        <opt ans="f">60</opt>
+        <opt ans="f">20</opt>
+        <opt ans="t">30</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品单位在完成重大危险源安全评估报告或者安全评价报告后（  ）日内,应填写重大危险源备案申请表,连同重大危险源档案材料报送所在地县级人民政府安全生产监督管理部门备案。  </desc>
+        <opt ans="f">10</opt>
+        <opt ans="t">15</opt>
+        <opt ans="f">20</opt>
+        <opt ans="f">30</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品的储存必须具备适合储存方式的设施:在同一房间或同一区域内,不同的物料之间分开一定的距离,非禁忌物料间用通道保持空间的储存方式。这种储存方式属于（  ）储存方式。  </desc>
+        <opt ans="f">分开储存</opt>
+        <opt ans="f">隔开储存</opt>
+        <opt ans="t">隔离储存</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品的储存必须具备适合储存方式的设施:在同一房间或同一区域内,用隔板或墙,将禁忌物料分开的储存方式。这种储存方式属于（  ）储存方式。  </desc>
+        <opt ans="f">分开储存</opt>
+        <opt ans="t">隔开储存</opt>
+        <opt ans="f">隔离储存</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品的储存根据物质的理化性状和储存量的大小分为整装储存和（   ）两类。  </desc>
+        <opt ans="t">散装储存</opt>
+        <opt ans="f">分开储存</opt>
+        <opt ans="f">分离储存</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品的泄漏处理包括:（  ）、泄漏物处理、危害监测。  </desc>
+        <opt ans="f">危化品保护</opt>
+        <opt ans="t">泄漏源控制</opt>
+        <opt ans="f">周边的警戒</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品库房门应为铁门或木质外包铁皮,采用（  ）开式。设置高侧窗(剧毒物品仓库的窗户应加设铁护栏。  </desc>
+        <opt ans="t">外开式</opt>
+        <opt ans="f">内开式</opt>
+        <opt ans="f">内、外开式都可以</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品事故应急救援根据事故（   ）及其危险程度,可采取单位自救和社会救援两种形式。  </desc>
+        <opt ans="f">爆炸程度</opt>
+        <opt ans="f">影响大小</opt>
+        <opt ans="t">波及范围</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险化学品运输车辆应当悬挂或者喷涂符合（  ）要求的警示标志。  </desc>
+        <opt ans="t">国家标准</opt>
+        <opt ans="f">企业标准</opt>
+        <opt ans="f">行业标准</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>危险物品的生产、经营、储存单位以及矿山、金属冶炼、建筑施工、道路运输单位的主要负责人和安全管理人员,应当由（  ）对其安全生产知识和管理能力考核合格。  </desc>
+        <opt ans="f">行业协会</opt>
+        <opt ans="f">教育培训部门</opt>
+        <opt ans="t">主管的负有安全生产监督管理职责的部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>微小企业的操作岗位和安全生产事故隐患排查治理方面的安全生产标准化内容,由（  ）人民政府制定。  </desc>
+        <opt ans="t">省</opt>
+        <opt ans="f">乡</opt>
+        <opt ans="f">市</opt>
+        <opt ans="f">县</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为了保证管路工作时的安全,而根据介质的各级最高工作温度所规定的一种最大压力称为（  ）。  </desc>
+        <opt ans="f">试验压力</opt>
+        <opt ans="f">公称压力</opt>
+        <opt ans="t">工作压力</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为了加强（  ）工作,防止和减少生产安全事故,保障人民群众生命和财产安全,促进经济社会持续健康发展,根据《中华人民共和国安全生产法》等有关法律、行政法规的规定,结合河北省实际,制定河北省安全生产条例。  </desc>
+        <opt ans="t">安全生产</opt>
+        <opt ans="f">环境卫生</opt>
+        <opt ans="f">节能减排</opt>
+        <opt ans="f">安全防护</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为确保易燃易爆物质粉碎研磨过程的安全,密闭的研磨系统内应通入（  ）进行保护。  </desc>
+        <opt ans="f">液化气体</opt>
+        <opt ans="f">可燃气体</opt>
+        <opt ans="t">惰性气体</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>违反爆炸性、易燃性、放射性、毒害性、腐蚀性物品的管理规定,在生产、储存、运输、使用中发生重大事故,造成严重后果的,依（   ）论处。  </desc>
+        <opt ans="f">工程重大安全事故罪</opt>
+        <opt ans="f">重大责任事故罪</opt>
+        <opt ans="t">危险物品肇事罪</opt>
+        <opt ans="f">重大劳动安全事故罪</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>未焊透是焊缝存在的一个缺口,因而往往是（  ）破坏的起裂点,也会导致疲劳破坏。  </desc>
+        <opt ans="f">刚性</opt>
+        <opt ans="t">脆性</opt>
+        <opt ans="f">弹性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>我国安全生产法律的特点不包括:（  ）  </desc>
+        <opt ans="f">安全生产法规涉及自然科学和社会科学领域,既有政策性的特点又有科学技术的特点</opt>
+        <opt ans="f">保护的对象有劳动者、生产经营人员</opt>
+        <opt ans="f">保护的对象有生产资料和社会财产</opt>
+        <opt ans="t">不具有强制性的特征</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>吸入微量的硫化氢感到头痛恶心的时候,应采用的解毒方法是（  ）。  </desc>
+        <opt ans="f">吸入二氧化硫</opt>
+        <opt ans="f">吸入氯气</opt>
+        <opt ans="t">吸入大量新鲜空气</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列（  ）的危险化学品单位,对重大危险源尚不需重新进行辨识、安全评估和分级。  </desc>
+        <opt ans="f">发生人员死亡事故</opt>
+        <opt ans="f">危化品种类、工艺发生变化,影响重大危险源风险程度</opt>
+        <opt ans="t">重大危险源安全评估未满3年</opt>
+        <opt ans="f">构成重大危险源的装置、设施进行新、改、扩建</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列（  ）是表示易燃液体燃爆危险性的一个重要指标。  </desc>
+        <opt ans="f">凝固点</opt>
+        <opt ans="t">闪点</opt>
+        <opt ans="f">自燃点</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列（  ）型危险化学品仓库应选址在远离市区和居民区的当地主导风向的下风方向和河流下游的区域。  </desc>
+        <opt ans="f">中</opt>
+        <opt ans="t">大、中</opt>
+        <opt ans="f">大</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列安全泄放装置中开启排放后容器和装置不能继续使用,需要停止运行的是易熔塞和（   ）。  </desc>
+        <opt ans="t">爆破片</opt>
+        <opt ans="f">安全阀</opt>
+        <opt ans="f">疏水器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列不属于安全生产投入形式的有（  ）。  </desc>
+        <opt ans="t">加工机床的维修</opt>
+        <opt ans="f">防尘口罩的配备</opt>
+        <opt ans="f">火灾报警器更新</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列对“本质安全”理解不正确的是（  ）。  </desc>
+        <opt ans="f">设备或设施含有内在的防止发生事故的功能</opt>
+        <opt ans="t">可以是事后采取完善措施而补偿的</opt>
+        <opt ans="f">是安全生产管理预防为主的根本体现</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列关于爆炸品爆炸说法错误的是（  ）。  </desc>
+        <opt ans="f">爆炸品分子中含有的“爆炸性基团”越多,越容易发生爆炸</opt>
+        <opt ans="f">爆炸品爆炸不需要氧气</opt>
+        <opt ans="t">爆炸品爆炸不需要外界作用</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>现场点评是在（  ）,在演练现场,评估人员或评估组负责人对演练中发现的问题、不足及取得的成效进行口头点评。  </desc>
+        <opt ans="f">应急演练过程中</opt>
+        <opt ans="t">应急演练结束后</opt>
+        <opt ans="f">应急演练前</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>现代安全管理是以（  ）为中心。  </desc>
+        <opt ans="f">安全培训</opt>
+        <opt ans="f">事故处理</opt>
+        <opt ans="t">预防事故</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新建、改建、扩建生产、储存危险化学品的建设项目,应当由（  ）部门进行安全条件审查。  </desc>
+        <opt ans="f">公安</opt>
+        <opt ans="f">水利</opt>
+        <opt ans="f">住建</opt>
+        <opt ans="t">安监</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新建、改建、扩建生产、储存危险化学品的建设项目,应当由安全生产监督管理部门进行（  ）审查。  </desc>
+        <opt ans="f">安全评价</opt>
+        <opt ans="t">安全条件</opt>
+        <opt ans="f">安全技术</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新修订的《安全生产法》中,生产经营单位的主要负责人对本单位安全生产工作负有的职责,新增加的一条是（  ）。  </desc>
+        <opt ans="f">保证本单位安全生产投入的有效实施</opt>
+        <opt ans="f">督促、检查本单位的安全生产工作,及时消除生产安全事故隐患</opt>
+        <opt ans="f">建立、健全本单位安全生产责任制</opt>
+        <opt ans="t">组织制定并实施本单位安全生产教育和培训计划</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>需要向使用者提供危险品事故应急咨询电话的是（   ）。  </desc>
+        <opt ans="f">安监机构</opt>
+        <opt ans="t">生产单位</opt>
+        <opt ans="f">销售单位</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>氧气瓶及强氧化剂气瓶瓶体及瓶阀处,必须杜绝沾有（   ）。  </desc>
+        <opt ans="t">油污</opt>
+        <opt ans="f">漆色</opt>
+        <opt ans="f">水珠</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>要加强（  ）能力建设,健全完善应急响应体制机制,优化应急资源配备,完善应急预案,提高城市运行应急保障水平。  </desc>
+        <opt ans="f">规划</opt>
+        <opt ans="f">节能</opt>
+        <opt ans="f">学习</opt>
+        <opt ans="t">应急</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>要进一步加强安全生产行政执法,将有关（  ）纳入安全生产行政执法内容之中。  </desc>
+        <opt ans="f">应急演练内容</opt>
+        <opt ans="f">应急预案内容</opt>
+        <opt ans="f">安全生产</opt>
+        <opt ans="t">应急工作的内容</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>一般装设在气体管线与生产设备之间,以水或不燃液体作为阻火介质。这是对阻火装置（  ）的描述。  </desc>
+        <opt ans="t">安全液封</opt>
+        <opt ans="f">防爆泄压装置</opt>
+        <opt ans="f">阻火器</opt>
+        <opt ans="f">液位计</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>一个单位的不同类型的应急救援预案要形成统一整体,救援力量要（  ）。  </desc>
+        <opt ans="t">统筹安排</opt>
+        <opt ans="f">随时安排</opt>
+        <opt ans="f">定期安排</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>依据《中华人民共和国安全生产法》规定,企业所设置的“安全生产管理机构”是指（  ）。  </desc>
+        <opt ans="t">专门负责安全生产管理的职能部门</opt>
+        <opt ans="f">生产管理或技术管理机构</opt>
+        <opt ans="f">安全生产委员会或安全生产领导小组</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>依托公安消防、（  ）、工业园区等应急救援力量,加强矿山和危险化学品等应急救援基地和队伍建设,实行区域化应急救援资源共享。  </desc>
+        <opt ans="f">超市</opt>
+        <opt ans="f">小学校</opt>
+        <opt ans="f">影剧院</opt>
+        <opt ans="t">大型企业</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>易燃品闪点在28℃以下,气温高于28℃时应当在（  ）运输。  </desc>
+        <opt ans="f">白天</opt>
+        <opt ans="t">夜间</opt>
+        <opt ans="f">都可</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>易燃液体的膨胀系数比较大,灌装时容器内应留有（  ）%以上空间,不可灌满。 </desc>
+        <opt ans="t">5</opt>
+        <opt ans="f">10</opt>
+        <opt ans="f">3</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>易燃液体在运输、泵送、灌装时要有良好的（  ）装置,防止静电积聚。  </desc>
+        <opt ans="f">防火</opt>
+        <opt ans="f">监测</opt>
+        <opt ans="t">接地</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>易燃易爆场所中不能使用（  ）工具。  </desc>
+        <opt ans="t">铁制</opt>
+        <opt ans="f">木制</opt>
+        <opt ans="f">铜制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>易燃易爆物品、危险化学品、放射性物品等危险物品的生产、经营、储运、使用单位,应当制定具体（  ）,并对生产经营场所、有危险物品的建筑物、构筑物及周边环境开展隐患排查,及时采取措施消除隐患,防止发生突发事件。  </desc>
+        <opt ans="t">应急预案</opt>
+        <opt ans="f">应急体系</opt>
+        <opt ans="f">应急原则</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>易燃易爆性危险化学品库房的耐火等级不得低于（  ）标准。  </desc>
+        <opt ans="f">一级</opt>
+        <opt ans="f">二级</opt>
+        <opt ans="t">三级</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>应急演练（  ）下达演练开始指令后,参演单位和人员按照设定的事故情景,实施相应的应急响应行动,直至完成全部演练工作。  </desc>
+        <opt ans="t">总指挥</opt>
+        <opt ans="f">总导演</opt>
+        <opt ans="f">安全总监</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>应急预案封面主要包括应急预案编号、应急预案版本号、生产经营单位名称、应急预案名称、编制单位名称、（  ）等内容。  </desc>
+        <opt ans="t">颁布日期</opt>
+        <opt ans="f">修订日期</opt>
+        <opt ans="f">实施日期</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>应急预案中（  ）信息应由事故现场指挥部及时准确向新闻媒体通报。  </desc>
+        <opt ans="t">事故</opt>
+        <opt ans="f">伤亡</opt>
+        <opt ans="f">救援</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>应急准备是针对可能发生的事故,为迅速、有序地开展应急行动而预先进行的组织准备和（  ）。  </desc>
+        <opt ans="t">应急保障</opt>
+        <opt ans="f">应急物资</opt>
+        <opt ans="f">应急装备</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用来防止可燃气体、易燃液体大量泄漏,在容器的出口位置常设置（  ）。  </desc>
+        <opt ans="f">截止阀</opt>
+        <opt ans="t">紧急切断阀</opt>
+        <opt ans="f">单向阀</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用来阻止易燃气体和易燃液体蒸汽的火焰以及防止火焰蔓延的安全装置是（  ）。  </desc>
+        <opt ans="t">阻火器</opt>
+        <opt ans="f">安全阀</opt>
+        <opt ans="f">紧急切断阀</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>预先采取必要的措施,可在火灾发生时迅速将人员或重要物资撤到安全区以减少损失,这是防火防爆的（  ）措施描述。  </desc>
+        <opt ans="t">疏散性措施</opt>
+        <opt ans="f">预防性措施</opt>
+        <opt ans="f">限制性措施</opt>
+        <opt ans="f">消防措施</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>遇到（ ）级以上大风时,不应进行露天高处作业。  </desc>
+        <opt ans="f">5</opt>
+        <opt ans="f">4</opt>
+        <opt ans="t">6</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在《常用危险化学品的分类及标志》中规定了常用危险化学品的包装标志（  ）种。  </desc>
+        <opt ans="t">27</opt>
+        <opt ans="f">29</opt>
+        <opt ans="f">30</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在安全管理中必须把人的因素放在首位,体现以人为本的指导思想,这就是人本原理,包括三个原则。下列不包括在人本原理中的原则是（  ）。  </desc>
+        <opt ans="f">能级原则</opt>
+        <opt ans="f">动力原则</opt>
+        <opt ans="t">安全第一原则</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在邻边作业处,无防护设施或防护不严、不牢固,作业人员踏空失足坠落,是发生（  ）事故的主要原因。  </desc>
+        <opt ans="f">火灾</opt>
+        <opt ans="f">物体打击</opt>
+        <opt ans="t">高处坠落</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在某企业仓库中储存着大量化工和建材产品,有水泥、五金件、油漆、溶剂、双氧水、无水酒精等。检查员检查发现在一个大房间中,整齐码放各种商品,建材和化工产品交错放置,产品标识齐全,在门口,整齐放着4个干粉灭火器,其中2个灭火器的压力表的指针在红色区域。根据上述描述,危险化学品的储存方式、方法以及储存数量应当符合（  ）标准或者国家有关规定。  </desc>
+        <opt ans="f">行业</opt>
+        <opt ans="t">国家</opt>
+        <opt ans="f">企业</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在生产、作业中违反有关安全管理的规定,因而发生重大伤亡事故或者造成其他严重后果的,依（  ）论处。  </desc>
+        <opt ans="f">工程重大安全事故罪</opt>
+        <opt ans="t">重大责任事故罪</opt>
+        <opt ans="f">危险物品肇事罪</opt>
+        <opt ans="f">重大劳动安全事故罪</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在生产过程中,控制尘毒危害的最重要的方法是（  ）。  </desc>
+        <opt ans="f">发放保健食品</opt>
+        <opt ans="f">通风</opt>
+        <opt ans="t">生产过程密闭化</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在生产过程中尽量不用或少用可燃物,这是火灾爆炸危险物质控制的（  ）原则描述。  </desc>
+        <opt ans="f">低成本</opt>
+        <opt ans="f">隔离性原则</opt>
+        <opt ans="t">替代性原则</opt>
+        <opt ans="f">管理措施</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在外界作用下,能发生剧烈化学反应,瞬时产生大量气体和热量,使周围压力急剧上升而发生爆炸的危险化学品是（  ）。  </desc>
+        <opt ans="f">遇湿易燃物</opt>
+        <opt ans="t">爆炸品</opt>
+        <opt ans="f">有机过氧化物</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在一定条件下,压力越高,可燃物的自燃点（  ）。  </desc>
+        <opt ans="f">愈高</opt>
+        <opt ans="f">不受影响</opt>
+        <opt ans="t">愈低</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在应急管理中,（  ）阶段的目标是尽可能抢救受害人员,保护可能受威胁的人群,并尽可能控制并消除事故。  </desc>
+        <opt ans="f">预防</opt>
+        <opt ans="t">响应</opt>
+        <opt ans="f">准备</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在应急救援过程中,根据燃烧物的具体性质,选用合适的（  ）扑灭火灾。  </desc>
+        <opt ans="f">清洗剂</opt>
+        <opt ans="t">灭火剂</opt>
+        <opt ans="f">洗涤剂</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在应急救援过程中,救援人员首先应熟悉地形,明确（  ）;准备好进入危险区应携带的标志物、扩音器以及强光手电等必要器材。  </desc>
+        <opt ans="f">撤离人数</opt>
+        <opt ans="t">撤离方向</opt>
+        <opt ans="f">撤离工具</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在应急救援过程中,卫生部门负责现场（  ）指挥及受伤人员抢救和护送转院等工作。  </desc>
+        <opt ans="f">抢修运输</opt>
+        <opt ans="f">个人防护</opt>
+        <opt ans="t">医疗救护</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在作业场所液化气浓度较高时应戴（  ）。  </desc>
+        <opt ans="f">口罩</opt>
+        <opt ans="t">面罩</opt>
+        <opt ans="f">眼罩</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>只要事故的因素存在,发生事故是必然的,只是时间或早或迟而已,这就是（  ）原则。  </desc>
+        <opt ans="f">必然损失</opt>
+        <opt ans="f">偶然损失</opt>
+        <opt ans="t">因果关系</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>职业安全健康管理体系的建立与保持,可以全面提高企业的安全管理水平,在安全管理表现为（  ）。  </desc>
+        <opt ans="f">被动安全管理</opt>
+        <opt ans="t">主动安全管理</opt>
+        <opt ans="f">全面安全管理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>制定安全生产法律法规法规目的不包括（  ）  </desc>
+        <opt ans="t">厂区绿化</opt>
+        <opt ans="f">保障职工安全、健康</opt>
+        <opt ans="f">安全生产</opt>
+        <opt ans="f">工业卫生</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>制定企业岗位生产责任制,首要（  ）的是要明确的安全生产责任。  </desc>
+        <opt ans="f">安全部门</opt>
+        <opt ans="f">财务部门</opt>
+        <opt ans="f">生产部门</opt>
+        <opt ans="t">主要负责人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>中华人民共和国境内的各类企业的职工和个体工商户的雇工,均有依照工伤保险条例的规定享受（  ）待遇的权利。  </desc>
+        <opt ans="t">工伤保险</opt>
+        <opt ans="f">人身保险</opt>
+        <opt ans="f">医疗保险</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>重大危险源的风险分析评价包括辨识各类（  ）及其原因和机制。  </desc>
+        <opt ans="f">事故因素</opt>
+        <opt ans="t">危险因素</opt>
+        <opt ans="f">事故评价</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>重大危险源控制的目的不仅是预防重大事故的发生,而且要做到一旦发生事故能将事故危害限制到（  ）程度。  </desc>
+        <opt ans="t">最低</opt>
+        <opt ans="f">最高</opt>
+        <opt ans="f">中等</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>重大危险源设备、设施的硬件方面,应采取（  ）。  </desc>
+        <opt ans="t">双电源保护</opt>
+        <opt ans="f">能量保护</opt>
+        <opt ans="f">电源保护</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>重大危险源现场处置方案,（  ）至少进行一次演练。  </desc>
+        <opt ans="f">每季</opt>
+        <opt ans="t">每半年</opt>
+        <opt ans="f">每年</opt>
+        <opt ans="f">每月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>重复使用的危险化学品包装物、容器在使用前,应当进行检查,并做出记录;检查记录应当至少保存（  ）年。  </desc>
+        <opt ans="f">1</opt>
+        <opt ans="f">3</opt>
+        <opt ans="t">2</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>综合应急预案是从总体上阐述处置事故的应急方针、政策,应急组织结构及相关应急职责,应急行动、措施和保障等（  ）,是应对各类事故的综合性文件。  </desc>
+        <opt ans="t">基本要求和程序</opt>
+        <opt ans="f">程序</opt>
+        <opt ans="f">基本要求  &#x0D;&#x0A;补充题</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）安全阀由主阀和辅阀构成,通过辅阀的脉冲作用带动主阀动作。</desc>
+        <opt ans="f">弹簧式</opt>
+        <opt ans="f">重锤杠杆式</opt>
+        <opt ans="t">脉冲式</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）告诉我们,构成管理系统的各要素是运动和发展的,它们相互联系又相互制约。在生产经营单位建立、健全安全生产责任制是对这一原则的应用。</desc>
+        <opt ans="f">动力原则</opt>
+        <opt ans="t">动力相关性原则</opt>
+        <opt ans="f">人本原理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）就是根据事故情景,召开新闻发布会或事故情况通报会,通报事故有关情况。</desc>
+        <opt ans="f">信息发布</opt>
+        <opt ans="t">社会沟通</opt>
+        <opt ans="f">新闻发布</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）认为,推动安全管理活动的基本力量是人,必须有能够激发人的工作能力的动力。</desc>
+        <opt ans="f">能级原则</opt>
+        <opt ans="f">激励原则</opt>
+        <opt ans="t">动力原则</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）属于易燃气体。</desc>
+        <opt ans="f">二氧化碳</opt>
+        <opt ans="f">氧气</opt>
+        <opt ans="t">乙炔</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>（  ）由全国人大制定,是具有最高法律效力的国家根本大法,是其他一切法律的立法依据。</desc>
+        <opt ans="f">职业病防治法</opt>
+        <opt ans="f">劳动法</opt>
+        <opt ans="f">安全生产法</opt>
+        <opt ans="t">宪法</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,生产经营单位采用新工艺、新技术、新材料或者使用新设备,必须了解、掌握其安全技术特性,采取有效的安全防护措施,并对从业人员进行（  ）的安全生产教育和培训。</desc>
+        <opt ans="t">专门</opt>
+        <opt ans="f">系统</opt>
+        <opt ans="f">规范</opt>
+        <opt ans="f">专项</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,生产经营单位对（  ）应当登记建档,进行定期检测、评估、监控,并制定应急预案,告知从业人员和相关人员在紧急情况下应当采取的应急措施。</desc>
+        <opt ans="f">危险化学品</opt>
+        <opt ans="t">重大危险源</opt>
+        <opt ans="f">设备</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,危险物品的生产、经营、储存单位以及矿山、金属冶炼、建筑施工、道路运输单位的主要负责人和安全生产管理人员未按照规定经（  ）合格的,责令限期改正,可以处五万元以下的罚款;逾期未改正的,责令停产停业整顿,并处五万元以上十万元以下的罚款,对其直接负责的主管人员和其他直接责任人处一万元以上的罚款。</desc>
+        <opt ans="t">考核</opt>
+        <opt ans="f">审查</opt>
+        <opt ans="f">培训</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《安全生产法》规定,（ ）应当按照保障安全生产的要求,依法及时制定有关的国家标准或者行业标准,并根据科技进步和经济发展适时修订。</desc>
+        <opt ans="t">国务院有关部门</opt>
+        <opt ans="f">国家安监总局</opt>
+        <opt ans="f">国务院各个行业管理机构</opt>
+        <opt ans="f">国务院标准化委员会</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《常用危险化学品分类及标志》按易燃液体闪点的高低分为（  ）易燃液体。</desc>
+        <opt ans="t">三项</opt>
+        <opt ans="f">四项</opt>
+        <opt ans="f">二项</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《非药品类易制毒化学品的分类和品种目录》中,非药品类易制毒化学品分为（  ）类。</desc>
+        <opt ans="f">4</opt>
+        <opt ans="f">2</opt>
+        <opt ans="t">3</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《气瓶安全监察规程》规定气瓶水压试验的压力为公称工作压力的（  ）倍。</desc>
+        <opt ans="f">1.2</opt>
+        <opt ans="t">1.5</opt>
+        <opt ans="f">1.3</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故报告和调查处理条例》规定,事故发生地（  ）根据事故的情况,对涉嫌犯罪的,应当依法立案侦查,采取强制措施和侦查措施。</desc>
+        <opt ans="f">安全监督管理局</opt>
+        <opt ans="f">人民检察院</opt>
+        <opt ans="t">公安机关</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《生产安全事故应急演练指南》(AQ/T9007—2011)规定了生产安全事故应急演练(以下简称应急演练)的目的、原则、类型、内容和（  ）。</desc>
+        <opt ans="f">综合应急演练的组织</opt>
+        <opt ans="t">综合应急演练的组织与实施</opt>
+        <opt ans="f">专项应急演练的组织与实施</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《使用有毒物品作业场所劳动保护条例》规定,按照有毒物品产生的职业中毒危害程度,有毒品分为一般有毒品和（  ）。</desc>
+        <opt ans="f">普通化学品</opt>
+        <opt ans="f">剧毒化学品</opt>
+        <opt ans="t">高毒物品</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《使用有毒物品作业场所劳动保护条例》规定,从事使用有毒物品作业的用人单位,应当使用符合（  ）的有毒物品。</desc>
+        <opt ans="f">省级标准</opt>
+        <opt ans="t">国家标准</opt>
+        <opt ans="f">企业标准</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,（  ）不得在托运的普通货物中夹带危险化学品,不得将危险化学品匿报或者谎报为普通货物托运。</desc>
+        <opt ans="t">托运人</opt>
+        <opt ans="f">运输单位</opt>
+        <opt ans="f">承运人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》规定,剧毒化学品道路运输通行证管理办法由国务院（  ）部门制定。</desc>
+        <opt ans="f">安监</opt>
+        <opt ans="t">公安</opt>
+        <opt ans="f">质检</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品安全管理条例》所称重大危险源,是指生产、储存、使用或者搬运危险化学品,且危险化学品的数量等于或者超过（  ）的单元(包括场所和设施)。</desc>
+        <opt ans="f">一定量</opt>
+        <opt ans="f">标准</opt>
+        <opt ans="t">临界量</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险化学品生产企业安全生产许可证实施办法》规定,安全生产许可证有效期为（  ）年。</desc>
+        <opt ans="f">1</opt>
+        <opt ans="f">2</opt>
+        <opt ans="t">3</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《危险货物分类和品名编号》标准将第类危险货物分为毒性物质和（  ）二项。</desc>
+        <opt ans="f">低毒品</opt>
+        <opt ans="t">感染性物质</opt>
+        <opt ans="f">高毒品</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《易制毒化学品购销和运输管理办法》规定,违反规定购买易制毒化学品,未经许可或者备案擅自购买易制毒化学品的;公安机关应当没收非法购买的易制毒化学品,对（  ）处非法购买易制毒化学品货值十倍以上二十倍以下的罚款,货值的二十倍不足一万元的,按一万元罚款;构成犯罪的,依法追究刑事责任。</desc>
+        <opt ans="f">供货方</opt>
+        <opt ans="f">承运方</opt>
+        <opt ans="t">购买方</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《易制毒化学品管理条例》规定,易制毒化学品分为（  ）类。</desc>
+        <opt ans="f">二</opt>
+        <opt ans="t">三</opt>
+        <opt ans="f">四</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中国人民共和国消防法》规定,进行电焊、气焊等具有火灾危险的作业人员和自动消防系统的操作人员,必须（  ）,并严格遵守消防安全操作规程。</desc>
+        <opt ans="f">服从领导</opt>
+        <opt ans="t">持证上岗</opt>
+        <opt ans="f">经过培训</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,不具备安全生产条件的生产经营单位（  ）。</desc>
+        <opt ans="f">经安全生产监管部门批准后可从事生产经营活动</opt>
+        <opt ans="f">经主管部门批准后允许生产经营</opt>
+        <opt ans="t">不得从事生产经营活动</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,从业人员发现事故隐患或者其他不安全因素,应当立即现场安全生产管理人员或者（  ）报告。</desc>
+        <opt ans="t">本单位负责人</opt>
+        <opt ans="f">当地安监部门</opt>
+        <opt ans="f">当地消防部门</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,从业人员有权拒绝（  ）和强令冒险作业。</desc>
+        <opt ans="t">违章指挥</opt>
+        <opt ans="f">错误指挥</opt>
+        <opt ans="f">应急指挥</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,工会有权对建设项目的安全设施与主体工程同时设计、同时施工、同时投入生产和使用进行（  ）,提出意见。</desc>
+        <opt ans="f">监察</opt>
+        <opt ans="f">检查</opt>
+        <opt ans="t">监督</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,企事业单位职工因工伤亡事故和其它严重危害职工健康问题的调查处理,必须有工会参加。工会应当向有关部门提出（  ）,并有权要求追究有关责任人员的责任。</desc>
+        <opt ans="f">合理建议</opt>
+        <opt ans="f">责任追究意见</opt>
+        <opt ans="t">处理意见</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营单位必须为从业人员提供符合国家标准或者（  ）标准的劳动防护用品。</desc>
+        <opt ans="f">本单位</opt>
+        <opt ans="t">行业</opt>
+        <opt ans="f">当地</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营单位进行爆破、吊装以及国务院安全生产监督管理部门会同国务院有关部门规定的其他危险作业应当安排（  ）进行现场安全管理,确保操作规程的遵守和安全措施的落实。</desc>
+        <opt ans="f">负责人</opt>
+        <opt ans="t">专门人员</opt>
+        <opt ans="f">安全员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>《中华人民共和国安全生产法》规定,生产经营单位与从业人员订立的劳动合同,应当载明有关保障从业人员（  ）、防止职业危害,以及为从业人员办理工伤保险事项。</desc>
+        <opt ans="t">劳动安全</opt>
+        <opt ans="f">教育和培训</opt>
+        <opt ans="f">福利待遇</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全阀是一种由进口静压开启的自动泄压装置,防止容器（  ）。</desc>
+        <opt ans="f">超温</opt>
+        <opt ans="t">超压</opt>
+        <opt ans="f">超负荷</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全技术主要是运用工程技术手段消除（  ）不安全因素,来实现生产工艺和机械设备等生产条件的本质安全。</desc>
+        <opt ans="f">人的</opt>
+        <opt ans="f">环境的</opt>
+        <opt ans="t">物的</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>安全生产管理的目标是减少、控制危害和事故,尽量避免生产过程中由于（  ）所造成的人身伤害、财产损失及其他损失。</desc>
+        <opt ans="f">管理不善</opt>
+        <opt ans="t">事故</opt>
+        <opt ans="f">危险</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>把人体与意外释放能量或危险物质隔离开,是一种不得已的隔离措施,是保护人身安全的最后一道防线,这是（  ）。</desc>
+        <opt ans="t">个体防护</opt>
+        <opt ans="f">避难</opt>
+        <opt ans="f">救援</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>358、爆炸品的包装箱不宜直接在地面上放置,最好铺垫（  ）cm左右的方木或垫板。</desc>
+        <opt ans="t">20</opt>
+        <opt ans="f">40</opt>
+        <opt ans="f">50</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>爆炸品应储存在（  ）轻顶耐火建筑内。</desc>
+        <opt ans="t">一级</opt>
+        <opt ans="f">三级</opt>
+        <opt ans="f">二级</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>不锈钢容器进行水压试验时,应该控制水中的（  ）含量,防止腐蚀。</desc>
+        <opt ans="f">氧离子</opt>
+        <opt ans="t">氯离子</opt>
+        <opt ans="f">氢离子</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>参加应急预案（  ）的人员应当包括应急预案涉及的政府部门工作人员和有关安全生产及应急管理方面的专家。</desc>
+        <opt ans="t">评审</opt>
+        <opt ans="f">编制</opt>
+        <opt ans="f">修订</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>除所有大中型危险化学品企业外,不具备建立专职救援队条件的其他危险化学品企业,必须建立（  ）。</desc>
+        <opt ans="f">志愿救援队</opt>
+        <opt ans="f">专业应急救援队</opt>
+        <opt ans="t">兼职救援队</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>单位或者个人违反《中华人民共和国突发事件应对法》,导致突发事件发生或者危害扩大,给他人人身、财产造成损害的,应当依法承担（  ）。</desc>
+        <opt ans="t">民事责任</opt>
+        <opt ans="f">行政处罚</opt>
+        <opt ans="f">刑事责任</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>低、中闪点液体、一级易燃固体、自燃物品、压缩气体和液化气体类应储存于（  ）耐火建筑的库房内。</desc>
+        <opt ans="f">二级</opt>
+        <opt ans="f">三级</opt>
+        <opt ans="t">一级</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>电气设备火灾时不可以用的灭火器是（  ）型灭火器。</desc>
+        <opt ans="f">卤代烷</opt>
+        <opt ans="t">泡沫</opt>
+        <opt ans="f">二氧化碳</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>毒害性危险化学品库房的耐火等级不得低于（  ）标准。</desc>
+        <opt ans="t">二级</opt>
+        <opt ans="f">一级</opt>
+        <opt ans="f">三级</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>368、防止扩大生产性粉尘爆炸的主要技术措施不包括（  ）。</desc>
+        <opt ans="t">扩大粉尘扩散范围</opt>
+        <opt ans="f">控制火源</opt>
+        <opt ans="f">适当增加湿度</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>腐蚀性流体介质与金属表面在相对运动中引起金属的加速腐蚀称为（ ）。</desc>
+        <opt ans="f">晶间腐蚀</opt>
+        <opt ans="t">冲蚀</opt>
+        <opt ans="f">缝隙腐蚀</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>腐蚀性危险化学品库房的耐火等级不得低于（  ）标准。</desc>
+        <opt ans="t">二级</opt>
+        <opt ans="f">三级</opt>
+        <opt ans="f">一级</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>高处作业人员应系好安全带,戴好（  ）,禁止穿带钉易滑的鞋。</desc>
+        <opt ans="f">安全帽、衣着轻便</opt>
+        <opt ans="t">安全帽、架好安全网</opt>
+        <opt ans="f">安全帽、穿好防滑鞋</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据《危险化学品安全管理条例》,生产、储存剧毒化学品的危险化学品的单位,发现剧毒化学品、易制爆危险化学品丢失或者被盗的,应当立即向当地（  ）报告。</desc>
+        <opt ans="f">安监部门</opt>
+        <opt ans="f">政府部门</opt>
+        <opt ans="t">公安机关</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>根据国家标准《危险货物运输包装通用技术条件》规定,物质的包装类别决定了包装物或接受容器的质量要求。（  ）表示包装物的最高标准。</desc>
+        <opt ans="t">Ⅰ类包装</opt>
+        <opt ans="f">Ⅱ类包装</opt>
+        <opt ans="f">Ⅲ类包装</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>工房内防静电的措施不包括（  ）。</desc>
+        <opt ans="f">通风</opt>
+        <opt ans="f">造潮</opt>
+        <opt ans="t">降温</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>固体可燃物表面温度超过（  ）时,可燃物接触该表面有可能一触即燃。</desc>
+        <opt ans="t">可燃物燃点</opt>
+        <opt ans="f">100℃</opt>
+        <opt ans="f">可燃物闪点</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉和压力容器安全三大附件为压力表、安全阀和（  ）。</desc>
+        <opt ans="f">烟气氧含量分析仪</opt>
+        <opt ans="f">温度计</opt>
+        <opt ans="t">水位计</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>锅炉运行时,水位允许的变动范围,一般不超过正常水位线上下（  ）mm。</desc>
+        <opt ans="f">100</opt>
+        <opt ans="f">75</opt>
+        <opt ans="t">50</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>海因里希对多起伤害事故案例进行了详细调查研究后得出海因里希法则,事故后果为严重伤害、轻微伤害和无伤害的事故件数之比为（  ）。</desc>
+        <opt ans="f">1∶10∶300</opt>
+        <opt ans="t">1∶29∶300</opt>
+        <opt ans="f">1∶10∶100</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>化工设备检修前高温设备不能急骤降温,避免造成设备损伤,以切断热源后强制通风或自然冷却为宜,一般要求设备内介质温度要低于（  ）℃。</desc>
+        <opt ans="f">50</opt>
+        <opt ans="t">60</opt>
+        <opt ans="f">70</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>化学泡沫灭火原理主要是（  ）作用。</desc>
+        <opt ans="t">隔离与窒息</opt>
+        <opt ans="f">化学抑制</opt>
+        <opt ans="f">降温</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>化学品安全技术说明书中,“成分/组成信息”一项,无论是纯化学品还是混合物,如果其中包含有害性组分,则应给出该组分的（  ）。</desc>
+        <opt ans="f">危险类别</opt>
+        <opt ans="f">健康危害</opt>
+        <opt ans="t">化学文摘登记号</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>383、可能造成特别大事故的危险源称为（  ）。</desc>
+        <opt ans="t">二级重大危险源</opt>
+        <opt ans="f">三级重大危险源</opt>
+        <opt ans="f">一级重大危险源</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>某厂有一个地下池,池内有两个二硫化碳储罐,其中一个进料口阀门损坏,车间主任带两名工人下池检修。池上有人喊,池下无回音,立即报告厂长。厂长和多名职工赶到现场,厂长带头下池救人,随后多名职工下池。当急救中心赶来时,池下人员已中毒躺在地上,气味熏人,发现阀门已打开,二硫化碳大量泄漏。中毒人员经抢救仍有多人死亡。根据上述描述,二硫化碳的性质有（  ）。</desc>
+        <opt ans="f">易导致人窒息死亡</opt>
+        <opt ans="t">主要影响人体之神经系统、心脏血管及生殖系统</opt>
+        <opt ans="f">比空气轻</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>评估人员针对演练中观察、记录以及收集的各种信息资料,依据评估标准对应急演练活动全过程进行科学分析和客观评价,并撰写（  ）。</desc>
+        <opt ans="t">书面评估报告</opt>
+        <opt ans="f">演练总结</opt>
+        <opt ans="f">演练评估方案</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业要按照国家有关规定实行重大危险源和重大隐患及有关应急措施备案制度,（  ）至少要进行一次全面的安全生产风险分析。</desc>
+        <opt ans="f">每年</opt>
+        <opt ans="f">每季度</opt>
+        <opt ans="t">每月</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>企业应在危险性作业活动作业（  ）进行危险、有害因素识别,制定控制措施。</desc>
+        <opt ans="t">前</opt>
+        <opt ans="f">后</opt>
+        <opt ans="f">中</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>起重机械在吊运过程中,重物一般距离地面（  ）m以上,吊物下方严禁站人。在旋转起重机工作地带,人员应站在起重机动臂旋转范围之外。</desc>
+        <opt ans="f">0.2</opt>
+        <opt ans="f">0.4</opt>
+        <opt ans="t">0.5</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>燃烧是放热发光的（  ）反应。</desc>
+        <opt ans="f">还原</opt>
+        <opt ans="f">物理</opt>
+        <opt ans="t">氧化还原</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>人员保障按照演练方案和有关要求,策划、执行、保障、评估、参演等人员参加演练活动,必要时考虑（  ）。</desc>
+        <opt ans="f">减少人员</opt>
+        <opt ans="t">替补人员</opt>
+        <opt ans="f">增加人员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位应当具备《安全生产法》和有关法律、行政法规和国家标准或者行业标准规定的（  ）。</desc>
+        <opt ans="f">工作条件</opt>
+        <opt ans="f">生产条件</opt>
+        <opt ans="t">安全生产条件</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>生产经营单位应对重大危险源的温度、压力、流量、浓度等采取（  ）措施。</desc>
+        <opt ans="t">自动监测报警</opt>
+        <opt ans="f">人工报警</opt>
+        <opt ans="f">手动报警</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>石油化工企业中,无飞火的明火设备,应布置在有散发可燃气体的设备、建筑物的主导风向（  ）。</desc>
+        <opt ans="t">上风头和侧风头</opt>
+        <opt ans="f">下风头和侧风头</opt>
+        <opt ans="f">下风头</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>事故隐患分为一般事故隐患和（  ）隐患。</desc>
+        <opt ans="t">重大事故</opt>
+        <opt ans="f">特大事故</opt>
+        <opt ans="f">较大事故</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>事故隐患排除前或排除过程中无法保证安全的,应当从危险区域内撤出作业人员,并疏散（  ）设置警戒标志,暂时停产停业或者停止使用。</desc>
+        <opt ans="f">居民</opt>
+        <opt ans="f">社区群众</opt>
+        <opt ans="t">可能危及的其它人员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>受日光照射能发生化学反应引起燃烧、爆炸、分解、化合或能产生有毒气体的危险化学品应储存在（  ）级建筑物中,其包装应采取避光措施。</desc>
+        <opt ans="t">一</opt>
+        <opt ans="f">三</opt>
+        <opt ans="f">二</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>水是最常用的灭火剂,主要作用是（  ）。</desc>
+        <opt ans="f">窒息</opt>
+        <opt ans="t">冷却降温</opt>
+        <opt ans="f">隔离</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>水洗塔属于（  ）。</desc>
+        <opt ans="f">分离容器</opt>
+        <opt ans="f">反应容器</opt>
+        <opt ans="t">换热容器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>特种设备使用单位应当按照安全技术规范的定期检验要求,在安全检验合格有效期届满前（  ）个月向特种设备检验检测机构提出定期检验要求。</desc>
+        <opt ans="t">1</opt>
+        <opt ans="f">2</opt>
+        <opt ans="f">3</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>401、危险化学品的储存必须具备适合储存方式的设施:在不同的建筑物或远离所有的外部区域内的储存方式。这种储存方式属于（  ）储存方式。</desc>
+        <opt ans="f">隔开储存</opt>
+        <opt ans="t">分离储存</opt>
+        <opt ans="f">隔离储存</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>为了保证运行设备安全,安全阀整定压力不得大于压力容器的（  ）。</desc>
+        <opt ans="t">设计压力</opt>
+        <opt ans="f">工作压力</opt>
+        <opt ans="f">试验压力</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>吸收塔属于（  ）。</desc>
+        <opt ans="f">反应容器</opt>
+        <opt ans="f">贮存容器</opt>
+        <opt ans="t">分离容器</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列关于特殊化学品火灾扑救说法不正确的是（  ）。</desc>
+        <opt ans="f">扑救爆炸物品堆垛火灾时,切忌用沙土盖压</opt>
+        <opt ans="t">扑救压缩气体或液化气体类火灾时,应立即扑灭火焰</opt>
+        <opt ans="f">扑救爆炸物品火灾时,水流应采用吊射</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列气体灭火剂中由于破坏臭氧层,而被逐步替代的是（  ）。</desc>
+        <opt ans="f">七氟丙烷灭火剂</opt>
+        <opt ans="t">卤代烷、灭火剂</opt>
+        <opt ans="f">二氧化碳灭火剂</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列选项中,离心泵汽蚀不会造成（  ）。</desc>
+        <opt ans="f">振动增大</opt>
+        <opt ans="t">流量增大</opt>
+        <opt ans="f">噪音增大</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>下列选项中和泄漏的原因无关的是（  ）。</desc>
+        <opt ans="t">密封连接处两侧介质存在速度差</opt>
+        <opt ans="f">密封连接处两侧存在压力差或浓度差</opt>
+        <opt ans="f">密封连接处有间隙</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>新投用的燃油锅炉必须对锅炉的燃烧装置、安全附件等进行（  ）。</desc>
+        <opt ans="t">调试</opt>
+        <opt ans="f">重新安装</opt>
+        <opt ans="f">故障检查</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>压缩气体和液化气体必须与爆炸物品、氧化剂、易燃物品、自燃物品、腐蚀性物品（  ）。</desc>
+        <opt ans="t">隔离储存</opt>
+        <opt ans="f">分开储存</opt>
+        <opt ans="f">隔开储存</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>演练结束后,由演练组织单位根据演练记录、演练评估报告、应急预案、现场总结等材料,对演练进行全面总结,并形成（  ）。</desc>
+        <opt ans="f">演练书面总结报告</opt>
+        <opt ans="f">现场总结报告</opt>
+        <opt ans="t">对应急预案的修改建议</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>要充分利用好国家在安全生产和应急救援方面的投入政策,管好用好资金,坚持（  ）,充分发挥投资效益。</desc>
+        <opt ans="f">节约办事原则</opt>
+        <opt ans="t">建设与节约并重原则</opt>
+        <opt ans="f">利旧与新建并重原则</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>一般情况下,压力容器的构件不允许发生（  ）变形。</desc>
+        <opt ans="f">弹性</opt>
+        <opt ans="t">塑性</opt>
+        <opt ans="f">刚性</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>一般事故隐患,由生产经营单位(车间、分厂、区队等)的（  ）或有关人员立即组织整改。</desc>
+        <opt ans="f">主要负责人</opt>
+        <opt ans="f">安全管理人员</opt>
+        <opt ans="t">负责人</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>易燃可燃液体储罐着火必须采取的措施（  ）。</desc>
+        <opt ans="f">首先要抓紧扑灭火焰</opt>
+        <opt ans="t">迅速切断进料</opt>
+        <opt ans="f">首先疏散人群</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>易吸湿的黑火药、硝铵炸药、导火索等爆炸品库房,相对湿度不得超过（  ）%。</desc>
+        <opt ans="t">65</opt>
+        <opt ans="f">55</opt>
+        <opt ans="f">45</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>应急结束必须明确（  ）,事故现场得以控制,环境符合有关标准,导致次生、衍生事故隐患消除后,经事故现场应急指挥机构批准后,现场应急结束。</desc>
+        <opt ans="t">应急终止的条件</opt>
+        <opt ans="f">衍生事故隐患消除</opt>
+        <opt ans="f">次生事故隐患消除</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>应急救援人员要通过考核证实能胜任所担任的（  ）,才能上岗。</desc>
+        <opt ans="f">重要任务</opt>
+        <opt ans="f">任务</opt>
+        <opt ans="t">应急任务</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>应急救援预案要定期演习和复查,要根据（  ）定期检查和适时修订。</desc>
+        <opt ans="f">天气情况</opt>
+        <opt ans="t">实际情况</opt>
+        <opt ans="f">当前情况</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>用人单位实行承包经营的,工伤保险（  ）由职工劳动关系所在单位承担。</desc>
+        <opt ans="f">待遇</opt>
+        <opt ans="f">费用</opt>
+        <opt ans="t">责任</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>预防原理要求安全生产管理工作应该做到（  ）,通过有效的管理和技术手段,减少和防止人的不安全行为和物的不安全状态,从而防止事故的发生。</desc>
+        <opt ans="f">安全第一</opt>
+        <opt ans="t">预防为主</opt>
+        <opt ans="f">以人为本</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>遇湿易燃物品灭火时可使用的灭火剂（  ）。</desc>
+        <opt ans="f">水</opt>
+        <opt ans="f">泡沫</opt>
+        <opt ans="t">干粉</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在毒性气体浓度高,毒性不明或缺氧的可移动性作业环境中应选用（  ）。</desc>
+        <opt ans="f">双管式防毒口罩</opt>
+        <opt ans="t">供氧式呼吸器</opt>
+        <opt ans="f">单管式防毒口罩</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在国家安全生产管理体制中,工会行使（  ）的职能。</desc>
+        <opt ans="f">行政管理</opt>
+        <opt ans="t">群众监督</opt>
+        <opt ans="f">国家监察</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在可燃性环境中使用金属检尺、测温和采样设备时,应该用不产生火花的材料制成,通常都采用（  ）工具。</desc>
+        <opt ans="f">铁质</opt>
+        <opt ans="t">铜质</opt>
+        <opt ans="f">塑料</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在企业安全生产中,各管理机构之间、各种管理制度和方法之间,必须具有紧密的联系,形成相互制约的回路,才能有效。这体现了对（  ）原则的运用。</desc>
+        <opt ans="f">反馈</opt>
+        <opt ans="t">封闭</opt>
+        <opt ans="f">整分合</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在气瓶安全使用要点中,选项中描述正确的是（  ）。</desc>
+        <opt ans="f">在平地上较长距离移动气瓶,可以置于地面滚动前进</opt>
+        <opt ans="t">专瓶专用,不擅自更改气瓶钢印和颜色标记</opt>
+        <opt ans="f">为避免浪费,每次应尽量将气瓶内气体用完</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>428、在应急救援过程中,救援人员进入危险区后应立即通过敲门、呼叫等方式搜索（  ）。</desc>
+        <opt ans="f">无关人员</opt>
+        <opt ans="f">救援人员</opt>
+        <opt ans="t">受困人员</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在应急救援过程中,为了更好地维护危险区及其附近地区的（  ）,还应及时利用通告、广播等形式将事故的有关情况及处置措施向群众通报,通过宣传教育,稳定群众情绪,严防由于群众恐慌或各种谣传引起社会混乱。</desc>
+        <opt ans="f">公共环境</opt>
+        <opt ans="t">社会秩序</opt>
+        <opt ans="f">公共卫生</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在应急救援过程中,物资供应部门负责抢险和抢救物资的（  ）等工作。</desc>
+        <opt ans="f">供销</opt>
+        <opt ans="t">供应和保障</opt>
+        <opt ans="f">供应</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>在综合应急演练前,通过（  ）,确认演练所需的工具、设备、设施、技术资料以及参演人员到位。</desc>
+        <opt ans="t">安全检查</opt>
+        <opt ans="f">安全评审</opt>
+        <opt ans="f">安全会议</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>长期在高压下易产生疲劳损坏因而寿命短,动作压力不易控制的是（  ）。</desc>
+        <opt ans="f">爆破片</opt>
+        <opt ans="t">易熔塞</opt>
+        <opt ans="f">安全阀</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>针对应急预案中全部或大部分应急响应功能,检验、评价应急组织应急行动能力的演练活动叫（  ）。</desc>
+        <opt ans="t">全面演习</opt>
+        <opt ans="f">功能演习</opt>
+        <opt ans="f">桌面演习</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>职业安全健康管理体系中改进措施主要包括（  ）。</desc>
+        <opt ans="f">纠正</opt>
+        <opt ans="f">持续改进</opt>
+        <opt ans="t">纠正与预防措施、持续改进</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>制定应急预案的目的是抑制（  ）,减少对人员、财产和环境的危害。</desc>
+        <opt ans="f">火灾爆炸事件</opt>
+        <opt ans="t">突发事件</opt>
+        <opt ans="f">中毒事件</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>坠落防护应通过采取（  ）等措施来实现。</desc>
+        <opt ans="f">消除坠落危险、坠落控制、坠落防护</opt>
+        <opt ans="f">消除坠落危害、坠落控制、坠落防护</opt>
+        <opt ans="t">消除坠落危害、坠落预防、坠落控制</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>综合应急预案应当包括本单位的应急组织机构及其职责、预案体系及响应程序、（  ）、应急培训及预案演练等主要内容。</desc>
+        <opt ans="f">编制依据和目的</opt>
+        <opt ans="t">事故预防及应急保障</opt>
+        <opt ans="f">应急预案管理</opt>
+    </qstn>
+    <qstn type="s-choise" cust="0">
+        <desc>最常用消除焊接残余应力的方法是将焊件进行焊后（  ）。</desc>
+        <opt ans="t">热处理</opt>
+        <opt ans="f">酸处理</opt>
+        <opt ans="f">冷处理</opt>
+    </qstn>
+</library>
