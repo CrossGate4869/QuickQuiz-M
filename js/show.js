@@ -33,33 +33,46 @@ function showQuestionInfo(qstn)
 		("当前题目：" + (qstnIndex + 1) + "/" + showList.length);
 		
 	var qstnType;
-	
+	var parent = qstn.parentNode;
 	var cust = parseInt(qstn.getAttribute("cust"));
+
 	if (cust > 0) {
 		qstnType = getXMLMain().getElementsByTagName("cust")[cust - 1].childNodes[0].nodeValue;
 	}
 	else {
-		switch(qstn.getAttribute("type"))
-		{
-		case "s-choise":
-			qstnType = "单选题";
-			break;
-			
-		case "m-choise":
-			qstnType = "多选题";
-			break;
-			
-		case "judge":
-			qstnType = "判断题";
-			break;
-			
-		case "blank":
-			qstnType = "填空题";
-			break;
-			
-		case "text":
-			qstnType = "简答题";
-			break;
+		var str = "";
+
+		if (parent.getAttribute("type") == "group") {
+			try {
+				str = parent.getAttribute("type")[0].childNodes[0].nodeValue;
+			} catch (error) {
+				str = "";
+			}
+		}
+
+		if (!str.length) {
+			switch(qstn.getAttribute("type"))
+			{
+			case "s-choise":
+				qstnType = "单选题";
+				break;
+				
+			case "m-choise":
+				qstnType = "多选题";
+				break;
+				
+			case "judge":
+				qstnType = "判断题";
+				break;
+				
+			case "blank":
+				qstnType = "填空题";
+				break;
+				
+			case "text":
+				qstnType = "简答题";
+				break;
+			}
 		}
 	}
 	
