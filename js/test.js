@@ -306,15 +306,13 @@ function showQuestion()
 	var qstn = qstnList[qstnIndex];
 	var str = "";
 
-	if (qstn.getElementsByTagName("desc").length &&
-		qstn.getElementsByTagName("desc")[0].childNodes.length) {
+	try {
 		str = qstn.getElementsByTagName("desc")[0].childNodes[0].nodeValue;
 		str = replaceReturn(str);
-		document.getElementById("desc").innerHTML = str;
+	} catch (error) {
+		str = "";
 	}
-	else {
-		document.getElementById("desc").innerHTML = "";
-	}
+	document.getElementById("desc").innerHTML = str;
 
 	if (qstn.getElementsByTagName("img").length) {
 		var imglist = qstn.getElementsByTagName("img");
@@ -352,15 +350,20 @@ function showQuestion()
 	
 	if (!startTest) {
 		var resolve = qstn.getElementsByTagName("res");
-		if (resolve.length) {
+		if (resolve && resolve.length) {
 			var str = "";
 
 			document.getElementById("resolve-hr").style.display = "";
 			document.getElementById("resolve-div").style.display = "";
 			document.getElementById("resolve-p").style.display = "none";
 
-			str = resolve[0].childNodes[0].nodeValue;
-			str = replaceReturn(str);
+			try {
+				str = resolve[0].childNodes[0].nodeValue;
+				str = replaceReturn(str);
+			} catch (error) {
+				str = "";
+			}
+			
 			if (qstn.getElementsByTagName("img").length) {
 				var imglist = qstn.getElementsByTagName("img");
 				var i;

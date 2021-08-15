@@ -96,10 +96,10 @@ function showQuestion()
 
 		try {
 			str = parent.getElementsByTagName("desc")[0].childNodes[0].nodeValue;
+			str = replaceReturn(str);
 		} catch (error) {
 			str = "";
 		}
-		str = replaceReturn(str);
 
 		if (parent.getElementsByTagName("img").length)
 		{
@@ -114,7 +114,7 @@ function showQuestion()
 			}
 		}
 
-		if (str.length) {
+		if (str) {
 			desc.style.display = "";
 			desc.innerHTML = str;
 		}
@@ -358,8 +358,13 @@ function showAnswer(clear)
 			document.getElementById("resolve-div").style.display = "";
 			document.getElementById("resolve-p").style.display = "none";
 
-			str = resolve[0].childNodes[0].nodeValue;
-			str = replaceReturn(str);
+			try {
+				str = resolve[0].childNodes[0].nodeValue;
+				str = replaceReturn(str);
+			} catch (error) {
+				str = "";
+			}
+			
 			if (qstn.getElementsByTagName("img").length) {
 				var imglist = qstn.getElementsByTagName("img");
 				var i;
