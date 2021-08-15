@@ -44,7 +44,7 @@ function showQuestionInfo(qstn)
 
 		if (parent.getAttribute("type") == "group") {
 			try {
-				str = parent.getAttribute("type")[0].childNodes[0].nodeValue;
+				str = parent.getElementsByTagName("type")[0].childNodes[0].nodeValue;
 			} catch (error) {
 				str = "";
 			}
