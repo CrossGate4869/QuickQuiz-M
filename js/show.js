@@ -50,7 +50,7 @@ function showQuestionInfo(qstn)
 			}
 		}
 
-		if (!str.length) {
+		if (!str) {
 			switch(qstn.getAttribute("type"))
 			{
 			case "s-choise":
@@ -73,6 +73,9 @@ function showQuestionInfo(qstn)
 				qstnType = "简答题";
 				break;
 			}
+		}
+		else {
+			qstnType = str;
 		}
 	}
 	

@@ -212,7 +212,7 @@ function replaceReturn(string)
 {
 	if (!string)
 	{
-		return null;
+		return "";
 	}
 	
 	var newReturnStr = "<br />";
