@@ -10,77 +10,55 @@ function initSpyList()
 {
 	nightMode(false);
 	
-	var urlString = getURLPara(window.location.href, "href");
-	xmlMain = loadXML(urlString);
-	if (!xmlMain)
-	{
-		document.write("<p>无法获取题库信息。请尝试从<a href = 'https://gxsoftware.gitee.io/quickquiz-m'>主界面</a>重新进入本页面！</p><p>若仍不能正常浏览，请关注微信公众号“热控团青在线”并留言反馈</p>");
-		return;
-	}
+	qstnList = getXMLMain().getElementsByTagName("qstn");
 	
-	var str = xmlMain.getElementsByTagName("pswd")[0];
-	if (str && str.childNodes[0].nodeValue.length)
-	{
-		var pass = getURLPara(window.location.href, "pass");
-		var userStr = makeMD5(pass);
-		if (userStr != xmlMain.getElementsByTagName("pswd")[0].childNodes[0].nodeValue)
-		{
-			document.write("<p>加密题库密码验证失败，请回退并使用其它公开权限题库！</p>");
-			return;
-		}
-	}
-	
-	if (xmlMain != null)
-	{
-		qstnList = xmlMain.getElementsByTagName("qstn");
-		
-		showList.splice(0, showList.length);
-		showSpyList();
-	}
-	else
-	{
-		document.write("很遗憾，您的浏览器不支持本题库文件解析，无法继续！");
-	}
+	showList.splice(0, showList.length);
+	showSpyList();
 }
 
 function resetOpenList()
 {
-	for (var i = 0; i < 10; i++)
-	{
+	for (var i = 0; i < 10; i++) {
 		openList[i] = false;
 	}
 }
 
+function getQstnDesc(qstn)
+{
+	var str;
+	try {
+		str = qstn.getElementsByTagName("desc")[0].childNodes[0].nodeValue;
+	} catch (error) {
+		str = "";
+	}
+
+	return str;
+}
+
 function showSpyList()
 {
-	for (var i = 0; i < 10; i++)
-	{
-		if (page * 10 + i >= showList.length)
-		{
+	for (var i = 0; i < 10; i++) {
+		if (page * 10 + i >= showList.length) {
 			break;
 		}
 		
 		document.getElementById("hr" + i).style.display = "";
 		
-		document.getElementById("h" + i).innerHTML = makeEllipsis(qstnList[showList[page * 10 + i]].getElementsByTagName("desc")[0].childNodes[0].nodeValue, true);
+		document.getElementById("h" + i).innerHTML = makeEllipsis(getQstnDesc(qstnList[showList[page * 10 + i]]), true);
 		document.getElementById("h" + i).style.display = "";
 		
 		document.getElementById("div" + i).innerHTML = makeAnswer(qstnList[showList[page * 10 + i]]);
 		document.getElementById("div" + i).style.display = "";
 	}
 	
-	if (i < 10)
-	{
-		if (i == 0)
-		{
+	if (i < 10) {
+		if (i == 0) {
 			document.getElementById("hr" + i).style.display = "";
 		
-			if (document.getElementById("find").value.length)
-			{
+			if (document.getElementById("find").value.length) {
 				document.getElementById("h" + i).innerHTML = "找不到任何结果！";
 			}
-			else
-			{
+			else {
 				document.getElementById("h" + i).innerHTML = "请输入您要查找的关键字";
 			}
 			document.getElementById("h" + i).style.display = "";
@@ -92,8 +70,7 @@ function showSpyList()
 		}
 		document.getElementById("hr" + i).style.display = "";
 		
-		for (; i < 10; i++)
-		{
+		for (; i < 10; i++) {
 			document.getElementById("hr" + (i + 1)).style.display = "none";
 			document.getElementById("h" + i).style.display = "none"; 
 			document.getElementById("div" + i).style.display = "none";
@@ -105,30 +82,24 @@ function showSpyList()
 	
 	var count = Math.max(1, Math.ceil(showList.length / 10));
 	document.getElementById("index").innerHTML = "第" + (page + 1) + "页，共" + count + "页";
-	if (count <= 1)
-	{
+	if (count <= 1) {
 		document.getElementById("jumpto").style.display = "none";
 	}
-	else
-	{
+	else {
 		document.getElementById("jumpto").style.display = "";
 	}
 	
-	if (page <= 0)
-	{
+	if (page <= 0) {
 		document.getElementById("pre").style.display = "none";
 	}
-	else
-	{
+	else {
 		document.getElementById("pre").style.display = "";
 	}
 	
-	if ((page + 1) * 10 >= showList.length)
-	{
+	if ((page + 1) * 10 >= showList.length) {
 		document.getElementById("next").style.display = "none";
 	}
-	else
-	{
+	else {
 		document.getElementById("next").style.display = "";
 	}
 	
@@ -137,10 +108,8 @@ function showSpyList()
 
 function makeEllipsis(str, e)
 {
-	if (e)
-	{
-		if (str.length <= 40)
-		{
+	if (e) {
+		if (str.length <= 40) {
 			return str;
 		}
 		
@@ -148,8 +117,7 @@ function makeEllipsis(str, e)
 		el += "...";
 		return el;
 	}
-	else
-	{
+	else {
 		return str;
 	}
 }
@@ -165,12 +133,9 @@ function makeAnswer(q)
 	case "m-choise":
 		{
 			var opt = q.getElementsByTagName("opt");
-			for (var i = 0; i < opt.length; i++)
-			{
-				if (opt[i].getAttribute("ans") == "t")
-				{
-					if (ans.length > 0)
-					{
+			for (var i = 0; i < opt.length; i++) {
+				if (opt[i].getAttribute("ans") == "t") {
+					if (ans.length > 0) {
 						ans += "<br />";
 					}
 					ans += "(" + optIndex[i] + ")";
@@ -181,12 +146,10 @@ function makeAnswer(q)
 		break;
 		
 	case "judge":
-		if (q.getElementsByTagName("ans")[0].childNodes[0].nodeValue == "t")
-		{
+		if (q.getElementsByTagName("ans")[0].childNodes[0].nodeValue == "t") {
 			ans = "正确";
 		}
-		else
-		{
+		else {
 			ans = "错误";
 		}
 		break;
@@ -194,10 +157,8 @@ function makeAnswer(q)
 	case "blank":
 		{
 			var blk = q.getElementsByTagName("blk");
-			for (var i = 0; i < blk.length; i++)
-			{
-				if (ans.length > 0)
-				{
+			for (var i = 0; i < blk.length; i++) {
+				if (ans.length > 0) {
 					ans += "<br />";
 				}
 				ans += (i + 1) + "、";
@@ -217,20 +178,16 @@ function makeAnswer(q)
 function findString()
 {
 	var findStr = document.getElementById("find").value;
-	if (!findStr.length)
-	{
-		if (!showList.length)
-		{
+	if (!findStr.length) {
+		if (!showList.length) {
 			showSpyList();
 		}
 		return;
 	}
 	
 	showList.splice(0, showList.length);
-	for (var i = 0; i < qstnList.length; i++)
-	{
-		if (matchQstn(qstnList[i], findStr))
-		{
+	for (var i = 0; i < qstnList.length; i++) {
+		if (qstnList[i].getAttribute("type") != "group" && matchQstn(qstnList[i], findStr)) {
 			showList.push(i);
 		}
 	}
@@ -242,12 +199,11 @@ function findString()
 
 function openClose(index)
 {
-	if (index >= showList.length)
-	{
+	if (index >= showList.length) {
 		return;
 	}
 	
-	document.getElementById("h" + index).innerHTML = makeEllipsis(qstnList[showList[page * 10 + index]].getElementsByTagName("desc")[0].childNodes[0].nodeValue, openList[index]);
+	document.getElementById("h" + index).innerHTML = makeEllipsis(getQstnDesc(qstnList[showList[page * 10 + index]]), openList[index]);
 	openList[index] = !openList[index];
 }
 

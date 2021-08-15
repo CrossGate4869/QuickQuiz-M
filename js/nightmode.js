@@ -53,6 +53,7 @@ function nightMode(tip)
 	{
 		styleElem = createCSS('body,body *', setStyle(fontColor), styleElem);
 		styleElem = createCSS('hr', setHrStyle(fontColor), styleElem);
+		styleElem = createCSS('input[type = "text"], input[type = "number"], input[type = "password"]', setInputStyle(fontColor), styleElem);
 		
 		if (tip)
 		{
@@ -97,6 +98,12 @@ function setHrStyle(hrColor)
 {
 	var colorArr=[fontColor, fontColor, fontColor];
 	return 'background-color:RGB(' + colorArr.join('%,') + '%) !important;height:1px !important;border:none !important;';
+}
+
+function setInputStyle(hrColor)
+{
+	var colorArr=[fontColor, fontColor, fontColor];
+	return 'border-color:RGB(' + colorArr.join('%,') + '%) !important;';
 }
 
 function createCSS(sel, decl, elem)
